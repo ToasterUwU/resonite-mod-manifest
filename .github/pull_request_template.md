@@ -6,6 +6,6 @@
 - [ ] Your `AssemblyVersion` and `AssemblyFileVersion` match the mod version above
 - [ ] You have included an accurate `sha256` hash for each artifact
 - [ ] Do not remove old mods. Instead, use the `deprecated` flag
-- [ ] Follow the [Resonite Policies and Guidelines](https://resonite.com/policies/) and [Mod Submission Guidelines](https://github.com/ToasteUwU/resonite-mod-manifest/wiki/Submission-Guidelines)
+- [ ] Follow the [Resonite Policies and Guidelines](https://resonite.com/policies/) and [Mod Submission Guidelines](https://github.com/ToasterUwU/resonite-mod-manifest/wiki/Submission-Guidelines)
 
-If you are unsure on any of these steps, read the [Mod Submission](https://github.com/ToasteUwU/resonite-mod-manifest/wiki/Mod-Submission) page on the wiki for more information or ask in discord.
+If you are unsure on any of these steps, read the [Mod Submission](https://github.com/ToasterUwU/resonite-mod-manifest/wiki/Mod-Submission) page on the wiki for more information or ask in discord.

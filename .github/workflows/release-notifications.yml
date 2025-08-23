@@ -10,7 +10,7 @@ on:
 
 jobs:
   Release-Notifications:
-    if: github.repository == 'ToasteUwU/resonite-mod-manifest'
+    if: github.repository == 'ToasterUwU/resonite-mod-manifest'
     runs-on: ubuntu-latest
     steps:
       - name: Checkout main
