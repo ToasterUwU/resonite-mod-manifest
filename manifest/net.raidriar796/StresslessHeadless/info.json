@@ -1,44 +1,72 @@
 {
-	"name": "StresslessHeadless",
-	"id": "net.raidriar796.StresslessHeadless",
-	"description": "Disables select functionality from running on headless clients.",
-	"category": "Optimization",
-	"platforms": [
-		"headless"
-	],
-	"sourceLocation": "https://github.com/Raidriar796/StresslessHeadless",
-	"versions": {
-		"2.0.0": {
-			"releaseUrl": "https://github.com/Raidriar796/StresslessHeadless/releases/tag/2.0.0",
-			"artifacts": [{
-				"url": "https://github.com/Raidriar796/StresslessHeadless/releases/download/2.0.0/StresslessHeadless.dll",
-				"filename": "StresslessHeadless.dll",
-				"sha256": "0C9F9177A3712762D7A9194609AADF0AD5988DEB8C3705CBFDBD4406388B656A"
-			}]
-		},
-		"1.3.1": {
-			"releaseUrl": "https://github.com/Raidriar796/StresslessHeadless/releases/tag/1.3.1",
-			"artifacts": [{
-				"url": "https://github.com/Raidriar796/StresslessHeadless/releases/download/1.3.1/StresslessHeadless.dll",
-				"filename": "StresslessHeadless.dll",
-				"sha256": "B3E2DDCA4C745422B9EA43BFD2414ED9A2C1C7A7E091434E4548F17CBC1F6166"
-			}]
-		},
-		"1.2.0": {
-			"releaseUrl": "https://github.com/Raidriar796/StresslessHeadless/releases/tag/1.2.0",
-			"artifacts": [{
-				"url": "https://github.com/Raidriar796/StresslessHeadless/releases/download/1.2.0/StresslessHeadless.dll",
-				"filename": "StresslessHeadless.dll",
-				"sha256": "3A42C7169335F3F1D02EB4B352977E0082EA8A458BCBE129BC3D12A182B3EC15"
-			}]
-		},
-		"1.1.0": {
-			"releaseUrl": "https://github.com/Raidriar796/StresslessHeadless/releases/tag/1.1.0",
-			"artifacts": [{
-				"url": "https://github.com/Raidriar796/StresslessHeadless/releases/download/1.1.0/StresslessHeadless.dll",
-				"filename": "StresslessHeadless.dll",
-				"sha256": "5F8C97CD506AF6C788DF03FE2CDE174A379FEBC0570FABCA3434172A38B3988D"
-			}]
-		}
-	}
+    "name": "StresslessHeadless",
+    "id": "net.raidriar796.StresslessHeadless",
+    "description": "Disables select functionality from running on headless clients.",
+    "category": "Optimization",
+    "platforms": [
+        "headless"
+    ],
+    "sourceLocation": "https://github.com/Raidriar796/StresslessHeadless",
+    "versions": {
+        "2.0.0": {
+            "releaseUrl": "https://github.com/Raidriar796/StresslessHeadless/releases/tag/2.0.0",
+            "artifacts": [
+                {
+                    "url": "https://github.com/Raidriar796/StresslessHeadless/releases/download/2.0.0/StresslessHeadless.dll",
+                    "filename": "StresslessHeadless.dll",
+                    "sha256": "0C9F9177A3712762D7A9194609AADF0AD5988DEB8C3705CBFDBD4406388B656A"
+                }
+            ]
+        },
+        "1.3.1": {
+            "releaseUrl": "https://github.com/Raidriar796/StresslessHeadless/releases/tag/1.3.1",
+            "artifacts": [
+                {
+                    "url": "https://github.com/Raidriar796/StresslessHeadless/releases/download/1.3.1/StresslessHeadless.dll",
+                    "filename": "StresslessHeadless.dll",
+                    "sha256": "B3E2DDCA4C745422B9EA43BFD2414ED9A2C1C7A7E091434E4548F17CBC1F6166"
+                }
+            ]
+        },
+        "1.3.0": {
+            "releaseUrl": "https://github.com/Raidriar796/StresslessHeadless/releases/tag/1.3.0",
+            "artifacts": [
+                {
+                    "url": "https://github.com/Raidriar796/StresslessHeadless/releases/download/1.3.0/StresslessHeadless.dll",
+                    "sha256": "75e196b6f5ac9ce1ad2b8d3a8d4a92f993f6eda80ed461c7588786736b0c370a",
+                    "filename": "StresslessHeadless.dll"
+                }
+            ]
+        },
+        "1.2.0": {
+            "releaseUrl": "https://github.com/Raidriar796/StresslessHeadless/releases/tag/1.2.0",
+            "artifacts": [
+                {
+                    "url": "https://github.com/Raidriar796/StresslessHeadless/releases/download/1.2.0/StresslessHeadless.dll",
+                    "filename": "StresslessHeadless.dll",
+                    "sha256": "3A42C7169335F3F1D02EB4B352977E0082EA8A458BCBE129BC3D12A182B3EC15"
+                }
+            ]
+        },
+        "1.1.0": {
+            "releaseUrl": "https://github.com/Raidriar796/StresslessHeadless/releases/tag/1.1.0",
+            "artifacts": [
+                {
+                    "url": "https://github.com/Raidriar796/StresslessHeadless/releases/download/1.1.0/StresslessHeadless.dll",
+                    "filename": "StresslessHeadless.dll",
+                    "sha256": "5F8C97CD506AF6C788DF03FE2CDE174A379FEBC0570FABCA3434172A38B3988D"
+                }
+            ]
+        },
+        "1.0.0": {
+            "releaseUrl": "https://github.com/Raidriar796/StresslessHeadless/releases/tag/1.0.0",
+            "artifacts": [
+                {
+                    "url": "https://github.com/Raidriar796/StresslessHeadless/releases/download/1.0.0/StresslessHeadless.dll",
+                    "sha256": "6c86e6364ed603216c4ab842b399b4446a2a1ec3f5017e699124e3706fbd94dc",
+                    "filename": "StresslessHeadless.dll"
+                }
+            ]
+        }
+    }
 }

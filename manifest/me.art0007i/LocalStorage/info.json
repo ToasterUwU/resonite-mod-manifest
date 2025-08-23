@@ -5,15 +5,26 @@
     "category": "Misc",
     "sourceLocation": "https://github.com/art0007i/LocalStorage",
     "versions": {
-        "2.0.1": {
-            "releaseUrl": "https://github.com/art0007i/LocalStorage/releases/tag/2.0.1",
+        "2.0.4": {
+            "releaseUrl": "https://github.com/art0007i/LocalStorage/releases/tag/2.0.4",
             "artifacts": [
                 {
-                    "url": "https://github.com/art0007i/LocalStorage/releases/download/2.0.1/LocalStorage.dll",
-                    "filename": "LocalStorage.dll",
-                    "sha256": "c3cbd76e44ba9d45e5d8979ebe0caffe1cbdc14c6ddc43f722d59f5988c809ed"
+                    "url": "https://github.com/art0007i/LocalStorage/releases/download/2.0.4/LocalStorage.dll",
+                    "sha256": "50aa009b2e86b09db406cb4c5dc25b46775cd31806dd342d89b4e255fcbb4553",
+                    "filename": "LocalStorage.dll"
                 }
             ]
+        },
+        "2.0.3": {
+            "releaseUrl": "https://github.com/art0007i/LocalStorage/releases/tag/2.0.3",
+            "artifacts": [
+                {
+                    "url": "https://github.com/art0007i/LocalStorage/releases/download/2.0.3/LocalStorage.dll",
+                    "filename": "LocalStorage.dll",
+                    "sha256": "1389ebb1daaf4d8ddede64eaf611505199d2118087282098485ff5788e2a3c33"
+                }
+            ],
+            "changelog": "Fix reference to SkyFrost"
         },
         "2.0.2": {
             "releaseUrl": "https://github.com/art0007i/LocalStorage/releases/tag/2.0.2",
@@ -26,16 +37,45 @@
             ],
             "changelog": "Remove calls to UniLog.Log"
         },
-        "2.0.3": {
-            "releaseUrl": "https://github.com/art0007i/LocalStorage/releases/tag/2.0.3",
+        "2.0.1": {
+            "releaseUrl": "https://github.com/art0007i/LocalStorage/releases/tag/2.0.1",
             "artifacts": [
                 {
-                    "url": "https://github.com/art0007i/LocalStorage/releases/download/2.0.3/LocalStorage.dll",
+                    "url": "https://github.com/art0007i/LocalStorage/releases/download/2.0.1/LocalStorage.dll",
                     "filename": "LocalStorage.dll",
-                    "sha256": "1389ebb1daaf4d8ddede64eaf611505199d2118087282098485ff5788e2a3c33"
+                    "sha256": "c3cbd76e44ba9d45e5d8979ebe0caffe1cbdc14c6ddc43f722d59f5988c809ed"
                 }
-            ],
-            "changelog": "Fix reference to SkyFrost"
+            ]
+        },
+        "2.0.0": {
+            "releaseUrl": "https://github.com/art0007i/LocalStorage/releases/tag/2.0.0",
+            "artifacts": [
+                {
+                    "url": "https://github.com/art0007i/LocalStorage/releases/download/2.0.0/LocalStorage.dll",
+                    "sha256": "66f419796de67cc904a56a75cb624f716449192fa7b9dd0579c4247f5e8d4bb0",
+                    "filename": "LocalStorage.dll"
+                }
+            ]
+        },
+        "1.1.1": {
+            "releaseUrl": "https://github.com/art0007i/LocalStorage/releases/tag/1.1.1",
+            "artifacts": [
+                {
+                    "url": "https://github.com/art0007i/LocalStorage/releases/download/1.1.1/LocalStorage.dll",
+                    "sha256": "edfb6348b9610a887110ee8478d5c281b47ac9aa022577c560d7118774790622",
+                    "filename": "LocalStorage.dll"
+                }
+            ]
+        },
+        "1.1.0": {
+            "releaseUrl": "https://github.com/art0007i/LocalStorage/releases/tag/1.1.0",
+            "artifacts": [
+                {
+                    "url": "https://github.com/art0007i/LocalStorage/releases/download/1.1.0/LocalStorage.dll",
+                    "sha256": "89f5db9c72610d84625df9ffc03ea837a6b3a6ee37855d205b253123215df75c",
+                    "filename": "LocalStorage.dll"
+                }
+            ]
         }
     }
 }

@@ -1,18 +1,27 @@
 {
-	"name": "ScalableMaterialOrbs",
-	"id": "co.uk.AlexW-578.ScalableMaterialOrbs",
-	"description": "Allows you to scale material orbs by default.",
-	"category": "Misc",
-	"sourceLocation": "https://github.com/AlexW-578/ScalableMaterialOrbs",
-	"versions": {
-		"2.0.0": {
-			"releaseUrl": "https://github.com/AlexW-578/ScalableMaterialOrbs/releases/tag/v2.0.0",
-			"artifacts": [
-				{
-					"url": "https://github.com/AlexW-578/ScalableMaterialOrbs/releases/download/v2.0.0/ScalableMaterialOrbs.dll",
-					"sha256": "078FBA5D661C34CF0723798E2C70301854BC1A7B507E70F2C1BAA7D02DB298AA"
-				}
-			]
-		}
-	}
+    "name": "ScalableMaterialOrbs",
+    "id": "co.uk.AlexW-578.ScalableMaterialOrbs",
+    "description": "Allows you to scale material orbs by default.",
+    "category": "Misc",
+    "sourceLocation": "https://github.com/AlexW-578/ScalableMaterialOrbs",
+    "versions": {
+        "2.0.0": {
+            "releaseUrl": "https://github.com/AlexW-578/ScalableMaterialOrbs/releases/tag/v2.0.0",
+            "artifacts": [
+                {
+                    "url": "https://github.com/AlexW-578/ScalableMaterialOrbs/releases/download/v2.0.0/ScalableMaterialOrbs.dll",
+                    "sha256": "078FBA5D661C34CF0723798E2C70301854BC1A7B507E70F2C1BAA7D02DB298AA"
+                }
+            ]
+        },
+        "1.0.0": {
+            "releaseUrl": "https://github.com/AlexW-578/ScalableMaterialOrbs/releases/tag/v1.0.0",
+            "artifacts": [
+                {
+                    "url": "https://github.com/AlexW-578/ScalableMaterialOrbs/releases/download/v1.0.0/ScalableMaterialOrbs.dll",
+                    "sha256": "e5a30bc9e0cfa9c1254876aa18fa866007c3fffeb5ab080a6f1fe5e59504b4fc"
+                }
+            ]
+        }
+    }
 }

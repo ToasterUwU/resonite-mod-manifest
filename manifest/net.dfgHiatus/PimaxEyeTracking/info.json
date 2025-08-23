@@ -1,23 +1,67 @@
 {
-	"name": "PimaxEyeTracking",
-	"id": "net.dfg.PimaxEyeTracking",
-	"description": "Integrates the Droolon Pi1 eye-tracking module. Tracks Gaze, Eye Widen, and Eye Openness both combined and per-eye.",
-	"category": "Hardware Integration",
-	"sourceLocation": "https://github.com/dfgHiatus/ResonitePimaxEyeTracking",
-	"versions": {
-		"2.0.0": {
-			"releaseUrl": "https://github.com/dfgHiatus/ResonitePimaxEyeTracking/releases/tag/v2.0.0",
-			"artifacts": [
-				{
-					"url": "https://github.com/dfgHiatus/ResonitePimaxEyeTracking/releases/download/v2.0.0/PimaxEyeTracking-Resonite.dll",
-					"sha256": "b37fb3a29c75907f1dc412908395e74cf35e90ad58657e81a59479aba4fa0c22"
-				},
-				{
-					"url": "https://github.com/dfgHiatus/ResonitePimaxEyeTracking/releases/download/v2.0.0/PimaxEyeTracker.dll",
-					"sha256": "a1a8e6da3c9c728d04df70c3733487ac466210778f51a1d5c4ed60ccba5c4759",
-					"installLocation": "/"
-				}
-			]
-		}
-	}
+    "name": "PimaxEyeTracking",
+    "id": "net.dfg.PimaxEyeTracking",
+    "description": "Integrates the Droolon Pi1 eye-tracking module. Tracks Gaze, Eye Widen, and Eye Openness both combined and per-eye.",
+    "category": "Hardware Integration",
+    "sourceLocation": "https://github.com/dfgHiatus/ResonitePimaxEyeTracking",
+    "versions": {
+        "2.0.0": {
+            "releaseUrl": "https://github.com/dfgHiatus/ResonitePimaxEyeTracking/releases/tag/v2.0.0",
+            "artifacts": [
+                {
+                    "url": "https://github.com/dfgHiatus/ResonitePimaxEyeTracking/releases/download/v2.0.0/PimaxEyeTracking-Resonite.dll",
+                    "sha256": "b37fb3a29c75907f1dc412908395e74cf35e90ad58657e81a59479aba4fa0c22"
+                },
+                {
+                    "url": "https://github.com/dfgHiatus/ResonitePimaxEyeTracking/releases/download/v2.0.0/PimaxEyeTracker.dll",
+                    "sha256": "a1a8e6da3c9c728d04df70c3733487ac466210778f51a1d5c4ed60ccba5c4759",
+                    "installLocation": "/"
+                }
+            ]
+        },
+        "1.1.1": {
+            "releaseUrl": "https://github.com/dfgHiatus/ResonitePimaxEyeTracking/releases/tag/v1.1.1",
+            "artifacts": [
+                {
+                    "url": "https://github.com/dfgHiatus/ResonitePimaxEyeTracking/releases/download/v1.1.1/PimaxEyeTracker.dll",
+                    "sha256": "a1a8e6da3c9c728d04df70c3733487ac466210778f51a1d5c4ed60ccba5c4759",
+                    "installLocation": "/"
+                },
+                {
+                    "url": "https://github.com/dfgHiatus/ResonitePimaxEyeTracking/releases/download/v1.1.1/PimaxEyeTracking-NeosVR.dll",
+                    "sha256": "f38f9af35ba80afb481c2fd174031460cf4e88e5ccb4dbeb37fc126939d7da7c"
+                }
+            ]
+        },
+        "1.0.2": {
+            "releaseUrl": "https://github.com/dfgHiatus/ResonitePimaxEyeTracking/releases/tag/v1.0.2",
+            "artifacts": [
+                {
+                    "url": "https://github.com/dfgHiatus/ResonitePimaxEyeTracking/releases/download/v1.0.2/NeosPimaxIntegration.dll",
+                    "sha256": "77d8596feb9ea08d4e0d5901f2c865bd11dcdddf0937c64b4b4bc1bbb1cc199d",
+                    "installLocation": "/rml_libs"
+                }
+            ]
+        },
+        "1.0.1": {
+            "releaseUrl": "https://github.com/dfgHiatus/ResonitePimaxEyeTracking/releases/tag/v1.0.1",
+            "artifacts": [
+                {
+                    "url": "https://github.com/dfgHiatus/ResonitePimaxEyeTracking/releases/download/v1.0.1/NeosPimaxIntegration.dll",
+                    "sha256": "f685265a68003ccf3603eb83f51ba3aa7f793046ce29faca446f4368058d92fc",
+                    "installLocation": "/rml_libs"
+                }
+            ]
+        },
+        "1.0.0": {
+            "releaseUrl": "https://github.com/dfgHiatus/ResonitePimaxEyeTracking/releases/tag/v1.0.0b",
+            "artifacts": [
+                {
+                    "url": "https://github.com/dfgHiatus/ResonitePimaxEyeTracking/releases/download/v1.0.0b/NeosPimaxIntegration.dll",
+                    "sha256": "2aa71ce8d4e7367b2e7daa5bdf8e56d995cd36fb4b647a8bd5e5f2d7b3437554",
+                    "installLocation": "/rml_libs"
+                }
+            ]
+        }
+    }
 }

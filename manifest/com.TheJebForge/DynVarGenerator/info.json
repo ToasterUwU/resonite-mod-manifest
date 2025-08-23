@@ -1,16 +1,108 @@
 {
-	"name": "DynVarGenerator",
-	"id": "com.TheJebForge.DynVarGenerator",
-	"description": "Adds a wizard to quickly generate huge amounts of dynamic fields/variables/drivers for slots, blend shapes, bones or anything else",
-	"category": "Wizards",
-	"sourceLocation": "https://github.com/TheJebForge/DynVarGenerator",
-	"versions": {
-		"1.3.4": {
-			"releaseUrl": "https://github.com/TheJebForge/DynVarGenerator/releases/tag/1.3.4",
-			"artifacts": [{
-				"url": "https://github.com/TheJebForge/DynVarGenerator/releases/download/1.3.4/DynVarGenerator.dll",
-				"sha256": "837b436da5f72fe493fbd4ac12febbdc4ef1c0290315afca517e841efb7b8317"
-			}]
-		}
-	}
+    "name": "DynVarGenerator",
+    "id": "com.TheJebForge.DynVarGenerator",
+    "description": "Adds a wizard to quickly generate huge amounts of dynamic fields/variables/drivers for slots, blend shapes, bones or anything else",
+    "category": "Wizards",
+    "sourceLocation": "https://github.com/TheJebForge/DynVarGenerator",
+    "versions": {
+        "1.3.4": {
+            "releaseUrl": "https://github.com/TheJebForge/DynVarGenerator/releases/tag/1.3.4",
+            "artifacts": [
+                {
+                    "url": "https://github.com/TheJebForge/DynVarGenerator/releases/download/1.3.4/DynVarGenerator.dll",
+                    "sha256": "837b436da5f72fe493fbd4ac12febbdc4ef1c0290315afca517e841efb7b8317"
+                }
+            ]
+        },
+        "1.3.3": {
+            "releaseUrl": "https://github.com/TheJebForge/DynVarGenerator/releases/tag/1.3.3",
+            "artifacts": [
+                {
+                    "url": "https://github.com/TheJebForge/DynVarGenerator/releases/download/1.3.3/DynVarGenerator.dll",
+                    "sha256": "a5fff9d0f3aa21dd4c1f600aa00f1652dda7bccb4599fe545a1973ab8b5d29e9"
+                }
+            ]
+        },
+        "1.3.2": {
+            "releaseUrl": "https://github.com/TheJebForge/DynVarGenerator/releases/tag/1.3.2",
+            "artifacts": [
+                {
+                    "url": "https://github.com/TheJebForge/DynVarGenerator/releases/download/1.3.2/DynVarGenerator.dll",
+                    "sha256": "1997299f08a952d354e49ca2c1481a025c6709ce7864375be1f4d3e95b116f21"
+                }
+            ]
+        },
+        "1.3.1": {
+            "releaseUrl": "https://github.com/TheJebForge/DynVarGenerator/releases/tag/1.3.1",
+            "artifacts": [
+                {
+                    "url": "https://github.com/TheJebForge/DynVarGenerator/releases/download/1.3.1/DynVarGenerator.dll",
+                    "sha256": "8d7cecafea30d7879eb77467b83704cce3f3a09410668bff2432d03508703f76"
+                }
+            ]
+        },
+        "1.3.0": {
+            "releaseUrl": "https://github.com/TheJebForge/DynVarGenerator/releases/tag/1.3.0",
+            "artifacts": [
+                {
+                    "url": "https://github.com/TheJebForge/DynVarGenerator/releases/download/1.3.0/DynVarGenerator.dll",
+                    "sha256": "aff8b36d2a365ff7140977e3aaf15b42e4ee517e9ab4c37ceec86c91a5ee6220"
+                }
+            ]
+        },
+        "1.2.3": {
+            "releaseUrl": "https://github.com/TheJebForge/DynVarGenerator/releases/tag/1.2.3",
+            "artifacts": [
+                {
+                    "url": "https://github.com/TheJebForge/DynVarGenerator/releases/download/1.2.3/DynVarGenerator.dll",
+                    "sha256": "8d7d3a6ccf40f4a7372faebb80f6dbcc6871544148f6738792f8048f1393d0fa"
+                }
+            ]
+        },
+        "1.2.2": {
+            "releaseUrl": "https://github.com/TheJebForge/DynVarGenerator/releases/tag/1.2.2",
+            "artifacts": [
+                {
+                    "url": "https://github.com/TheJebForge/DynVarGenerator/releases/download/1.2.2/DynVarGenerator.dll",
+                    "sha256": "fe057ac5338b64de34c106c78e4e4728296089229f6332ed2447987f5c212129"
+                }
+            ]
+        },
+        "1.2.1": {
+            "releaseUrl": "https://github.com/TheJebForge/DynVarGenerator/releases/tag/1.2.1",
+            "artifacts": [
+                {
+                    "url": "https://github.com/TheJebForge/DynVarGenerator/releases/download/1.2.1/DynVarGenerator.dll",
+                    "sha256": "d688ed348a10c811d2c88083927acc8f2dd75a5bca6b0203e19110e7fe48cbec"
+                }
+            ]
+        },
+        "1.2.0": {
+            "releaseUrl": "https://github.com/TheJebForge/DynVarGenerator/releases/tag/1.2.0",
+            "artifacts": [
+                {
+                    "url": "https://github.com/TheJebForge/DynVarGenerator/releases/download/1.2.0/DynVarGenerator.dll",
+                    "sha256": "ac937921891aae188f00c68981551073ad217c1b5332a0dc0796b17e8bd7f224"
+                }
+            ]
+        },
+        "1.1.0": {
+            "releaseUrl": "https://github.com/TheJebForge/DynVarGenerator/releases/tag/1.1.0",
+            "artifacts": [
+                {
+                    "url": "https://github.com/TheJebForge/DynVarGenerator/releases/download/1.1.0/DynVarGenerator.dll",
+                    "sha256": "534f09d41a876c760c18e7866846e989860247f19e422e8b2c0066e4faeb0f61"
+                }
+            ]
+        },
+        "1.0.0": {
+            "releaseUrl": "https://github.com/TheJebForge/DynVarGenerator/releases/tag/1.0.0",
+            "artifacts": [
+                {
+                    "url": "https://github.com/TheJebForge/DynVarGenerator/releases/download/1.0.0/DynVarGenerator.dll",
+                    "sha256": "ff05ebb692630c755585f8a96e9db5de5688df8d76e554f867a28e2d9577a944"
+                }
+            ]
+        }
+    }
 }
