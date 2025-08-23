@@ -41,7 +41,8 @@ jobs:
           git config user.name "GitHub Actions"
           git config user.email "<>"
           git add manifest.json
-          git commit -m "Update manifest.json"
+          git add manifest
+          git commit -m "Update manifest"
           git push
         else
           echo "No changes to commit"
