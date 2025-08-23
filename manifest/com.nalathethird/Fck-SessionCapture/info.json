@@ -1,19 +1,39 @@
 {
-	"name": "Fck-SessionCapture",
-	"id": "com.nalathethird.Fck-SessionCapture",
-	"description": "FckSessionCapture allows you to block the automatic upload and/or local generation of session thumbnails ('session captures') in Resonite. This helps protect your privacy by preventing images of your session from being uploaded to the internet or even stored locally, depending on your configuration.",
-	"category": "Technical Tweaks",
-	"sourceLocation": "https://github.com/nalathethird/Fck-SessionCapture",
-	"versions": {
-		"1.0.2": {
-			"releaseUrl": "https://github.com/nalathethird/Fck-SessionCapture/releases/tag/1.0.2",
-			"artifacts": [
-				{
-					"url": "https://github.com/nalathethird/Fck-SessionCapture/releases/download/1.0.2/FckSessionCapture.dll",
-					"filename": "FckSessionCapture.dll",
-					"sha256": "fbf8c3f33f6974c5fb09cc5b391023f1502e8d0befbf8d68a548fd813389dc71"
-				}
-			]
-		}
-	}
+    "name": "Fck-SessionCapture",
+    "id": "com.nalathethird.Fck-SessionCapture",
+    "description": "FckSessionCapture allows you to block the automatic upload and/or local generation of session thumbnails ('session captures') in Resonite. This helps protect your privacy by preventing images of your session from being uploaded to the internet or even stored locally, depending on your configuration.",
+    "category": "Technical Tweaks",
+    "sourceLocation": "https://github.com/nalathethird/Fck-SessionCapture",
+    "versions": {
+        "1.0.2": {
+            "releaseUrl": "https://github.com/nalathethird/Fck-SessionCapture/releases/tag/1.0.2",
+            "artifacts": [
+                {
+                    "url": "https://github.com/nalathethird/Fck-SessionCapture/releases/download/1.0.2/FckSessionCapture.dll",
+                    "filename": "FckSessionCapture.dll",
+                    "sha256": "fbf8c3f33f6974c5fb09cc5b391023f1502e8d0befbf8d68a548fd813389dc71"
+                }
+            ]
+        },
+        "1.0.1": {
+            "releaseUrl": "https://github.com/nalathethird/Fck-SessionCapture/releases/tag/1.0.1",
+            "artifacts": [
+                {
+                    "url": "https://github.com/nalathethird/Fck-SessionCapture/releases/download/1.0.1/FckSessionCapture.dll",
+                    "sha256": "f2142e65272871db50bbe4e10202d1f9e2bf1af1a4dd9ddc790c67b69d03d4c8",
+                    "filename": "FckSessionCapture.dll"
+                }
+            ]
+        },
+        "1.0.0": {
+            "releaseUrl": "https://github.com/nalathethird/Fck-SessionCapture/releases/tag/1.0.0",
+            "artifacts": [
+                {
+                    "url": "https://github.com/nalathethird/Fck-SessionCapture/releases/download/1.0.0/FckSessionCapture.dll",
+                    "sha256": "cffeab5a1fdcd933f2e5cddd687ce77a256c0bd7e4021305b8b065817e70c597",
+                    "filename": "FckSessionCapture.dll"
+                }
+            ]
+        }
+    }
 }
