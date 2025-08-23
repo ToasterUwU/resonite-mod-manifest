@@ -30,10 +30,10 @@ jobs:
       run: pip install -r requirements.txt
 
     - name: Run update_manifest_parts.py
-      run: python update_manifest_parts.py
+      run: python -u update_manifest_parts.py
 
     - name: Run generate_manifest.py
-      run: python generate_manifest.py
+      run: python -u generate_manifest.py
 
     - name: Check for changes and push
       run: |
