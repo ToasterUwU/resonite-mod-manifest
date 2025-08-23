@@ -7,6 +7,8 @@ on:
       - 'manifest/**'
     branches:
       - main
+  schedule:
+    - cron: '0 */4 * * *'
 
 jobs:
   build:
@@ -23,6 +25,9 @@ jobs:
       uses: actions/setup-python@v5
       with:
         python-version: "3.13"
+
+    - name: Run update_manifest_parts.py
+      run: python update_manifest_parts.py
 
     - name: Run generate_manifest.py
       run: python generate_manifest.py
