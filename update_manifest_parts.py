@@ -112,8 +112,9 @@ def check_for_updates(info: dict):
         for asset in asset_list:
             asset_url = asset.get("browser_download_url")
             asset_name = asset.get("name", "")
-            if has_dll and asset_name.lower().endswith(archive_exts):
-                continue  # If DLL present, skip archive files
+            # Ignore archive files entirely
+            if asset_name.lower().endswith(archive_exts):
+                continue
 
             try:
                 asset_resp = github_request_with_retry(asset_url, headers=headers)
