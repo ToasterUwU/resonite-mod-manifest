@@ -96,7 +96,6 @@ def check_for_updates(info: dict):
 
         artifacts = []  # List to store artifact info
         asset_list = list(release.get("assets", []))  # Get asset list
-        has_dll = any(a.get("name", "").lower().endswith(".dll") for a in asset_list)  # Check for DLL presence
         archive_exts = (".zip", ".tar.gz", ".tar", ".7z", ".rar")  # Archive extensions
 
         previous_versions = [v for v in info["versions"].keys()]  # Get previous version tags
