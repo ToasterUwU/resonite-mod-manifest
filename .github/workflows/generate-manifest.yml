@@ -31,6 +31,8 @@ jobs:
 
     - name: Run update_manifest_parts.py
       run: python -u update_manifest_parts.py
+      env:
+        GH_TOKEN: ${{ secrets.GH_TOKEN }}
 
     - name: Run generate_manifest.py
       run: python -u generate_manifest.py
