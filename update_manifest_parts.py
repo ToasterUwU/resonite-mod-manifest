@@ -24,6 +24,18 @@ def get_github_headers():
     return headers
 
 
+def github_request_with_retry(url, headers=None):
+    while True:
+        response = requests.get(url, headers=headers)
+        if response.status_code == 403 and 'X-RateLimit-Remaining' in response.headers and response.headers.get('X-RateLimit-Remaining') == '0':
+            reset = int(response.headers.get('X-RateLimit-Reset', '0'))
+            wait_time = max(0, reset - int(time.time()))
+            print(f"GitHub API rate limit reached. Sleeping for {wait_time} seconds...")
+            time.sleep(wait_time + 1)
+            continue
+        return response
+
+
 def check_for_updates(info: dict):
     if not info["sourceLocation"].startswith("https://github.com/"):
         print(f"Skipping non-github mod: {info['name']}")  # Skipping non-github mod
@@ -37,7 +49,7 @@ def check_for_updates(info: dict):
 
     headers = get_github_headers()
     try:
-        response = requests.get(api_url, headers=headers)
+        response = github_request_with_retry(api_url, headers=headers)
         check_github_rate_limit(response)
         response.raise_for_status()
         releases = response.json()
@@ -104,7 +116,7 @@ def check_for_updates(info: dict):
                 continue  # If DLL present, skip archive files
 
             try:
-                asset_resp = requests.get(asset_url, headers=headers)
+                asset_resp = github_request_with_retry(asset_url, headers=headers)
                 check_github_rate_limit(asset_resp)
                 asset_resp.raise_for_status()
                 sha256 = hashlib.sha256(asset_resp.content).hexdigest()
