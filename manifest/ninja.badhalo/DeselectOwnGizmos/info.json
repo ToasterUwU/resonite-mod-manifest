@@ -1,45 +1,16 @@
 {
-    "name": "DeselectOwnGizmos",
-    "id": "ninja.badhalo.DeselectOwnGizmos",
-    "description": "Adds the ability to deselect the user's own gizmos",
-    "category": "Context Menu",
-    "sourceLocation": "https://github.com/badhaloninja/DeselectOwnGizmos",
-    "versions": {
-        "2.0.1": {
-            "releaseUrl": "https://github.com/badhaloninja/DeselectOwnGizmos/releases/tag/v2.0.1",
-            "artifacts": [
-                {
-                    "url": "https://github.com/badhaloninja/DeselectOwnGizmos/releases/download/v2.0.1/DeselectOwnGizmos.dll",
-                    "sha256": "82697257345def0fcc6fbdcac3b5013f0e708f8cebe64a643b7bfad7220cfa16"
-                }
-            ]
-        },
-        "2.0.0": {
-            "releaseUrl": "https://github.com/badhaloninja/DeselectOwnGizmos/releases/tag/v2.0.0",
-            "artifacts": [
-                {
-                    "url": "https://github.com/badhaloninja/DeselectOwnGizmos/releases/download/v2.0.0/DeselectOwnGizmos.dll",
-                    "sha256": "ee5b148564e825266b89df61095ce973cd7e1108ab9e444f501448780e3a55a0"
-                }
-            ]
-        },
-        "1.1.0": {
-            "releaseUrl": "https://github.com/badhaloninja/DeselectOwnGizmos/releases/tag/v1.1.0",
-            "artifacts": [
-                {
-                    "url": "https://github.com/badhaloninja/DeselectOwnGizmos/releases/download/v1.1.0/DeselectOwnGizmos.dll",
-                    "sha256": "b58500c92be0401df3c406a88663ba0333581ffa009890dfbca550558e2bf43b"
-                }
-            ]
-        },
-        "1.0.0": {
-            "releaseUrl": "https://github.com/badhaloninja/DeselectOwnGizmos/releases/tag/v1.0.0",
-            "artifacts": [
-                {
-                    "url": "https://github.com/badhaloninja/DeselectOwnGizmos/releases/download/v1.0.0/DeselectOwnGizmos.dll",
-                    "sha256": "00017e06bc2231f1cc1e3d10ef5b8c8ee27705a22fee5f101a7c1fc22b5cc78c"
-                }
-            ]
-        }
-    }
+	"name": "DeselectOwnGizmos",
+	"id": "ninja.badhalo.DeselectOwnGizmos",
+	"description": "Adds the ability to deselect the user's own gizmos",
+	"category": "Context Menu",
+	"sourceLocation": "https://github.com/badhaloninja/DeselectOwnGizmos",
+	"versions": {
+		"2.0.1": {
+			"releaseUrl": "https://github.com/badhaloninja/DeselectOwnGizmos/releases/tag/v2.0.1",
+			"artifacts": [{
+				"url": "https://github.com/badhaloninja/DeselectOwnGizmos/releases/download/v2.0.1/DeselectOwnGizmos.dll",
+				"sha256": "82697257345def0fcc6fbdcac3b5013f0e708f8cebe64a643b7bfad7220cfa16"
+			}]
+		}
+	}
 }

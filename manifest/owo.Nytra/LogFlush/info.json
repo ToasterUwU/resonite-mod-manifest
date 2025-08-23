@@ -1,36 +1,23 @@
 {
-    "name": "LogFlush",
-    "id": "owo.Nytra.LogFlush",
-    "description": "A mod primarily for developers that flushes the log stream when you press the F1 key, causing all buffered messages to be written to the log file.",
-    "category": "Technical Tweaks",
-    "sourceLocation": "https://github.com/Nytra/ResoniteLogFlush",
-    "versions": {
-        "1.1.1": {
-            "releaseUrl": "https://github.com/Nytra/ResoniteLogFlush/releases/tag/v1.1.1",
-            "artifacts": [
-                {
-                    "url": "https://github.com/Nytra/ResoniteLogFlush/releases/download/v1.1.1/LogFlush.dll",
-                    "sha256": "02918b19775a27d04cedbf9f4b894770086c1c86bbd3b932eb3c0830b8ba563b"
-                }
-            ]
-        },
-        "1.1.0": {
-            "releaseUrl": "https://github.com/Nytra/ResoniteLogFlush/releases/tag/v1.1.0",
-            "artifacts": [
-                {
-                    "url": "https://github.com/Nytra/ResoniteLogFlush/releases/download/v1.1.0/LogFlush.dll",
-                    "sha256": "4fb820f1d28b1f1b329519e51ed4be5438655d1cc05bcdd655e75607fc46ba79"
-                }
-            ]
-        },
-        "1.0.0": {
-            "releaseUrl": "https://github.com/Nytra/ResoniteLogFlush/releases/tag/v1.0.0",
-            "artifacts": [
-                {
-                    "url": "https://github.com/Nytra/ResoniteLogFlush/releases/download/v1.0.0/LogFlush.dll",
-                    "sha256": "58be3cbf95536c92bfbe4c653ec82a7aa2ae76b3744f064b0c822b5470497caa"
-                }
-            ]
-        }
-    }
+	"name": "LogFlush",
+	"id": "owo.Nytra.LogFlush",
+	"description": "A mod primarily for developers that flushes the log stream when you press the F1 key, causing all buffered messages to be written to the log file.",
+	"category": "Technical Tweaks",
+	"sourceLocation": "https://github.com/Nytra/ResoniteLogFlush",
+	"versions": {
+		"1.1.0": {
+			"releaseUrl": "https://github.com/Nytra/ResoniteLogFlush/releases/tag/v1.1.0",
+			"artifacts": [{
+				"url": "https://github.com/Nytra/ResoniteLogFlush/releases/download/v1.1.0/LogFlush.dll",
+				"sha256": "4fb820f1d28b1f1b329519e51ed4be5438655d1cc05bcdd655e75607fc46ba79"
+			}]
+		},
+		"1.1.1": {
+			"releaseUrl": "https://github.com/Nytra/ResoniteLogFlush/releases/tag/v1.1.1",
+			"artifacts": [{
+				"url": "https://github.com/Nytra/ResoniteLogFlush/releases/download/v1.1.1/LogFlush.dll",
+				"sha256": "02918b19775a27d04cedbf9f4b894770086c1c86bbd3b932eb3c0830b8ba563b"
+			}]
+		}
+	}
 }

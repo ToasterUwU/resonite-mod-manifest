@@ -14,26 +14,6 @@
                     "sha256": "2241fe6619880543be78d71894378250eba9b5a60147c9a95799869bbe7a129e"
                 }
             ]
-        },
-        "1.1.0": {
-            "releaseUrl": "https://github.com/art0007i/ParentalIssues/releases/tag/1.1.0",
-            "artifacts": [
-                {
-                    "url": "https://github.com/art0007i/ParentalIssues/releases/download/1.1.0/ParentalIssues.dll",
-                    "sha256": "8b1d61c5a054c8ce35f1911cbb68eba122f757305545ccecca11f4c6de754629",
-                    "filename": "ParentalIssues.dll"
-                }
-            ]
-        },
-        "1.0.0": {
-            "releaseUrl": "https://github.com/art0007i/ParentalIssues/releases/tag/1.0.0",
-            "artifacts": [
-                {
-                    "url": "https://github.com/art0007i/ParentalIssues/releases/download/1.0.0/ParentalIssues.dll",
-                    "sha256": "87d258a93bd0074ffaea7b43e0fcfdd75bd78c9414c3cc027bcee41d2d67fff2",
-                    "filename": "ParentalIssues.dll"
-                }
-            ]
         }
     }
 }

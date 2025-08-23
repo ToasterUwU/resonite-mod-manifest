@@ -14,16 +14,6 @@
                     "sha256": "ec717dbcc891922e517f2b879c4600605a8207d403b1bde82dcec5c3470717e6"
                 }
             ]
-        },
-        "1.1.0": {
-            "releaseUrl": "https://github.com/art0007i/CapturePrivateUI/releases/tag/1.1.0",
-            "artifacts": [
-                {
-                    "url": "https://github.com/art0007i/CapturePrivateUI/releases/download/1.1.0/CapturePrivateUI.dll",
-                    "sha256": "ad870e72ed7ec7a47272c22576341f0fd6d220855af56a8bdd3bcd379fea842c",
-                    "filename": "CapturePrivateUI.dll"
-                }
-            ]
         }
     }
 }

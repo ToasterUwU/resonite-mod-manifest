@@ -1,158 +1,29 @@
 {
-    "name": "QuestPro4Resonite",
-    "id": "com.Sinduy.QuestPro4Resonite",
-    "description": "With Quest Pro, you can eye tracking and facial tracking whih ALXR also You need read the instruction in the github page to install the mod.",
-    "category": "Hardware Integration",
-    "sourceLocation": "https://github.com/sjsanjsrh/QuestPro4Resonite",
-    "flags": [
-        "deprecated"
-    ],
-    "additionalAuthors": [
-        "dfgHiatus",
-        "Geenz",
-        "Scar Vorrix",
-        "Dante Tucker"
-    ],
-    "versions": {
-        "2.1.4": {
-            "releaseUrl": "https://github.com/sjsanjsrh/QuestPro4Resonite/releases/tag/2.1.4",
-            "dependencies": {
-                "com.Sinduy.libalxr-sharp": {
-                    "version": "^1.2.0"
-                }
-            },
-            "artifacts": [
-                {
-                    "url": "https://github.com/sjsanjsrh/QuestPro4Resonite/releases/download/2.1.4/QuestProModule.dll",
-                    "filename": "QuestProModule.dll",
-                    "sha256": "f802d5915c532dd9355440407dee212c46e41131c64d906800d0b133e1c08e45"
-                }
-            ]
-        },
-        "2.1.3": {
-            "releaseUrl": "https://github.com/sjsanjsrh/QuestPro4Resonite/releases/tag/2.1.3",
-            "artifacts": [
-                {
-                    "url": "https://github.com/sjsanjsrh/QuestPro4Resonite/releases/download/2.1.3/libalxr-sharp.dll",
-                    "sha256": "4ead590f291b6fb3b786626c6a57bcbb036e23c5fe633d0316b31b3b45f55669",
-                    "installLocation": "/rml_libs"
-                },
-                {
-                    "url": "https://github.com/sjsanjsrh/QuestPro4Resonite/releases/download/2.1.3/QuestProModule.dll",
-                    "sha256": "2aeb4a73edc40fb00f627e3350fe15e2dec172ab0f89b7f59a52d17de3f1de3e",
-                    "filename": "QuestProModule.dll"
-                }
-            ]
-        },
-        "2.1.2": {
-            "releaseUrl": "https://github.com/sjsanjsrh/QuestPro4Resonite/releases/tag/2.1.2",
-            "artifacts": [
-                {
-                    "url": "https://github.com/sjsanjsrh/QuestPro4Resonite/releases/download/2.1.2/libalxr-sharp.dll",
-                    "sha256": "ca00400416983bcbab05e510d98ed9e45d8851cb8f1e7e254bb66abeee4d72d8",
-                    "installLocation": "/rml_libs"
-                },
-                {
-                    "url": "https://github.com/sjsanjsrh/QuestPro4Resonite/releases/download/2.1.2/QuestProModule.dll",
-                    "sha256": "912d7ac5e44400b3d1ef65f39c6c5d4bd2a1b28cc9a6fb18a225a51746341e0b",
-                    "filename": "QuestProModule.dll"
-                }
-            ]
-        },
-        "2.1.0": {
-            "releaseUrl": "https://github.com/sjsanjsrh/QuestPro4Resonite/releases/tag/2.1.0",
-            "artifacts": [
-                {
-                    "url": "https://github.com/sjsanjsrh/QuestPro4Resonite/releases/download/2.1.0/libalxr-sharp.dll",
-                    "sha256": "4ead590f291b6fb3b786626c6a57bcbb036e23c5fe633d0316b31b3b45f55669",
-                    "installLocation": "/rml_libs"
-                },
-                {
-                    "url": "https://github.com/sjsanjsrh/QuestPro4Resonite/releases/download/2.1.0/QuestProModule.dll",
-                    "sha256": "861e9d1555299cc9770d98bad41ec8d21d49cdd7d5d57cbd4a94296d895a5794",
-                    "filename": "QuestProModule.dll"
-                }
-            ]
-        },
-        "2.0.1": {
-            "releaseUrl": "https://github.com/sjsanjsrh/QuestPro4Resonite/releases/tag/2.0.1",
-            "artifacts": [
-                {
-                    "url": "https://github.com/sjsanjsrh/QuestPro4Resonite/releases/download/2.0.1/libalxr-sharp.dll",
-                    "sha256": "f246c01ed38cf850d96a6327b40b1382869f244bfdb112809c7333fbfc2edff2",
-                    "installLocation": "/rml_libs"
-                },
-                {
-                    "url": "https://github.com/sjsanjsrh/QuestPro4Resonite/releases/download/2.0.1/QuestProModule.dll",
-                    "sha256": "d87dc1f545b7d6a87d85c9833810251d44163c77e614c2747f9dde73405a9a0e",
-                    "filename": "QuestProModule.dll"
-                }
-            ]
-        },
-        "2.0.0": {
-            "releaseUrl": "https://github.com/sjsanjsrh/QuestPro4Resonite/releases/tag/2.0.0",
-            "artifacts": [
-                {
-                    "url": "https://github.com/sjsanjsrh/QuestPro4Resonite/releases/download/2.0.0/libalxr-sharp.dll",
-                    "sha256": "f246c01ed38cf850d96a6327b40b1382869f244bfdb112809c7333fbfc2edff2",
-                    "installLocation": "/rml_libs"
-                },
-                {
-                    "url": "https://github.com/sjsanjsrh/QuestPro4Resonite/releases/download/2.0.0/QuestProModule.dll",
-                    "sha256": "36fc6418bd3a285a22858b452821bb98d3df3e2f88029610beacb42bfe716fe3",
-                    "filename": "QuestProModule.dll"
-                }
-            ]
-        },
-        "1.0.4": {
-            "releaseUrl": "https://github.com/sjsanjsrh/QuestPro4Resonite/releases/tag/1.0.4",
-            "artifacts": [
-                {
-                    "url": "https://github.com/sjsanjsrh/QuestPro4Resonite/releases/download/1.0.4/QuestProModule.dll",
-                    "sha256": "0ff7f186b009644d6af7c5810f9ae8f84c78b9f02aaeeafa4b4a70b1c9d03467",
-                    "filename": "QuestProModule.dll"
-                }
-            ]
-        },
-        "1.0.3": {
-            "releaseUrl": "https://github.com/sjsanjsrh/QuestPro4Resonite/releases/tag/1.0.3",
-            "artifacts": [
-                {
-                    "url": "https://github.com/sjsanjsrh/QuestPro4Resonite/releases/download/1.0.3/QuestProModule.dll",
-                    "sha256": "3ec01abf25696032c47b5c03b797968fbc3bce41afe600e8e0cd4aee98b88ab3",
-                    "filename": "QuestProModule.dll"
-                }
-            ]
-        },
-        "1.0.2": {
-            "releaseUrl": "https://github.com/sjsanjsrh/QuestPro4Resonite/releases/tag/1.0.2",
-            "artifacts": [
-                {
-                    "url": "https://github.com/sjsanjsrh/QuestPro4Resonite/releases/download/1.0.2/QuestProModule.dll",
-                    "sha256": "4040c0bcfeaadff823755da1f4afae9fba5f18ea52b95cd155e5be7eee1dc566",
-                    "filename": "QuestProModule.dll"
-                }
-            ]
-        },
-        "1.0.1": {
-            "releaseUrl": "https://github.com/sjsanjsrh/QuestPro4Resonite/releases/tag/1.0.1",
-            "artifacts": [
-                {
-                    "url": "https://github.com/sjsanjsrh/QuestPro4Resonite/releases/download/1.0.1/QuestProModule.dll",
-                    "sha256": "f2995fc18cfdd9a4cfb28a28b701c3dac36e57e04368dd706019cd78cb828e6e",
-                    "filename": "QuestProModule.dll"
-                }
-            ]
-        },
-        "1.0.0": {
-            "releaseUrl": "https://github.com/sjsanjsrh/QuestPro4Resonite/releases/tag/1.0.0",
-            "artifacts": [
-                {
-                    "url": "https://github.com/sjsanjsrh/QuestPro4Resonite/releases/download/1.0.0/QuestProModule.dll",
-                    "sha256": "8006e3a0c9c39b27803500405af1047fa709de7025a223abc4870bd6770c49ed",
-                    "filename": "QuestProModule.dll"
-                }
-            ]
-        }
-    }
+	"name": "QuestPro4Resonite",
+	"id": "com.Sinduy.QuestPro4Resonite",
+	"description": "With Quest Pro, you can eye tracking and facial tracking whih ALXR also You need read the instruction in the github page to install the mod.",
+	"category": "Hardware Integration",
+	"sourceLocation": "https://github.com/sjsanjsrh/QuestPro4Resonite",
+	"flags": ["deprecated"],
+	"additionalAuthors": [
+		"dfgHiatus",
+		"Geenz",
+		"Scar Vorrix",
+		"Dante Tucker"
+	],
+	"versions": {
+		"2.1.4": {
+			"releaseUrl": "https://github.com/sjsanjsrh/QuestPro4Resonite/releases/tag/2.1.4",
+			"dependencies": {
+				"com.Sinduy.libalxr-sharp": {
+					"version": "^1.2.0"
+				}
+			},
+			"artifacts": [{
+				"url": "https://github.com/sjsanjsrh/QuestPro4Resonite/releases/download/2.1.4/QuestProModule.dll",
+				"filename": "QuestProModule.dll",
+				"sha256": "f802d5915c532dd9355440407dee212c46e41131c64d906800d0b133e1c08e45"
+			}]
+		}
+	}
 }

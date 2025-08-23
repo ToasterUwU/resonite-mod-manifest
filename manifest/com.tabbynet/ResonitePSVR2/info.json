@@ -1,32 +1,21 @@
 {
-    "name": "ResonitePSVR2",
-    "id": "com.tabbynet.ResonitePSVR2",
-    "description": "Enables support for special hardware features on the PlayStation VR2",
-    "category": "Hardware Integration",
-    "sourceLocation": "https://github.com/tabithamoon/ResonitePSVR2",
-    "versions": {
-        "1.0.1": {
-            "releaseUrl": "https://github.com/tabithamoon/ResonitePSVR2/releases/tag/v1.0.1",
-            "artifacts": [
-                {
-                    "url": "https://github.com/tabithamoon/ResonitePSVR2/releases/download/v1.0.1/ResonitePSVR2.dll",
-                    "sha256": "58510374a69c30902c0351b07fcbec3d1c4d889906fc5098628fa48499625c7b"
-                }
-            ]
-        },
-        "1.0.0": {
-            "releaseUrl": "https://github.com/tabithamoon/ResonitePSVR2/releases/tag/v1.0.0",
-            "artifacts": [
-                {
-                    "url": "https://github.com/tabithamoon/ResonitePSVR2/releases/download/v1.0.0/ResonitePSVR2.dll",
-                    "sha256": "a537605592cf43bb969671334965074eee2d7e3fd93a90c4f18f247c3020ce20"
-                }
-            ]
-        }
-    },
-    "tags": [
-        "psvr2",
-        "eye",
-        "tracking"
-    ]
+	"name": "ResonitePSVR2",
+	"id": "com.tabbynet.ResonitePSVR2",
+	"description": "Enables support for special hardware features on the PlayStation VR2",
+	"category": "Hardware Integration",
+	"sourceLocation": "https://github.com/tabithamoon/ResonitePSVR2",
+	"versions": {
+		"1.0.1": {
+			"releaseUrl": "https://github.com/tabithamoon/ResonitePSVR2/releases/tag/v1.0.1",
+			"artifacts": [{
+				"url": "https://github.com/tabithamoon/ResonitePSVR2/releases/download/v1.0.1/ResonitePSVR2.dll",
+				"sha256": "58510374a69c30902c0351b07fcbec3d1c4d889906fc5098628fa48499625c7b"
+			}]
+		}
+	},
+        "tags": [
+            "psvr2",
+            "eye",
+            "tracking"
+        ]
 }

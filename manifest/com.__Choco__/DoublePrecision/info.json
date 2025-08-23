@@ -1,53 +1,28 @@
 {
-    "name": "DoublePrecision",
-    "id": "com.__Choco__.DoublePrecision",
-    "description": "Fixes floating point rendering errors!",
-    "category": "Visual Tweaks",
-    "sourceLocation": "https://github.com/AwesomeTornado/Resonite-DoublePrecision-RML",
-    "flags": [
-        "deprecated"
-    ],
-    "versions": {
-        "1.6.1": {
-            "releaseUrl": "https://github.com/AwesomeTornado/Resonite-DoublePrecision-RML/releases/tag/V1.6.1",
-            "artifacts": [
-                {
-                    "url": "https://github.com/AwesomeTornado/Resonite-DoublePrecision-RML/releases/download/V1.6.1/DoublePrecision.dll",
-                    "sha256": "f380b96ff4721e439d7eede80109223d76eb6436155962536c401a1b132dd6fb"
-                }
-            ],
-            "dependencies": {
-                "com.__Choco__.CustomShaderLib": {
-                    "version": "1.0.1"
-                }
-            }
-        },
-        "1.6.0": {
-            "releaseUrl": "https://github.com/AwesomeTornado/Resonite-DoublePrecision-RML/releases/tag/V1.6.0",
-            "artifacts": [
-                {
-                    "url": "https://github.com/AwesomeTornado/Resonite-DoublePrecision-RML/releases/download/V1.6.0/DoublePrecision.dll",
-                    "sha256": "8e9a99cc9a583befcf408645bb98674a7ac2bd627f4b43f0f385e5d2d46d62be"
-                }
-            ]
-        },
-        "1.4.0": {
-            "releaseUrl": "https://github.com/AwesomeTornado/Resonite-DoublePrecision-RML/releases/tag/V1.4.0",
-            "artifacts": [
-                {
-                    "url": "https://github.com/AwesomeTornado/Resonite-DoublePrecision-RML/releases/download/V1.4.0/DoublePrecision.dll",
-                    "sha256": "5d45539c2f7283fd1eddacdb0d7a9404bafbeb29eeddffd48cfd833324810178"
-                }
-            ]
-        },
-        "1.3.0": {
-            "releaseUrl": "https://github.com/AwesomeTornado/Resonite-DoublePrecision-RML/releases/tag/V1.3.0",
-            "artifacts": [
-                {
-                    "url": "https://github.com/AwesomeTornado/Resonite-DoublePrecision-RML/releases/download/V1.3.0/DoublePrecision.dll",
-                    "sha256": "9098b11dd54cde2e6c37294990a781c7ad366b792036a01ece33e591ee8522d4"
-                }
-            ]
-        }
-    }
+	"name": "DoublePrecision",
+	"id": "com.__Choco__.DoublePrecision",
+	"description": "Fixes floating point rendering errors!",
+	"category": "Visual Tweaks",
+	"sourceLocation": "https://github.com/AwesomeTornado/Resonite-DoublePrecision-RML",
+	"flags": [
+		"deprecated"
+	],
+	"versions": {
+		"1.6.1": {
+			"releaseUrl": "https://github.com/AwesomeTornado/Resonite-DoublePrecision-RML/releases/tag/V1.6.1",
+			"artifacts": [
+				{
+					"url": "https://github.com/AwesomeTornado/Resonite-DoublePrecision-RML/releases/download/V1.6.1/DoublePrecision.dll",
+					"sha256": "f380b96ff4721e439d7eede80109223d76eb6436155962536c401a1b132dd6fb"
+				}
+			],
+			"dependencies": {
+    				"com.__Choco__.CustomShaderLib": {
+        				"version": "1.0.1"
+    				}
+			}
+		}
+	}
 }
+
+

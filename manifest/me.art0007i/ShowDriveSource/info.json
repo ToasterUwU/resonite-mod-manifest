@@ -5,17 +5,6 @@
     "category": "Inspectors",
     "sourceLocation": "https://github.com/art0007i/ShowDriveSource",
     "versions": {
-        "2.0.2": {
-            "releaseUrl": "https://github.com/art0007i/ShowDriveSource/releases/tag/2.0.2",
-            "artifacts": [
-                {
-                    "url": "https://github.com/art0007i/ShowDriveSource/releases/download/2.0.2/ShowDriveSource.dll",
-                    "filename": "ShowDriveSource.dll",
-                    "sha256": "db7820f5070833f9987e608243139d841d3dcfc06444fa2aa4e42f88d91fe231"
-                }
-            ],
-            "changelog": "Fix for new version"
-        },
         "2.0.1": {
             "releaseUrl": "https://github.com/art0007i/ShowDriveSource/releases/tag/2.0.1",
             "artifacts": [
@@ -26,15 +15,16 @@
                 }
             ]
         },
-        "2.0.0": {
-            "releaseUrl": "https://github.com/art0007i/ShowDriveSource/releases/tag/2.0.0",
+        "2.0.2": {
+            "releaseUrl": "https://github.com/art0007i/ShowDriveSource/releases/tag/2.0.2",
             "artifacts": [
                 {
-                    "url": "https://github.com/art0007i/ShowDriveSource/releases/download/2.0.0/ShowDriveSource.dll",
-                    "sha256": "a882a4a48c23cfdb0afae55c8b67b908c5e4eab916330ec8812efc8e49be2a50",
-                    "filename": "ShowDriveSource.dll"
+                    "url": "https://github.com/art0007i/ShowDriveSource/releases/download/2.0.2/ShowDriveSource.dll",
+                    "filename": "ShowDriveSource.dll",
+                    "sha256": "db7820f5070833f9987e608243139d841d3dcfc06444fa2aa4e42f88d91fe231"
                 }
-            ]
+            ],
+            "changelog": "Fix for new version"
         }
     }
 }

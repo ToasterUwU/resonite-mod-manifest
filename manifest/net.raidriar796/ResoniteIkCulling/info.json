@@ -1,139 +1,49 @@
 {
-    "name": "ResoniteIkCulling",
-    "id": "net.raidriar796.ResoniteIkCulling",
-    "description": "Disables the IK of Users who are behind you or far away. Includes optional IK throttling.",
-    "category": "Optimization",
-    "sourceLocation": "https://github.com/Raidriar796/ResoniteIkCulling",
-    "versions": {
-        "2.7.0": {
-            "releaseUrl": "https://github.com/Raidriar796/ResoniteIkCulling/releases/tag/2.7.0",
-            "artifacts": [
-                {
-                    "url": "https://github.com/Raidriar796/ResoniteIkCulling/releases/download/2.7.0/ResoniteIKCulling.dll",
-                    "filename": "ResoniteIKCulling.dll",
-                    "sha256": "98F6BD007B0E0D4EAE726D66D3D6096626691024849F4A394A2BCF48357E681E"
-                }
-            ]
-        },
-        "2.6.2": {
-            "releaseUrl": "https://github.com/Raidriar796/ResoniteIkCulling/releases/tag/2.6.2",
-            "artifacts": [
-                {
-                    "url": "https://github.com/Raidriar796/ResoniteIkCulling/releases/download/2.6.2/ResoniteIKCulling.dll",
-                    "filename": "ResoniteIKCulling.dll",
-                    "sha256": "1D0A370B05FDE8937BCF2D96CFA632163F9BA3E4EC716EB62D5BF92524C7FE87"
-                }
-            ]
-        },
-        "2.6.1": {
-            "releaseUrl": "https://github.com/Raidriar796/ResoniteIkCulling/releases/tag/2.6.1",
-            "artifacts": [
-                {
-                    "url": "https://github.com/Raidriar796/ResoniteIkCulling/releases/download/2.6.1/ResoniteIKCulling.dll",
-                    "filename": "ResoniteIKCulling.dll",
-                    "sha256": "01A38C707818039EE9EAF3BFC2F0EFFB406308CC1968D8F419C4BB60D38EB49A"
-                }
-            ]
-        },
-        "2.6.0": {
-            "releaseUrl": "https://github.com/Raidriar796/ResoniteIkCulling/releases/tag/2.6.0",
-            "artifacts": [
-                {
-                    "url": "https://github.com/Raidriar796/ResoniteIkCulling/releases/download/2.6.0/ResoniteIKCulling.dll",
-                    "sha256": "40e7cd86df0d78b83ebb7e7db66af16692e825cd1c57e34b67462cd0d7d37900",
-                    "filename": "ResoniteIKCulling.dll"
-                }
-            ]
-        },
-        "2.5.0": {
-            "releaseUrl": "https://github.com/Raidriar796/ResoniteIkCulling/releases/tag/2.5.0",
-            "artifacts": [
-                {
-                    "url": "https://github.com/Raidriar796/ResoniteIkCulling/releases/download/2.5.0/ResoniteIKCulling.dll",
-                    "filename": "ResoniteIKCulling.dll",
-                    "sha256": "F302E36B1E5EF41FD518F03D69C157B763F2127149DD0095A3DF61D9EB0E1E2C"
-                }
-            ]
-        },
-        "2.4.0": {
-            "releaseUrl": "https://github.com/Raidriar796/ResoniteIkCulling/releases/tag/2.4.0",
-            "artifacts": [
-                {
-                    "url": "https://github.com/Raidriar796/ResoniteIkCulling/releases/download/2.4.0/ResoniteIKCulling.dll",
-                    "sha256": "3de381e88c819e46b5d989a347a55a3fb611af31294b3087fc85f7bc8a4da634",
-                    "filename": "ResoniteIKCulling.dll"
-                }
-            ]
-        },
-        "2.3.3": {
-            "releaseUrl": "https://github.com/Raidriar796/ResoniteIkCulling/releases/tag/2.3.3",
-            "artifacts": [
-                {
-                    "url": "https://github.com/Raidriar796/ResoniteIkCulling/releases/download/2.3.3/ResoniteIKCulling.dll",
-                    "sha256": "3196ff7759b49e8c3a024577b9368ec589dd499e32bac9e0a36a75ec0b93a39b",
-                    "filename": "ResoniteIKCulling.dll"
-                }
-            ]
-        },
-        "2.3.2": {
-            "releaseUrl": "https://github.com/Raidriar796/ResoniteIkCulling/releases/tag/2.3.2",
-            "artifacts": [
-                {
-                    "url": "https://github.com/Raidriar796/ResoniteIkCulling/releases/download/2.3.2/ResoniteIKCulling.dll",
-                    "sha256": "68db505697a93096ef39ad181e29268b1768bb39327849c7011d212f62a8da59",
-                    "filename": "ResoniteIKCulling.dll"
-                }
-            ]
-        },
-        "2.3.1": {
-            "releaseUrl": "https://github.com/Raidriar796/ResoniteIkCulling/releases/tag/2.3.1",
-            "artifacts": [
-                {
-                    "url": "https://github.com/Raidriar796/ResoniteIkCulling/releases/download/2.3.1/ResoniteIKCulling.dll",
-                    "sha256": "8365009906916766022c3b72e33ddf48f7057516d45bab1e4e7f4c7ed8a3685d",
-                    "filename": "ResoniteIKCulling.dll"
-                }
-            ]
-        },
-        "2.3.0": {
-            "releaseUrl": "https://github.com/Raidriar796/ResoniteIkCulling/releases/tag/2.3.0",
-            "artifacts": [
-                {
-                    "url": "https://github.com/Raidriar796/ResoniteIkCulling/releases/download/2.3.0/ResoniteIKCulling.dll",
-                    "sha256": "6f3682a492378ed36c6adb5bdbbf7471cc7637e95b26e896125089ca39accd06",
-                    "filename": "ResoniteIKCulling.dll"
-                }
-            ]
-        },
-        "2.2.0": {
-            "releaseUrl": "https://github.com/Raidriar796/ResoniteIkCulling/releases/tag/2.2.0",
-            "artifacts": [
-                {
-                    "url": "https://github.com/Raidriar796/ResoniteIkCulling/releases/download/2.2.0/ResoniteIKCulling.dll",
-                    "sha256": "cb32dfc8a78f19904eee6e5d7359e202e692b1625a6f717ae93bb98ac98e5215",
-                    "filename": "ResoniteIKCulling.dll"
-                }
-            ]
-        },
-        "2.1.0": {
-            "releaseUrl": "https://github.com/Raidriar796/ResoniteIkCulling/releases/tag/2.1.0",
-            "artifacts": [
-                {
-                    "url": "https://github.com/Raidriar796/ResoniteIkCulling/releases/download/2.1.0/ResoniteIKCulling.dll",
-                    "sha256": "7e455f22d527f9b19f122d88c3207fa8fac193e709efd4dda2ff7ceaba9443ba",
-                    "filename": "ResoniteIKCulling.dll"
-                }
-            ]
-        },
-        "2.0.0": {
-            "releaseUrl": "https://github.com/Raidriar796/ResoniteIkCulling/releases/tag/2.0.0",
-            "artifacts": [
-                {
-                    "url": "https://github.com/Raidriar796/ResoniteIkCulling/releases/download/2.0.0/ResoniteIKCulling.dll",
-                    "sha256": "d07d1b72586646132bd627de2bbecfc5e4fcd6df428b5b0c7482c80805675759",
-                    "filename": "ResoniteIKCulling.dll"
-                }
-            ]
-        }
-    }
+	"name": "ResoniteIkCulling",
+	"id": "net.raidriar796.ResoniteIkCulling",
+	"description": "Disables the IK of Users who are behind you or far away. Includes optional IK throttling.",
+	"category": "Optimization",
+	"sourceLocation": "https://github.com/Raidriar796/ResoniteIkCulling",
+	"versions": {
+		"2.7.0": {
+			"releaseUrl": "https://github.com/Raidriar796/ResoniteIkCulling/releases/tag/2.7.0",
+			"artifacts": [
+				{
+					"url": "https://github.com/Raidriar796/ResoniteIkCulling/releases/download/2.7.0/ResoniteIKCulling.dll",
+					"filename": "ResoniteIKCulling.dll",
+					"sha256": "98F6BD007B0E0D4EAE726D66D3D6096626691024849F4A394A2BCF48357E681E"
+				}
+			]
+		},
+		"2.6.2": {
+			"releaseUrl": "https://github.com/Raidriar796/ResoniteIkCulling/releases/tag/2.6.2",
+			"artifacts": [
+				{
+					"url": "https://github.com/Raidriar796/ResoniteIkCulling/releases/download/2.6.2/ResoniteIKCulling.dll",
+					"filename": "ResoniteIKCulling.dll",
+					"sha256": "1D0A370B05FDE8937BCF2D96CFA632163F9BA3E4EC716EB62D5BF92524C7FE87"
+				}
+			]
+		},
+		"2.6.1": {
+			"releaseUrl": "https://github.com/Raidriar796/ResoniteIkCulling/releases/tag/2.6.1",
+			"artifacts": [
+				{
+					"url": "https://github.com/Raidriar796/ResoniteIkCulling/releases/download/2.6.1/ResoniteIKCulling.dll",
+					"filename": "ResoniteIKCulling.dll",
+					"sha256": "01A38C707818039EE9EAF3BFC2F0EFFB406308CC1968D8F419C4BB60D38EB49A"
+				}
+			]
+		},
+		"2.5.0": {
+			"releaseUrl": "https://github.com/Raidriar796/ResoniteIkCulling/releases/tag/2.5.0",
+			"artifacts": [
+				{
+					"url": "https://github.com/Raidriar796/ResoniteIkCulling/releases/download/2.5.0/ResoniteIKCulling.dll",
+					"filename": "ResoniteIKCulling.dll",
+					"sha256": "F302E36B1E5EF41FD518F03D69C157B763F2127149DD0095A3DF61D9EB0E1E2C"
+				}
+			]
+		}
+	}
 }

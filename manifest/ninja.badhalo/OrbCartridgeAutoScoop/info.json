@@ -1,73 +1,22 @@
 {
-    "name": "OrbCartridgeAutoScoop",
-    "id": "ninja.badhalo.OrbCartridgeAutoScoop",
-    "description": "Makes orb based tools grab a new orb regardless if there is already an orb in the tool",
-    "tags": [
-        "material",
-        "mesh",
-        "tool",
-        "orb"
-    ],
-    "category": "Misc",
-    "sourceLocation": "https://github.com/badhaloninja/OrbCartridgeAutoScoop",
-    "versions": {
-        "2.0.1": {
-            "releaseUrl": "https://github.com/badhaloninja/OrbCartridgeAutoScoop/releases/tag/v2.0.1",
-            "artifacts": [
-                {
-                    "url": "https://github.com/badhaloninja/OrbCartridgeAutoScoop/releases/download/v2.0.1/OrbCartridgeAutoScoop.dll",
-                    "sha256": "9b29ccaa19ef61092d7aad280d5dc9c9985d5e41610234ca4f1cb1f677af40c7"
-                }
-            ]
-        },
-        "2.0.0": {
-            "releaseUrl": "https://github.com/badhaloninja/OrbCartridgeAutoScoop/releases/tag/v2.0.0",
-            "artifacts": [
-                {
-                    "url": "https://github.com/badhaloninja/OrbCartridgeAutoScoop/releases/download/v2.0.0/OrbCartridgeAutoScoop.dll",
-                    "sha256": "1ccbf7f1e2e2400872d6a80f0741c3275ada534813785dda40b1f371bb9477c4"
-                }
-            ]
-        },
-        "1.2.1": {
-            "releaseUrl": "https://github.com/badhaloninja/OrbCartridgeAutoScoop/releases/tag/v1.2.1",
-            "artifacts": [
-                {
-                    "url": "https://github.com/badhaloninja/OrbCartridgeAutoScoop/releases/download/v1.2.1/MaterialTipAutoScoop.dll",
-                    "sha256": "7b1ebd2fb305e3171c0499a2034c3af44b22cb1df58fe0b63d5051becfd8a280",
-                    "installLocation": "/rml_libs"
-                }
-            ]
-        },
-        "1.2.0": {
-            "releaseUrl": "https://github.com/badhaloninja/OrbCartridgeAutoScoop/releases/tag/v1.2.0",
-            "artifacts": [
-                {
-                    "url": "https://github.com/badhaloninja/OrbCartridgeAutoScoop/releases/download/v1.2.0/MaterialTipAutoScoop.dll",
-                    "sha256": "29c85787a2a3e6ab40d9f71b89103f7c5437b2e1aad9571c88ec3c5c6abc8918",
-                    "installLocation": "/rml_libs"
-                }
-            ]
-        },
-        "1.1.0": {
-            "releaseUrl": "https://github.com/badhaloninja/OrbCartridgeAutoScoop/releases/tag/v1.1.0",
-            "artifacts": [
-                {
-                    "url": "https://github.com/badhaloninja/OrbCartridgeAutoScoop/releases/download/v1.1.0/MaterialTipAutoScoop.dll",
-                    "sha256": "f604b91d63d2f3d14419d772a74697ba2ddcc0a846709e201dff55b8147f08ce",
-                    "installLocation": "/rml_libs"
-                }
-            ]
-        },
-        "1.0.0": {
-            "releaseUrl": "https://github.com/badhaloninja/OrbCartridgeAutoScoop/releases/tag/v1.0.0",
-            "artifacts": [
-                {
-                    "url": "https://github.com/badhaloninja/OrbCartridgeAutoScoop/releases/download/v1.0.0/MaterialTipAutoScoop.dll",
-                    "sha256": "d75dd288d04340f4c22d65ac2ada51def260d5c258ffb8ba6ec402a16a3cdbbf",
-                    "installLocation": "/rml_libs"
-                }
-            ]
-        }
-    }
+	"name": "OrbCartridgeAutoScoop",
+	"id": "ninja.badhalo.OrbCartridgeAutoScoop",
+	"description": "Makes orb based tools grab a new orb regardless if there is already an orb in the tool",
+	"tags": [
+		"material",
+		"mesh",
+		"tool",
+		"orb"
+	],
+	"category": "Misc",
+	"sourceLocation": "https://github.com/badhaloninja/OrbCartridgeAutoScoop",
+	"versions": {
+		"2.0.1": {
+			"releaseUrl": "https://github.com/badhaloninja/OrbCartridgeAutoScoop/releases/tag/v2.0.1",
+			"artifacts": [{
+				"url": "https://github.com/badhaloninja/OrbCartridgeAutoScoop/releases/download/v2.0.1/OrbCartridgeAutoScoop.dll",
+				"sha256": "9b29ccaa19ef61092d7aad280d5dc9c9985d5e41610234ca4f1cb1f677af40c7"
+			}]
+		}
+	}
 }

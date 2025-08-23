@@ -1,36 +1,19 @@
 {
-    "name": "HandAligner",
-    "id": "com.__Choco__.HandAligner",
-    "description": "Patches the auto align hands button in the avatar creator for incredibly precise automatic positioning.",
-    "category": "Bug Workaround",
-    "sourceLocation": "https://github.com/AwesomeTornado/Resonite-Hand-Aligner",
-    "versions": {
-        "2.0.0": {
-            "releaseUrl": "https://github.com/AwesomeTornado/Resonite-Hand-Aligner/releases/tag/V2.0.0",
-            "artifacts": [
-                {
-                    "url": "https://github.com/AwesomeTornado/Resonite-Hand-Aligner/releases/download/V2.0.0/HandAligner.dll",
-                    "sha256": "96412c2d11abb2f3bd5665a5b44e008147e2ce73070c081210ce4c2c75a4d3c0"
-                }
-            ]
-        },
-        "1.0.1": {
-            "releaseUrl": "https://github.com/AwesomeTornado/Resonite-Hand-Aligner/releases/tag/V1.0.1",
-            "artifacts": [
-                {
-                    "url": "https://github.com/AwesomeTornado/Resonite-Hand-Aligner/releases/download/V1.0.1/HandAligner.dll",
-                    "sha256": "ace4cd96f8e354ad077a7d118d19e2f3a355f39aeaaeda63976410986c36e8a1"
-                }
-            ]
-        },
-        "1.0.0": {
-            "releaseUrl": "https://github.com/AwesomeTornado/Resonite-Hand-Aligner/releases/tag/V1.0.0",
-            "artifacts": [
-                {
-                    "url": "https://github.com/AwesomeTornado/Resonite-Hand-Aligner/releases/download/V1.0.0/HandAligner.dll",
-                    "sha256": "df7e40d21ee89e61ddec06557b5a2f1690bf7160f31ad11a16a02ff8e2225095"
-                }
-            ]
-        }
-    }
+	"name": "HandAligner",
+	"id": "com.__Choco__.HandAligner",
+	"description": "Patches the auto align hands button in the avatar creator for incredibly precise automatic positioning.",
+	"category": "Bug Workaround",
+	"sourceLocation": "https://github.com/AwesomeTornado/Resonite-Hand-Aligner",
+	"versions": {
+		"1.0.1": {
+			"releaseUrl": "https://github.com/AwesomeTornado/Resonite-Hand-Aligner/releases/tag/V1.0.1",
+			"artifacts": [
+				{
+					"url": "https://github.com/AwesomeTornado/Resonite-Hand-Aligner/releases/download/V1.0.1/HandAligner.dll",
+					"sha256": "ace4cd96f8e354ad077a7d118d19e2f3a355f39aeaaeda63976410986c36e8a1"
+				}
+			]
+		}
+	}
 }
+

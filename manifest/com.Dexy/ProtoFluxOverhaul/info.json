@@ -1,80 +1,19 @@
 {
-    "name": "ProtoFluxOverhaul",
-    "id": "com.Dexy.ProtoFluxOverhaul",
-    "description": "Unpack your nodes with rounded textures and animated wires, or choose your own textures.",
-    "category": "Visual Tweaks",
-    "sourceLocation": "https://github.com/DexyThePuppy/ProtoFluxOverhaul",
-    "additionalAuthors": [
-        "NepuShiro"
-    ],
-    "versions": {
-        "1.4.3": {
-            "releaseUrl": "https://github.com/DexyThePuppy/ProtoFluxOverhaul/releases/tag/1.4.3",
-            "artifacts": [
-                {
-                    "url": "https://github.com/DexyThePuppy/ProtoFluxOverhaul/releases/download/1.4.3/ProtoFluxOverhaul.dll",
-                    "sha256": "d523ee51cc05d8b742dafa27de653259298825def9c5a0ac66a4d6a3db9cab34"
-                }
-            ]
-        },
-        "1.4.2": {
-            "releaseUrl": "https://github.com/DexyThePuppy/ProtoFluxOverhaul/releases/tag/1.4.2",
-            "artifacts": [
-                {
-                    "url": "https://github.com/DexyThePuppy/ProtoFluxOverhaul/releases/download/1.4.2/ProtoFluxOverhaul.dll",
-                    "sha256": "a7e421e6fab8083aae68fbcfaa03a42ea02dbc20982cc9137cf6fb653eec7dc7"
-                }
-            ]
-        },
-        "1.4.1": {
-            "releaseUrl": "https://github.com/DexyThePuppy/ProtoFluxOverhaul/releases/tag/1.4.1",
-            "artifacts": [
-                {
-                    "url": "https://github.com/DexyThePuppy/ProtoFluxOverhaul/releases/download/1.4.1/ProtoFluxVisualsOverhaul.dll",
-                    "sha256": "0b736c427c3e7f70f0fad32c7b99d8fc353131670a3c56a004015d13a3723c97",
-                    "installLocation": "/rml_libs"
-                }
-            ]
-        },
-        "1.4.0": {
-            "releaseUrl": "https://github.com/DexyThePuppy/ProtoFluxOverhaul/releases/tag/1.4",
-            "artifacts": [
-                {
-                    "url": "https://github.com/DexyThePuppy/ProtoFluxOverhaul/releases/download/1.4/ProtoFluxVisualsOverhaul.dll",
-                    "sha256": "36d92dbfd6f15eb29e7503de45bf2fc6a23d6a166d61d46cd5c282cbf1fa6937",
-                    "installLocation": "/rml_libs"
-                }
-            ]
-        },
-        "1.3.0": {
-            "releaseUrl": "https://github.com/DexyThePuppy/ProtoFluxOverhaul/releases/tag/1.3",
-            "artifacts": [
-                {
-                    "url": "https://github.com/DexyThePuppy/ProtoFluxOverhaul/releases/download/1.3/ProtoFluxVisualsOverhaul.dll",
-                    "sha256": "95fc6abda39eadc038f7a8db65b5a7d3517c190a411d908c3cc4cb37a6619c94",
-                    "installLocation": "/rml_libs"
-                }
-            ]
-        },
-        "1.2.0": {
-            "releaseUrl": "https://github.com/DexyThePuppy/ProtoFluxOverhaul/releases/tag/1.2",
-            "artifacts": [
-                {
-                    "url": "https://github.com/DexyThePuppy/ProtoFluxOverhaul/releases/download/1.2/ProtoWireScroll.dll",
-                    "sha256": "b6b5e2b7044966dcc2d51a46dfd5e17106e428b23468c7563c3ca0c2ef322461",
-                    "installLocation": "/rml_libs"
-                }
-            ]
-        },
-        "1.1.0": {
-            "releaseUrl": "https://github.com/DexyThePuppy/ProtoFluxOverhaul/releases/tag/1.1",
-            "artifacts": [
-                {
-                    "url": "https://github.com/DexyThePuppy/ProtoFluxOverhaul/releases/download/1.1/ProtoWireScroll.dll",
-                    "sha256": "203a9eabf394e263bd83a83e89792ee03ed5fcbbfdca85fdc02609746149ee87",
-                    "installLocation": "/rml_libs"
-                }
-            ]
-        }
-    }
+	"name": "ProtoFluxOverhaul",
+	"id": "com.Dexy.ProtoFluxOverhaul",
+	"description": "Unpack your nodes with rounded textures and animated wires, or choose your own textures.",
+	"category": "Visual Tweaks",
+	"sourceLocation": "https://github.com/DexyThePuppy/ProtoFluxOverhaul",
+	"additionalAuthors": [
+		"NepuShiro"
+	],
+	"versions": {
+		"1.4.2": {
+			"releaseUrl": "https://github.com/DexyThePuppy/ProtoFluxOverhaul/releases/tag/1.4.2",
+			"artifacts": [{
+				"url": "https://github.com/DexyThePuppy/ProtoFluxOverhaul/releases/download/1.4.2/ProtoFluxOverhaul.dll",
+				"sha256": "a7e421e6fab8083aae68fbcfaa03a42ea02dbc20982cc9137cf6fb653eec7dc7"
+			}]
+		}
+	}
 }

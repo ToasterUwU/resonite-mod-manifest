@@ -1,81 +1,51 @@
 {
-    "name": "VDFaceTracking",
-    "id": "org.zeith.VDFaceTracking",
-    "description": "Virtual Desktop face tracking mod for Resonite.",
-    "category": "Hardware Integration",
-    "sourceLocation": "https://github.com/Zeitheron/VDFaceTracking",
-    "versions": {
-        "1.1.3": {
-            "releaseUrl": "https://github.com/Zeitheron/VDFaceTracking/releases/tag/1.1.3",
-            "artifacts": [
-                {
-                    "url": "https://github.com/Zeitheron/VDFaceTracking/releases/download/1.1.3/VDFaceTracking.dll",
-                    "sha256": "cb0b2856a27099b895bbb8c750c08bc345d12595f1400bd6e0b0166d81064650"
-                }
-            ]
-        },
-        "1.1.2": {
-            "releaseUrl": "https://github.com/Zeitheron/VDFaceTracking/releases/tag/1.1.2",
-            "artifacts": [
-                {
-                    "url": "https://github.com/Zeitheron/VDFaceTracking/releases/download/1.1.2/VDFaceTracking.dll",
-                    "sha256": "f689c8389ca8f8b78d5178fc8e0bec9dc5458f8a9740e4eade3445405c3a44d6"
-                }
-            ]
-        },
-        "1.1.1": {
-            "releaseUrl": "https://github.com/Zeitheron/VDFaceTracking/releases/tag/1.1.1",
-            "artifacts": [
-                {
-                    "url": "https://github.com/Zeitheron/VDFaceTracking/releases/download/1.1.1/VDFaceTracking.dll",
-                    "sha256": "689ed767913005c713ae2792cf129994adfdf52158d3c2d04562c293e60f1064"
-                }
-            ]
-        },
-        "1.1.0": {
-            "releaseUrl": "https://github.com/Zeitheron/VDFaceTracking/releases/tag/1.1.0",
-            "artifacts": [
-                {
-                    "url": "https://github.com/Zeitheron/VDFaceTracking/releases/download/1.1.0/VDFaceTracking.dll",
-                    "sha256": "87da2e15f7981ea09c6060f2b06ba25909757214e4a89751fa93e672e981c70b"
-                }
-            ]
-        },
-        "1.0.3": {
-            "releaseUrl": "https://github.com/Zeitheron/VDFaceTracking/releases/tag/1.0.3",
-            "artifacts": [
-                {
-                    "url": "https://github.com/Zeitheron/VDFaceTracking/releases/download/1.0.3/VDFaceTracking.dll",
-                    "sha256": "fa0ca6f05a82b9837a547350d1836c1e8aee91371f7b98d2023e257747383111"
-                }
-            ]
-        },
-        "1.0.2": {
-            "releaseUrl": "https://github.com/Zeitheron/VDFaceTracking/releases/tag/1.0.2",
-            "artifacts": [
-                {
-                    "url": "https://github.com/Zeitheron/VDFaceTracking/releases/download/1.0.2/VDFaceTracking.dll",
-                    "sha256": "e6a6c46939810ec8d49d237f47ca9fb5f0826a6d9f135fb53096dbc3ded92d8d"
-                }
-            ]
-        },
-        "1.0.1": {
-            "releaseUrl": "https://github.com/Zeitheron/VDFaceTracking/releases/tag/1.0.1",
-            "artifacts": [
-                {
-                    "url": "https://github.com/Zeitheron/VDFaceTracking/releases/download/1.0.1/VDFaceTracking.dll",
-                    "sha256": "c3fc0c2047ad431b5a4b0fe40c4cb244423e3ca5e03a63e1f28973674380e8cf"
-                }
-            ]
-        },
-        "1.0.0": {
-            "releaseUrl": "https://github.com/Zeitheron/VDFaceTracking/releases/tag/1.0.0",
-            "artifacts": [
-                {
-                    "url": "https://github.com/Zeitheron/VDFaceTracking/releases/download/1.0.0/VDFaceTracking.dll",
-                    "sha256": "10c8ca21d9f5fa95a3c70b43890a2b999494805e51f19b69115c418fc3bb7af2"
-                }
-            ]
-        }
-    }
+	"name": "VDFaceTracking",
+	"id": "org.zeith.VDFaceTracking",
+	"description": "Virtual Desktop face tracking mod for Resonite.",
+	"category": "Hardware Integration",
+	"sourceLocation": "https://github.com/Zeitheron/VDFaceTracking",
+	"versions": {
+		"1.1.3": {
+			"releaseUrl": "https://github.com/Zeitheron/VDFaceTracking/releases/tag/1.1.3",
+			"artifacts": [{
+				"url": "https://github.com/Zeitheron/VDFaceTracking/releases/download/1.1.3/VDFaceTracking.dll",
+				"sha256": "cb0b2856a27099b895bbb8c750c08bc345d12595f1400bd6e0b0166d81064650"
+			}]
+		},
+		"1.1.2": {
+			"releaseUrl": "https://github.com/Zeitheron/VDFaceTracking/releases/tag/1.1.2",
+			"artifacts": [{
+				"url": "https://github.com/Zeitheron/VDFaceTracking/releases/download/1.1.2/VDFaceTracking.dll",
+				"sha256": "f689c8389ca8f8b78d5178fc8e0bec9dc5458f8a9740e4eade3445405c3a44d6"
+			}]
+		},
+		"1.1.1": {
+			"releaseUrl": "https://github.com/Zeitheron/VDFaceTracking/releases/tag/1.1.1",
+			"artifacts": [{
+				"url": "https://github.com/Zeitheron/VDFaceTracking/releases/download/1.1.1/VDFaceTracking.dll",
+				"sha256": "689ed767913005c713ae2792cf129994adfdf52158d3c2d04562c293e60f1064"
+			}]
+		},
+		"1.1.0": {
+			"releaseUrl": "https://github.com/Zeitheron/VDFaceTracking/releases/tag/1.1.0",
+			"artifacts": [{
+				"url": "https://github.com/Zeitheron/VDFaceTracking/releases/download/1.1.0/VDFaceTracking.dll",
+				"sha256": "87da2e15f7981ea09c6060f2b06ba25909757214e4a89751fa93e672e981c70b"
+			}]
+		},
+		"1.0.3": {
+			"releaseUrl": "https://github.com/Zeitheron/VDFaceTracking/releases/tag/1.0.3",
+			"artifacts": [{
+				"url": "https://github.com/Zeitheron/VDFaceTracking/releases/download/1.0.3/VDFaceTracking.dll",
+				"sha256": "fa0ca6f05a82b9837a547350d1836c1e8aee91371f7b98d2023e257747383111"
+			}]
+		},
+		"1.0.2": {
+			"releaseUrl": "https://github.com/Zeitheron/VDFaceTracking/releases/tag/1.0.2",
+			"artifacts": [{
+				"url": "https://github.com/Zeitheron/VDFaceTracking/releases/download/1.0.2/VDFaceTracking.dll",
+				"sha256": "e6a6c46939810ec8d49d237f47ca9fb5f0826a6d9f135fb53096dbc3ded92d8d"
+			}]
+		}
+	}
 }

@@ -1,30 +1,17 @@
 {
-    "flags": [
-        "deprecated"
-    ],
-    "name": "BoundedUIX",
-    "id": "Banane9.BoundedUIX",
-    "description": "Makes UIX elements selectable and editable with the usual Slot gizmos and fixes UIX elements breaking when a parent is inserted",
-    "category": "Inspectors",
-    "sourceLocation": "https://github.com/Banane9/ResoniteBoundedUIX",
-    "versions": {
-        "2.0.0": {
-            "releaseUrl": "https://github.com/ResoniteModdingGroup/BoundedUIX/releases/tag/v2.0.0",
-            "artifacts": [
-                {
-                    "url": "https://github.com/ResoniteModdingGroup/BoundedUIX/releases/download/v2.0.0/BoundedUIX.nupkg",
-                    "sha256": "509f71ae352e8881dea221fb266f061455c85baa0eeaf09c4c331d605e4c0b32"
-                }
-            ]
-        },
-        "1.0.0": {
-            "releaseUrl": "https://github.com/Banane9/ResoniteBoundedUIX/releases/tag/v1.0.0",
-            "artifacts": [
-                {
-                    "url": "https://github.com/Banane9/ResoniteBoundedUIX/releases/download/v1.0.0/BoundedUIX.dll",
-                    "sha256": "2878d3b4a61527489d0b778bb9f69e48631cf6b7e89e9d4edf2736aa1ef6efa3"
-                }
-            ]
-        }
-    }
+    "flags": ["deprecated"],
+	"name": "BoundedUIX",
+	"id": "Banane9.BoundedUIX",
+	"description": "Makes UIX elements selectable and editable with the usual Slot gizmos and fixes UIX elements breaking when a parent is inserted",
+	"category": "Inspectors",
+	"sourceLocation": "https://github.com/Banane9/ResoniteBoundedUIX",
+	"versions": {
+		"1.0.0": {
+			"releaseUrl": "https://github.com/Banane9/ResoniteBoundedUIX/releases/tag/v1.0.0",
+			"artifacts": [{
+				"url": "https://github.com/Banane9/ResoniteBoundedUIX/releases/download/v1.0.0/BoundedUIX.dll",
+				"sha256": "2878d3b4a61527489d0b778bb9f69e48631cf6b7e89e9d4edf2736aa1ef6efa3"
+			}]
+		}
+	}
 }

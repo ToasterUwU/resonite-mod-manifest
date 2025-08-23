@@ -5,48 +5,15 @@
     "category": "Inspectors",
     "sourceLocation": "https://github.com/art0007i/ShowDelegates",
     "versions": {
-        "2.2.9": {
-            "releaseUrl": "https://github.com/art0007i/ShowDelegates/releases/tag/2.2.9",
+        "2.2.4": {
+            "releaseUrl": "https://github.com/art0007i/ShowDelegates/releases/tag/2.2.4",
             "artifacts": [
                 {
-                    "url": "https://github.com/art0007i/ShowDelegates/releases/download/2.2.9/ShowDelegates.dll",
+                    "url": "https://github.com/art0007i/ShowDelegates/releases/download/2.2.4/ShowDelegates.dll",
                     "filename": "ShowDelegates.dll",
-                    "sha256": "420341da08088da831d17d48db53efaf988480820554e52914b69bc4001637d8"
-                }
-            ],
-            "changelog": "Add a few delegates to the lookup table"
-        },
-        "2.2.8": {
-            "releaseUrl": "https://github.com/art0007i/ShowDelegates/releases/tag/2.2.8",
-            "artifacts": [
-                {
-                    "url": "https://github.com/art0007i/ShowDelegates/releases/download/2.2.8/ShowDelegates.dll",
-                    "filename": "ShowDelegates.dll",
-                    "sha256": "489ccc8326e7b5404be15d874da950772180b3a220bbebcd9cc555079e3041c7"
+                    "sha256": "b15f241bb31378077cf76c03f5cbdab6f882cad19d0738cc981c91e9be546aac"
                 }
             ]
-        },
-        "2.2.7": {
-            "releaseUrl": "https://github.com/art0007i/ShowDelegates/releases/tag/2.2.7",
-            "artifacts": [
-                {
-                    "url": "https://github.com/art0007i/ShowDelegates/releases/download/2.2.7/ShowDelegates.dll",
-                    "filename": "ShowDelegates.dll",
-                    "sha256": "3a13bb871d3957bc0a0d956494e8805e9e0686a8233a82bb15a4f7b82d4a0846"
-                }
-            ],
-            "changelog": "Fixed the mod not working in the latest version"
-        },
-        "2.2.6": {
-            "releaseUrl": "https://github.com/art0007i/ShowDelegates/releases/tag/2.2.6",
-            "artifacts": [
-                {
-                    "url": "https://github.com/art0007i/ShowDelegates/releases/download/2.2.6/ShowDelegates.dll",
-                    "filename": "ShowDelegates.dll",
-                    "sha256": "3126895a622ae75bed335d5fe6ee2d1d9ecb4a13179791211464c4f5e4cd85a4"
-                }
-            ],
-            "changelog": "Rebuilt for new resonite version"
         },
         "2.2.5": {
             "releaseUrl": "https://github.com/art0007i/ShowDelegates/releases/tag/2.2.5",
@@ -59,95 +26,48 @@
             ],
             "changelog": "Fix issue where some delegates were not showing up (#7)"
         },
-        "2.2.4": {
-            "releaseUrl": "https://github.com/art0007i/ShowDelegates/releases/tag/2.2.4",
+        "2.2.6": {
+            "releaseUrl": "https://github.com/art0007i/ShowDelegates/releases/tag/2.2.6",
             "artifacts": [
                 {
-                    "url": "https://github.com/art0007i/ShowDelegates/releases/download/2.2.4/ShowDelegates.dll",
+                    "url": "https://github.com/art0007i/ShowDelegates/releases/download/2.2.6/ShowDelegates.dll",
                     "filename": "ShowDelegates.dll",
-                    "sha256": "b15f241bb31378077cf76c03f5cbdab6f882cad19d0738cc981c91e9be546aac"
+                    "sha256": "3126895a622ae75bed335d5fe6ee2d1d9ecb4a13179791211464c4f5e4cd85a4"
+                }
+            ],
+            "changelog": "Rebuilt for new resonite version"
+        },
+        "2.2.7": {
+            "releaseUrl": "https://github.com/art0007i/ShowDelegates/releases/tag/2.2.7",
+            "artifacts": [
+                {
+                    "url": "https://github.com/art0007i/ShowDelegates/releases/download/2.2.7/ShowDelegates.dll",
+                    "filename": "ShowDelegates.dll",
+                    "sha256": "3a13bb871d3957bc0a0d956494e8805e9e0686a8233a82bb15a4f7b82d4a0846"
+                }
+            ],
+            "changelog": "Fixed the mod not working in the latest version"
+        },
+        "2.2.8": {
+            "releaseUrl": "https://github.com/art0007i/ShowDelegates/releases/tag/2.2.8",
+            "artifacts": [
+                {
+                    "url": "https://github.com/art0007i/ShowDelegates/releases/download/2.2.8/ShowDelegates.dll",
+                    "filename": "ShowDelegates.dll",
+                    "sha256": "489ccc8326e7b5404be15d874da950772180b3a220bbebcd9cc555079e3041c7"
                 }
             ]
         },
-        "2.2.3": {
-            "releaseUrl": "https://github.com/art0007i/ShowDelegates/releases/tag/2.2.3",
+        "2.2.9": {
+            "releaseUrl": "https://github.com/art0007i/ShowDelegates/releases/tag/2.2.9",
             "artifacts": [
                 {
-                    "url": "https://github.com/art0007i/ShowDelegates/releases/download/2.2.3/ShowDelegates.dll",
-                    "sha256": "517da1322bd3839ca85fa1529bc0eddd5a57558b78ac2cf996944dfcd1fd6d37",
-                    "filename": "ShowDelegates.dll"
+                    "url": "https://github.com/art0007i/ShowDelegates/releases/download/2.2.9/ShowDelegates.dll",
+                    "filename": "ShowDelegates.dll",
+                    "sha256": "420341da08088da831d17d48db53efaf988480820554e52914b69bc4001637d8"
                 }
-            ]
-        },
-        "2.2.2": {
-            "releaseUrl": "https://github.com/art0007i/ShowDelegates/releases/tag/2.2.2",
-            "artifacts": [
-                {
-                    "url": "https://github.com/art0007i/ShowDelegates/releases/download/2.2.2/ShowDelegates.dll",
-                    "sha256": "26b551585d2f3f1e22119a235c57250dcd612591326c4cfd99184d9eb34982e4",
-                    "filename": "ShowDelegates.dll"
-                }
-            ]
-        },
-        "2.2.10": {
-            "releaseUrl": "https://github.com/art0007i/ShowDelegates/releases/tag/2.2.10",
-            "artifacts": [
-                {
-                    "url": "https://github.com/art0007i/ShowDelegates/releases/download/2.2.10/ShowDelegates.dll",
-                    "sha256": "b35b1a6893617c3cdf5a976c99f4d8a17f1770cfe6e8136515043c91f908afa2",
-                    "filename": "ShowDelegates.dll"
-                }
-            ]
-        },
-        "2.2.1": {
-            "releaseUrl": "https://github.com/art0007i/ShowDelegates/releases/tag/2.2.1",
-            "artifacts": [
-                {
-                    "url": "https://github.com/art0007i/ShowDelegates/releases/download/2.2.1/ShowDelegates.dll",
-                    "sha256": "5cbbca4f194001ced2f2d07b5e9807f5e36958c9fe632c8bde338cc8c22070e4",
-                    "filename": "ShowDelegates.dll"
-                }
-            ]
-        },
-        "2.2.0": {
-            "releaseUrl": "https://github.com/art0007i/ShowDelegates/releases/tag/2.2.0",
-            "artifacts": [
-                {
-                    "url": "https://github.com/art0007i/ShowDelegates/releases/download/2.2.0/ShowDelegates.dll",
-                    "sha256": "42d4516f47559de87560a8f33ed7dfe70028fd0bc9fc52e03f32949f9337a8c8",
-                    "filename": "ShowDelegates.dll"
-                }
-            ]
-        },
-        "2.1.0": {
-            "releaseUrl": "https://github.com/art0007i/ShowDelegates/releases/tag/2.1.0",
-            "artifacts": [
-                {
-                    "url": "https://github.com/art0007i/ShowDelegates/releases/download/2.1.0/ShowDelegates.dll",
-                    "sha256": "a6067a9338da0848c6360f283ceddba74dfc341f9e3e81cd9953b06050b771c2",
-                    "filename": "ShowDelegates.dll"
-                }
-            ]
-        },
-        "2.0.0": {
-            "releaseUrl": "https://github.com/art0007i/ShowDelegates/releases/tag/2.0.0",
-            "artifacts": [
-                {
-                    "url": "https://github.com/art0007i/ShowDelegates/releases/download/2.0.0/ShowDelegates.dll",
-                    "sha256": "dad274d4915658d415530debfed79eedf2e18fc792f43ac372295fbf94f6d692",
-                    "filename": "ShowDelegates.dll"
-                }
-            ]
-        },
-        "1.1.1": {
-            "releaseUrl": "https://github.com/art0007i/ShowDelegates/releases/tag/1.1.1",
-            "artifacts": [
-                {
-                    "url": "https://github.com/art0007i/ShowDelegates/releases/download/1.1.1/ShowDelegates.dll",
-                    "sha256": "300273a5767ae7701f90e1a8b8fe6f484246ec5580512eabed3a60158a6bc94c",
-                    "filename": "ShowDelegates.dll"
-                }
-            ]
+            ],
+            "changelog": "Add a few delegates to the lookup table"
         }
     }
 }

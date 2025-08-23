@@ -1,57 +1,26 @@
 {
-    "name": "InspectorDelegateCaller",
-    "id": "owo.Nytra.InspectorDelegateCaller",
-    "description": "Adds some buttons to inspector UI for workers that have callable delegates.",
-    "category": "Inspectors",
-    "sourceLocation": "https://github.com/Nytra/ResoniteInspectorDelegateCaller",
-    "additionalAuthors": [
-        "eia485"
-    ],
-    "versions": {
-        "1.4.2": {
-            "releaseUrl": "https://github.com/Nytra/ResoniteInspectorDelegateCaller/releases/tag/v1.4.2",
-            "artifacts": [
-                {
-                    "url": "https://github.com/Nytra/ResoniteInspectorDelegateCaller/releases/download/v1.4.2/InspectorDelegateCaller.dll",
-                    "sha256": "8e5a2ae15d38d7093bf78f64756eaa40aed30cddcf1fb74b014557df5d321e58"
-                }
-            ]
-        },
-        "1.4.1": {
-            "releaseUrl": "https://github.com/Nytra/ResoniteInspectorDelegateCaller/releases/tag/v1.4.1",
-            "artifacts": [
-                {
-                    "url": "https://github.com/Nytra/ResoniteInspectorDelegateCaller/releases/download/v1.4.1/InspectorDelegateCaller.dll",
-                    "sha256": "b8c668fd10157e9221389dfe4ebfcfeb85211dd22868ce32c3d8e013ecf80467"
-                }
-            ]
-        },
-        "1.4.0": {
-            "releaseUrl": "https://github.com/Nytra/ResoniteInspectorDelegateCaller/releases/tag/v1.4.0",
-            "artifacts": [
-                {
-                    "url": "https://github.com/Nytra/ResoniteInspectorDelegateCaller/releases/download/v1.4.0/InspectorDelegateCaller.dll",
-                    "sha256": "4d9aba017d5381c4c20a782e18bd1756ff4370cae78ccb952af55a6ecb84eee6"
-                }
-            ]
-        },
-        "1.3.0": {
-            "releaseUrl": "https://github.com/Nytra/ResoniteInspectorDelegateCaller/releases/tag/v1.3.0",
-            "artifacts": [
-                {
-                    "url": "https://github.com/Nytra/ResoniteInspectorDelegateCaller/releases/download/v1.3.0/InspectorDelegateCaller.dll",
-                    "sha256": "2f3c77725ad0ffc63e91b7af4d21a330bf7cab4f9f4502ec15a1fde40e28ec6e"
-                }
-            ]
-        },
-        "1.2.0": {
-            "releaseUrl": "https://github.com/Nytra/ResoniteInspectorDelegateCaller/releases/tag/v1.2.0",
-            "artifacts": [
-                {
-                    "url": "https://github.com/Nytra/ResoniteInspectorDelegateCaller/releases/download/v1.2.0/InspectorDelegateCaller.dll",
-                    "sha256": "1644c20c7bd1ef94d43ceefa44a325cb0e3fbe4019492f8a7c9af9b564d0bc3f"
-                }
-            ]
-        }
-    }
+	"name": "InspectorDelegateCaller",
+	"id": "owo.Nytra.InspectorDelegateCaller",
+	"description": "Adds some buttons to inspector UI for workers that have callable delegates.",
+	"category": "Inspectors",
+	"sourceLocation": "https://github.com/Nytra/ResoniteInspectorDelegateCaller",
+	"additionalAuthors": [
+		"eia485"
+	],
+	"versions": {
+		"1.4.1": {
+			"releaseUrl": "https://github.com/Nytra/ResoniteInspectorDelegateCaller/releases/tag/v1.4.1",
+			"artifacts": [{
+				"url": "https://github.com/Nytra/ResoniteInspectorDelegateCaller/releases/download/v1.4.1/InspectorDelegateCaller.dll",
+				"sha256": "b8c668fd10157e9221389dfe4ebfcfeb85211dd22868ce32c3d8e013ecf80467"
+			}]
+		},
+		"1.4.2": {
+			"releaseUrl": "https://github.com/Nytra/ResoniteInspectorDelegateCaller/releases/tag/v1.4.2",
+			"artifacts": [{
+				"url": "https://github.com/Nytra/ResoniteInspectorDelegateCaller/releases/download/v1.4.2/InspectorDelegateCaller.dll",
+				"sha256": "8e5a2ae15d38d7093bf78f64756eaa40aed30cddcf1fb74b014557df5d321e58"
+			}]
+		}
+	}
 }

@@ -1,28 +1,19 @@
 {
-    "name": "CustomShaderLib",
-    "id": "com.__Choco__.CustomShaderLib",
-    "description": "Removes shader validation and verification, in order to allow custom shaders.",
-    "category": "Libraries",
-    "sourceLocation": "https://github.com/AwesomeTornado/Resonite-CustomShaderLib",
-    "versions": {
-        "1.0.1": {
-            "releaseUrl": "https://github.com/AwesomeTornado/Resonite-CustomShaderLib/releases/tag/v1.0.1",
-            "artifacts": [
-                {
-                    "url": "https://github.com/AwesomeTornado/Resonite-CustomShaderLib/releases/download/v1.0.1/CustomShaderLib.dll",
-                    "sha256": "113263b286d5e84fa3330dfb0eb4b475ec28c9cf38f9e6b5267c8eaf2fc546d0"
-                }
-            ]
-        },
-        "1.0.0": {
-            "releaseUrl": "https://github.com/AwesomeTornado/Resonite-CustomShaderLib/releases/tag/v1.0.0",
-            "artifacts": [
-                {
-                    "url": "https://github.com/AwesomeTornado/Resonite-CustomShaderLib/releases/download/v1.0.0/CustomShaderLib.dll",
-                    "sha256": "706549c8d3b7cfe5391efcbd06a69604fe15812efd02514149f40a8c55e3b33a",
-                    "installLocation": "/rml_libs"
-                }
-            ]
-        }
-    }
+	"name": "CustomShaderLib",
+	"id": "com.__Choco__.CustomShaderLib",
+	"description": "Removes shader validation and verification, in order to allow custom shaders.",
+	"category": "Libraries",
+	"sourceLocation": "https://github.com/AwesomeTornado/Resonite-CustomShaderLib",
+	"versions": {
+		"1.0.1": {
+			"releaseUrl": "https://github.com/AwesomeTornado/Resonite-CustomShaderLib/releases/tag/v1.0.1",
+			"artifacts": [
+				{
+					"url": "https://github.com/AwesomeTornado/Resonite-CustomShaderLib/releases/download/v1.0.1/CustomShaderLib.dll",
+					"sha256": "113263b286d5e84fa3330dfb0eb4b475ec28c9cf38f9e6b5267c8eaf2fc546d0"
+				}
+			]
+		}
+	}
 }
+

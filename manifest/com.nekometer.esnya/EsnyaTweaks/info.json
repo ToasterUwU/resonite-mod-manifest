@@ -1,103 +1,28 @@
 {
-    "name": "EsnyaTweaks",
-    "id": "com.nekometer.esnya.EsnyaTweaks",
-    "description": "Small tweaks collection for ResoniteModLoader, including While/AsyncWhile timeouts and inspector enhancements.",
-    "category": "Technical Tweaks",
-    "sourceLocation": "https://github.com/esnya/ResoniteEsnyaTweaks",
-    "tags": [
-        "PhotonDust",
-        "LOD",
-        "SystemHelper"
-    ],
-    "versions": {
-        "1.0.0": {
-            "releaseUrl": "https://github.com/esnya/ResoniteEsnyaTweaks/releases/tag/v1.0.0",
-            "artifacts": [
-                {
-                    "url": "https://github.com/esnya/ResoniteEsnyaTweaks/releases/download/v1.0.0/EsnyaTweaks.FluxLoopTweaks.dll",
-                    "sha256": "c2fd09becc7f49528eb7d0ce1d41c399d301a8fe31c8f93cd5ece34082f43b1d"
-                },
-                {
-                    "url": "https://github.com/esnya/ResoniteEsnyaTweaks/releases/download/v1.0.0/EsnyaTweaks.LODGroupTweaks.dll",
-                    "sha256": "ba68157c2744261dcdcfe03f52a03866556de69fb68c2b1fbb257407653b072d"
-                },
-                {
-                    "url": "https://github.com/esnya/ResoniteEsnyaTweaks/releases/download/v1.0.0/EsnyaTweaks.PhotonDustTweaks.dll",
-                    "sha256": "7485eef1357b0bb5a0da85563aa912898032602467b5a9ffe8c1040c0d1a95c7"
-                },
-                {
-                    "url": "https://github.com/esnya/ResoniteEsnyaTweaks/releases/download/v1.0.0/EsnyaTweaks.UniLogTweaks.dll",
-                    "sha256": "418dfa640f4bb1520878a26d801a5e10293488c767dff712d7c288fe43c76bcf"
-                }
-            ]
-        },
-        "0.2.0": {
-            "releaseUrl": "https://github.com/esnya/ResoniteEsnyaTweaks/releases/tag/v0.2.0",
-            "artifacts": [
-                {
-                    "url": "https://github.com/esnya/ResoniteEsnyaTweaks/releases/download/v0.2.0/EsnyaTweaks.FluxLoopTweaks.dll",
-                    "sha256": "9089516dab5131f39e7fe19f03f3568822481ecec3ce7989caa151818bee5920"
-                },
-                {
-                    "url": "https://github.com/esnya/ResoniteEsnyaTweaks/releases/download/v0.2.0/EsnyaTweaks.LODGroupTweaks.dll",
-                    "sha256": "ad7fcc36292910c7f590864a8b22f6140cee6a81836b462c30853d8af967f0e8"
-                },
-                {
-                    "url": "https://github.com/esnya/ResoniteEsnyaTweaks/releases/download/v0.2.0/EsnyaTweaks.PhotonDustTweaks.dll",
-                    "sha256": "c955bc0829e48ec26b64e9fbec0c4f1920ba9b3038f8f718e95071e37ce5abc6"
-                },
-                {
-                    "url": "https://github.com/esnya/ResoniteEsnyaTweaks/releases/download/v0.2.0/EsnyaTweaks.SystemHelperTweaks.dll",
-                    "sha256": "83a952d58c476c64b7883426a4e0d2cc67badcb954eafa4a815f517547d5bed9"
-                },
-                {
-                    "url": "https://github.com/esnya/ResoniteEsnyaTweaks/releases/download/v0.2.0/EsnyaTweaks.UniLogTweaks.dll",
-                    "sha256": "8a9a011d4a2ea2186ecbbed9cc48de1ed3167a8429f6a8012c7e7fb2d3c543ea"
-                }
-            ]
-        },
-        "0.1.1": {
-            "releaseUrl": "https://github.com/esnya/ResoniteEsnyaTweaks/releases/tag/v0.1.1",
-            "artifacts": [
-                {
-                    "url": "https://github.com/esnya/ResoniteEsnyaTweaks/releases/download/v0.1.1/EsnyaTweaks.FluxLoopTweaks.dll",
-                    "sha256": "a07493477c6138e880c2204401164b053b6deb86f240b7573c6812734fc2f709"
-                },
-                {
-                    "url": "https://github.com/esnya/ResoniteEsnyaTweaks/releases/download/v0.1.1/EsnyaTweaks.LODGroupTweaks.dll",
-                    "sha256": "8b7f12e2e85392ddc7b022dd7085caa802e1e2fb8e0033e27f1957fbea49df2a"
-                },
-                {
-                    "url": "https://github.com/esnya/ResoniteEsnyaTweaks/releases/download/v0.1.1/EsnyaTweaks.PhotonDustTweaks.dll",
-                    "sha256": "ff408254c5780fbad3d6bfd7fb41df69edc5a11d37a3de3a4484e7bb856faa28"
-                },
-                {
-                    "url": "https://github.com/esnya/ResoniteEsnyaTweaks/releases/download/v0.1.1/EsnyaTweaks.SystemHelperTweaks.dll",
-                    "sha256": "05c8e9c9d046973766151b64ef4fffe360b3afa0ebf1ed6479399f1da6847857"
-                },
-                {
-                    "url": "https://github.com/esnya/ResoniteEsnyaTweaks/releases/download/v0.1.1/EsnyaTweaks.UniLogTweaks.dll",
-                    "sha256": "3b4955b4219855bdea4e20741321456b4a67796198576d347ae44fb89bad684e"
-                }
-            ]
-        },
-        "0.1.0": {
-            "releaseUrl": "https://github.com/esnya/ResoniteEsnyaTweaks/releases/tag/v0.1.0.0",
-            "artifacts": [
-                {
-                    "url": "https://github.com/esnya/ResoniteEsnyaTweaks/releases/download/v0.1.0.0/EsnyaTweaks.dll",
-                    "sha256": "54634a157f809dd1b690794e536adf8e4c9613b0d80bd580eaa844e17a0f2fa0"
-                }
-            ]
-        },
-        "0.0.1": {
-            "releaseUrl": "https://github.com/esnya/ResoniteEsnyaTweaks/releases/tag/v0.0.1.0",
-            "artifacts": [
-                {
-                    "url": "https://github.com/esnya/ResoniteEsnyaTweaks/releases/download/v0.0.1.0/EsnyaTweaks.dll",
-                    "sha256": "2118994148863950294cae7b361496919b1819ddb8446fbffbc448033d0e1d7a"
-                }
-            ]
-        }
-    }
+	"name": "EsnyaTweaks",
+	"id": "com.nekometer.esnya.EsnyaTweaks",
+	"description": "Small tweaks collection for ResoniteModLoader, including While/AsyncWhile timeouts and inspector enhancements.",
+	"category": "Technical Tweaks",
+	"sourceLocation": "https://github.com/esnya/ResoniteEsnyaTweaks",
+	"tags": [
+		"PhotonDust",
+		"LOD",
+		"SystemHelper"
+	],
+	"versions": {
+		"0.1.0": {
+			"releaseUrl": "https://github.com/esnya/ResoniteEsnyaTweaks/releases/tag/v0.1.0.0",
+			"artifacts": [{
+				"url": "https://github.com/esnya/ResoniteEsnyaTweaks/releases/download/v0.1.0.0/EsnyaTweaks.dll",
+				"sha256": "54634a157f809dd1b690794e536adf8e4c9613b0d80bd580eaa844e17a0f2fa0"
+			}]
+		},
+		"0.0.1": {
+			"releaseUrl": "https://github.com/esnya/ResoniteEsnyaTweaks/releases/tag/v0.0.1.0",
+			"artifacts": [{
+				"url": "https://github.com/esnya/ResoniteEsnyaTweaks/releases/download/v0.0.1.0/EsnyaTweaks.dll",
+				"sha256": "2118994148863950294cae7b361496919b1819ddb8446fbffbc448033d0e1d7a"
+			}]
+		}
+	}
 }

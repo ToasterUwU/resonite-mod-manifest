@@ -1,83 +1,17 @@
 {
-    "name": "SessionTweaks",
-    "id": "net.kazu0617.sessiontweaks",
-    "description": "Add these 3 buttons, 'Spawn' as spawn session orb, 'Open' as join session without focusing' and 'Copy' as copies session uri in Contacts tab.",
-    "category": "Dashboard",
-    "tags": [
-        "world"
-    ],
-    "sourceLocation": "https://github.com/kazu0617/SessionTweaks",
-    "versions": {
-        "4.0.0": {
-            "releaseUrl": "https://github.com/kazu0617/SessionTweaks/releases/tag/4.0.0",
-            "artifacts": [
-                {
-                    "url": "https://github.com/kazu0617/SessionTweaks/releases/download/4.0.0/SessionTweaks.dll",
-                    "sha256": "c8aa69e270c2388c1b74a0a80c0739424ad12c2fabf50cacba7d603c143075ac"
-                }
-            ]
-        },
-        "3.0.1": {
-            "releaseUrl": "https://github.com/kazu0617/SessionTweaks/releases/tag/3.0.1",
-            "artifacts": [
-                {
-                    "url": "https://github.com/kazu0617/SessionTweaks/releases/download/3.0.1/SessionTweaks.dll",
-                    "sha256": "2c326da2de6fe1a5f07111af97e2d2d8d9af8554eafb8376f29a621285f05a0e"
-                },
-                {
-                    "url": "https://github.com/kazu0617/SessionTweaks/releases/download/3.0.1/SessionTweaks.dll.sha256",
-                    "sha256": "4af71c7d8eff4044fe8f2b8d423f462782a5f17943ef6cde4d9a3e13a6b8a528"
-                }
-            ]
-        },
-        "3.0.0": {
-            "releaseUrl": "https://github.com/kazu0617/SessionTweaks/releases/tag/3.0.0",
-            "artifacts": [
-                {
-                    "url": "https://github.com/kazu0617/SessionTweaks/releases/download/3.0.0/SessionTweaks.dll",
-                    "sha256": "7768e18651b980ce6f80c6038d62a89d0d37eaea8f1dc558ff4661fe7c91feaa"
-                },
-                {
-                    "url": "https://github.com/kazu0617/SessionTweaks/releases/download/3.0.0/SessionTweaks.dll.sha256",
-                    "sha256": "734200eed82c24ca5b8aa20d76a8c1477d18b5db121d8fd2e1291c54e97479b7"
-                }
-            ]
-        },
-        "2.0.1": {
-            "releaseUrl": "https://github.com/kazu0617/SessionTweaks/releases/tag/v2.0.1",
-            "artifacts": [
-                {
-                    "url": "https://github.com/kazu0617/SessionTweaks/releases/download/v2.0.1/SessionTweaks.dll",
-                    "sha256": "db548cd71137f62811751a8296396e7c2523980700d10da3ac05e1ed8c970d47"
-                }
-            ]
-        },
-        "2.0.0": {
-            "releaseUrl": "https://github.com/kazu0617/SessionTweaks/releases/tag/v2.0.0",
-            "artifacts": [
-                {
-                    "url": "https://github.com/kazu0617/SessionTweaks/releases/download/v2.0.0/SessionTweaks.dll",
-                    "sha256": "1fd3a2b8cb66284574b611bdc71302b8a8dc0b86e167aaba97eb1ee9a9e76128"
-                }
-            ]
-        },
-        "1.1.0": {
-            "releaseUrl": "https://github.com/kazu0617/SessionTweaks/releases/tag/v1.1.0",
-            "artifacts": [
-                {
-                    "url": "https://github.com/kazu0617/SessionTweaks/releases/download/v1.1.0/SessionTweaks.dll",
-                    "sha256": "00af97fb6a6525554669c7de6683e96d5ad9712271f7e1df87a2292879093a96"
-                }
-            ]
-        },
-        "1.0.0": {
-            "releaseUrl": "https://github.com/kazu0617/SessionTweaks/releases/tag/v1.0.0",
-            "artifacts": [
-                {
-                    "url": "https://github.com/kazu0617/SessionTweaks/releases/download/v1.0.0/SessionTweaks.dll",
-                    "sha256": "78ce9c842ffcd3ad4d45b4f2f537d28ecfa2b13f80aa96741fe7ffd1c8a28e7e"
-                }
-            ]
-        }
-    }
+	"name": "SessionTweaks",
+	"id": "net.kazu0617.sessiontweaks",
+	"description": "Add these 3 buttons, 'Spawn' as spawn session orb, 'Open' as join session without focusing' and 'Copy' as copies session uri in Contacts tab.",
+	"category": "Dashboard",
+	"tags": ["world"],
+	"sourceLocation": "https://github.com/kazu0617/SessionTweaks",
+	"versions": {
+		"4.0.0": {
+			"releaseUrl": "https://github.com/kazu0617/SessionTweaks/releases/tag/4.0.0",
+			"artifacts": [{
+				"url": "https://github.com/kazu0617/SessionTweaks/releases/download/4.0.0/SessionTweaks.dll",
+				"sha256": "c8aa69e270c2388c1b74a0a80c0739424ad12c2fabf50cacba7d603c143075ac"
+			}]
+		}
+	}
 }

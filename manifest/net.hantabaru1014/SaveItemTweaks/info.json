@@ -1,63 +1,30 @@
 {
-    "name": "SaveItemTweaks",
-    "id": "net.hantabaru1014.SaveItemTweaks",
-    "description": "Tweaks for item saving/spawning when your scale is not set to 1",
-    "category": "Misc",
-    "sourceLocation": "https://github.com/hantabaru1014/SaveItemTweaks",
-    "versions": {
-        "2.1.0": {
-            "releaseUrl": "https://github.com/hantabaru1014/SaveItemTweaks/releases/tag/v2.1.0",
-            "artifacts": [
-                {
-                    "url": "https://github.com/hantabaru1014/SaveItemTweaks/releases/download/v2.1.0/SaveItemTweaks.dll",
-                    "sha256": "5e439c9e2116d529def0dd3caefed103a65969a2c43f5ad8405be95aa55f6e94"
-                }
-            ]
-        },
-        "2.0.2": {
-            "releaseUrl": "https://github.com/hantabaru1014/SaveItemTweaks/releases/tag/v2.0.2",
-            "artifacts": [
-                {
-                    "url": "https://github.com/hantabaru1014/SaveItemTweaks/releases/download/v2.0.2/SaveItemTweaks.dll",
-                    "sha256": "c72cd3fd18f6d1563e00a3f3215506d50b6950ba0489fb0abb2b6f95074aaf93"
-                }
-            ]
-        },
-        "2.0.1": {
-            "releaseUrl": "https://github.com/hantabaru1014/SaveItemTweaks/releases/tag/v2.0.1",
-            "artifacts": [
-                {
-                    "url": "https://github.com/hantabaru1014/SaveItemTweaks/releases/download/v2.0.1/SaveItemTweaks.dll",
-                    "sha256": "6e9d5f49a8be54ed641784a6068b21faf4c535314259d9847a3fffa06bd245a7"
-                }
-            ]
-        },
-        "2.0.0": {
-            "releaseUrl": "https://github.com/hantabaru1014/SaveItemTweaks/releases/tag/v2.0.0",
-            "artifacts": [
-                {
-                    "url": "https://github.com/hantabaru1014/SaveItemTweaks/releases/download/v2.0.0/SaveItemTweaks.dll",
-                    "sha256": "83047883785752c860d87d299f39f016eae9f781c0503f8a3e3e0f6de67b82b4"
-                }
-            ]
-        },
-        "1.0.1": {
-            "releaseUrl": "https://github.com/hantabaru1014/SaveItemTweaks/releases/tag/v1.0.1",
-            "artifacts": [
-                {
-                    "url": "https://github.com/hantabaru1014/SaveItemTweaks/releases/download/v1.0.1/SaveItemTweaks.dll",
-                    "sha256": "22db4b5a87fd1aa823b61d2c861af5d9201bedf6edd3802288688dc45a480143"
-                }
-            ]
-        },
-        "1.0.0": {
-            "releaseUrl": "https://github.com/hantabaru1014/SaveItemTweaks/releases/tag/v1.0.0",
-            "artifacts": [
-                {
-                    "url": "https://github.com/hantabaru1014/SaveItemTweaks/releases/download/v1.0.0/SaveItemTweaks.dll",
-                    "sha256": "f4f11529a3556613e1e6e7b16c1fa06bf33acda1ecb56882f871e75813de800f"
-                }
-            ]
-        }
-    }
+	"name": "SaveItemTweaks",
+	"id": "net.hantabaru1014.SaveItemTweaks",
+	"description": "Tweaks for item saving/spawning when your scale is not set to 1",
+	"category": "Misc",
+	"sourceLocation": "https://github.com/hantabaru1014/SaveItemTweaks",
+	"versions": {
+		"2.1.0": {
+			"releaseUrl": "https://github.com/hantabaru1014/SaveItemTweaks/releases/tag/v2.1.0",
+			"artifacts": [{
+				"url": "https://github.com/hantabaru1014/SaveItemTweaks/releases/download/v2.1.0/SaveItemTweaks.dll",
+				"sha256": "5e439c9e2116d529def0dd3caefed103a65969a2c43f5ad8405be95aa55f6e94"
+			}]
+		},
+		"2.0.2": {
+			"releaseUrl": "https://github.com/hantabaru1014/SaveItemTweaks/releases/tag/v2.0.2",
+			"artifacts": [{
+				"url": "https://github.com/hantabaru1014/SaveItemTweaks/releases/download/v2.0.2/SaveItemTweaks.dll",
+				"sha256": "c72cd3fd18f6d1563e00a3f3215506d50b6950ba0489fb0abb2b6f95074aaf93"
+			}]
+		},
+		"2.0.1": {
+			"releaseUrl": "https://github.com/hantabaru1014/SaveItemTweaks/releases/tag/v2.0.1",
+			"artifacts": [{
+				"url": "https://github.com/hantabaru1014/SaveItemTweaks/releases/download/v2.0.1/SaveItemTweaks.dll",
+				"sha256": "6e9d5f49a8be54ed641784a6068b21faf4c535314259d9847a3fffa06bd245a7"
+			}]
+		}
+	}
 }

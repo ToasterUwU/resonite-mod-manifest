@@ -1,81 +1,16 @@
 {
-    "name": "BoneReferenceHelper",
-    "id": "com.TheJebForge.BoneReferenceHelper",
-    "description": "Adds a lot of useful things for transferring bone references of skinned mesh renderers",
-    "category": "Inspectors",
-    "sourceLocation": "https://github.com/TheJebForge/BoneReferenceHelper",
-    "versions": {
-        "2.0.5": {
-            "releaseUrl": "https://github.com/TheJebForge/BoneReferenceHelper/releases/tag/v2.0.5",
-            "artifacts": [
-                {
-                    "url": "https://github.com/TheJebForge/BoneReferenceHelper/releases/download/v2.0.5/BoneReferenceHelper.dll",
-                    "sha256": "203a14448c8b9fff31fee1b27c28e3cc139b660ed146854cff7696a31de8e861"
-                }
-            ]
-        },
-        "2.0.4": {
-            "releaseUrl": "https://github.com/TheJebForge/BoneReferenceHelper/releases/tag/v2.0.4",
-            "artifacts": [
-                {
-                    "url": "https://github.com/TheJebForge/BoneReferenceHelper/releases/download/v2.0.4/BoneReferenceHelper.dll",
-                    "sha256": "6f4c13041e98c0f79988701392033cbe446bb26720cb89862f522dc3713cb709"
-                }
-            ]
-        },
-        "2.0.3": {
-            "releaseUrl": "https://github.com/TheJebForge/BoneReferenceHelper/releases/tag/v2.0.3",
-            "artifacts": [
-                {
-                    "url": "https://github.com/TheJebForge/BoneReferenceHelper/releases/download/v2.0.3/BoneReferenceHelper.dll",
-                    "sha256": "2abcdbfa6c2318129a580dc1b6adc9996492cb7f104652ce09bef53d0c9c728c"
-                }
-            ]
-        },
-        "2.0.2": {
-            "releaseUrl": "https://github.com/TheJebForge/BoneReferenceHelper/releases/tag/v2.0.2",
-            "artifacts": [
-                {
-                    "url": "https://github.com/TheJebForge/BoneReferenceHelper/releases/download/v2.0.2/BoneReferenceHelper.dll",
-                    "sha256": "d55ffc5bd81e983a46bfa61e442a38a5baca1d4882dcff1a7fe30c015799b14b"
-                }
-            ]
-        },
-        "2.0.1": {
-            "releaseUrl": "https://github.com/TheJebForge/BoneReferenceHelper/releases/tag/v2.0.1",
-            "artifacts": [
-                {
-                    "url": "https://github.com/TheJebForge/BoneReferenceHelper/releases/download/v2.0.1/BoneReferenceHelper.dll",
-                    "sha256": "962a3cdb31c8a95a8149e62f39375dd7afd9c301f8eeeb405109b67799512174"
-                }
-            ]
-        },
-        "2.0.0": {
-            "releaseUrl": "https://github.com/TheJebForge/BoneReferenceHelper/releases/tag/v2.0.0",
-            "artifacts": [
-                {
-                    "url": "https://github.com/TheJebForge/BoneReferenceHelper/releases/download/v2.0.0/BoneReferenceHelper.dll",
-                    "sha256": "6d8ac2d1a755c3b5c2821c9ce260d8a90bd18eb051cc802a57f55a9cdbffbf5f"
-                }
-            ]
-        },
-        "1.0.1": {
-            "releaseUrl": "https://github.com/TheJebForge/BoneReferenceHelper/releases/tag/v1.0.1",
-            "artifacts": [
-                {
-                    "url": "https://github.com/TheJebForge/BoneReferenceHelper/releases/download/v1.0.1/BoneReferenceHelper.dll",
-                    "sha256": "dc63cd64eb34b8013c439265ebff710590d2c8d00ce7f736a2bfb69fe1c3289c"
-                }
-            ]
-        },
-        "1.0.0": {
-            "releaseUrl": "https://github.com/TheJebForge/BoneReferenceHelper/releases/tag/v1.0.0",
-            "artifacts": [
-                {
-                    "url": "https://github.com/TheJebForge/BoneReferenceHelper/releases/download/v1.0.0/BoneReferenceHelper.dll",
-                    "sha256": "7d20a69dc971023b0f344990fd3610bf50a08c2ccfb218876192ec0d8414411f"
-                }
-            ]
-        }
-    }
+	"name": "BoneReferenceHelper",
+	"id": "com.TheJebForge.BoneReferenceHelper",
+	"description": "Adds a lot of useful things for transferring bone references of skinned mesh renderers",
+	"category": "Inspectors",
+	"sourceLocation": "https://github.com/TheJebForge/BoneReferenceHelper",
+	"versions": {
+		"2.0.5": {
+			"releaseUrl": "https://github.com/TheJebForge/BoneReferenceHelper/releases/tag/v2.0.5",
+			"artifacts": [{
+				"url": "https://github.com/TheJebForge/BoneReferenceHelper/releases/download/v2.0.5/BoneReferenceHelper.dll",
+				"sha256": "203a14448c8b9fff31fee1b27c28e3cc139b660ed146854cff7696a31de8e861"
+			}]
+		}
+	}
 }

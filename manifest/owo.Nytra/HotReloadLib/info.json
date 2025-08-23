@@ -1,77 +1,38 @@
 {
-    "name": "HotReloadLib",
-    "id": "owo.Nytra.HotReloadLib",
-    "description": "Library for Resonite mod developers to hot reload their mods without needing to restart the whole game.",
-    "category": "Libraries",
-    "sourceLocation": "https://github.com/Nytra/ResoniteHotReloadLib",
-    "versions": {
-        "3.1.0": {
-            "releaseUrl": "https://github.com/Nytra/ResoniteHotReloadLib/releases/tag/v3.1.0-RML",
-            "artifacts": [
-                {
-                    "url": "https://github.com/Nytra/ResoniteHotReloadLib/releases/download/v3.1.0-RML/ResoniteHotReloadLib.dll",
-                    "sha256": "a2164153766e7cc7a5c0af0f4ba47ff3bbcc96a431ea5fed66d16097cb0c4f07",
-                    "installLocation": "/rml_libs"
-                },
-                {
-                    "url": "https://github.com/Nytra/ResoniteHotReloadLib/releases/download/v3.1.0-RML/ResoniteHotReloadLibCore.dll",
-                    "sha256": "6412fc3a4a442af8dd53f970c1352cd0179127334066d66e190db120db5c150c",
-                    "installLocation": "/rml_libs"
-                }
-            ]
-        },
-        "3.0.0": {
-            "releaseUrl": "https://github.com/Nytra/ResoniteHotReloadLib/releases/tag/v3.0.0",
-            "artifacts": [
-                {
-                    "url": "https://github.com/Nytra/ResoniteHotReloadLib/releases/download/v3.0.0-RML/ResoniteHotReloadLib.dll",
-                    "sha256": "305275c439b7866acdb2030097cfff710df5a240aab2144ce873f262e57be752",
-                    "installLocation": "/rml_libs"
-                },
-                {
-                    "url": "https://github.com/Nytra/ResoniteHotReloadLib/releases/download/v3.0.0-RML/ResoniteHotReloadLibCore.dll",
-                    "sha256": "8f9f3c7fb44adce01a9a39976906f55b6a39b9d0771aa33b8bd5efeaa7fb4022",
-                    "installLocation": "/rml_libs"
-                }
-            ]
-        },
-        "2.1.1": {
-            "releaseUrl": "https://github.com/Nytra/ResoniteHotReloadLib/releases/tag/v2.1.1",
-            "artifacts": [
-                {
-                    "url": "https://github.com/Nytra/ResoniteHotReloadLib/releases/download/v2.1.1/ResoniteHotReloadLib.dll",
-                    "sha256": "64f85cfe1681a1b49ba88087dcfe07050696617db85b50e3b77a4e8db01f0be9"
-                }
-            ]
-        },
-        "2.1.0": {
-            "releaseUrl": "https://github.com/Nytra/ResoniteHotReloadLib/releases/tag/v2.1.0",
-            "artifacts": [
-                {
-                    "url": "https://github.com/Nytra/ResoniteHotReloadLib/releases/download/v2.1.0/ResoniteHotReloadLib.dll",
-                    "sha256": "76c6871dc58ebee39a86758e05703831518e7992c9ecf018e2c0a7e63f8b81ac"
-                }
-            ]
-        },
-        "2.0.0": {
-            "releaseUrl": "https://github.com/Nytra/ResoniteHotReloadLib/releases/tag/v2.0.0",
-            "artifacts": [
-                {
-                    "url": "https://github.com/Nytra/ResoniteHotReloadLib/releases/download/v2.0.0/ResoniteHotReloadLib.dll",
-                    "sha256": "17dbaa733a139faff3793e9609d680121b5ad3f1cf62e10c24f56885ae4597f8",
-                    "installLocation": "/rml_libs"
-                }
-            ]
-        },
-        "1.0.0": {
-            "releaseUrl": "https://github.com/Nytra/ResoniteHotReloadLib/releases/tag/v1.0.0",
-            "artifacts": [
-                {
-                    "url": "https://github.com/Nytra/ResoniteHotReloadLib/releases/download/v1.0.0/ResoniteHotReloadLib.dll",
-                    "sha256": "b2178a4b3bf3d6d77d5c1bbaa0507e27c69f3a79f5f811bea2a07ea09014cde0",
-                    "installLocation": "/rml_libs"
-                }
-            ]
-        }
-    }
+	"name": "HotReloadLib",
+	"id": "owo.Nytra.HotReloadLib",
+	"description": "Library for Resonite mod developers to hot reload their mods without needing to restart the whole game.",
+	"category": "Libraries",
+	"sourceLocation": "https://github.com/Nytra/ResoniteHotReloadLib",
+	"versions": {
+		"2.1.0": {
+			"releaseUrl": "https://github.com/Nytra/ResoniteHotReloadLib/releases/tag/v2.1.0",
+			"artifacts": [{
+				"url": "https://github.com/Nytra/ResoniteHotReloadLib/releases/download/v2.1.0/ResoniteHotReloadLib.dll",
+				"sha256": "76c6871dc58ebee39a86758e05703831518e7992c9ecf018e2c0a7e63f8b81ac"
+			}]
+		},
+		"2.1.1": {
+			"releaseUrl": "https://github.com/Nytra/ResoniteHotReloadLib/releases/tag/v2.1.1",
+			"artifacts": [{
+				"url": "https://github.com/Nytra/ResoniteHotReloadLib/releases/download/v2.1.1/ResoniteHotReloadLib.dll",
+				"sha256": "64f85cfe1681a1b49ba88087dcfe07050696617db85b50e3b77a4e8db01f0be9"
+			}]
+		},
+		"3.0.0": {
+			"releaseUrl": "https://github.com/Nytra/ResoniteHotReloadLib/releases/tag/v3.0.0",
+			"artifacts": [
+				{
+					"url": "https://github.com/Nytra/ResoniteHotReloadLib/releases/download/v3.0.0-RML/ResoniteHotReloadLib.dll",
+					"sha256": "305275c439b7866acdb2030097cfff710df5a240aab2144ce873f262e57be752",
+					"installLocation": "/rml_libs"
+				},
+				{
+					"url": "https://github.com/Nytra/ResoniteHotReloadLib/releases/download/v3.0.0-RML/ResoniteHotReloadLibCore.dll",
+					"sha256": "8f9f3c7fb44adce01a9a39976906f55b6a39b9d0771aa33b8bd5efeaa7fb4022",
+					"installLocation": "/rml_libs"
+				}
+			]
+		}
+	}
 }

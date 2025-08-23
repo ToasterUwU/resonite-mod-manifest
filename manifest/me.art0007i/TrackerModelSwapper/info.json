@@ -14,16 +14,6 @@
                     "sha256": "9768a0be3b54c5d79351cbf7e0e237091eeac48038f44d079ea8006b344486ba"
                 }
             ]
-        },
-        "1.0.0": {
-            "releaseUrl": "https://github.com/art0007i/TrackerModelSwapper/releases/tag/1.0.0",
-            "artifacts": [
-                {
-                    "url": "https://github.com/art0007i/TrackerModelSwapper/releases/download/1.0.0/TrackerModelSwapper.dll",
-                    "sha256": "3f2866329cc76a51104e80476a18038fe9e31334a876bf7d65ccddb767fea720",
-                    "filename": "TrackerModelSwapper.dll"
-                }
-            ]
         }
     }
 }

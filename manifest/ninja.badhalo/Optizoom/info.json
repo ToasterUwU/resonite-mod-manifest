@@ -1,90 +1,44 @@
 {
-    "name": "Optizoom",
-    "id": "ninja.badhalo.Optizoom",
-    "description": "Adds the ability to zoom",
-    "category": "Visual Tweaks",
-    "sourceLocation": "https://github.com/badhaloninja/Optizoom",
-    "versions": {
-        "2.2.0": {
-            "releaseUrl": "https://github.com/badhaloninja/Optizoom/releases/tag/v2.2.0",
-            "artifacts": [
-                {
-                    "url": "https://github.com/badhaloninja/Optizoom/releases/download/v2.2.0/Optizoom.dll",
-                    "sha256": "0cacd23127ff49b8b0510179807378f822d8a02aef1187ad274f951874d2fa2a"
-                }
-            ]
-        },
-        "2.1.3": {
-            "releaseUrl": "https://github.com/badhaloninja/Optizoom/releases/tag/v2.1.3",
-            "artifacts": [
-                {
-                    "url": "https://github.com/badhaloninja/Optizoom/releases/download/v2.1.3/Optizoom.dll",
-                    "sha256": "0d98c6112581db0f24bbc0465857ac2bbf6d05bb9a6592e234c84f3a4ac83128"
-                }
-            ]
-        },
-        "2.1.2": {
-            "releaseUrl": "https://github.com/badhaloninja/Optizoom/releases/tag/v2.1.2",
-            "artifacts": [
-                {
-                    "url": "https://github.com/badhaloninja/Optizoom/releases/download/v2.1.2/Optizoom.dll",
-                    "sha256": "d6512b01bbc7c4760454b9deb90417bdb509576600bfb24e4c114d363b059ace"
-                }
-            ]
-        },
-        "2.1.1": {
-            "releaseUrl": "https://github.com/badhaloninja/Optizoom/releases/tag/v2.1.1",
-            "artifacts": [
-                {
-                    "url": "https://github.com/badhaloninja/Optizoom/releases/download/v2.1.1/Optizoom.dll",
-                    "sha256": "3e44d3fdd440b4b3460dcebcfe343dc9b3db4e64be6ac9550dced6420195da03"
-                }
-            ]
-        },
-        "2.1.0": {
-            "releaseUrl": "https://github.com/badhaloninja/Optizoom/releases/tag/v2.1.0",
-            "artifacts": [
-                {
-                    "url": "https://github.com/badhaloninja/Optizoom/releases/download/v2.1.0/Optizoom.dll",
-                    "sha256": "d0bfb4a59fd8d3cfa2ee86f25e557cf125ad98f43b5275649d1d6fffa79f795f"
-                }
-            ]
-        },
-        "2.0.0": {
-            "releaseUrl": "https://github.com/badhaloninja/Optizoom/releases/tag/v2.0.0",
-            "artifacts": [
-                {
-                    "url": "https://github.com/badhaloninja/Optizoom/releases/download/v2.0.0/Optizoom.dll",
-                    "sha256": "44a320d7f7dbabdca0c211a19fb842f72cd24045b177b78a87286eef73349c2e"
-                }
-            ]
-        },
-        "1.2.0": {
-            "releaseUrl": "https://github.com/badhaloninja/Optizoom/releases/tag/v1.2.0",
-            "artifacts": [
-                {
-                    "url": "https://github.com/badhaloninja/Optizoom/releases/download/v1.2.0/Optizoom.dll",
-                    "sha256": "ee03da540175ede2c615e26eea8b6b8abbc66d9fff514e8accdbb24bdafbe473"
-                }
-            ]
-        },
-        "1.1.0": {
-            "releaseUrl": "https://github.com/badhaloninja/Optizoom/releases/tag/v1.1.0",
-            "artifacts": [
-                {
-                    "url": "https://github.com/badhaloninja/Optizoom/releases/download/v1.1.0/Optizoom.dll",
-                    "sha256": "d6b4169e50f12465271ecff632e529f0369860108520770a1f9018b1d4809fbe"
-                }
-            ]
-        },
-        "1.0.0": {
-            "releaseUrl": "https://github.com/badhaloninja/Optizoom/releases/tag/v1.0.0",
-            "artifacts": [
-                {
-                    "url": "https://github.com/badhaloninja/Optizoom/releases/download/v1.0.0/Optizoom.dll",
-                    "sha256": "8090107a2c0cdbdb7a562258b9ae6beb228a037796f29aaa9d93f760db97d74f"
-                }
-            ]
-        }
-    }
+	"name": "Optizoom",
+	"id": "ninja.badhalo.Optizoom",
+	"description": "Adds the ability to zoom",
+	"category": "Visual Tweaks",
+	"sourceLocation": "https://github.com/badhaloninja/Optizoom",
+	"versions": {
+		"2.1.0": {
+			"releaseUrl": "https://github.com/badhaloninja/Optizoom/releases/tag/v2.1.0",
+			"artifacts": [{
+				"url": "https://github.com/badhaloninja/Optizoom/releases/download/v2.1.0/Optizoom.dll",
+				"sha256": "d0bfb4a59fd8d3cfa2ee86f25e557cf125ad98f43b5275649d1d6fffa79f795f"
+			}]
+		},
+		"2.1.1": {
+			"releaseUrl": "https://github.com/badhaloninja/Optizoom/releases/tag/v2.1.1",
+			"artifacts": [{
+				"url": "https://github.com/badhaloninja/Optizoom/releases/download/v2.1.1/Optizoom.dll",
+				"sha256": "3e44d3fdd440b4b3460dcebcfe343dc9b3db4e64be6ac9550dced6420195da03"
+			}]
+		},
+		"2.1.2": {
+			"releaseUrl": "https://github.com/badhaloninja/Optizoom/releases/tag/v2.1.2",
+			"artifacts": [{
+				"url": "https://github.com/badhaloninja/Optizoom/releases/download/v2.1.2/Optizoom.dll",
+				"sha256": "d6512b01bbc7c4760454b9deb90417bdb509576600bfb24e4c114d363b059ace"
+			}]
+		},
+		"2.1.3": {
+			"releaseUrl": "https://github.com/badhaloninja/Optizoom/releases/tag/v2.1.3",
+			"artifacts": [{
+				"url": "https://github.com/badhaloninja/Optizoom/releases/download/v2.1.3/Optizoom.dll",
+				"sha256": "0d98c6112581db0f24bbc0465857ac2bbf6d05bb9a6592e234c84f3a4ac83128"
+			}]
+		},
+		"2.2.0": {
+			"releaseUrl": "https://github.com/badhaloninja/Optizoom/releases/tag/v2.2.0",
+			"artifacts": [{
+				"url": "https://github.com/badhaloninja/Optizoom/releases/download/v2.2.0/Optizoom.dll",
+				"sha256": "0cacd23127ff49b8b0510179807378f822d8a02aef1187ad274f951874d2fa2a"
+			}]
+		}
+	}
 }
