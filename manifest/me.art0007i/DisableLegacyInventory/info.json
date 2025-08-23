@@ -1,5 +1,7 @@
 {
-    "flags": ["deprecated"],
+    "flags": [
+        "deprecated"
+    ],
     "name": "DisableLegacyInventory",
     "id": "me.art0007i.DisableLegacyInventory",
     "description": "Disables the legacy inventory gesture, but it has a config option that can enable it again",
@@ -13,6 +15,16 @@
                     "url": "https://github.com/art0007i/DisableLegacyInventory/releases/download/2.0.0/DisableLegacyInventory.dll",
                     "filename": "DisableLegacyInventory.dll",
                     "sha256": "84a5d0a9d5f031225f8cff9d7e18a3b12b196afb05b6c2b9f1fc0e2ddba45a87"
+                }
+            ]
+        },
+        "1.0.0": {
+            "releaseUrl": "https://github.com/art0007i/DisableLegacyInventory/releases/tag/1.0.0",
+            "artifacts": [
+                {
+                    "url": "https://github.com/art0007i/DisableLegacyInventory/releases/download/1.0.0/DisableLegacyInventory.dll",
+                    "sha256": "846f9a989d0d642c81ccf860d1840b0c947a9800dffc9de7c97e8579fdc61a34",
+                    "filename": "DisableLegacyInventory.dll"
                 }
             ]
         }

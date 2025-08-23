@@ -14,6 +14,16 @@
                     "sha256": "e8f6bb0dbde068bc53d01a0788f9ff8b21dfbec5320df88c9c81aa112633d5b4"
                 }
             ]
+        },
+        "1.0.0": {
+            "releaseUrl": "https://github.com/art0007i/LargerObjectMessagePreviews/releases/tag/1.0.0",
+            "artifacts": [
+                {
+                    "url": "https://github.com/art0007i/LargerObjectMessagePreviews/releases/download/1.0.0/LargerObjectMessagePreviews.dll",
+                    "sha256": "23c9bf7060c14f2f29b91f84d9f946b82dc5d52af592143407e8053139845d33",
+                    "filename": "LargerObjectMessagePreviews.dll"
+                }
+            ]
         }
     }
 }

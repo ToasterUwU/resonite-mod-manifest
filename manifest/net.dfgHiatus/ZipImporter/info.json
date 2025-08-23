@@ -1,23 +1,65 @@
 {
-	"name": "ZipImporter",
-	"id": "net.dfgHiatus.ZipImporter",
-	"description": "Allows importing and extraction of .zip files",
-	"category": "Asset Importing",
-	"sourceLocation": "https://github.com/dfgHiatus/ZipImporter",
-	"versions": {
-		"2.1.2": {
-			"releaseUrl": "https://github.com/dfgHiatus/ZipImporter/releases/tag/v2.1.2",
-			"artifacts": [{
-				"url": "https://github.com/dfgHiatus/ZipImporter/releases/download/v2.1.2/ZipImporter.dll",
-				"sha256": "28e3f550872a810b012abd7072e23ff46aa2da37f0d8505c18b981db73a6d2ff"
-			}]
-		},
-		"2.0.1": {
-			"releaseUrl": "https://github.com/dfgHiatus/ZipImporter/releases/tag/v2.0.1",
-			"artifacts": [{
-				"url": "https://github.com/dfgHiatus/ZipImporter/releases/download/v2.0.1/ZipImporter.dll",
-				"sha256": "4c7972d935452ac5f3db44738ba0972b13ccb1e8907dc4092b7325c80cb999f2"
-			}]
-		}
-	}
+    "name": "ZipImporter",
+    "id": "net.dfgHiatus.ZipImporter",
+    "description": "Allows importing and extraction of .zip files",
+    "category": "Asset Importing",
+    "sourceLocation": "https://github.com/dfgHiatus/ZipImporter",
+    "versions": {
+        "2.1.2": {
+            "releaseUrl": "https://github.com/dfgHiatus/ZipImporter/releases/tag/v2.1.2",
+            "artifacts": [
+                {
+                    "url": "https://github.com/dfgHiatus/ZipImporter/releases/download/v2.1.2/ZipImporter.dll",
+                    "sha256": "28e3f550872a810b012abd7072e23ff46aa2da37f0d8505c18b981db73a6d2ff"
+                }
+            ]
+        },
+        "2.1.0": {
+            "releaseUrl": "https://github.com/dfgHiatus/ZipImporter/releases/tag/v2.1.0",
+            "artifacts": [
+                {
+                    "url": "https://github.com/dfgHiatus/ZipImporter/releases/download/v2.1.0/ZipImporter.dll",
+                    "sha256": "1035f69395d2cee0ab961335daf5a469c3a8de020f67faf88f45c0cf54d89dbc"
+                }
+            ]
+        },
+        "2.0.1": {
+            "releaseUrl": "https://github.com/dfgHiatus/ZipImporter/releases/tag/v2.0.1",
+            "artifacts": [
+                {
+                    "url": "https://github.com/dfgHiatus/ZipImporter/releases/download/v2.0.1/ZipImporter.dll",
+                    "sha256": "4c7972d935452ac5f3db44738ba0972b13ccb1e8907dc4092b7325c80cb999f2"
+                }
+            ]
+        },
+        "2.0.0": {
+            "releaseUrl": "https://github.com/dfgHiatus/ZipImporter/releases/tag/v2.0.0",
+            "artifacts": [
+                {
+                    "url": "https://github.com/dfgHiatus/ZipImporter/releases/download/v2.0.0/ZipImporter.dll",
+                    "sha256": "2e1dc8a614a2ead908014deefe0a2e9ad101804953992c72cff3f357710fbfad"
+                }
+            ]
+        },
+        "1.0.1": {
+            "releaseUrl": "https://github.com/dfgHiatus/ZipImporter/releases/tag/v1.0.1",
+            "artifacts": [
+                {
+                    "url": "https://github.com/dfgHiatus/ZipImporter/releases/download/v1.0.1/Unzipper.dll",
+                    "sha256": "81d57f51be8bc3704fa18656fa4a168369434ec356ead12d380ccead036f6e03",
+                    "installLocation": "/rml_libs"
+                }
+            ]
+        },
+        "1.0.0": {
+            "releaseUrl": "https://github.com/dfgHiatus/ZipImporter/releases/tag/v1.0.0",
+            "artifacts": [
+                {
+                    "url": "https://github.com/dfgHiatus/ZipImporter/releases/download/v1.0.0/Unzipper.dll",
+                    "sha256": "bd9d2faa8bd93badd5d9f5478fde284e79e91de38228e596087fd0fd856a2ae4",
+                    "installLocation": "/rml_libs"
+                }
+            ]
+        }
+    }
 }

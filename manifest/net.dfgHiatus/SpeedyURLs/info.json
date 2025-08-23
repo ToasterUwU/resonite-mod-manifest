@@ -1,16 +1,36 @@
 {
-	"name": "SpeedyURLs",
-	"id": "net.dfgHiatus.SpeedyURLs",
-	"description": "Skips the countdown in the hyperlink open dialog",
-	"category": "Misc",
-	"sourceLocation": "https://github.com/dfgHiatus/SpeedyURLs",
-	"versions": {
-		"2.0.0": {
-			"releaseUrl": "https://github.com/dfgHiatus/SpeedyURLs/releases/tag/v2.0.0",
-			"artifacts": [{
-				"url": "https://github.com/dfgHiatus/SpeedyURLs/releases/download/v2.0.0/SpeedyURLs.dll",
-				"sha256": "52663402e34e48137765d49a0dcd8a47293a21e01692c274bf2c3cef643d2c79"
-			}]
-		}
-	}
+    "name": "SpeedyURLs",
+    "id": "net.dfgHiatus.SpeedyURLs",
+    "description": "Skips the countdown in the hyperlink open dialog",
+    "category": "Misc",
+    "sourceLocation": "https://github.com/dfgHiatus/SpeedyURLs",
+    "versions": {
+        "2.0.0": {
+            "releaseUrl": "https://github.com/dfgHiatus/SpeedyURLs/releases/tag/v2.0.0",
+            "artifacts": [
+                {
+                    "url": "https://github.com/dfgHiatus/SpeedyURLs/releases/download/v2.0.0/SpeedyURLs.dll",
+                    "sha256": "52663402e34e48137765d49a0dcd8a47293a21e01692c274bf2c3cef643d2c79"
+                }
+            ]
+        },
+        "1.1.0": {
+            "releaseUrl": "https://github.com/dfgHiatus/SpeedyURLs/releases/tag/v1.1.0",
+            "artifacts": [
+                {
+                    "url": "https://github.com/dfgHiatus/SpeedyURLs/releases/download/v1.1.0/SpeedyURLs.dll",
+                    "sha256": "4f42e1e55e2d5e275c7de154e675d4b10af4e6f958db667e9919db809841169a"
+                }
+            ]
+        },
+        "1.0.0": {
+            "releaseUrl": "https://github.com/dfgHiatus/SpeedyURLs/releases/tag/v1.0.0",
+            "artifacts": [
+                {
+                    "url": "https://github.com/dfgHiatus/SpeedyURLs/releases/download/v1.0.0/SpeedyURLs.dll",
+                    "sha256": "18bd42139ee39a8eb0d972ee92cb8d0529ba5925a591298d8acc3814298803cf"
+                }
+            ]
+        }
+    }
 }

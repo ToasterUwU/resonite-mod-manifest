@@ -5,16 +5,6 @@
     "category": "Inspectors",
     "sourceLocation": "https://github.com/art0007i/ColorDrop",
     "versions": {
-        "2.1.0": {
-            "releaseUrl": "https://github.com/art0007i/ColorDrop/releases/tag/2.1.0",
-            "artifacts": [
-                {
-                    "url": "https://github.com/art0007i/ColorDrop/releases/download/2.1.0/ColorDrop.dll",
-                    "filename": "ColorDrop.dll",
-                    "sha256": "d4f0e4b7ded4056fbee7ab94819bbd8a2a5ea2e60eb6680817f5476cced6688d"
-                }
-            ]
-        },
         "2.1.1": {
             "releaseUrl": "https://github.com/art0007i/ColorDrop/releases/tag/2.1.1",
             "artifacts": [
@@ -25,6 +15,36 @@
                 }
             ],
             "changelog": "Rebuild for compatibility with 2024.4.15.1407"
+        },
+        "2.1.0": {
+            "releaseUrl": "https://github.com/art0007i/ColorDrop/releases/tag/2.1.0",
+            "artifacts": [
+                {
+                    "url": "https://github.com/art0007i/ColorDrop/releases/download/2.1.0/ColorDrop.dll",
+                    "filename": "ColorDrop.dll",
+                    "sha256": "d4f0e4b7ded4056fbee7ab94819bbd8a2a5ea2e60eb6680817f5476cced6688d"
+                }
+            ]
+        },
+        "2.0.0": {
+            "releaseUrl": "https://github.com/art0007i/ColorDrop/releases/tag/2.0.0",
+            "artifacts": [
+                {
+                    "url": "https://github.com/art0007i/ColorDrop/releases/download/2.0.0/ColorDrop.dll",
+                    "sha256": "3a66b5db1d7c9e3f4f8ff3d6aaa76fb2eba8622b757ffde89cc6c4f1a1e6fb7a",
+                    "filename": "ColorDrop.dll"
+                }
+            ]
+        },
+        "1.2.0": {
+            "releaseUrl": "https://github.com/art0007i/ColorDrop/releases/tag/1.2.0",
+            "artifacts": [
+                {
+                    "url": "https://github.com/art0007i/ColorDrop/releases/download/1.2.0/ColorDrop.dll",
+                    "sha256": "73632fb5d3af39530400ed044ee32fe84456c73f1d8e31f91a235ff6fb5bd0f9",
+                    "filename": "ColorDrop.dll"
+                }
+            ]
         }
     }
 }

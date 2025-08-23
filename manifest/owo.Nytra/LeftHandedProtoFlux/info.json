@@ -1,16 +1,54 @@
 {
-	"name": "LeftHandedProtoFlux",
-	"id": "owo.Nytra.LeftHandedProtoFlux",
-	"description": "Makes ProtoFlux flow from right to left.",
-	"category": "Memes",
-	"sourceLocation": "https://github.com/Nytra/ResoniteLeftHandedProtoFlux",
-	"versions": {
-		"1.2.1": {
-			"releaseUrl": "https://github.com/Nytra/ResoniteLeftHandedProtoFlux/releases/tag/v1.2.1",
-			"artifacts": [{
-				"url": "https://github.com/Nytra/ResoniteLeftHandedProtoFlux/releases/download/v1.2.1/LeftHandedProtoFlux.dll",
-				"sha256": "440c8043b0fac216788231dfcc63b01cc6983d36ea2fc28963d10051cd98513d"
-			}]
-		}
-	}
+    "name": "LeftHandedProtoFlux",
+    "id": "owo.Nytra.LeftHandedProtoFlux",
+    "description": "Makes ProtoFlux flow from right to left.",
+    "category": "Memes",
+    "sourceLocation": "https://github.com/Nytra/ResoniteLeftHandedProtoFlux",
+    "versions": {
+        "1.2.1": {
+            "releaseUrl": "https://github.com/Nytra/ResoniteLeftHandedProtoFlux/releases/tag/v1.2.1",
+            "artifacts": [
+                {
+                    "url": "https://github.com/Nytra/ResoniteLeftHandedProtoFlux/releases/download/v1.2.1/LeftHandedProtoFlux.dll",
+                    "sha256": "440c8043b0fac216788231dfcc63b01cc6983d36ea2fc28963d10051cd98513d"
+                }
+            ]
+        },
+        "1.2.0": {
+            "releaseUrl": "https://github.com/Nytra/ResoniteLeftHandedProtoFlux/releases/tag/v1.2.0",
+            "artifacts": [
+                {
+                    "url": "https://github.com/Nytra/ResoniteLeftHandedProtoFlux/releases/download/v1.2.0/LeftHandedProtoFlux.dll",
+                    "sha256": "f6536d01c4faefdd693aae8005b6b106e2f9831ae7aa167df2fe1fadc38fb9d6"
+                }
+            ]
+        },
+        "1.1.1": {
+            "releaseUrl": "https://github.com/Nytra/ResoniteLeftHandedProtoFlux/releases/tag/v1.1.1",
+            "artifacts": [
+                {
+                    "url": "https://github.com/Nytra/ResoniteLeftHandedProtoFlux/releases/download/v1.1.1/LeftHandedProtoFlux.dll",
+                    "sha256": "34ccb270bd6b714a7f375722816d834b87d67978c7e600cd2b0cbca6fc894bff"
+                }
+            ]
+        },
+        "1.1.0": {
+            "releaseUrl": "https://github.com/Nytra/ResoniteLeftHandedProtoFlux/releases/tag/v1.1.0",
+            "artifacts": [
+                {
+                    "url": "https://github.com/Nytra/ResoniteLeftHandedProtoFlux/releases/download/v1.1.0/LeftHandedProtoFlux.dll",
+                    "sha256": "1b20135bf4d10db43d39524ad55f8ec20d864e032f59dbebcb8a8378e67ea59c"
+                }
+            ]
+        },
+        "1.0.0": {
+            "releaseUrl": "https://github.com/Nytra/ResoniteLeftHandedProtoFlux/releases/tag/v1.0.0",
+            "artifacts": [
+                {
+                    "url": "https://github.com/Nytra/ResoniteLeftHandedProtoFlux/releases/download/v1.0.0/LeftHandedProtoFlux.dll",
+                    "sha256": "903e57c2e9ebee360f6718dfa068dd9217755e72ed87673ce0d8f18623ee70af"
+                }
+            ]
+        }
+    }
 }

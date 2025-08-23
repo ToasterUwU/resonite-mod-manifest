@@ -1,27 +1,83 @@
 {
-	"name": "CustomProtofluxBrowser",
-	"id": "co.uk.alexw-578.CustomProtofluxBrowser",
-	"description": "Allows you to use a custom protoflux browser by saving and favoriting it in your inventory.",
-	"category": "Protoflux",
-	"sourceLocation": "https://github.com/AlexW-578/CustomProtofluxBrowser",
-	"versions": {
-		"2.1.2": {
-			"releaseUrl": "https://github.com/AlexW-578/CustomProtofluxBrowser/releases/tag/v2.1.2",
-			"artifacts": [
-				{
-					"url": "https://github.com/AlexW-578/CustomProtofluxBrowser/releases/download/v2.1.2/CustomProtofluxBrowser.dll",
-					"sha256": "37d2f0a25b2a8aec4b041402f796be88cb1d0f7cab1c4aace33534ce1c39d44f"
-				}
-			]
-		},
-		"2.1.3": {
-			"releaseUrl": "https://github.com/AlexW-578/CustomProtofluxBrowser/releases/tag/v2.1.3",
-			"artifacts": [
-				{
-					"url": "https://github.com/AlexW-578/CustomProtofluxBrowser/releases/download/v2.1.3/CustomProtofluxBrowser.dll",
-					"sha256": "4EB4182F0468C79BB5FA80DF755E44032162967B006748BCC509CB6210D81A97"
-				}
-			]
-		}
-	}
+    "name": "CustomProtofluxBrowser",
+    "id": "co.uk.alexw-578.CustomProtofluxBrowser",
+    "description": "Allows you to use a custom protoflux browser by saving and favoriting it in your inventory.",
+    "category": "Protoflux",
+    "sourceLocation": "https://github.com/AlexW-578/CustomProtofluxBrowser",
+    "versions": {
+        "2.1.3": {
+            "releaseUrl": "https://github.com/AlexW-578/CustomProtofluxBrowser/releases/tag/v2.1.3",
+            "artifacts": [
+                {
+                    "url": "https://github.com/AlexW-578/CustomProtofluxBrowser/releases/download/v2.1.3/CustomProtofluxBrowser.dll",
+                    "sha256": "4EB4182F0468C79BB5FA80DF755E44032162967B006748BCC509CB6210D81A97"
+                }
+            ]
+        },
+        "2.1.2": {
+            "releaseUrl": "https://github.com/AlexW-578/CustomProtofluxBrowser/releases/tag/v2.1.2",
+            "artifacts": [
+                {
+                    "url": "https://github.com/AlexW-578/CustomProtofluxBrowser/releases/download/v2.1.2/CustomProtofluxBrowser.dll",
+                    "sha256": "37d2f0a25b2a8aec4b041402f796be88cb1d0f7cab1c4aace33534ce1c39d44f"
+                }
+            ]
+        },
+        "2.1.1": {
+            "releaseUrl": "https://github.com/AlexW-578/CustomProtofluxBrowser/releases/tag/v2.1.1",
+            "artifacts": [
+                {
+                    "url": "https://github.com/AlexW-578/CustomProtofluxBrowser/releases/download/v2.1.1/CustomProtofluxBrowser.dll",
+                    "sha256": "82102295ec900d26dbe1997663023242745d06ec915e906a549370c61defd764"
+                }
+            ]
+        },
+        "2.1.0": {
+            "releaseUrl": "https://github.com/AlexW-578/CustomProtofluxBrowser/releases/tag/v2.1.0",
+            "artifacts": [
+                {
+                    "url": "https://github.com/AlexW-578/CustomProtofluxBrowser/releases/download/v2.1.0/CustomProtofluxBrowser.dll",
+                    "sha256": "12f41dfe99711b4697918e48144c984d410a0723c430c04d155342d6373e2257"
+                }
+            ]
+        },
+        "2.0.1": {
+            "releaseUrl": "https://github.com/AlexW-578/CustomProtofluxBrowser/releases/tag/v2.0.1",
+            "artifacts": [
+                {
+                    "url": "https://github.com/AlexW-578/CustomProtofluxBrowser/releases/download/v2.0.1/CustomProtofluxBrowser.dll",
+                    "sha256": "c369bb4dbbe6170c7f4084002136e3d41d4c731f4ef6e7a3495bf3986bea79b1"
+                }
+            ]
+        },
+        "2.0.0": {
+            "releaseUrl": "https://github.com/AlexW-578/CustomProtofluxBrowser/releases/tag/v2.0.0",
+            "artifacts": [
+                {
+                    "url": "https://github.com/AlexW-578/CustomProtofluxBrowser/releases/download/v2.0.0/CustomProtofluxBrowser.dll",
+                    "sha256": "734dc3025bb18c45ead744d920684eeda18e3cbf7f3e5e15461587d044aebb77"
+                }
+            ]
+        },
+        "1.1.0": {
+            "releaseUrl": "https://github.com/AlexW-578/CustomProtofluxBrowser/releases/tag/v1.1.0",
+            "artifacts": [
+                {
+                    "url": "https://github.com/AlexW-578/CustomProtofluxBrowser/releases/download/v1.1.0/CustomLogixBrowser.dll",
+                    "sha256": "cb2cacb9e98357a11c662805da61f7f8a9a4974713768cfea2294da20951dc46",
+                    "installLocation": "/rml_libs"
+                }
+            ]
+        },
+        "1.0.0": {
+            "releaseUrl": "https://github.com/AlexW-578/CustomProtofluxBrowser/releases/tag/v1.0.0",
+            "artifacts": [
+                {
+                    "url": "https://github.com/AlexW-578/CustomProtofluxBrowser/releases/download/v1.0.0/CustomLogixBrowser.dll",
+                    "sha256": "50803b84c10f5322917a67f13e800339d75d43cf7c87bbb5606c9d4ab4eafc2e",
+                    "installLocation": "/rml_libs"
+                }
+            ]
+        }
+    }
 }

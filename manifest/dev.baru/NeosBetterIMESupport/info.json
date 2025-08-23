@@ -1,16 +1,36 @@
 {
-	"name": "NeosBetterIMESupport",
-	"id": "dev.baru.resonite.NeosBetterIMESupport",
-	"description": "Fix issues in IME with complex input methods like Japanese",
-	"category": "Misc",
-	"sourceLocation": "https://github.com/hantabaru1014/NeosBetterIMESupport",
-	"versions": {
-		"2.0.0": {
-			"releaseUrl": "https://github.com/hantabaru1014/NeosBetterIMESupport/releases/tag/v2.0.0",
-			"artifacts": [{
-				"url": "https://github.com/hantabaru1014/NeosBetterIMESupport/releases/download/v2.0.0/NeosBetterIMESupport.dll",
-				"sha256": "642b898c50103bbfc70560fe96ac476e5654bae1fd63adf7ae534272e19a6320"
-			}]
-		}
-	}
+    "name": "NeosBetterIMESupport",
+    "id": "dev.baru.resonite.NeosBetterIMESupport",
+    "description": "Fix issues in IME with complex input methods like Japanese",
+    "category": "Misc",
+    "sourceLocation": "https://github.com/hantabaru1014/NeosBetterIMESupport",
+    "versions": {
+        "2.0.0": {
+            "releaseUrl": "https://github.com/hantabaru1014/NeosBetterIMESupport/releases/tag/v2.0.0",
+            "artifacts": [
+                {
+                    "url": "https://github.com/hantabaru1014/NeosBetterIMESupport/releases/download/v2.0.0/NeosBetterIMESupport.dll",
+                    "sha256": "642b898c50103bbfc70560fe96ac476e5654bae1fd63adf7ae534272e19a6320"
+                }
+            ]
+        },
+        "1.0.1": {
+            "releaseUrl": "https://github.com/hantabaru1014/NeosBetterIMESupport/releases/tag/v1.0.1",
+            "artifacts": [
+                {
+                    "url": "https://github.com/hantabaru1014/NeosBetterIMESupport/releases/download/v1.0.1/NeosBetterIMESupport.dll",
+                    "sha256": "2af3e2d0b69dc11598e40116742bfc62defd774b05562801a0bbb81b5478be33"
+                }
+            ]
+        },
+        "1.0.0": {
+            "releaseUrl": "https://github.com/hantabaru1014/NeosBetterIMESupport/releases/tag/v1.0.0",
+            "artifacts": [
+                {
+                    "url": "https://github.com/hantabaru1014/NeosBetterIMESupport/releases/download/v1.0.0/NeosBetterIMESupport.dll",
+                    "sha256": "db68c7dcab4dc668768542cd34f4f1710d07afcfbb9129bc3edc40ddd3370dde"
+                }
+            ]
+        }
+    }
 }

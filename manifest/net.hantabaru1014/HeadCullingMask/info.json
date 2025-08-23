@@ -1,16 +1,45 @@
 {
-	"name": "HeadCullingMask",
-	"id": "net.hantabaru1014.HeadCullingMask",
-	"description": "Make your avatar's head invisible only to your FPV",
-	"category": "Visual Tweaks",
-	"sourceLocation": "https://github.com/hantabaru1014/HeadCullingMask",
-	"versions": {
-		"2.0.0": {
-			"releaseUrl": "https://github.com/hantabaru1014/HeadCullingMask/releases/tag/v2.0.0",
-			"artifacts": [{
-				"url": "https://github.com/hantabaru1014/HeadCullingMask/releases/download/v2.0.0/HeadCullingMask.dll",
-				"sha256": "d621b87e4bec4806cfd164ee56f8b44f9c972adecba70561cb7a48e08b77ddc8"
-			}]
-		}
-	}
+    "name": "HeadCullingMask",
+    "id": "net.hantabaru1014.HeadCullingMask",
+    "description": "Make your avatar's head invisible only to your FPV",
+    "category": "Visual Tweaks",
+    "sourceLocation": "https://github.com/hantabaru1014/HeadCullingMask",
+    "versions": {
+        "2.0.0": {
+            "releaseUrl": "https://github.com/hantabaru1014/HeadCullingMask/releases/tag/v2.0.0",
+            "artifacts": [
+                {
+                    "url": "https://github.com/hantabaru1014/HeadCullingMask/releases/download/v2.0.0/HeadCullingMask.dll",
+                    "sha256": "d621b87e4bec4806cfd164ee56f8b44f9c972adecba70561cb7a48e08b77ddc8"
+                }
+            ]
+        },
+        "1.2.0": {
+            "releaseUrl": "https://github.com/hantabaru1014/HeadCullingMask/releases/tag/v1.2.0",
+            "artifacts": [
+                {
+                    "url": "https://github.com/hantabaru1014/HeadCullingMask/releases/download/v1.2.0/HeadCullingMask.dll",
+                    "sha256": "5998bbb56258b06dbb98574f74acb1bd31771fe17ea0a745a01fc5520f7b5bd6"
+                }
+            ]
+        },
+        "1.1.0": {
+            "releaseUrl": "https://github.com/hantabaru1014/HeadCullingMask/releases/tag/v1.1.0",
+            "artifacts": [
+                {
+                    "url": "https://github.com/hantabaru1014/HeadCullingMask/releases/download/v1.1.0/HeadCullingMask.dll",
+                    "sha256": "67f2dc6104b7581876edc50a6fc2f33bf6461a2008313ff037891a0a302c824f"
+                }
+            ]
+        },
+        "1.0.0": {
+            "releaseUrl": "https://github.com/hantabaru1014/HeadCullingMask/releases/tag/v1.0.0",
+            "artifacts": [
+                {
+                    "url": "https://github.com/hantabaru1014/HeadCullingMask/releases/download/v1.0.0/HeadCullingMask.dll",
+                    "sha256": "ab8d77975d02d23df11db5ae438474dca7cbbffddf7d210be81d828c7b772d4a"
+                }
+            ]
+        }
+    }
 }

@@ -14,6 +14,41 @@
                     "sha256": "2d87f49ed6b1124119785f7d5d138cc3c4322486953894ec317ef9233706cb3c"
                 }
             ]
+        },
+        "1.1.0": {
+            "releaseUrl": "https://github.com/art0007i/CustomUILib/releases/tag/1.1.0",
+            "artifacts": [
+                {
+                    "url": "https://github.com/art0007i/CustomUILib/releases/download/1.1.0/CustomUILib.dll",
+                    "sha256": "62573c4276414184e6f5cdc94ce80f0f524b9679d18435dcc392f97162e2b690",
+                    "filename": "CustomUILib.dll"
+                }
+            ]
+        },
+        "1.0.1": {
+            "releaseUrl": "https://github.com/art0007i/CustomUILib/releases/tag/1.0.1",
+            "artifacts": [
+                {
+                    "url": "https://github.com/art0007i/CustomUILib/releases/download/1.0.1/CustomUILib.dll",
+                    "sha256": "1be4bb7efd3480212c1aa789eea270825f1f7662afc286576bbc34b7ce9cf57d",
+                    "filename": "CustomUILib.dll"
+                }
+            ]
+        },
+        "1.0.0": {
+            "releaseUrl": "https://github.com/art0007i/CustomUILib/releases/tag/1.0.0",
+            "artifacts": [
+                {
+                    "url": "https://github.com/art0007i/CustomUILib/releases/download/1.0.0/CustomUILib.dll",
+                    "sha256": "b76df0de440fc744e3d790b86eb2fe23bea3c1b1f11c457461985032b4dcb52b",
+                    "filename": "CustomUILib.dll"
+                },
+                {
+                    "url": "https://github.com/art0007i/CustomUILib/releases/download/1.0.0/CustomUILib.pdb",
+                    "sha256": "465e83fa27d11a2650743697ac15d499fb70045e956b20a8d316ff775bf4b466",
+                    "installLocation": "/rml_libs"
+                }
+            ]
         }
     }
 }

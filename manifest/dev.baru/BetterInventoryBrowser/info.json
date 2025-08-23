@@ -1,37 +1,135 @@
 {
-	"name": "BetterInventoryBrowser",
-	"id": "dev.baru.resonite.BetterInventoryBrowser",
-	"description": "UI tweaks for InventoryBrowser",
-	"category": "Dashboard",
-	"sourceLocation": "https://github.com/hantabaru1014/BetterInventoryBrowser",
-	"versions": {
-		"0.7.0": {
-			"releaseUrl": "https://github.com/hantabaru1014/BetterInventoryBrowser/releases/tag/v0.7.0",
-			"artifacts": [{
-				"url": "https://github.com/hantabaru1014/BetterInventoryBrowser/releases/download/v0.7.0/BetterInventoryBrowser.dll",
-				"sha256": "596dfdcc99ac283f458272db8ced2eff536bd9072cdd014b5343936072da34d2"
-			}]
-		},
-		"0.6.3": {
-			"releaseUrl": "https://github.com/hantabaru1014/BetterInventoryBrowser/releases/tag/v0.6.3",
-			"artifacts": [{
-				"url": "https://github.com/hantabaru1014/BetterInventoryBrowser/releases/download/v0.6.3/BetterInventoryBrowser.dll",
-				"sha256": "fe0e1419ae64267267910c37cdc1b7b3e199a4e4a22126250a8491b2b5aba2ff"
-			}]
-		},
-		"0.6.2": {
-			"releaseUrl": "https://github.com/hantabaru1014/BetterInventoryBrowser/releases/tag/v0.6.2",
-			"artifacts": [{
-				"url": "https://github.com/hantabaru1014/BetterInventoryBrowser/releases/download/v0.6.2/BetterInventoryBrowser.dll",
-				"sha256": "1c4eeb81a24049c0a9b1b781621b986db91d7383279305973f8c471dee645c43"
-			}]
-		},
-		"0.6.1": {
-			"releaseUrl": "https://github.com/hantabaru1014/BetterInventoryBrowser/releases/tag/v0.6.1",
-			"artifacts": [{
-				"url": "https://github.com/hantabaru1014/BetterInventoryBrowser/releases/download/v0.6.1/BetterInventoryBrowser.dll",
-				"sha256": "8b3164140486384570ed3c70d4d3abb93730c56badf2576e1c4ce10de57c0352"
-			}]
-		}
-	}
+    "name": "BetterInventoryBrowser",
+    "id": "dev.baru.resonite.BetterInventoryBrowser",
+    "description": "UI tweaks for InventoryBrowser",
+    "category": "Dashboard",
+    "sourceLocation": "https://github.com/hantabaru1014/BetterInventoryBrowser",
+    "versions": {
+        "0.7.0": {
+            "releaseUrl": "https://github.com/hantabaru1014/BetterInventoryBrowser/releases/tag/v0.7.0",
+            "artifacts": [
+                {
+                    "url": "https://github.com/hantabaru1014/BetterInventoryBrowser/releases/download/v0.7.0/BetterInventoryBrowser.dll",
+                    "sha256": "596dfdcc99ac283f458272db8ced2eff536bd9072cdd014b5343936072da34d2"
+                }
+            ]
+        },
+        "0.6.3": {
+            "releaseUrl": "https://github.com/hantabaru1014/BetterInventoryBrowser/releases/tag/v0.6.3",
+            "artifacts": [
+                {
+                    "url": "https://github.com/hantabaru1014/BetterInventoryBrowser/releases/download/v0.6.3/BetterInventoryBrowser.dll",
+                    "sha256": "fe0e1419ae64267267910c37cdc1b7b3e199a4e4a22126250a8491b2b5aba2ff"
+                }
+            ]
+        },
+        "0.6.2": {
+            "releaseUrl": "https://github.com/hantabaru1014/BetterInventoryBrowser/releases/tag/v0.6.2",
+            "artifacts": [
+                {
+                    "url": "https://github.com/hantabaru1014/BetterInventoryBrowser/releases/download/v0.6.2/BetterInventoryBrowser.dll",
+                    "sha256": "1c4eeb81a24049c0a9b1b781621b986db91d7383279305973f8c471dee645c43"
+                }
+            ]
+        },
+        "0.6.1": {
+            "releaseUrl": "https://github.com/hantabaru1014/BetterInventoryBrowser/releases/tag/v0.6.1",
+            "artifacts": [
+                {
+                    "url": "https://github.com/hantabaru1014/BetterInventoryBrowser/releases/download/v0.6.1/BetterInventoryBrowser.dll",
+                    "sha256": "8b3164140486384570ed3c70d4d3abb93730c56badf2576e1c4ce10de57c0352"
+                }
+            ]
+        },
+        "0.6.0": {
+            "releaseUrl": "https://github.com/hantabaru1014/BetterInventoryBrowser/releases/tag/v0.6.0",
+            "artifacts": [
+                {
+                    "url": "https://github.com/hantabaru1014/BetterInventoryBrowser/releases/download/v0.6.0/BetterInventoryBrowser.dll",
+                    "sha256": "30f5c80a245f371f5da29594fe291bc0be2106d263a1d2401f4d8f0644fac83d"
+                }
+            ]
+        },
+        "0.5.2": {
+            "releaseUrl": "https://github.com/hantabaru1014/BetterInventoryBrowser/releases/tag/v0.5.2",
+            "artifacts": [
+                {
+                    "url": "https://github.com/hantabaru1014/BetterInventoryBrowser/releases/download/v0.5.2/BetterInventoryBrowser.dll",
+                    "sha256": "b8b293a22abd4c59fcd8b3d22c0443daea2f43f05f454b828e3cd620189268c3"
+                }
+            ]
+        },
+        "0.5.1": {
+            "releaseUrl": "https://github.com/hantabaru1014/BetterInventoryBrowser/releases/tag/v0.5.1",
+            "artifacts": [
+                {
+                    "url": "https://github.com/hantabaru1014/BetterInventoryBrowser/releases/download/v0.5.1/BetterInventoryBrowser.dll",
+                    "sha256": "f1f7482a90a4a70563a1c0bc099a23d48257733585c6e177d26cde212e848f35"
+                }
+            ]
+        },
+        "0.5.0": {
+            "releaseUrl": "https://github.com/hantabaru1014/BetterInventoryBrowser/releases/tag/v0.5.0",
+            "artifacts": [
+                {
+                    "url": "https://github.com/hantabaru1014/BetterInventoryBrowser/releases/download/v0.5.0/BetterInventoryBrowser.dll",
+                    "sha256": "4e1f19e90692fb6f38e9fa7f3cef95f741e1987d6a9121caaa852d976aefa889"
+                }
+            ]
+        },
+        "0.4.1": {
+            "releaseUrl": "https://github.com/hantabaru1014/BetterInventoryBrowser/releases/tag/v0.4.1",
+            "artifacts": [
+                {
+                    "url": "https://github.com/hantabaru1014/BetterInventoryBrowser/releases/download/v0.4.1/BetterInventoryBrowser.dll",
+                    "sha256": "5529647a56f608cc3a466db9f6b53b03cbf952597a7117281357705033e19ad5"
+                }
+            ]
+        },
+        "0.4.0": {
+            "releaseUrl": "https://github.com/hantabaru1014/BetterInventoryBrowser/releases/tag/v0.4.0",
+            "artifacts": [
+                {
+                    "url": "https://github.com/hantabaru1014/BetterInventoryBrowser/releases/download/v0.4.0/BetterInventoryBrowser.dll",
+                    "sha256": "eeb2db7c6541d335c3de21d6653241054a7c1b4ea3909abd2cc9c08b17a9181f"
+                }
+            ]
+        },
+        "0.3.0": {
+            "releaseUrl": "https://github.com/hantabaru1014/BetterInventoryBrowser/releases/tag/v0.3.0",
+            "artifacts": [
+                {
+                    "url": "https://github.com/hantabaru1014/BetterInventoryBrowser/releases/download/v0.3.0/BetterInventoryBrowser.dll",
+                    "sha256": "4a53d1c7dc3c00c5dd56c47275b4c46b653e50754d7dc68b4573754969cb57d5"
+                }
+            ]
+        },
+        "0.2.1": {
+            "releaseUrl": "https://github.com/hantabaru1014/BetterInventoryBrowser/releases/tag/v0.2.1",
+            "artifacts": [
+                {
+                    "url": "https://github.com/hantabaru1014/BetterInventoryBrowser/releases/download/v0.2.1/BetterInventoryBrowser.dll",
+                    "sha256": "f06458464f12e95360c287e12422b872c75044e261e8b5d3b58b9121eaa389b6"
+                }
+            ]
+        },
+        "0.2.0": {
+            "releaseUrl": "https://github.com/hantabaru1014/BetterInventoryBrowser/releases/tag/v0.2.0",
+            "artifacts": [
+                {
+                    "url": "https://github.com/hantabaru1014/BetterInventoryBrowser/releases/download/v0.2.0/BetterInventoryBrowser.dll",
+                    "sha256": "7da6fd2e97534a78654c1b4ab87c71901654577078f574374eebea6acbf34215"
+                }
+            ]
+        },
+        "0.1.0": {
+            "releaseUrl": "https://github.com/hantabaru1014/BetterInventoryBrowser/releases/tag/0.1.0",
+            "artifacts": [
+                {
+                    "url": "https://github.com/hantabaru1014/BetterInventoryBrowser/releases/download/0.1.0/BetterInventoryBrowser.dll",
+                    "sha256": "0390be0b201e3134b7f350cc0b673c2ba56bbbf82d9bf982b1689e5f124cb364"
+                }
+            ]
+        }
+    }
 }
