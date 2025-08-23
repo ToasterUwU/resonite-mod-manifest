@@ -26,6 +26,9 @@ jobs:
       with:
         python-version: "3.13"
 
+    - name: Install dependencies
+      run: pip install -r requirements.txt
+
     - name: Run update_manifest_parts.py
       run: python update_manifest_parts.py
 
