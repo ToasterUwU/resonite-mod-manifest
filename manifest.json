@@ -1781,6 +1781,73 @@
                 }
             }
         },
+        "com.nalathethird": {
+            "author": {
+                "nalathethird": {
+                    "icon": "https://avatars.githubusercontent.com/u/36301692?v=4",
+                    "support": "https://ko-fi.com/zeianala",
+                    "url": "https://github.com/nalathethird"
+                }
+            },
+            "entries": {
+                "com.nalathethird.Fck-SessionCapture": {
+                    "category": "Technical Tweaks",
+                    "description": "FckSessionCapture allows you to block the automatic upload and/or local generation of session thumbnails ('session captures') in Resonite. This helps protect your privacy by preventing images of your session from being uploaded to the internet or even stored locally, depending on your configuration.",
+                    "name": "Fck-SessionCapture",
+                    "sourceLocation": "https://github.com/nalathethird/Fck-SessionCapture",
+                    "versions": {
+                        "1.0.0": {
+                            "artifacts": [
+                                {
+                                    "filename": "FckSessionCapture.dll",
+                                    "sha256": "cffeab5a1fdcd933f2e5cddd687ce77a256c0bd7e4021305b8b065817e70c597",
+                                    "url": "https://github.com/nalathethird/Fck-SessionCapture/releases/download/1.0.0/FckSessionCapture.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/nalathethird/Fck-SessionCapture/releases/tag/1.0.0"
+                        },
+                        "1.0.1": {
+                            "artifacts": [
+                                {
+                                    "filename": "FckSessionCapture.dll",
+                                    "sha256": "f2142e65272871db50bbe4e10202d1f9e2bf1af1a4dd9ddc790c67b69d03d4c8",
+                                    "url": "https://github.com/nalathethird/Fck-SessionCapture/releases/download/1.0.1/FckSessionCapture.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/nalathethird/Fck-SessionCapture/releases/tag/1.0.1"
+                        },
+                        "1.0.2": {
+                            "artifacts": [
+                                {
+                                    "filename": "FckSessionCapture.dll",
+                                    "sha256": "fbf8c3f33f6974c5fb09cc5b391023f1502e8d0befbf8d68a548fd813389dc71",
+                                    "url": "https://github.com/nalathethird/Fck-SessionCapture/releases/download/1.0.2/FckSessionCapture.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/nalathethird/Fck-SessionCapture/releases/tag/1.0.2"
+                        }
+                    }
+                },
+                "com.nalathethird.IDontNeedHelp": {
+                    "category": "Dashboard",
+                    "description": "A mod to remove the 'Help' Section on the Dashboard for 'Experienced Resonite Users' - only.",
+                    "name": "IDontNeedHelp",
+                    "sourceLocation": "https://github.com/nalathethird/IDontNeedHelp",
+                    "versions": {
+                        "1.0.0": {
+                            "artifacts": [
+                                {
+                                    "filename": "IDontNeedHelp.dll",
+                                    "sha256": "cb5c1b47e85e2f94e2897ba34d21d1866b20e2f1b2c97f081450e1c3f1398783",
+                                    "url": "https://github.com/nalathethird/IDontNeedHelp/releases/download/1.0.0/IDontNeedHelp.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/nalathethird/IDontNeedHelp/releases/tag/1.0.0"
+                        }
+                    }
+                }
+            }
+        },
         "com.nekometer.esnya": {
             "author": {
                 "esnya": {
