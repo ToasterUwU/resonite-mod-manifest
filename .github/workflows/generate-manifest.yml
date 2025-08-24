@@ -7,10 +7,12 @@ on:
       - 'manifest/**'
     branches:
       - main
+  schedule:
+    - cron: '0 */4 * * *'
 
 jobs:
   build:
-    if: github.repository == 'resonite-modding-group/resonite-mod-manifest'
+    if: github.repository == 'ToasterUwU/resonite-mod-manifest'
     runs-on: ubuntu-latest
 
     steps:
@@ -24,8 +26,16 @@ jobs:
       with:
         python-version: "3.13"
 
+    - name: Install dependencies
+      run: pip install -r requirements.txt
+
+    - name: Run update_manifest_parts.py
+      run: python -u update_manifest_parts.py
+      env:
+        GH_TOKEN: ${{ secrets.GH_TOKEN }}
+
     - name: Run generate_manifest.py
-      run: python generate_manifest.py
+      run: python -u generate_manifest.py
 
     - name: Check for changes and push
       run: |
@@ -33,7 +43,8 @@ jobs:
           git config user.name "GitHub Actions"
           git config user.email "<>"
           git add manifest.json
-          git commit -m "Update manifest.json"
+          git add manifest
+          git commit -m "Update manifest"
           git push
         else
           echo "No changes to commit"
