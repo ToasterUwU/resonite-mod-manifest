@@ -14,6 +14,16 @@
                     "sha256": "0154587705c1db03fe07ba866fc8c80af70fa72b2c3cacab96f03b854909570a"
                 }
             ]
+        },
+        "1.0.0": {
+            "releaseUrl": "https://github.com/art0007i/ImportCompactor/releases/tag/1.0.0",
+            "artifacts": [
+                {
+                    "url": "https://github.com/art0007i/ImportCompactor/releases/download/1.0.0/ImportCompactor.dll",
+                    "sha256": "6b03551a18732e582395324ce8a0f8ff11da0c79de8c96db67d9a3b42cad0208",
+                    "filename": "ImportCompactor.dll"
+                }
+            ]
         }
     }
 }

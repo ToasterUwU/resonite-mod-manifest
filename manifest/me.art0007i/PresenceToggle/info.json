@@ -1,5 +1,7 @@
 {
-    "flags": ["deprecated"],
+    "flags": [
+        "deprecated"
+    ],
     "name": "PresenceToggle",
     "id": "me.art0007i.PresenceToggle",
     "description": "Allows you to toggle steam and discord rich presence",
@@ -13,6 +15,26 @@
                     "url": "https://github.com/art0007i/PresenceToggle/releases/download/2.0.1/PresenceToggle.dll",
                     "filename": "PresenceToggle.dll",
                     "sha256": "43f705e761a2c28e70cd443af0e1ad7dc46bde8b61eab3b39d55c9cea9e8f934"
+                }
+            ]
+        },
+        "2.0.0": {
+            "releaseUrl": "https://github.com/art0007i/PresenceToggle/releases/tag/2.0.0",
+            "artifacts": [
+                {
+                    "url": "https://github.com/art0007i/PresenceToggle/releases/download/2.0.0/PresenceToggle.dll",
+                    "sha256": "640cc821d1a5ce400d13e87b51831d42c81deb05ce0e427ad126006d7717b12f",
+                    "filename": "PresenceToggle.dll"
+                }
+            ]
+        },
+        "1.0.0": {
+            "releaseUrl": "https://github.com/art0007i/PresenceToggle/releases/tag/1.0.0",
+            "artifacts": [
+                {
+                    "url": "https://github.com/art0007i/PresenceToggle/releases/download/1.0.0/PresenceToggle.dll",
+                    "sha256": "b8fd469a63475aae6bc2c35ba418f0c0ed1409ec30b12dad0dbd1c1e44b355d0",
+                    "filename": "PresenceToggle.dll"
                 }
             ]
         }

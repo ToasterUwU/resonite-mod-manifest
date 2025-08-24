@@ -1,28 +1,52 @@
 {
-	"name": "SettingsRedux",
-	"id": "net.deltawolf.SettingsRedux",
-	"description": "Replaces the default Resonite Settings page with an enhanced settings page that adds in many QoL changes. Superceded by settings overhaul in 2024.4.15.1407",
-	"category": "Dashboard",
-	"sourceLocation": "https://github.com/XDelta/SettingsRedux",
-	"flags": [
-		"deprecated"
-	],
-	"versions": {
-		"2.1.0": {
-			"releaseUrl": "https://github.com/XDelta/SettingsRedux/releases/tag/2.1.0",
-			"artifacts": [{
-				"url": "https://github.com/XDelta/SettingsRedux/releases/download/2.1.0/SettingsRedux.dll",
-				"filename": "SettingsRedux.dll",
-				"sha256": "6e1daebc4c16908505044709727715b7b5d09b3e86f8e7e6d5e03a053fe6cc70"
-			}]
-		},
-		"2.0.0": {
-			"releaseUrl": "https://github.com/XDelta/SettingsRedux/releases/tag/2.0.0",
-			"artifacts": [{
-				"url": "https://github.com/XDelta/SettingsRedux/releases/download/2.0.0/SettingsRedux.dll",
-				"filename": "SettingsRedux.dll",
-				"sha256": "c41298c54a0ae16ac723d3e616f502fa025f3fec02235f1da47c2b892dfbec21"
-			}]
-		}
-	}
+    "name": "SettingsRedux",
+    "id": "net.deltawolf.SettingsRedux",
+    "description": "Replaces the default Resonite Settings page with an enhanced settings page that adds in many QoL changes. Superceded by settings overhaul in 2024.4.15.1407",
+    "category": "Dashboard",
+    "sourceLocation": "https://github.com/XDelta/SettingsRedux",
+    "flags": [
+        "deprecated"
+    ],
+    "versions": {
+        "2.1.0": {
+            "releaseUrl": "https://github.com/XDelta/SettingsRedux/releases/tag/2.1.0",
+            "artifacts": [
+                {
+                    "url": "https://github.com/XDelta/SettingsRedux/releases/download/2.1.0/SettingsRedux.dll",
+                    "filename": "SettingsRedux.dll",
+                    "sha256": "6e1daebc4c16908505044709727715b7b5d09b3e86f8e7e6d5e03a053fe6cc70"
+                }
+            ]
+        },
+        "2.0.0": {
+            "releaseUrl": "https://github.com/XDelta/SettingsRedux/releases/tag/2.0.0",
+            "artifacts": [
+                {
+                    "url": "https://github.com/XDelta/SettingsRedux/releases/download/2.0.0/SettingsRedux.dll",
+                    "filename": "SettingsRedux.dll",
+                    "sha256": "c41298c54a0ae16ac723d3e616f502fa025f3fec02235f1da47c2b892dfbec21"
+                }
+            ]
+        },
+        "1.1.0": {
+            "releaseUrl": "https://github.com/XDelta/SettingsRedux/releases/tag/1.1.0",
+            "artifacts": [
+                {
+                    "url": "https://github.com/XDelta/SettingsRedux/releases/download/1.1.0/SettingsRedux.dll",
+                    "sha256": "6f9f1aada682e18c3537b2e22303934785652ff7d32c6b06231795968050fb28",
+                    "filename": "SettingsRedux.dll"
+                }
+            ]
+        },
+        "1.0.0": {
+            "releaseUrl": "https://github.com/XDelta/SettingsRedux/releases/tag/1.0.0",
+            "artifacts": [
+                {
+                    "url": "https://github.com/XDelta/SettingsRedux/releases/download/1.0.0/SettingsRedux.dll",
+                    "sha256": "9fe70b9fc49e9179bcab5ac0a7fd8193d94e26c96e306b95d3d6d1d2a3f4ee3b",
+                    "filename": "SettingsRedux.dll"
+                }
+            ]
+        }
+    }
 }

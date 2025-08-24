@@ -1,23 +1,72 @@
 {
-	"name": "EnumDropdown",
-	"id": "ninja.badhalo.EnumDropdown",
-	"description": "Adds a dropdown for enum fields",
-	"category": "Inspectors",
-	"sourceLocation": "https://github.com/badhaloninja/EnumDropdown",
-	"versions": {
-		"2.1.1": {
-			"releaseUrl": "https://github.com/badhaloninja/EnumDropdown/releases/tag/v2.1.1",
-			"artifacts": [{
-				"url": "https://github.com/badhaloninja/EnumDropdown/releases/download/v2.1.1/EnumDropdown.dll",
-				"sha256": "cd1340e1c3555b837123bb20482f4e5b29485225982adade8fb4e1115be65a63"
-			}]
-		},
-		"2.1.0": {
-			"releaseUrl": "https://github.com/badhaloninja/EnumDropdown/releases/tag/v2.1.0",
-			"artifacts": [{
-				"url": "https://github.com/badhaloninja/EnumDropdown/releases/download/v2.1.0/EnumDropdown.dll",
-				"sha256": "b1d52e93b4b85111cf0c8924be34f5637bc557f613056a5af0e9eac252c54e33"
-			}]
-		}
-	}
+    "name": "EnumDropdown",
+    "id": "ninja.badhalo.EnumDropdown",
+    "description": "Adds a dropdown for enum fields",
+    "category": "Inspectors",
+    "sourceLocation": "https://github.com/badhaloninja/EnumDropdown",
+    "versions": {
+        "2.1.1": {
+            "releaseUrl": "https://github.com/badhaloninja/EnumDropdown/releases/tag/v2.1.1",
+            "artifacts": [
+                {
+                    "url": "https://github.com/badhaloninja/EnumDropdown/releases/download/v2.1.1/EnumDropdown.dll",
+                    "sha256": "cd1340e1c3555b837123bb20482f4e5b29485225982adade8fb4e1115be65a63"
+                }
+            ]
+        },
+        "2.1.0": {
+            "releaseUrl": "https://github.com/badhaloninja/EnumDropdown/releases/tag/v2.1.0",
+            "artifacts": [
+                {
+                    "url": "https://github.com/badhaloninja/EnumDropdown/releases/download/v2.1.0/EnumDropdown.dll",
+                    "sha256": "b1d52e93b4b85111cf0c8924be34f5637bc557f613056a5af0e9eac252c54e33"
+                }
+            ]
+        },
+        "2.0.0": {
+            "releaseUrl": "https://github.com/badhaloninja/EnumDropdown/releases/tag/v2.0.0",
+            "artifacts": [
+                {
+                    "url": "https://github.com/badhaloninja/EnumDropdown/releases/download/v2.0.0/EnumDropdown.dll",
+                    "sha256": "52c0d9fa8b061273e716414d21b225e3f929f7fa97e79bf0874a38a2c4374878"
+                }
+            ]
+        },
+        "1.2.0": {
+            "releaseUrl": "https://github.com/badhaloninja/EnumDropdown/releases/tag/v1.2.0",
+            "artifacts": [
+                {
+                    "url": "https://github.com/badhaloninja/EnumDropdown/releases/download/v1.2.0/EnumDropdown.dll",
+                    "sha256": "8131e27272750b4c718f9ee0e5bfec190093432bb7f0bc9f780c2b23697804d0"
+                }
+            ]
+        },
+        "1.1.0": {
+            "releaseUrl": "https://github.com/badhaloninja/EnumDropdown/releases/tag/v1.1.0",
+            "artifacts": [
+                {
+                    "url": "https://github.com/badhaloninja/EnumDropdown/releases/download/v1.1.0/EnumDropdown.dll",
+                    "sha256": "c2b157731fcb9a2f5545bed9dfe9868bb288a3a61a8588967cf5597b7263ff04"
+                }
+            ]
+        },
+        "1.0.1": {
+            "releaseUrl": "https://github.com/badhaloninja/EnumDropdown/releases/tag/v1.0.1",
+            "artifacts": [
+                {
+                    "url": "https://github.com/badhaloninja/EnumDropdown/releases/download/v1.0.1/EnumDropdown.dll",
+                    "sha256": "d76717d6d5fd1ea09f72c0dbf40372991ec4915da51c6a25d6893e94149e930e"
+                }
+            ]
+        },
+        "1.0.0": {
+            "releaseUrl": "https://github.com/badhaloninja/EnumDropdown/releases/tag/v1.0.0",
+            "artifacts": [
+                {
+                    "url": "https://github.com/badhaloninja/EnumDropdown/releases/download/v1.0.0/EnumDropdown.dll",
+                    "sha256": "7701e6f6e0a3fac0de800d2c090d825ef19844213a7c885e7aae26c9edda793a"
+                }
+            ]
+        }
+    }
 }

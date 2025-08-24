@@ -5,16 +5,6 @@
     "category": "Libraries",
     "sourceLocation": "https://github.com/art0007i/SpecialItemsLib",
     "versions": {
-        "2.0.2": {
-            "releaseUrl": "https://github.com/art0007i/SpecialItemsLib/releases/tag/2.0.2",
-            "artifacts": [
-                {
-                    "url": "https://github.com/art0007i/SpecialItemsLib/releases/download/2.0.2/SpecialItemsLib.dll",
-                    "filename": "SpecialItemsLib.dll",
-                    "sha256": "3a851acca48d4c562dfae4496fada17eb28f50544f372585f63bab30dc166b99"
-                }
-            ]
-        },
         "2.0.3": {
             "releaseUrl": "https://github.com/art0007i/SpecialItemsLib/releases/tag/2.0.3",
             "artifacts": [
@@ -25,6 +15,46 @@
                 }
             ],
             "changelog": "Fix reference to SkyFrost"
+        },
+        "2.0.2": {
+            "releaseUrl": "https://github.com/art0007i/SpecialItemsLib/releases/tag/2.0.2",
+            "artifacts": [
+                {
+                    "url": "https://github.com/art0007i/SpecialItemsLib/releases/download/2.0.2/SpecialItemsLib.dll",
+                    "filename": "SpecialItemsLib.dll",
+                    "sha256": "3a851acca48d4c562dfae4496fada17eb28f50544f372585f63bab30dc166b99"
+                }
+            ]
+        },
+        "2.0.1": {
+            "releaseUrl": "https://github.com/art0007i/SpecialItemsLib/releases/tag/2.0.1",
+            "artifacts": [
+                {
+                    "url": "https://github.com/art0007i/SpecialItemsLib/releases/download/2.0.1/SpecialItemsLib.dll",
+                    "sha256": "35b36da6d705be0eed56791c436891b1a38a1147d0e6b600b251fac7ac409325",
+                    "filename": "SpecialItemsLib.dll"
+                }
+            ]
+        },
+        "2.0.0": {
+            "releaseUrl": "https://github.com/art0007i/SpecialItemsLib/releases/tag/2.0.0",
+            "artifacts": [
+                {
+                    "url": "https://github.com/art0007i/SpecialItemsLib/releases/download/2.0.0/SpecialItemsLib.dll",
+                    "sha256": "97dd538886887cb8907848164084e1edcbe63581f1ea22ac0162451ca97172fd",
+                    "filename": "SpecialItemsLib.dll"
+                }
+            ]
+        },
+        "1.1.0": {
+            "releaseUrl": "https://github.com/art0007i/SpecialItemsLib/releases/tag/1.1.0",
+            "artifacts": [
+                {
+                    "url": "https://github.com/art0007i/SpecialItemsLib/releases/download/1.1.0/SpecialItemsLib.dll",
+                    "sha256": "ea27a975da5aca2b5bb3274b2d03df560d20accfebc589675dcf54e5d93e763c",
+                    "filename": "SpecialItemsLib.dll"
+                }
+            ]
         }
     }
 }

@@ -1,23 +1,37 @@
 {
-	"name": "NoTankControls-InspectorScrollCompatible",
-	"id": "owo.Nytra.NoTankControls",
-	"description": "Don't lock up joystick movement while tools are equipped. Very helpful on Quest. This version has tweaks to work better with InspectorScroll.",
-	"category": "Controls",
-	"sourceLocation": "https://github.com/Nytra/NoTankControls",
-	"versions": {
-		"1.1.0": {
-			"releaseUrl": "https://github.com/Nytra/NoTankControls/releases/tag/v1.1.0",
-			"artifacts": [{
-				"url": "https://github.com/Nytra/NoTankControls/releases/download/v1.1.0/NoTankControls.dll",
-				"sha256": "04cfe11bd0415f4fa62f00f39987b2b7667935995823ccede10f534238deb51d"
-			}]
-		},
-		"1.1.1": {
-			"releaseUrl": "https://github.com/Nytra/NoTankControls/releases/tag/v1.1.1",
-			"artifacts": [{
-				"url": "https://github.com/Nytra/NoTankControls/releases/download/v1.1.1/NoTankControls.dll",
-				"sha256": "ab2831f1d882d4ef49c64d37e5ff872f1d681d655b985e5b7cab8deaa3636a68"
-			}]
-		}
-	}
+    "name": "NoTankControls-InspectorScrollCompatible",
+    "id": "owo.Nytra.NoTankControls",
+    "description": "Don't lock up joystick movement while tools are equipped. Very helpful on Quest. This version has tweaks to work better with InspectorScroll.",
+    "category": "Controls",
+    "sourceLocation": "https://github.com/Nytra/NoTankControls",
+    "versions": {
+        "1.1.1": {
+            "releaseUrl": "https://github.com/Nytra/NoTankControls/releases/tag/v1.1.1",
+            "artifacts": [
+                {
+                    "url": "https://github.com/Nytra/NoTankControls/releases/download/v1.1.1/NoTankControls.dll",
+                    "sha256": "ab2831f1d882d4ef49c64d37e5ff872f1d681d655b985e5b7cab8deaa3636a68"
+                }
+            ]
+        },
+        "1.1.0": {
+            "releaseUrl": "https://github.com/Nytra/NoTankControls/releases/tag/v1.1.0",
+            "artifacts": [
+                {
+                    "url": "https://github.com/Nytra/NoTankControls/releases/download/v1.1.0/NoTankControls.dll",
+                    "sha256": "04cfe11bd0415f4fa62f00f39987b2b7667935995823ccede10f534238deb51d"
+                }
+            ]
+        },
+        "1.0.0": {
+            "releaseUrl": "https://github.com/Nytra/NoTankControls/releases/tag/v1.0.0",
+            "artifacts": [
+                {
+                    "url": "https://github.com/Nytra/NoTankControls/releases/download/v1.0.0/NoTankControls.dll",
+                    "sha256": "e32b7ae580464631b9530a7c5340ca6d52bda2d953cfb9df41895f8e4c1320be",
+                    "installLocation": "/rml_libs"
+                }
+            ]
+        }
+    }
 }

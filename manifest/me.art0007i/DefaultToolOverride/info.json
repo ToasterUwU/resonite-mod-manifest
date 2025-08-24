@@ -5,6 +5,17 @@
     "category": "Controls",
     "sourceLocation": "https://github.com/art0007i/DefaultToolOverride",
     "versions": {
+        "1.0.5": {
+            "releaseUrl": "https://github.com/art0007i/DefaultToolOverride/releases/tag/1.0.5",
+            "artifacts": [
+                {
+                    "url": "https://github.com/art0007i/DefaultToolOverride/releases/download/1.0.5/DefaultToolOverride.dll",
+                    "filename": "DefaultToolOverride.dll",
+                    "sha256": "21a446daad817537ced6eba36220b1e8ec2ed555a9a8eafb678c073517079047"
+                }
+            ],
+            "changelog": "Fix for splittening"
+        },
         "1.0.4": {
             "releaseUrl": "https://github.com/art0007i/DefaultToolOverride/releases/tag/1.0.4",
             "artifacts": [
@@ -16,13 +27,13 @@
             ],
             "changelog": "Add option for modifier key."
         },
-        "1.0.1": {
-            "releaseUrl": "https://github.com/art0007i/DefaultToolOverride/releases/tag/1.0.1",
+        "1.0.3": {
+            "releaseUrl": "https://github.com/art0007i/DefaultToolOverride/releases/tag/1.0.3",
             "artifacts": [
                 {
-                    "url": "https://github.com/art0007i/DefaultToolOverride/releases/download/1.0.1/DefaultToolOverride.dll",
-                    "filename": "DefaultToolOverride.dll",
-                    "sha256": "9913af124aa5719b7ec8fcb339e7e192dae154213b64e1cc446ee98fb5aa6bcf"
+                    "url": "https://github.com/art0007i/DefaultToolOverride/releases/download/1.0.3/DefaultToolOverride.dll",
+                    "sha256": "96f03a183e22e3f21bbee9f24643b8997f8275290e6910edf19fcb20a38f7cf3",
+                    "filename": "DefaultToolOverride.dll"
                 }
             ]
         },
@@ -37,16 +48,25 @@
             ],
             "changelog": "Fix \"None\" override type not working correctly."
         },
-        "1.0.5": {
-            "releaseUrl": "https://github.com/art0007i/DefaultToolOverride/releases/tag/1.0.5",
+        "1.0.1": {
+            "releaseUrl": "https://github.com/art0007i/DefaultToolOverride/releases/tag/1.0.1",
             "artifacts": [
                 {
-                    "url": "https://github.com/art0007i/DefaultToolOverride/releases/download/1.0.5/DefaultToolOverride.dll",
+                    "url": "https://github.com/art0007i/DefaultToolOverride/releases/download/1.0.1/DefaultToolOverride.dll",
                     "filename": "DefaultToolOverride.dll",
-                    "sha256": "21a446daad817537ced6eba36220b1e8ec2ed555a9a8eafb678c073517079047"
+                    "sha256": "9913af124aa5719b7ec8fcb339e7e192dae154213b64e1cc446ee98fb5aa6bcf"
                 }
-            ],
-            "changelog": "Fix for splittening"
+            ]
+        },
+        "1.0.0": {
+            "releaseUrl": "https://github.com/art0007i/DefaultToolOverride/releases/tag/1.0.0",
+            "artifacts": [
+                {
+                    "url": "https://github.com/art0007i/DefaultToolOverride/releases/download/1.0.0/DefaultToolOverride.dll",
+                    "sha256": "5112007b7a052cedb851b6320b84d41ae799f536dc2655afaab8dd1cd3f755cf",
+                    "filename": "DefaultToolOverride.dll"
+                }
+            ]
         }
     }
 }

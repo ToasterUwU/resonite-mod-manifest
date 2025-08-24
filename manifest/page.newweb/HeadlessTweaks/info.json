@@ -1,37 +1,226 @@
 {
-	"name": "HeadlessTweaks",
-	"id": "page.newweb.HeadlessTweaks",
-	"description": "Adds some nice to have features to headless clients. To use the discord related options `Discord.Net.Webhook`, `Discord.Net.Rest`, and `Discord.Net.Core` libraries are required, view the readme for more information.",
-	"category": "Technical Tweaks",
-	"platforms": [
-		"headless"
-	],
-	"website": "https://github.com/New-Project-Final-Final-WIP/HeadlessTweaks/blob/master/README.md",
-	"sourceLocation": "https://github.com/New-Project-Final-Final-WIP/HeadlessTweaks",
-	"versions": {
-		"2.1.11": {
-			"releaseUrl": "https://github.com/New-Project-Final-Final-WIP/HeadlessTweaks/releases/tag/v2.1.11",
-			"changelog": "Post Splittening update\n- Added Renderite.Shared for moved types by Gyztor\n- Updated Discord.Net libraries to 3.18.0 by Gyztor",
-			"artifacts": [{
-				"url": "https://github.com/New-Project-Final-Final-WIP/HeadlessTweaks/releases/download/v2.1.11/HeadlessTweaks.dll",
-				"sha256": "3cfb3c6a3a1fc141ca1f8258143b06fceee9b005582b6510bb973a4d5f691c65"
-			}]
-		},
-		"2.1.10": {
-			"releaseUrl": "https://github.com/New-Project-Final-Final-WIP/HeadlessTweaks/releases/tag/v2.1.10",
-			"changelog": "- Fixed start world commands creating invalid invites\n- Fix nml typo in a warning message fixed by XDelta",
-			"artifacts": [{
-				"url": "https://github.com/New-Project-Final-Final-WIP/HeadlessTweaks/releases/download/v2.1.10/HeadlessTweaks.dll",
-				"sha256": "22576814868b7e8b67d8a25c78e86a8b5f613ccb49ad4d3b1f04351133445195"
-			}]
-		},
-		"2.1.9": {
-			"releaseUrl": "https://github.com/New-Project-Final-Final-WIP/HeadlessTweaks/releases/tag/v2.1.9",
-			"changelog": "- Added the option to automatically accept invite requests sent using the Ask to Join button (`AutoHandleInviteRequests`)\n  - This will send an invite for whatever session the headless is currently focused on\n  - This is only done if it is sent directly to the headless by the person requesting, this does not apply to forwarded requests\n  - The permission check is handled the same as the `/reqInvite` command\n  - If the user does not have permission to join then the request will be forwarded to the session admins\n\n- Discord changes\n  - Added `WorldCrashed` event\n  - Added option to add go.resonite.com link to session start message (`DiscordLinkToSession`)\n  \n- Command changes\n  - Added ability for `reqInvite` to do partial match\n  - Stop `reqInvite` command from reporting full world name if you do not have permission to join\n  - Fixed starting worlds with a world orb\n  - Fixed start world commands not always reporting a name\n\n- Misc changes\n  - Exposed RegisterCommands as a public method\n  - Updated project files\n",
-			"artifacts": [{
-				"url": "https://github.com/New-Project-Final-Final-WIP/HeadlessTweaks/releases/download/v2.1.9/HeadlessTweaks.dll",
-				"sha256": "edc53c2656d610396c6ee06b0e6d8365e8cbd5d47a7c95c27de575eeb3bc069a"
-			}]
-		}
-	}
+    "name": "HeadlessTweaks",
+    "id": "page.newweb.HeadlessTweaks",
+    "description": "Adds some nice to have features to headless clients. To use the discord related options `Discord.Net.Webhook`, `Discord.Net.Rest`, and `Discord.Net.Core` libraries are required, view the readme for more information.",
+    "category": "Technical Tweaks",
+    "platforms": [
+        "headless"
+    ],
+    "website": "https://github.com/New-Project-Final-Final-WIP/HeadlessTweaks/blob/master/README.md",
+    "sourceLocation": "https://github.com/New-Project-Final-Final-WIP/HeadlessTweaks",
+    "versions": {
+        "2.1.9": {
+            "releaseUrl": "https://github.com/New-Project-Final-Final-WIP/HeadlessTweaks/releases/tag/v2.1.9",
+            "changelog": "- Added the option to automatically accept invite requests sent using the Ask to Join button (`AutoHandleInviteRequests`)\n  - This will send an invite for whatever session the headless is currently focused on\n  - This is only done if it is sent directly to the headless by the person requesting, this does not apply to forwarded requests\n  - The permission check is handled the same as the `/reqInvite` command\n  - If the user does not have permission to join then the request will be forwarded to the session admins\n\n- Discord changes\n  - Added `WorldCrashed` event\n  - Added option to add go.resonite.com link to session start message (`DiscordLinkToSession`)\n  \n- Command changes\n  - Added ability for `reqInvite` to do partial match\n  - Stop `reqInvite` command from reporting full world name if you do not have permission to join\n  - Fixed starting worlds with a world orb\n  - Fixed start world commands not always reporting a name\n\n- Misc changes\n  - Exposed RegisterCommands as a public method\n  - Updated project files\n",
+            "artifacts": [
+                {
+                    "url": "https://github.com/New-Project-Final-Final-WIP/HeadlessTweaks/releases/download/v2.1.9/HeadlessTweaks.dll",
+                    "sha256": "edc53c2656d610396c6ee06b0e6d8365e8cbd5d47a7c95c27de575eeb3bc069a"
+                }
+            ]
+        },
+        "2.1.7": {
+            "releaseUrl": "https://github.com/New-Project-Final-Final-WIP/HeadlessTweaks/releases/tag/v2.1.7",
+            "artifacts": [
+                {
+                    "url": "https://github.com/New-Project-Final-Final-WIP/HeadlessTweaks/releases/download/v2.1.7/Discord.Net.Core.dll",
+                    "sha256": "a82431fc7ac64743e1846d6d553ffa324a93fe69dcd6c1815c3cb3ec4ab9e235",
+                    "installLocation": "/rml_libs"
+                },
+                {
+                    "url": "https://github.com/New-Project-Final-Final-WIP/HeadlessTweaks/releases/download/v2.1.7/Discord.Net.Rest.dll",
+                    "sha256": "9f0675905bfef39076654bd904956604e18fedcfff67075e34e50cef0bab5427",
+                    "installLocation": "/rml_libs"
+                },
+                {
+                    "url": "https://github.com/New-Project-Final-Final-WIP/HeadlessTweaks/releases/download/v2.1.7/Discord.Net.Webhook.dll",
+                    "sha256": "cda28bd16c518ed8c44618d0c7a8548c10f462ffc0e66aed1551d945e339df58",
+                    "installLocation": "/rml_libs"
+                },
+                {
+                    "url": "https://github.com/New-Project-Final-Final-WIP/HeadlessTweaks/releases/download/v2.1.7/HeadlessTweaks.dll",
+                    "sha256": "9de26b004a56c9409883ef47ed7f7da803b02421c31cd5a4919d6c9f5a4b2554"
+                }
+            ]
+        },
+        "2.1.6": {
+            "releaseUrl": "https://github.com/New-Project-Final-Final-WIP/HeadlessTweaks/releases/tag/v2.1.6",
+            "artifacts": [
+                {
+                    "url": "https://github.com/New-Project-Final-Final-WIP/HeadlessTweaks/releases/download/v2.1.6/HeadlessTweaks.dll",
+                    "sha256": "57e0171210501c7286b90f4eb03c7298bbc401d1f0d6fe485af994f330743ce7"
+                }
+            ]
+        },
+        "2.1.5": {
+            "releaseUrl": "https://github.com/New-Project-Final-Final-WIP/HeadlessTweaks/releases/tag/v2.1.5",
+            "artifacts": [
+                {
+                    "url": "https://github.com/New-Project-Final-Final-WIP/HeadlessTweaks/releases/download/v2.1.5/HeadlessTweaks.dll",
+                    "sha256": "25cdf2b8ce51997d2895670849850a9d5145500cc3dc7ffec8defa65e6bd5189"
+                }
+            ]
+        },
+        "2.1.4": {
+            "releaseUrl": "https://github.com/New-Project-Final-Final-WIP/HeadlessTweaks/releases/tag/v2.1.4",
+            "artifacts": [
+                {
+                    "url": "https://github.com/New-Project-Final-Final-WIP/HeadlessTweaks/releases/download/v2.1.4/HeadlessTweaks.dll",
+                    "sha256": "2931c8a76be37e713e81074c09a8043226cf2070ceaaecb582eab06b9680ddff"
+                }
+            ]
+        },
+        "2.1.3": {
+            "releaseUrl": "https://github.com/New-Project-Final-Final-WIP/HeadlessTweaks/releases/tag/v2.1.3",
+            "artifacts": [
+                {
+                    "url": "https://github.com/New-Project-Final-Final-WIP/HeadlessTweaks/releases/download/v2.1.3/HeadlessTweaks.dll",
+                    "sha256": "eefa83ca32f2934e5d76babfa8412142e080c6e4c7a335eaef38547958f26a93"
+                }
+            ]
+        },
+        "2.1.2": {
+            "releaseUrl": "https://github.com/New-Project-Final-Final-WIP/HeadlessTweaks/releases/tag/v2.1.2",
+            "artifacts": [
+                {
+                    "url": "https://github.com/New-Project-Final-Final-WIP/HeadlessTweaks/releases/download/v2.1.2/Discord.Net.Core.dll",
+                    "sha256": "00ed52c96d56b9196c6ec21cb6290a4d24f2ee310059c723d3734a84785a06bd",
+                    "installLocation": "/rml_libs"
+                },
+                {
+                    "url": "https://github.com/New-Project-Final-Final-WIP/HeadlessTweaks/releases/download/v2.1.2/Discord.Net.Rest.dll",
+                    "sha256": "e38ff7605154c1b2039275a1ff82c3b244eb85e3b7719645d980b6317c912492",
+                    "installLocation": "/rml_libs"
+                },
+                {
+                    "url": "https://github.com/New-Project-Final-Final-WIP/HeadlessTweaks/releases/download/v2.1.2/Discord.Net.Webhook.dll",
+                    "sha256": "8ec8ef2b90e29fe7d518e50e05e011b18e6a251254f8a85d65c67144d39069b0",
+                    "installLocation": "/rml_libs"
+                },
+                {
+                    "url": "https://github.com/New-Project-Final-Final-WIP/HeadlessTweaks/releases/download/v2.1.2/HeadlessTweaks.dll",
+                    "sha256": "57ce14ce05281e111b49b1ef48fd515a03da01b3dd50fd90a14c687b6d098df2"
+                }
+            ]
+        },
+        "2.1.11": {
+            "releaseUrl": "https://github.com/New-Project-Final-Final-WIP/HeadlessTweaks/releases/tag/v2.1.11",
+            "changelog": "Post Splittening update\n- Added Renderite.Shared for moved types by Gyztor\n- Updated Discord.Net libraries to 3.18.0 by Gyztor",
+            "artifacts": [
+                {
+                    "url": "https://github.com/New-Project-Final-Final-WIP/HeadlessTweaks/releases/download/v2.1.11/HeadlessTweaks.dll",
+                    "sha256": "3cfb3c6a3a1fc141ca1f8258143b06fceee9b005582b6510bb973a4d5f691c65"
+                }
+            ]
+        },
+        "2.1.10": {
+            "releaseUrl": "https://github.com/New-Project-Final-Final-WIP/HeadlessTweaks/releases/tag/v2.1.10",
+            "changelog": "- Fixed start world commands creating invalid invites\n- Fix nml typo in a warning message fixed by XDelta",
+            "artifacts": [
+                {
+                    "url": "https://github.com/New-Project-Final-Final-WIP/HeadlessTweaks/releases/download/v2.1.10/HeadlessTweaks.dll",
+                    "sha256": "22576814868b7e8b67d8a25c78e86a8b5f613ccb49ad4d3b1f04351133445195"
+                }
+            ]
+        },
+        "2.1.1": {
+            "releaseUrl": "https://github.com/New-Project-Final-Final-WIP/HeadlessTweaks/releases/tag/v2.1.1",
+            "artifacts": [
+                {
+                    "url": "https://github.com/New-Project-Final-Final-WIP/HeadlessTweaks/releases/download/v2.1.1/HeadlessTweaks.dll",
+                    "sha256": "6285ed2d2511fb740614d839b9187296b5146bed665b81997057e9cd37e384f9"
+                }
+            ]
+        },
+        "2.1.0": {
+            "releaseUrl": "https://github.com/New-Project-Final-Final-WIP/HeadlessTweaks/releases/tag/v2.1.0",
+            "artifacts": [
+                {
+                    "url": "https://github.com/New-Project-Final-Final-WIP/HeadlessTweaks/releases/download/v2.1.0/HeadlessTweaks.dll",
+                    "sha256": "96c3a75db5f016af009ad93d318d83f880df45eb1e6465302674a767f66fd598"
+                }
+            ]
+        },
+        "2.0.0": {
+            "releaseUrl": "https://github.com/New-Project-Final-Final-WIP/HeadlessTweaks/releases/tag/v2.0.0",
+            "artifacts": [
+                {
+                    "url": "https://github.com/New-Project-Final-Final-WIP/HeadlessTweaks/releases/download/v2.0.0/Discord.Net.Core.dll",
+                    "sha256": "00ed52c96d56b9196c6ec21cb6290a4d24f2ee310059c723d3734a84785a06bd",
+                    "installLocation": "/rml_libs"
+                },
+                {
+                    "url": "https://github.com/New-Project-Final-Final-WIP/HeadlessTweaks/releases/download/v2.0.0/Discord.Net.Rest.dll",
+                    "sha256": "e38ff7605154c1b2039275a1ff82c3b244eb85e3b7719645d980b6317c912492",
+                    "installLocation": "/rml_libs"
+                },
+                {
+                    "url": "https://github.com/New-Project-Final-Final-WIP/HeadlessTweaks/releases/download/v2.0.0/Discord.Net.Webhook.dll",
+                    "sha256": "8ec8ef2b90e29fe7d518e50e05e011b18e6a251254f8a85d65c67144d39069b0",
+                    "installLocation": "/rml_libs"
+                },
+                {
+                    "url": "https://github.com/New-Project-Final-Final-WIP/HeadlessTweaks/releases/download/v2.0.0/HeadlessTweaks.dll",
+                    "sha256": "0f28e67caad2bb2a79d5208a1b34483370d234701f7e332e94edd6d1295ef30c"
+                }
+            ]
+        },
+        "1.2.0": {
+            "releaseUrl": "https://github.com/New-Project-Final-Final-WIP/HeadlessTweaks/releases/tag/v1.2.0",
+            "artifacts": [
+                {
+                    "url": "https://github.com/New-Project-Final-Final-WIP/HeadlessTweaks/releases/download/v1.2.0/Discord.Net.Core.dll",
+                    "sha256": "68cf9f25959b675a213d642fe2d6376bb057cc25c4d3e4093409761afc772e69",
+                    "installLocation": "/rml_libs"
+                },
+                {
+                    "url": "https://github.com/New-Project-Final-Final-WIP/HeadlessTweaks/releases/download/v1.2.0/Discord.Net.Rest.dll",
+                    "sha256": "ff9d22adbe079ca3594adc1d32149eb1fbe42656a8cccb68316672b60c94e399",
+                    "installLocation": "/rml_libs"
+                },
+                {
+                    "url": "https://github.com/New-Project-Final-Final-WIP/HeadlessTweaks/releases/download/v1.2.0/Discord.Net.Webhook.dll",
+                    "sha256": "433670c11e65f53045647ba06e8ec17fc5257b1682992bde8b6a327e84250d54",
+                    "installLocation": "/rml_libs"
+                },
+                {
+                    "url": "https://github.com/New-Project-Final-Final-WIP/HeadlessTweaks/releases/download/v1.2.0/HeadlessTweaks.dll",
+                    "sha256": "4bb449538a5f14b90b7bbfd4b36c0f4d3f6cfc5830b9e0b9e0b5f3136fad2080"
+                }
+            ]
+        },
+        "1.1.0": {
+            "releaseUrl": "https://github.com/New-Project-Final-Final-WIP/HeadlessTweaks/releases/tag/v1.1.0",
+            "artifacts": [
+                {
+                    "url": "https://github.com/New-Project-Final-Final-WIP/HeadlessTweaks/releases/download/v1.1.0/Discord.Net.Core.dll",
+                    "sha256": "ef0293ea3aecd5ef747aa39d4a241ea27be0ddaee8150d19ed9e3be539e96f78",
+                    "installLocation": "/rml_libs"
+                },
+                {
+                    "url": "https://github.com/New-Project-Final-Final-WIP/HeadlessTweaks/releases/download/v1.1.0/Discord.Net.Rest.dll",
+                    "sha256": "c5dec932796e718979d9d57437f9408a8ba8d1a982b35136acb474a37c8358d4",
+                    "installLocation": "/rml_libs"
+                },
+                {
+                    "url": "https://github.com/New-Project-Final-Final-WIP/HeadlessTweaks/releases/download/v1.1.0/Discord.Net.Webhook.dll",
+                    "sha256": "cbbaee21bb930cfa29e62aeca2fad5eac7e031905af9b55dd7b934b5ddcfabe9",
+                    "installLocation": "/rml_libs"
+                },
+                {
+                    "url": "https://github.com/New-Project-Final-Final-WIP/HeadlessTweaks/releases/download/v1.1.0/HeadlessTweaks.dll",
+                    "sha256": "72dc72d371167a140c7f56039c2151583fb13b43b81dd0d1b5b19be13fd9a00b"
+                }
+            ]
+        },
+        "1.0.0": {
+            "releaseUrl": "https://github.com/New-Project-Final-Final-WIP/HeadlessTweaks/releases/tag/v1.0.0",
+            "artifacts": [
+                {
+                    "url": "https://github.com/New-Project-Final-Final-WIP/HeadlessTweaks/releases/download/v1.0.0/HeadlessTweaks.dll",
+                    "sha256": "8903556e5d022969eb59dad3166b33afc943dade3ae3b9f777dd40f083ad5761"
+                }
+            ]
+        }
+    }
 }

@@ -1,16 +1,27 @@
 {
-	"name": "TarGZImporter",
-	"id": "net.dfgHiatus.TarGZImporter",
-	"description": "Allows importing and extraction of .tar.gz files",
-	"category": "Asset Importing",
-	"sourceLocation": "https://github.com/dfgHiatus/TarGZImporter",
-	"versions": {
-		"2.0.0": {
-			"releaseUrl": "https://github.com/dfgHiatus/TarGZImporter/releases/tag/v2.0.0",
-			"artifacts": [{
-				"url": "https://github.com/dfgHiatus/TarGZImporter/releases/download/v2.0.0/TarGZImporter.dll",
-				"sha256": "3ac7b36adaf12ce35438eefeeaa40f6935c350f8d1031c0857b33186cbf1d8c5"
-			}]
-		}
-	}
+    "name": "TarGZImporter",
+    "id": "net.dfgHiatus.TarGZImporter",
+    "description": "Allows importing and extraction of .tar.gz files",
+    "category": "Asset Importing",
+    "sourceLocation": "https://github.com/dfgHiatus/TarGZImporter",
+    "versions": {
+        "2.0.0": {
+            "releaseUrl": "https://github.com/dfgHiatus/TarGZImporter/releases/tag/v2.0.0",
+            "artifacts": [
+                {
+                    "url": "https://github.com/dfgHiatus/TarGZImporter/releases/download/v2.0.0/TarGZImporter.dll",
+                    "sha256": "3ac7b36adaf12ce35438eefeeaa40f6935c350f8d1031c0857b33186cbf1d8c5"
+                }
+            ]
+        },
+        "1.0.0": {
+            "releaseUrl": "https://github.com/dfgHiatus/TarGZImporter/releases/tag/v1.0.0",
+            "artifacts": [
+                {
+                    "url": "https://github.com/dfgHiatus/TarGZImporter/releases/download/v1.0.0/TarGZImporter.dll",
+                    "sha256": "4c445adcbfc890959a9cffd767f04d113cba58409477ac3bacfed5aea70cc0e9"
+                }
+            ]
+        }
+    }
 }

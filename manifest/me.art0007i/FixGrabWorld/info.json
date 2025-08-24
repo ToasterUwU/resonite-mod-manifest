@@ -14,6 +14,16 @@
                     "sha256": "8822eb2ca3c0995deef692b92292a67485c27dd664bfd913bb83ba936504ff5d"
                 }
             ]
+        },
+        "1.0.0": {
+            "releaseUrl": "https://github.com/art0007i/FixGrabWorld/releases/tag/1.0.0",
+            "artifacts": [
+                {
+                    "url": "https://github.com/art0007i/FixGrabWorld/releases/download/1.0.0/FixGrabWorld.dll",
+                    "sha256": "f877184063cf94407ec099e2bfad67353cfc9962e0313665150ff9da995995f2",
+                    "filename": "FixGrabWorld.dll"
+                }
+            ]
         }
     }
 }
