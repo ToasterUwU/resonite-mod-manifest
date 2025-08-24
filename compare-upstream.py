@@ -35,5 +35,7 @@ sorted_local = sorted(only_local)
 print("Mods only in upstream:")
 print("\n".join(sorted_upstream))
 
+print("\n")
+
 print("Mods only in local:")
 print("\n".join(sorted_local))
