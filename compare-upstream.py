@@ -14,14 +14,18 @@ only_upstream = []
 only_local = []
 
 for author in upstream_manifest["objects"]:
-    if author not in local_manifest["objects"]:
-        for mod in upstream_manifest["objects"][author]["entries"]:
+    for mod in upstream_manifest["objects"][author]["entries"]:
+        if author not in local_manifest["objects"]:
+            only_upstream.append(mod)
+        elif mod not in local_manifest["objects"][author]["entries"]:
             only_upstream.append(mod)
 
 
 for author in local_manifest["objects"]:
-    if author not in upstream_manifest["objects"]:
-        for mod in local_manifest["objects"][author]["entries"]:
+    for mod in local_manifest["objects"][author]["entries"]:
+        if author not in upstream_manifest["objects"]:
+            only_local.append(mod)
+        elif mod not in upstream_manifest["objects"][author]["entries"]:
             only_local.append(mod)
 
 
