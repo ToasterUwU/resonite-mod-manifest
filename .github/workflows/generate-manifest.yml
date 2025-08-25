@@ -47,6 +47,7 @@ jobs:
           git config user.email "<>"
           git add manifest.json
           git add manifest
+          git add README.md
           git commit -m "Update manifest"
           git push
         else
