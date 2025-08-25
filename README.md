@@ -21,6 +21,7 @@ This fork is bleeding edge unstable stuff. I dont check the mod updates, i dont 
 ## Mods that we have a newer version of
 
 - [BoundedUIX](https://github.com/Banane9/ResoniteBoundedUIX) (by Banane9)  - 2.0.0 vs 1.0.0
+- [EnableToolspawnInVR](https://github.com/ErrorJan/ResoniteMod-EnableToolspawnInVR) (by ErrorJan)  - 1.0.1 vs 1.0.0
 - [IgnoreControllerAxis](https://github.com/ErrorJan/ResoniteMod-IgnoreControllerAxis) (by ErrorJan)  - 1.1.0 vs 1.0.0
 - [ProtoFluxOverhaul](https://github.com/DexyThePuppy/ProtoFluxOverhaul) (by DexyThePuppy)  - 1.4.3 vs 1.4.2
 - [SlotInspectorHighlighter](https://github.com/sjsanjsrh/SlotInspectorHighlighter) (by Sinduy)  - 1.0.2 vs 1.0.1
