@@ -1395,6 +1395,15 @@
                                 }
                             },
                             "releaseUrl": "https://github.com/AwesomeTornado/Resonite-DoublePrecision-RML/releases/tag/V1.6.1"
+                        },
+                        "2.0.0": {
+                            "artifacts": [
+                                {
+                                    "sha256": "3e29d88e3a4c23c30ec5ca83fcc53b2f3cfba372d467de174c8843f57782d42c",
+                                    "url": "https://github.com/AwesomeTornado/Resonite-DoublePrecision-RML/releases/download/V2.0.0-alpha.0/DoublePrecision.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/AwesomeTornado/Resonite-DoublePrecision-RML/releases/tag/V2.0.0-alpha.0"
                         }
                     }
                 },
