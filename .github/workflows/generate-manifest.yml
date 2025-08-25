@@ -37,6 +37,9 @@ jobs:
     - name: Run generate_manifest.py
       run: python -u generate_manifest.py
 
+    - name: Run compare_upstream.py
+      run: python -u compare_upstream.py
+
     - name: Check for changes and push
       run: |
         if [[ $(git status --porcelain) ]]; then
