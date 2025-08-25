@@ -1,0 +1,18 @@
+{
+    "name": "DoublePrecision",
+    "id": "AwesomeTornado.DoublePrecision",
+    "description": "Mod for the game Resonite which removes graphical floating-point errors",
+    "category": "Context Menu",
+    "sourceLocation": "https://github.com/AwesomeTornado/Resonite-DoublePrecision-RML",
+    "versions": {
+        "1.0.0": {
+            "releaseUrl": "https://github.com/AwesomeTornado/Resonite-DoublePrecision-RML/releases/tag/V2.0.0-alpha.0",
+            "artifacts": [
+                {
+                    "url": "https://github.com/AwesomeTornado/Resonite-DoublePrecision-RML/releases/download/V2.0.0-alpha.0/DoublePrecision.dll",
+                    "sha256": "3e29d88e3a4c23c30ec5ca83fcc53b2f3cfba372d467de174c8843f57782d42c"
+                }
+            ]
+        }
+    }
+}
