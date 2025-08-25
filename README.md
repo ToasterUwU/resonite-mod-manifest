@@ -11,7 +11,6 @@ This fork is bleeding edge unstable stuff. I dont check the mod updates, i dont 
 
 ## Mods we have, but the official Mod-Manifest does not
 
-- [DoublePrecision](https://github.com/AwesomeTornado/Resonite-DoublePrecision-RML) (by AwesomeTornado)
 - [Fck-SessionCapture](https://github.com/nalathethird/Fck-SessionCapture) (by nalathethird)
 - [IDontNeedHelp](https://github.com/nalathethird/IDontNeedHelp) (by nalathethird)
 - [SwapToDynamicBlendShapeDriver](https://github.com/djsime1/SwapToDynamicBlendShapeDriver) (by djsime1)

@@ -1,77 +1,5 @@
 {
     "objects": {
-        "AwesomeTornado": {
-            "author": {
-                "AwesomeTornado": {
-                    "icon": "https://avatars.githubusercontent.com/u/73045075?v=4",
-                    "url": "https://github.com/AwesomeTornado"
-                }
-            },
-            "entries": {
-                "AwesomeTornado.DoublePrecision": {
-                    "category": "Context Menu",
-                    "description": "Mod for the game Resonite which removes graphical floating-point errors",
-                    "name": "DoublePrecision",
-                    "sourceLocation": "https://github.com/AwesomeTornado/Resonite-DoublePrecision-RML",
-                    "versions": {
-                        "1.0.0": {
-                            "artifacts": [
-                                {
-                                    "sha256": "3e29d88e3a4c23c30ec5ca83fcc53b2f3cfba372d467de174c8843f57782d42c",
-                                    "url": "https://github.com/AwesomeTornado/Resonite-DoublePrecision-RML/releases/download/V2.0.0-alpha.0/DoublePrecision.dll"
-                                }
-                            ],
-                            "releaseUrl": "https://github.com/AwesomeTornado/Resonite-DoublePrecision-RML/releases/tag/V2.0.0-alpha.0"
-                        },
-                        "1.3.0": {
-                            "artifacts": [
-                                {
-                                    "sha256": "9098b11dd54cde2e6c37294990a781c7ad366b792036a01ece33e591ee8522d4",
-                                    "url": "https://github.com/AwesomeTornado/Resonite-DoublePrecision-RML/releases/download/V1.3.0/DoublePrecision.dll"
-                                }
-                            ],
-                            "releaseUrl": "https://github.com/AwesomeTornado/Resonite-DoublePrecision-RML/releases/tag/V1.3.0"
-                        },
-                        "1.4.0": {
-                            "artifacts": [
-                                {
-                                    "sha256": "5d45539c2f7283fd1eddacdb0d7a9404bafbeb29eeddffd48cfd833324810178",
-                                    "url": "https://github.com/AwesomeTornado/Resonite-DoublePrecision-RML/releases/download/V1.4.0/DoublePrecision.dll"
-                                }
-                            ],
-                            "releaseUrl": "https://github.com/AwesomeTornado/Resonite-DoublePrecision-RML/releases/tag/V1.4.0"
-                        },
-                        "1.6.0": {
-                            "artifacts": [
-                                {
-                                    "sha256": "8e9a99cc9a583befcf408645bb98674a7ac2bd627f4b43f0f385e5d2d46d62be",
-                                    "url": "https://github.com/AwesomeTornado/Resonite-DoublePrecision-RML/releases/download/V1.6.0/DoublePrecision.dll"
-                                }
-                            ],
-                            "releaseUrl": "https://github.com/AwesomeTornado/Resonite-DoublePrecision-RML/releases/tag/V1.6.0"
-                        },
-                        "1.6.1": {
-                            "artifacts": [
-                                {
-                                    "sha256": "f380b96ff4721e439d7eede80109223d76eb6436155962536c401a1b132dd6fb",
-                                    "url": "https://github.com/AwesomeTornado/Resonite-DoublePrecision-RML/releases/download/V1.6.1/DoublePrecision.dll"
-                                }
-                            ],
-                            "releaseUrl": "https://github.com/AwesomeTornado/Resonite-DoublePrecision-RML/releases/tag/V1.6.1"
-                        },
-                        "2.0.0": {
-                            "artifacts": [
-                                {
-                                    "sha256": "3e29d88e3a4c23c30ec5ca83fcc53b2f3cfba372d467de174c8843f57782d42c",
-                                    "url": "https://github.com/AwesomeTornado/Resonite-DoublePrecision-RML/releases/download/V2.0.0-alpha.0/DoublePrecision.dll"
-                                }
-                            ],
-                            "releaseUrl": "https://github.com/AwesomeTornado/Resonite-DoublePrecision-RML/releases/tag/V2.0.0-alpha.0"
-                        }
-                    }
-                }
-            }
-        },
         "Banane9": {
             "author": {
                 "Banane9": {
@@ -2084,12 +2012,7 @@
                 },
                 "com.nekometer.esnya.ResoniteMetricsCounter": {
                     "additionalAuthors": {
-                        "AwesomeTornado": {
-                            "AwesomeTornado": {
-                                "icon": "https://avatars.githubusercontent.com/u/73045075?v=4",
-                                "url": "https://github.com/AwesomeTornado"
-                            }
-                        }
+                        "AwesomeTornado": {}
                     },
                     "category": "Optimization",
                     "description": "Provides a simple performance metrics counter for Resonite, useful for world optimisation.",
