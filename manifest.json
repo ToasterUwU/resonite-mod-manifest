@@ -5328,6 +5328,15 @@
                                 }
                             ],
                             "releaseUrl": "https://github.com/NepuShiro/ResoTabbed/releases/tag/1.1.0"
+                        },
+                        "2.1.0": {
+                            "artifacts": [
+                                {
+                                    "sha256": "c2600f0ac7e474bed2d40cf9ac853dfb30d6b943a76bdb842cab533215d69e50",
+                                    "url": "https://github.com/NepuShiro/ResoTabbed/releases/download/2.1.0/ResoTabbed.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/NepuShiro/ResoTabbed/releases/tag/2.1.0"
                         }
                     }
                 },

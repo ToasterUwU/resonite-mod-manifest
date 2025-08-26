@@ -5,6 +5,15 @@
     "category": "Misc",
     "sourceLocation": "https://github.com/NepuShiro/ResoTabbed",
     "versions": {
+        "2.1.0": {
+            "releaseUrl": "https://github.com/NepuShiro/ResoTabbed/releases/tag/2.1.0",
+            "artifacts": [
+                {
+                    "url": "https://github.com/NepuShiro/ResoTabbed/releases/download/2.1.0/ResoTabbed.dll",
+                    "sha256": "c2600f0ac7e474bed2d40cf9ac853dfb30d6b943a76bdb842cab533215d69e50"
+                }
+            ]
+        },
         "1.1.0": {
             "releaseUrl": "https://github.com/NepuShiro/ResoTabbed/releases/tag/1.1.0",
             "artifacts": [
