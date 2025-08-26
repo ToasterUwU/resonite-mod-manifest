@@ -17,6 +17,10 @@ This fork is bleeding edge unstable stuff. I dont check the mod updates, i dont 
 
 %OUTDATED_UPSTREAM%
 
+## Mods we are currently missing (will always be fixed ASAP)
+
+%MISSING_LOCAL%
+
 ## What is this?
 
 This is a automatically managed listing of [Resonite Mod Loader](https://github.com/resonite-modding-group/ResoniteModLoader) mods.

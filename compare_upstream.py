@@ -71,8 +71,14 @@ for id, data in only_local.items():
     local_only_formatted += (
         f"- [{data['name']}]({data['sourceLocation']}) (by {data['author']})\n"
     )
-
 readme_template = readme_template.replace("%MISSING_UPSTREAM%", local_only_formatted)
+
+upstream_only_formatted = ""
+for id, data in only_upstream.items():
+    upstream_only_formatted += (
+        f"- [{data['name']}]({data['sourceLocation']}) (by {data['author']})\n"
+    )
+readme_template = readme_template.replace("%MISSING_LOCAL%", upstream_only_formatted)
 
 upstream_outdated_formatted = ""
 for id, data in upstream_outdated.items():
@@ -94,7 +100,7 @@ print("Only in local manifest:")
 print(local_only_formatted)
 
 print("Only in upstream manifest:")
-print(only_upstream)
+print(upstream_only_formatted)
 
 print("Outdated upstream mods:")
 print(upstream_outdated_formatted)

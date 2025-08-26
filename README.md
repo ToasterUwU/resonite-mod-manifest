@@ -28,6 +28,11 @@ This fork is bleeding edge unstable stuff. I dont check the mod updates, i dont 
 - [GetItemLink](https://github.com/EIA485/NeosGetItemLink) (by EIA485)  - 1.4.9 vs 1.4.6
 
 
+## Mods we are currently missing (will always be fixed ASAP)
+
+- [DynamicTickRate](https://github.com/Raidriar796/DynamicTickRate) (by Raidriar796)
+
+
 ## What is this?
 
 This is a automatically managed listing of [Resonite Mod Loader](https://github.com/resonite-modding-group/ResoniteModLoader) mods.
