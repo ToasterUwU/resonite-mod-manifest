@@ -23,7 +23,6 @@ This fork is bleeding edge unstable stuff. I dont check the mod updates, i dont 
 - [HandAligner](https://github.com/AwesomeTornado/Resonite-Hand-Aligner) (by __Choco__)  - 2.0.0 vs 1.0.1
 - [Thundagun](https://github.com/Frozenreflex/Thundagun) (by Frozenreflex)  - 1.2.2 vs 1.2.1
 - [EsnyaTweaks](https://github.com/esnya/ResoniteEsnyaTweaks) (by esnya)  - 1.0.0 vs 0.1.0
-- [ResoniteScreenshotExtensions](https://github.com/hantabaru1014/ResoniteScreenshotExtensions) (by hantabaru1014)  - 2.1.0 vs 2.0.3
 - [VRCFTReceiver](https://github.com/hazre/VRCFTReceiver) (by hazre)  - 2.0.0 vs 1.0.4
 - [ResoniteSlotInspectorCounter](https://github.com/NepuShiro/ResoniteSlotInspectorCounter) (by NepuShiro)  - 1.7.0 vs 1.6.0
 - [GetItemLink](https://github.com/EIA485/NeosGetItemLink) (by EIA485)  - 1.4.9 vs 1.4.6
