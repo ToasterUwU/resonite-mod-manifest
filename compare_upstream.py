@@ -14,6 +14,7 @@ only_upstream = {}
 only_local = {}
 
 upstream_outdated = {}
+local_outdated = {}
 
 
 def parse_version(v):
@@ -39,6 +40,16 @@ for author in upstream_manifest["objects"]:
             only_upstream[mod] = upstream_manifest["objects"][author]["entries"][mod]
             only_upstream[mod]["author"] = list(upstream_manifest["objects"][author]["author"].keys())[0]
             only_upstream[mod]["author_id"] = author
+        else:
+            local_versions = local_manifest["objects"][author]["entries"][mod].get("versions", {})
+            upstream_versions = upstream_manifest["objects"][author]["entries"][mod].get("versions", {})
+            if local_versions and upstream_versions:
+                local_latest = max(local_versions.keys(), key=parse_version)
+                upstream_latest = max(upstream_versions.keys(), key=parse_version)
+                if parse_version(upstream_latest) > parse_version(local_latest):
+                    local_outdated[mod] = local_manifest["objects"][author]["entries"][mod]
+                    local_outdated[mod]["author"] = list(local_manifest["objects"][author]["author"].keys())[0]
+                    local_outdated[mod]["author_id"] = author
 
 
 for author in local_manifest["objects"]:
@@ -71,14 +82,14 @@ for id, data in only_local.items():
     local_only_formatted += (
         f"- [{data['name']}]({data['sourceLocation']}) (by {data['author']})\n"
     )
-readme_template = readme_template.replace("%MISSING_UPSTREAM%", local_only_formatted)
+readme_template = readme_template.replace("%MISSING_UPSTREAM%", local_only_formatted or "Upstream currently has everything.")
 
 upstream_only_formatted = ""
 for id, data in only_upstream.items():
     upstream_only_formatted += (
         f"- [{data['name']}]({data['sourceLocation']}) (by {data['author']})\n"
     )
-readme_template = readme_template.replace("%MISSING_LOCAL%", upstream_only_formatted)
+readme_template = readme_template.replace("%MISSING_LOCAL%", upstream_only_formatted or "We currently have everything.")
 
 upstream_outdated_formatted = ""
 for id, data in upstream_outdated.items():
@@ -90,8 +101,17 @@ for id, data in upstream_outdated.items():
         f"- [{data['name']}]({data['sourceLocation']}) (by {data['author']}) "
         f" - {local_latest} vs {upstream_latest}\n"
     )
+readme_template = readme_template.replace("%OUTDATED_UPSTREAM%", upstream_outdated_formatted or "Upstream is currently up to date.")
 
-readme_template = readme_template.replace("%OUTDATED_UPSTREAM%", upstream_outdated_formatted)
+local_outdated_formatted = ""
+for id, data in local_outdated.items():
+    local_versions = data.get("versions", {})
+    local_latest = max(local_versions.keys(), key=parse_version) if local_versions else "?"
+    local_outdated_formatted += (
+        f"- [{data['name']}]({data['sourceLocation']}) (by {data['author']}) "
+        f" - {local_latest}\n"
+    )
+readme_template = readme_template.replace("%OUTDATED_LOCAL%", local_outdated_formatted or "We are currently up to date.")
 
 with open("README.md", "w+") as f:
     f.write(readme_template)
