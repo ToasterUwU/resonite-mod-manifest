@@ -5,6 +5,15 @@
     "category": "Misc",
     "sourceLocation": "https://github.com/tobs2007/picture3dFix",
     "versions": {
+        "1.1.1": {
+            "releaseUrl": "https://github.com/Tobs2007/picture3dFix/releases/tag/1.1.1",
+            "artifacts": [
+                {
+                    "url": "https://github.com/Tobs2007/picture3dFix/releases/download/1.1.1/picture3dFix.dll",
+                    "sha256": "8fe0e959d684b46a036744d792cb0a8fe2d701d1f66ae53cb4794b7166c0f140"
+                }
+            ]
+        },
         "1.1.0": {
             "releaseUrl": "https://github.com/tobs2007/picture3dFix/releases/tag/1.1.0",
             "artifacts": [
