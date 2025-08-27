@@ -6509,16 +6509,6 @@
                                 }
                             ],
                             "releaseUrl": "https://github.com/EIA485/NeosGetItemLink/releases/tag/1.4.6.0"
-                        },
-                        "1.4.9": {
-                            "artifacts": [
-                                {
-                                    "filename": "GetItemLink.dll",
-                                    "sha256": "6830fdcfe03010066de424a4340cbebc1c5af23a3864a12481a9729e81b40e7a",
-                                    "url": "https://github.com/EIA485/NeosGetItemLink/releases/download/1.4.9/GetItemLink.dll"
-                                }
-                            ],
-                            "releaseUrl": "https://github.com/EIA485/NeosGetItemLink/releases/tag/1.4.9"
                         }
                     }
                 }

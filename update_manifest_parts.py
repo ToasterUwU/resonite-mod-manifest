@@ -7,6 +7,9 @@ import time
 import requests
 
 
+ignore_list = ["net.eia485.GetItemLink"]
+
+
 def check_github_rate_limit(response):
     remaining = int(response.headers.get("X-RateLimit-Remaining", "1"))
     reset = int(response.headers.get("X-RateLimit-Reset", "0"))
@@ -43,6 +46,10 @@ def github_request_with_retry(url, headers=None):
 def check_for_updates(info: dict):
     if not info["sourceLocation"].startswith("https://github.com/"):
         print(f"Skipping non-github mod: {info['name']}")  # Skipping non-github mod
+        return info
+
+    if info["id"] in ignore_list:
+        print(f"Skipping ignored mod: {info['name']}")
         return info
 
     # Extract owner/repo from sourceLocation
