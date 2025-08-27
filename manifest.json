@@ -114,6 +114,19 @@
                                 }
                             ],
                             "releaseUrl": "https://github.com/ErrorJan/ResoniteMod-FixMirrorSteamVRIPDOffset/releases/tag/1.0.0"
+                        },
+                        "2.0.0": {
+                            "artifacts": [
+                                {
+                                    "sha256": "157cc48c93b830767b8190f4a4625ea1bf804fb37c26b771f3aee4bbbfef97b5",
+                                    "url": "https://github.com/ErrorJan/ResoniteMod-FixMirrorSteamVRIPDOffset/releases/download/2.0.0/FixMirrorSteamVRIPDOffset.dll"
+                                },
+                                {
+                                    "sha256": "bcff13d22fbdad55a83b24923276784bcc5436bdd11fe6f59ca396586612250b",
+                                    "url": "https://github.com/ErrorJan/ResoniteMod-FixMirrorSteamVRIPDOffset/releases/download/2.0.0/FixMirrorSteamVRIPDOffset_BepInEx.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/ErrorJan/ResoniteMod-FixMirrorSteamVRIPDOffset/releases/tag/2.0.0"
                         }
                     }
                 },

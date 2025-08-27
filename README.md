@@ -19,6 +19,7 @@ This fork is bleeding edge unstable stuff. I dont check the mod updates, i dont 
 ## Mods that we have a newer version of
 
 - [BoundedUIX](https://github.com/Banane9/ResoniteBoundedUIX) (by Banane9)  - 2.1.0 vs 1.0.0
+- [FixMirrorSteamVRIPDOffset](https://github.com/ErrorJan/ResoniteMod-FixMirrorSteamVRIPDOffset) (by ErrorJan)  - 2.0.0 vs 1.0.0
 - [SlotInspectorHighlighter](https://github.com/sjsanjsrh/SlotInspectorHighlighter) (by Sinduy)  - 1.0.2 vs 1.0.1
 - [DoublePrecision](https://github.com/AwesomeTornado/Resonite-DoublePrecision-RML) (by __Choco__)  - 2.0.0 vs 1.6.1
 - [HandAligner](https://github.com/AwesomeTornado/Resonite-Hand-Aligner) (by __Choco__)  - 2.0.0 vs 1.0.1
