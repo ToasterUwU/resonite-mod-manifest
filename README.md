@@ -11,7 +11,6 @@ This fork is bleeding edge unstable stuff. I dont check the mod updates, i dont 
 
 ## Mods we have, but the official Mod-Manifest does not
 
-- [CustomPlatformColors](https://github.com/DexyThePuppy/CustomPlatformColors) (by DexyThePuppy)
 - [Fck-SessionCapture](https://github.com/nalathethird/Fck-SessionCapture) (by nalathethird)
 - [IDontNeedHelp](https://github.com/nalathethird/IDontNeedHelp) (by nalathethird)
 
