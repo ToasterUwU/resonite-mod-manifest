@@ -27,7 +27,6 @@ This fork is bleeding edge unstable stuff. I dont check the mod updates, i dont 
 - [VRCFTReceiver](https://github.com/hazre/VRCFTReceiver) (by hazre)  - 2.0.0 vs 1.0.4
 - [ResoTabbed](https://github.com/NepuShiro/ResoTabbed) (by NepuShiro)  - 2.1.1 vs 1.1.0
 - [ResoniteSlotInspectorCounter](https://github.com/NepuShiro/ResoniteSlotInspectorCounter) (by NepuShiro)  - 1.7.0 vs 1.6.0
-- [GetItemLink](https://github.com/EIA485/NeosGetItemLink) (by EIA485)  - 1.4.9 vs 1.4.6
 
 
 ## Mods we are currently missing (will always be fixed ASAP)
