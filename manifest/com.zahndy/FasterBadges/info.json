@@ -1,21 +1,95 @@
 {
-	"name": "FasterBadges",
-	"id": "com.zahndy.FasterBadges",
-	"description": "Badges manager with badge presets, custom badges and badge removal",
-	"tags": [
+    "name": "FasterBadges",
+    "id": "com.zahndy.FasterBadges",
+    "description": "Badges manager with badge presets, custom badges and badge removal",
+    "tags": [
         "badges",
         "badge",
         "manager"
     ],
-	"category": "Misc",
-	"sourceLocation": "https://github.com/zahndy/FasterBadges",
-	"versions": {
-		"1.6.1": {
-			"releaseUrl": "https://github.com/zahndy/FasterBadges/releases/tag/1.6.1",
-			"artifacts": [{
-				"url": "https://github.com/zahndy/FasterBadges/releases/download/1.6.1/FasterBadges.dll",
-				"sha256": "40b72c16ba90d05bd3ff7eef14ca5628d05ccf4355b282175ecaf6d349e962ac"
-			}]
-		}
-	}
+    "category": "Misc",
+    "sourceLocation": "https://github.com/zahndy/FasterBadges",
+    "versions": {
+        "1.6.1": {
+            "releaseUrl": "https://github.com/zahndy/FasterBadges/releases/tag/1.6.1",
+            "artifacts": [
+                {
+                    "url": "https://github.com/zahndy/FasterBadges/releases/download/1.6.1/FasterBadges.dll",
+                    "sha256": "40b72c16ba90d05bd3ff7eef14ca5628d05ccf4355b282175ecaf6d349e962ac"
+                }
+            ]
+        },
+        "1.6.0": {
+            "releaseUrl": "https://github.com/zahndy/FasterBadges/releases/tag/1.6.0",
+            "artifacts": [
+                {
+                    "url": "https://github.com/zahndy/FasterBadges/releases/download/1.6.0/FasterBadges.dll",
+                    "sha256": "dec2b2fd2bef567895a76e70f9104c56ec7cadf7b2af9e619c94ffb62e11c7cd"
+                }
+            ]
+        },
+        "1.5.1": {
+            "releaseUrl": "https://github.com/zahndy/FasterBadges/releases/tag/1.5.1",
+            "artifacts": [
+                {
+                    "url": "https://github.com/zahndy/FasterBadges/releases/download/1.5.1/FasterBadges.dll",
+                    "sha256": "fd732f14120197ebe0728172ebc994b29f1281291bd2ed450ab4e3bc0071eca8"
+                }
+            ]
+        },
+        "1.5.0": {
+            "releaseUrl": "https://github.com/zahndy/FasterBadges/releases/tag/1.5.0",
+            "artifacts": [
+                {
+                    "url": "https://github.com/zahndy/FasterBadges/releases/download/1.5.0/FasterBadges.dll",
+                    "sha256": "abe944b947a85d12c258fff02af6147bdc33202375bebfbeb6f28c607b29b346"
+                }
+            ]
+        },
+        "1.4.0": {
+            "releaseUrl": "https://github.com/zahndy/FasterBadges/releases/tag/1.4.0",
+            "artifacts": [
+                {
+                    "url": "https://github.com/zahndy/FasterBadges/releases/download/1.4.0/FasterBadges.dll",
+                    "sha256": "7fa6b092f6216c7c74525c1184d76ac73ede56f4512a8c6c6a2af6aa9e4ea0be"
+                }
+            ]
+        },
+        "1.3.0": {
+            "releaseUrl": "https://github.com/zahndy/FasterBadges/releases/tag/1.3.0",
+            "artifacts": [
+                {
+                    "url": "https://github.com/zahndy/FasterBadges/releases/download/1.3.0/FasterBadges.dll",
+                    "sha256": "3800dae1288fbbe909bfbad0dd13c2431fba9f3bfd7713ebda26f7c8fd92081d"
+                }
+            ]
+        },
+        "1.2.0": {
+            "releaseUrl": "https://github.com/zahndy/FasterBadges/releases/tag/1.2.0",
+            "artifacts": [
+                {
+                    "url": "https://github.com/zahndy/FasterBadges/releases/download/1.2.0/FasterBadges.dll",
+                    "sha256": "dcfc92057b7253c5279aa46d6f60ab866e247bc4177174a152f8dcd48a07552b"
+                }
+            ]
+        },
+        "1.1.0": {
+            "releaseUrl": "https://github.com/zahndy/FasterBadges/releases/tag/1.1.0",
+            "artifacts": [
+                {
+                    "url": "https://github.com/zahndy/FasterBadges/releases/download/1.1.0/FasterBadges.dll",
+                    "sha256": "16f1b2202d36c381358b2c10d7f9668fa1327b64cb92bfe898b6763ecf64a6ad"
+                }
+            ]
+        },
+        "1.0.0": {
+            "releaseUrl": "https://github.com/zahndy/FasterBadges/releases/tag/1.0.0",
+            "artifacts": [
+                {
+                    "url": "https://github.com/zahndy/FasterBadges/releases/download/1.0.0/FasterBadges.dll",
+                    "sha256": "10c05e513efdb49b0058c0b539b9122a4069b513ab42ed37d1e0dddfc63dbaac"
+                }
+            ]
+        }
+    }
 }

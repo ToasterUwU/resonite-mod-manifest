@@ -1,22 +1,33 @@
 {
-	"name": "RainbowLasers",
-	"id": "com.zahndy.RainbowLasers",
-	"description": "Turns your lasers into a animated rainbow.",
-	"tags": [
+    "name": "RainbowLasers",
+    "id": "com.zahndy.RainbowLasers",
+    "description": "Turns your lasers into a animated rainbow.",
+    "tags": [
         "rainbow",
         "lasers",
         "laser",
         "rgb"
     ],
-	"category": "Misc",
-	"sourceLocation": "https://github.com/zahndy/RainbowLasers",
-	"versions": {
-		"1.1.0": {
-			"releaseUrl": "https://github.com/zahndy/RainbowLasers/releases/tag/1.1.0",
-			"artifacts": [{
-				"url": "https://github.com/zahndy/RainbowLasers/releases/download/1.1.0/RainbowLasers.dll",
-				"sha256": "fd91e5c5805d743cde89147b77f90ba57ab87053cbb508847802a1912332de5c"
-			}]
-		}
-	}
+    "category": "Misc",
+    "sourceLocation": "https://github.com/zahndy/RainbowLasers",
+    "versions": {
+        "1.1.0": {
+            "releaseUrl": "https://github.com/zahndy/RainbowLasers/releases/tag/1.1.0",
+            "artifacts": [
+                {
+                    "url": "https://github.com/zahndy/RainbowLasers/releases/download/1.1.0/RainbowLasers.dll",
+                    "sha256": "fd91e5c5805d743cde89147b77f90ba57ab87053cbb508847802a1912332de5c"
+                }
+            ]
+        },
+        "1.0.0": {
+            "releaseUrl": "https://github.com/zahndy/RainbowLasers/releases/tag/1.0.0",
+            "artifacts": [
+                {
+                    "url": "https://github.com/zahndy/RainbowLasers/releases/download/1.0.0/RainbowLasers.dll",
+                    "sha256": "63b0184ddc75f1e59574f76909f1436b37c5dd103e906bbfb09d9f0d435d922b"
+                }
+            ]
+        }
+    }
 }

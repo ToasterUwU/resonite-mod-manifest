@@ -2348,6 +2348,219 @@
                 }
             }
         },
+        "com.zahndy": {
+            "author": {
+                "zahndy": {
+                    "icon": "https://github.com/zahndy.png",
+                    "url": "https://github.com/zahndy",
+                    "website": "https://resonite.zahndy.com"
+                }
+            },
+            "entries": {
+                "com.zahndy.ColliderGrabbableDeleter": {
+                    "category": "Technical Tweaks",
+                    "description": "ObjectRoot button that removes MeshColliders And Grabbables of Child slots",
+                    "name": "ColliderGrabbableDeleter",
+                    "sourceLocation": "https://github.com/zahndy/ColliderGrabbableDeleter",
+                    "tags": [
+                        "MeshColliders",
+                        "Grabbables",
+                        "Grabbable"
+                    ],
+                    "versions": {
+                        "1.0.0": {
+                            "artifacts": [
+                                {
+                                    "sha256": "cd6ec647db1c9316abda699f0a50d78419c2bc931c88ab3af1365f2253451150",
+                                    "url": "https://github.com/zahndy/ColliderGrabbableDeleter/releases/download/1.0.0/ColliderGrabbableDeleter.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/zahndy/ColliderGrabbableDeleter/releases/tag/1.0.0"
+                        },
+                        "1.0.1": {
+                            "artifacts": [
+                                {
+                                    "sha256": "22ddd2b9deb2abaaccea20db0f8c9b096c45abee67c6dc10c8b815cc91eef197",
+                                    "url": "https://github.com/zahndy/ColliderGrabbableDeleter/releases/download/1.0.1/ColliderGrabbableDeleter.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/zahndy/ColliderGrabbableDeleter/releases/tag/1.0.1"
+                        }
+                    }
+                },
+                "com.zahndy.FasterBadges": {
+                    "category": "Misc",
+                    "description": "Badges manager with badge presets, custom badges and badge removal",
+                    "name": "FasterBadges",
+                    "sourceLocation": "https://github.com/zahndy/FasterBadges",
+                    "tags": [
+                        "badges",
+                        "badge",
+                        "manager"
+                    ],
+                    "versions": {
+                        "1.0.0": {
+                            "artifacts": [
+                                {
+                                    "sha256": "10c05e513efdb49b0058c0b539b9122a4069b513ab42ed37d1e0dddfc63dbaac",
+                                    "url": "https://github.com/zahndy/FasterBadges/releases/download/1.0.0/FasterBadges.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/zahndy/FasterBadges/releases/tag/1.0.0"
+                        },
+                        "1.1.0": {
+                            "artifacts": [
+                                {
+                                    "sha256": "16f1b2202d36c381358b2c10d7f9668fa1327b64cb92bfe898b6763ecf64a6ad",
+                                    "url": "https://github.com/zahndy/FasterBadges/releases/download/1.1.0/FasterBadges.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/zahndy/FasterBadges/releases/tag/1.1.0"
+                        },
+                        "1.2.0": {
+                            "artifacts": [
+                                {
+                                    "sha256": "dcfc92057b7253c5279aa46d6f60ab866e247bc4177174a152f8dcd48a07552b",
+                                    "url": "https://github.com/zahndy/FasterBadges/releases/download/1.2.0/FasterBadges.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/zahndy/FasterBadges/releases/tag/1.2.0"
+                        },
+                        "1.3.0": {
+                            "artifacts": [
+                                {
+                                    "sha256": "3800dae1288fbbe909bfbad0dd13c2431fba9f3bfd7713ebda26f7c8fd92081d",
+                                    "url": "https://github.com/zahndy/FasterBadges/releases/download/1.3.0/FasterBadges.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/zahndy/FasterBadges/releases/tag/1.3.0"
+                        },
+                        "1.4.0": {
+                            "artifacts": [
+                                {
+                                    "sha256": "7fa6b092f6216c7c74525c1184d76ac73ede56f4512a8c6c6a2af6aa9e4ea0be",
+                                    "url": "https://github.com/zahndy/FasterBadges/releases/download/1.4.0/FasterBadges.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/zahndy/FasterBadges/releases/tag/1.4.0"
+                        },
+                        "1.5.0": {
+                            "artifacts": [
+                                {
+                                    "sha256": "abe944b947a85d12c258fff02af6147bdc33202375bebfbeb6f28c607b29b346",
+                                    "url": "https://github.com/zahndy/FasterBadges/releases/download/1.5.0/FasterBadges.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/zahndy/FasterBadges/releases/tag/1.5.0"
+                        },
+                        "1.5.1": {
+                            "artifacts": [
+                                {
+                                    "sha256": "fd732f14120197ebe0728172ebc994b29f1281291bd2ed450ab4e3bc0071eca8",
+                                    "url": "https://github.com/zahndy/FasterBadges/releases/download/1.5.1/FasterBadges.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/zahndy/FasterBadges/releases/tag/1.5.1"
+                        },
+                        "1.6.0": {
+                            "artifacts": [
+                                {
+                                    "sha256": "dec2b2fd2bef567895a76e70f9104c56ec7cadf7b2af9e619c94ffb62e11c7cd",
+                                    "url": "https://github.com/zahndy/FasterBadges/releases/download/1.6.0/FasterBadges.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/zahndy/FasterBadges/releases/tag/1.6.0"
+                        },
+                        "1.6.1": {
+                            "artifacts": [
+                                {
+                                    "sha256": "40b72c16ba90d05bd3ff7eef14ca5628d05ccf4355b282175ecaf6d349e962ac",
+                                    "url": "https://github.com/zahndy/FasterBadges/releases/download/1.6.1/FasterBadges.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/zahndy/FasterBadges/releases/tag/1.6.1"
+                        }
+                    }
+                },
+                "com.zahndy.NoSRanipal": {
+                    "category": "Bug Workaround",
+                    "description": "Completely Disables Launching SRanipal",
+                    "name": "NoSRanipal",
+                    "sourceLocation": "https://github.com/zahndy/NoSRanipal",
+                    "tags": [
+                        "SRanipal",
+                        "face",
+                        "tracking"
+                    ],
+                    "versions": {
+                        "1.0.0": {
+                            "artifacts": [
+                                {
+                                    "sha256": "5a70d884a002203dbb1d5f4a0906faca4f61ccee346af7cab84dff3a6f84392f",
+                                    "url": "https://github.com/zahndy/NoSRanipal/releases/download/1.0.0/NoSRanipal.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/zahndy/NoSRanipal/releases/tag/1.0.0"
+                        }
+                    }
+                },
+                "com.zahndy.RainbowLasers": {
+                    "category": "Misc",
+                    "description": "Turns your lasers into a animated rainbow.",
+                    "name": "RainbowLasers",
+                    "sourceLocation": "https://github.com/zahndy/RainbowLasers",
+                    "tags": [
+                        "rainbow",
+                        "lasers",
+                        "laser",
+                        "rgb"
+                    ],
+                    "versions": {
+                        "1.0.0": {
+                            "artifacts": [
+                                {
+                                    "sha256": "63b0184ddc75f1e59574f76909f1436b37c5dd103e906bbfb09d9f0d435d922b",
+                                    "url": "https://github.com/zahndy/RainbowLasers/releases/download/1.0.0/RainbowLasers.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/zahndy/RainbowLasers/releases/tag/1.0.0"
+                        },
+                        "1.1.0": {
+                            "artifacts": [
+                                {
+                                    "sha256": "fd91e5c5805d743cde89147b77f90ba57ab87053cbb508847802a1912332de5c",
+                                    "url": "https://github.com/zahndy/RainbowLasers/releases/download/1.1.0/RainbowLasers.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/zahndy/RainbowLasers/releases/tag/1.1.0"
+                        }
+                    }
+                },
+                "com.zahndy.TrackerVisuals": {
+                    "category": "Misc",
+                    "description": "Removes or replaces Vive/Tundra Tracker Models.",
+                    "name": "TrackerVisuals",
+                    "sourceLocation": "https://github.com/zahndy/TrackerVisuals",
+                    "tags": [
+                        "Tracker",
+                        "Trackers",
+                        "Tundra",
+                        "Vive"
+                    ],
+                    "versions": {
+                        "1.1.0": {
+                            "artifacts": [
+                                {
+                                    "sha256": "da5d3c697d39241eb8b438ddbf021c034ac93a172c1417435cf8522cc4134202",
+                                    "url": "https://github.com/zahndy/TrackerVisuals/releases/download/1.1.0/TrackerVisuals.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/zahndy/TrackerVisuals/releases/tag/1.1.0"
+                        }
+                    }
+                }
+            }
+        },
         "dev.baru": {
             "author": {
                 "hantabaru1014": {
