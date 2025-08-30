@@ -13,11 +13,7 @@ This fork is bleeding edge unstable stuff. I dont check the mod updates, i dont 
 
 - [Fck-SessionCapture](https://github.com/nalathethird/Fck-SessionCapture) (by nalathethird)
 - [IDontNeedHelp](https://github.com/nalathethird/IDontNeedHelp) (by nalathethird)
-- [ColliderGrabbableDeleter](https://github.com/zahndy/ColliderGrabbableDeleter) (by zahndy)
-- [FasterBadges](https://github.com/zahndy/FasterBadges) (by zahndy)
 - [NoSRanipal](https://github.com/zahndy/NoSRanipal) (by zahndy)
-- [RainbowLasers](https://github.com/zahndy/RainbowLasers) (by zahndy)
-- [TrackerVisuals](https://github.com/zahndy/TrackerVisuals) (by zahndy)
 
 
 ## Mods that we have a newer version of
