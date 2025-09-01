@@ -1,0 +1,28 @@
+{
+    "name": "Gif Importer",
+    "id": "LeCloutPanda.GifImporter",
+    "description": "Allows for importing GIF files, by converting them.",
+    "category": "Asset Importing",
+    "sourceLocation": "https://github.com/LeCloutPanda/GifImporter",
+    "versions": {
+        "1.2.3": {
+            "releaseUrl": "https://github.com/LeCloutPanda/GifImporter/releases/tag/v1.2.3",
+            "artifacts": [
+                {
+                    "url": "https://github.com/LeCloutPanda/GifImporter/releases/download/v1.2.3/GifImporter.dll",
+                    "sha256": "d5039672c5d14fb33e29950d3ef0f555551929000f9de0bc0caaf932cf934cfd"
+                },
+                {
+                    "installLocation": "/rml_libs",
+                    "sha256": "27ef3f04651914be319d3c75a890e985f7e77f9c340ad9bc7bb0b337a9730588",
+                    "url": "https://github.com/LeCloutPanda/GifImporter/releases/download/v1.2.3/SixLabors.ImageSharp.dll"
+                },
+                {
+                    "installLocation": "/rml_libs",
+                    "sha256": "e9dfe5d8692c7b03b6224795229a941d3b297a35f3455799e13b57af5f265308",
+                    "url": "https://github.com/LeCloutPanda/GifImporter/releases/download/v1.2.3/SixLabors.ImageSharp.Drawing.dll"
+                }
+            ]
+        }
+    }
+}
