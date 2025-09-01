@@ -23,6 +23,16 @@
                     "url": "https://github.com/LeCloutPanda/GifImporter/releases/download/v1.2.3/SixLabors.ImageSharp.Drawing.dll"
                 }
             ]
+        },
+        "1.1.4": {
+            "releaseUrl": "https://github.com/LeCloutPanda/GifImporter/releases/tag/v1.1.4",
+            "artifacts": [
+                {
+                    "url": "https://github.com/LeCloutPanda/GifImporter/releases/download/v1.1.4/GifImporter.dll",
+                    "sha256": "7eabe3f372a47147e6ec58bec4e13f3aafb20f3dffd6bbf39b18497dd2a7f080",
+                    "installLocation": "/rml_libs"
+                }
+            ]
         }
     }
 }

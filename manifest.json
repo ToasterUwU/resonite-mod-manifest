@@ -158,6 +158,52 @@
                 }
             }
         },
+        "LeCloutPanda": {
+            "author": {
+                "LeCloutPanda": {
+                    "url": "https://github.com/LeCloutPanda"
+                }
+            },
+            "entries": {
+                "LeCloutPanda.GifImporter": {
+                    "category": "Asset Importing",
+                    "description": "Allows for importing GIF files, by converting them.",
+                    "name": "Gif Importer",
+                    "sourceLocation": "https://github.com/LeCloutPanda/GifImporter",
+                    "versions": {
+                        "1.1.4": {
+                            "artifacts": [
+                                {
+                                    "installLocation": "/rml_libs",
+                                    "sha256": "7eabe3f372a47147e6ec58bec4e13f3aafb20f3dffd6bbf39b18497dd2a7f080",
+                                    "url": "https://github.com/LeCloutPanda/GifImporter/releases/download/v1.1.4/GifImporter.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/LeCloutPanda/GifImporter/releases/tag/v1.1.4"
+                        },
+                        "1.2.3": {
+                            "artifacts": [
+                                {
+                                    "sha256": "d5039672c5d14fb33e29950d3ef0f555551929000f9de0bc0caaf932cf934cfd",
+                                    "url": "https://github.com/LeCloutPanda/GifImporter/releases/download/v1.2.3/GifImporter.dll"
+                                },
+                                {
+                                    "installLocation": "/rml_libs",
+                                    "sha256": "27ef3f04651914be319d3c75a890e985f7e77f9c340ad9bc7bb0b337a9730588",
+                                    "url": "https://github.com/LeCloutPanda/GifImporter/releases/download/v1.2.3/SixLabors.ImageSharp.dll"
+                                },
+                                {
+                                    "installLocation": "/rml_libs",
+                                    "sha256": "e9dfe5d8692c7b03b6224795229a941d3b297a35f3455799e13b57af5f265308",
+                                    "url": "https://github.com/LeCloutPanda/GifImporter/releases/download/v1.2.3/SixLabors.ImageSharp.Drawing.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/LeCloutPanda/GifImporter/releases/tag/v1.2.3"
+                        }
+                    }
+                }
+            }
+        },
         "Restrainite": {
             "author": {
                 "Restrainite developers": {
@@ -738,7 +784,11 @@
             "entries": {
                 "com.Dexy.CustomPlatformColors": {
                     "additionalAuthors": {
-                        "LeCloutPanda": {},
+                        "LeCloutPanda": {
+                            "LeCloutPanda": {
+                                "url": "https://github.com/LeCloutPanda"
+                            }
+                        },
                         "SectOLT": {},
                         "troyBORG": {}
                     },
