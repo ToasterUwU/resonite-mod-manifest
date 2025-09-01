@@ -5647,6 +5647,15 @@
                                 }
                             ],
                             "releaseUrl": "https://github.com/NepuShiro/BetterInspectorCheckbox/releases/tag/1.0.0"
+                        },
+                        "1.0.1": {
+                            "artifacts": [
+                                {
+                                    "sha256": "3395a419b4369e4e1766517410e3c4d813eed2075b293bfb22f2a9e45ca2f496",
+                                    "url": "https://github.com/NepuShiro/BetterInspectorCheckbox/releases/download/1.0.1/BetterInspectorCheckbox.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/NepuShiro/BetterInspectorCheckbox/releases/tag/1.0.1"
                         }
                     }
                 },
