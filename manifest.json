@@ -5633,6 +5633,23 @@
                 }
             },
             "entries": {
+                "net.NepuShiro.BetterInspectorCheckbox": {
+                    "category": "Inspectors",
+                    "description": "Allows you to disable the Checkbox in the SlotInspector or use better UIBuilder settings.",
+                    "name": "BetterInspectorCheckbox",
+                    "sourceLocation": "https://github.com/NepuShiro/BetterInspectorCheckbox",
+                    "versions": {
+                        "1.0.0": {
+                            "artifacts": [
+                                {
+                                    "sha256": "761cd65dea5ea0873a1c679e8870418405bc8c836d3484d8683fc0d117c0a7bc",
+                                    "url": "https://github.com/NepuShiro/BetterInspectorCheckbox/releases/download/1.0.0/BetterInspectorCheckbox.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/NepuShiro/BetterInspectorCheckbox/releases/tag/1.0.0"
+                        }
+                    }
+                },
                 "net.NepuShiro.ChangeJoinLeaveSound": {
                     "category": "Dashboard",
                     "description": "Allows you to change the default User Join/Leave sounds, and color.",
@@ -5868,6 +5885,15 @@
                                 }
                             ],
                             "releaseUrl": "https://github.com/NepuShiro/ResoniteSlotInspectorCounter/releases/tag/1.7.0"
+                        },
+                        "1.8.0": {
+                            "artifacts": [
+                                {
+                                    "sha256": "9031eb9a55e36cb3965d803f3a4a8ce46743e58b49e089f9b300b136dc6d8393",
+                                    "url": "https://github.com/NepuShiro/ResoniteSlotInspectorCounter/releases/download/1.8.0/ResoniteSlotInspectorCounter.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/NepuShiro/ResoniteSlotInspectorCounter/releases/tag/1.8.0"
                         }
                     }
                 }

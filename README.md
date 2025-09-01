@@ -15,6 +15,7 @@ This fork is bleeding edge unstable stuff. I dont check the mod updates, i dont 
 - [Fck-SessionCapture](https://github.com/nalathethird/Fck-SessionCapture) (by nalathethird)
 - [IDontNeedHelp](https://github.com/nalathethird/IDontNeedHelp) (by nalathethird)
 - [NoSRanipal](https://github.com/zahndy/NoSRanipal) (by zahndy)
+- [BetterInspectorCheckbox](https://github.com/NepuShiro/BetterInspectorCheckbox) (by NepuShiro)
 
 
 ## Mods that we have a newer version of
@@ -28,7 +29,7 @@ This fork is bleeding edge unstable stuff. I dont check the mod updates, i dont 
 - [VRCFTReceiver](https://github.com/hazre/VRCFTReceiver) (by hazre)  - 2.0.0 vs 1.0.4
 - [Headless Prometheus Exporter](https://g.j4.lc/general-stuff/resonite/headless-prometheus-exporter) (by Jae)  - 1.2.4 vs 1.2.3
 - [CherryPick](https://cyro.blue/cyro/CherryPick) (by Cyro)  - 1.2.0 vs 1.1.2
-- [ResoniteSlotInspectorCounter](https://github.com/NepuShiro/ResoniteSlotInspectorCounter) (by NepuShiro)  - 1.7.0 vs 1.6.0
+- [ResoniteSlotInspectorCounter](https://github.com/NepuShiro/ResoniteSlotInspectorCounter) (by NepuShiro)  - 1.8.0 vs 1.6.0
 
 
 ## Mods we are currently missing (will always be fixed ASAP)
