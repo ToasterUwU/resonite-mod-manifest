@@ -16,6 +16,7 @@ This fork is bleeding edge unstable stuff. I dont check the mod updates, i dont 
 - [IDontNeedHelp](https://github.com/nalathethird/IDontNeedHelp) (by nalathethird)
 - [NoSRanipal](https://github.com/zahndy/NoSRanipal) (by zahndy)
 - [BetterInspectorCheckbox](https://github.com/NepuShiro/BetterInspectorCheckbox) (by NepuShiro)
+- [OpenXREyeTracking](https://github.com/headassbtw/ResoniteOpenXREyeTracking) (by ExampleAuthor)
 
 
 ## Mods that we have a newer version of
