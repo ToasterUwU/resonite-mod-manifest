@@ -5,6 +5,15 @@
     "category": "Inspectors",
     "sourceLocation": "https://github.com/NepuShiro/ResoniteSlotInspectorCounter",
     "versions": {
+        "1.9.0": {
+            "releaseUrl": "https://github.com/NepuShiro/ResoniteSlotInspectorCounter/releases/tag/1.9.0",
+            "artifacts": [
+                {
+                    "url": "https://github.com/NepuShiro/ResoniteSlotInspectorCounter/releases/download/1.9.0/ResoniteSlotInspectorCounter.dll",
+                    "sha256": "5f37863d118ff9baeaa1b24428267e93960747e742bd12c73410bbd220553232"
+                }
+            ]
+        },
         "1.8.1": {
             "releaseUrl": "https://github.com/NepuShiro/ResoniteSlotInspectorCounter/releases/tag/1.8.1",
             "artifacts": [
