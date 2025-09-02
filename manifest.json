@@ -5656,6 +5656,15 @@
                                 }
                             ],
                             "releaseUrl": "https://github.com/NepuShiro/BetterInspectorCheckbox/releases/tag/1.0.1"
+                        },
+                        "1.0.2": {
+                            "artifacts": [
+                                {
+                                    "sha256": "6cb84907d7e6c8eeefc26038e70ac97280ae5e2d1336b9c65ac79af20031f174",
+                                    "url": "https://github.com/NepuShiro/BetterInspectorCheckbox/releases/download/1.0.2/BetterInspectorCheckbox.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/NepuShiro/BetterInspectorCheckbox/releases/tag/1.0.2"
                         }
                     }
                 },
@@ -5903,6 +5912,15 @@
                                 }
                             ],
                             "releaseUrl": "https://github.com/NepuShiro/ResoniteSlotInspectorCounter/releases/tag/1.8.0"
+                        },
+                        "1.8.1": {
+                            "artifacts": [
+                                {
+                                    "sha256": "671ac209a93ec2b813a509b4a21d8ce94b89ff8a8796b156205123440f73ba5a",
+                                    "url": "https://github.com/NepuShiro/ResoniteSlotInspectorCounter/releases/download/1.8.1/ResoniteSlotInspectorCounter.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/NepuShiro/ResoniteSlotInspectorCounter/releases/tag/1.8.1"
                         }
                     }
                 }
