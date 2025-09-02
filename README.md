@@ -16,7 +16,6 @@ This fork is bleeding edge unstable stuff. I dont check the mod updates, i dont 
 - [IDontNeedHelp](https://github.com/nalathethird/IDontNeedHelp) (by nalathethird)
 - [NoSRanipal](https://github.com/zahndy/NoSRanipal) (by zahndy)
 - [BetterInspectorCheckbox](https://github.com/NepuShiro/BetterInspectorCheckbox) (by NepuShiro)
-- [OpenXREyeTracking](https://github.com/headassbtw/ResoniteOpenXREyeTracking) (by headassbtw)
 
 
 ## Mods that we have a newer version of
@@ -28,9 +27,9 @@ This fork is bleeding edge unstable stuff. I dont check the mod updates, i dont 
 - [Thundagun](https://github.com/Frozenreflex/Thundagun) (by Frozenreflex)  - 1.2.2 vs 1.2.1
 - [EsnyaTweaks](https://github.com/esnya/ResoniteEsnyaTweaks) (by esnya)  - 1.0.0 vs 0.1.0
 - [VRCFTReceiver](https://github.com/hazre/VRCFTReceiver) (by hazre)  - 2.0.0 vs 1.0.4
-- [Headless Prometheus Exporter](https://g.j4.lc/general-stuff/resonite/headless-prometheus-exporter) (by Jae)  - 1.2.4 vs 1.2.3
 - [CherryPick](https://cyro.blue/cyro/CherryPick) (by Cyro)  - 1.2.0 vs 1.1.2
 - [ResoniteSlotInspectorCounter](https://github.com/NepuShiro/ResoniteSlotInspectorCounter) (by NepuShiro)  - 1.8.1 vs 1.6.0
+- [OpenXREyeTracking](https://github.com/headassbtw/ResoniteOpenXREyeTracking) (by headassbtw)  - 1.0.3 vs 1.0.2
 
 
 ## Mods we are currently missing (will always be fixed ASAP)

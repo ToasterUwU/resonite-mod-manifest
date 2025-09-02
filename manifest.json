@@ -7077,6 +7077,15 @@
                                 }
                             ],
                             "releaseUrl": "https://github.com/headassbtw/ResoniteOpenXREyeTracking/releases/tag/1.0.2"
+                        },
+                        "1.0.3": {
+                            "artifacts": [
+                                {
+                                    "sha256": "f3a50ea4278f56a14caa6f90ef405beacee1e2dfcbdd8a0cdea78882ad1569c5",
+                                    "url": "https://github.com/headassbtw/ResoniteOpenXREyeTracking/releases/download/1.0.3/OpenXREyeTracking.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/headassbtw/ResoniteOpenXREyeTracking/releases/tag/1.0.3"
                         }
                     }
                 }
