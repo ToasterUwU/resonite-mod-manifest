@@ -27,7 +27,6 @@ This fork is bleeding edge unstable stuff. I dont check the mod updates, i dont 
 - [Thundagun](https://github.com/Frozenreflex/Thundagun) (by Frozenreflex)  - 1.2.2 vs 1.2.1
 - [EsnyaTweaks](https://github.com/esnya/ResoniteEsnyaTweaks) (by esnya)  - 1.0.0 vs 0.1.0
 - [VRCFTReceiver](https://github.com/hazre/VRCFTReceiver) (by hazre)  - 2.0.0 vs 1.0.4
-- [CherryPick](https://cyro.blue/cyro/CherryPick) (by Cyro)  - 1.2.0 vs 1.1.2
 - [ResoniteSlotInspectorCounter](https://github.com/NepuShiro/ResoniteSlotInspectorCounter) (by NepuShiro)  - 1.8.1 vs 1.6.0
 - [OpenXREyeTracking](https://github.com/headassbtw/ResoniteOpenXREyeTracking) (by headassbtw)  - 1.0.3 vs 1.0.2
 
