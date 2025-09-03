@@ -5,6 +5,15 @@
     "category": "Inspectors",
     "sourceLocation": "https://github.com/NepuShiro/BetterInspectorCheckbox",
     "versions": {
+        "1.1.2": {
+            "releaseUrl": "https://github.com/NepuShiro/BetterInspectorCheckbox/releases/tag/1.1.2",
+            "artifacts": [
+                {
+                    "url": "https://github.com/NepuShiro/BetterInspectorCheckbox/releases/download/1.1.2/BetterInspectorCheckbox.dll",
+                    "sha256": "e9b978d86b3bfb3e687fe24d60d02f8c38435721ea5e4903c8c2722d4d3efde1"
+                }
+            ]
+        },
         "1.1.1": {
             "releaseUrl": "https://github.com/NepuShiro/BetterInspectorCheckbox/releases/tag/1.1.1",
             "artifacts": [
