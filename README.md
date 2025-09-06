@@ -32,8 +32,7 @@ This fork is bleeding edge unstable stuff. I dont check the mod updates, i dont 
 
 ## Mods we are currently missing (will always be fixed ASAP)
 
-- [CyberFingerMod](https://github.com/DrSciCortex/CyberFingerMod) (by DrSciCortex)
-
+We currently have everything.
 
 ## Mods we have an older version of (will also be fixed ASAP)
 
