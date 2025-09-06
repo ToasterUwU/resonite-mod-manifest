@@ -8,6 +8,15 @@
         "eia485"
     ],
     "versions": {
+        "1.5.0": {
+            "releaseUrl": "https://github.com/Nytra/ResoniteInspectorDelegateCaller/releases/tag/v1.5.0",
+            "artifacts": [
+                {
+                    "url": "https://github.com/Nytra/ResoniteInspectorDelegateCaller/releases/download/v1.5.0/InspectorDelegateCaller.dll",
+                    "sha256": "580fc40249d156aa67cc9d6d795bb8268e89a7cf385a44a8c14d1f01a42c283c"
+                }
+            ]
+        },
         "1.4.2": {
             "releaseUrl": "https://github.com/Nytra/ResoniteInspectorDelegateCaller/releases/tag/v1.4.2",
             "artifacts": [

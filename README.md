@@ -27,6 +27,7 @@ This fork is bleeding edge unstable stuff. I dont check the mod updates, i dont 
 - [VRCFTReceiver](https://github.com/hazre/VRCFTReceiver) (by hazre)  - 2.0.0 vs 1.0.4
 - [BetterInspectorCheckbox](https://github.com/NepuShiro/BetterInspectorCheckbox) (by NepuShiro)  - 1.1.2 vs 1.1.0
 - [ResoniteSlotInspectorCounter](https://github.com/NepuShiro/ResoniteSlotInspectorCounter) (by NepuShiro)  - 1.9.1 vs 1.9.0
+- [InspectorDelegateCaller](https://github.com/Nytra/ResoniteInspectorDelegateCaller) (by Nytra)  - 1.5.0 vs 1.4.2
 
 
 ## Mods we are currently missing (will always be fixed ASAP)
