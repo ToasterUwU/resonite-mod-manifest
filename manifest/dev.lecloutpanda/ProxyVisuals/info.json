@@ -1,17 +1,40 @@
 {
-	"name": "ProxyVisuals",
-	"id": "dev.lecloutpanda.proxyvisuals",
-	"description": "Customise how ValueProxy and ReferenceProxy visuals look",
-	"tags": ["node", "flux"],
-	"category": "Visual Tweaks",
-	"sourceLocation": "https://github.com/LeCloutPanda/ProxyVisuals",
-	"versions": {
-		"1.0.2": {
-			"releaseUrl": "https://github.com/LeCloutPanda/ProxyVisuals/releases/tag/v1.0.2",
-			"artifacts": [{
-				"url": "https://github.com/LeCloutPanda/ProxyVisuals/releases/download/v1.0.2/ProxyVisuals.dll",
-				"sha256": "ab8f586222717b7e56ccc41abec45720e4fad4356841bec4b36fef908477abde"
-			}]
-		}
-	}
+    "name": "ProxyVisuals",
+    "id": "dev.lecloutpanda.proxyvisuals",
+    "description": "Customise how ValueProxy and ReferenceProxy visuals look",
+    "tags": [
+        "node",
+        "flux"
+    ],
+    "category": "Visual Tweaks",
+    "sourceLocation": "https://github.com/LeCloutPanda/ProxyVisuals",
+    "versions": {
+        "1.0.2": {
+            "releaseUrl": "https://github.com/LeCloutPanda/ProxyVisuals/releases/tag/v1.0.2",
+            "artifacts": [
+                {
+                    "url": "https://github.com/LeCloutPanda/ProxyVisuals/releases/download/v1.0.2/ProxyVisuals.dll",
+                    "sha256": "ab8f586222717b7e56ccc41abec45720e4fad4356841bec4b36fef908477abde"
+                }
+            ]
+        },
+        "1.0.1": {
+            "releaseUrl": "https://github.com/LeCloutPanda/ProxyVisuals/releases/tag/v1.0.1",
+            "artifacts": [
+                {
+                    "url": "https://github.com/LeCloutPanda/ProxyVisuals/releases/download/v1.0.1/ProxyVisuals.dll",
+                    "sha256": "45421716603c8919bfad3ab69a761fa4f37212b1e47540a45700a78a48123f7e"
+                }
+            ]
+        },
+        "1.0.0": {
+            "releaseUrl": "https://github.com/LeCloutPanda/ProxyVisuals/releases/tag/v1.0.0",
+            "artifacts": [
+                {
+                    "url": "https://github.com/LeCloutPanda/ProxyVisuals/releases/download/v1.0.0/ProxyVisuals.dll",
+                    "sha256": "9d5c48d3dc6480ab69cc92dfa815533c10b16d066878238fd392950aae65b3fd"
+                }
+            ]
+        }
+    }
 }

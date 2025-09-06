@@ -3274,6 +3274,158 @@
                 }
             }
         },
+        "dev.lecloutpanda": {
+            "author": {
+                "LeCloutPanda": {
+                    "icon": "https://github.com/LeCloutPanda.png",
+                    "url": "https://github.com/LeCloutPanda",
+                    "website": "https://pandashellhole.com/"
+                }
+            },
+            "entries": {
+                "dev.lecloutpanda.proxyvisuals": {
+                    "category": "Visual Tweaks",
+                    "description": "Customise how ValueProxy and ReferenceProxy visuals look",
+                    "name": "ProxyVisuals",
+                    "sourceLocation": "https://github.com/LeCloutPanda/ProxyVisuals",
+                    "tags": [
+                        "node",
+                        "flux"
+                    ],
+                    "versions": {
+                        "1.0.0": {
+                            "artifacts": [
+                                {
+                                    "sha256": "9d5c48d3dc6480ab69cc92dfa815533c10b16d066878238fd392950aae65b3fd",
+                                    "url": "https://github.com/LeCloutPanda/ProxyVisuals/releases/download/v1.0.0/ProxyVisuals.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/LeCloutPanda/ProxyVisuals/releases/tag/v1.0.0"
+                        },
+                        "1.0.1": {
+                            "artifacts": [
+                                {
+                                    "sha256": "45421716603c8919bfad3ab69a761fa4f37212b1e47540a45700a78a48123f7e",
+                                    "url": "https://github.com/LeCloutPanda/ProxyVisuals/releases/download/v1.0.1/ProxyVisuals.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/LeCloutPanda/ProxyVisuals/releases/tag/v1.0.1"
+                        },
+                        "1.0.2": {
+                            "artifacts": [
+                                {
+                                    "sha256": "ab8f586222717b7e56ccc41abec45720e4fad4356841bec4b36fef908477abde",
+                                    "url": "https://github.com/LeCloutPanda/ProxyVisuals/releases/download/v1.0.2/ProxyVisuals.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/LeCloutPanda/ProxyVisuals/releases/tag/v1.0.2"
+                        }
+                    }
+                },
+                "dev.lecloutpanda.videoproxy": {
+                    "category": "Asset Importing",
+                    "description": "Allows importing YouTube videos at a higher resolution using a configurable proxy server, bypassing geo blocking",
+                    "name": "VideoProxy",
+                    "sourceLocation": "https://github.com/LeCloutPanda/VideoProxy",
+                    "tags": [
+                        "bypass",
+                        "unblock"
+                    ],
+                    "versions": {
+                        "0.0.1": {
+                            "artifacts": [
+                                {
+                                    "sha256": "948f498ca5c07433190717dfc9b19a26454d0dea621584a6165968a977b0902d",
+                                    "url": "https://github.com/LeCloutPanda/VideoProxy/releases/download/v0.0.1/VideoProxy.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/LeCloutPanda/VideoProxy/releases/tag/v0.0.1"
+                        },
+                        "0.0.2": {
+                            "artifacts": [
+                                {
+                                    "sha256": "ed4e31eb036c918512e924058c28073d2641bf322056943b765e2cfe1e82f429",
+                                    "url": "https://github.com/LeCloutPanda/VideoProxy/releases/download/v0.0.2/VideoProxy.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/LeCloutPanda/VideoProxy/releases/tag/v0.0.2"
+                        },
+                        "1.0.0": {
+                            "artifacts": [
+                                {
+                                    "sha256": "55627680b47e03f6e922667c4fd50b4e73f73b2da39c659337c3502a01603d65",
+                                    "url": "https://github.com/LeCloutPanda/VideoProxy/releases/download/v1.0.0/VideoProxy.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/LeCloutPanda/VideoProxy/releases/tag/v1.0.0"
+                        },
+                        "1.1.0": {
+                            "artifacts": [
+                                {
+                                    "sha256": "3b6fe93f14392cf09aea6ccd427eb80c1b9ecbd452cd386f164b71cc8eba1a53",
+                                    "url": "https://github.com/LeCloutPanda/VideoProxy/releases/download/v1.1.0/VideoProxy.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/LeCloutPanda/VideoProxy/releases/tag/v1.1.0"
+                        },
+                        "1.1.1": {
+                            "artifacts": [
+                                {
+                                    "sha256": "0b613663d0de91c419462ef1b2ab54eb74de75892c3ef4392c0869aeb125180d",
+                                    "url": "https://github.com/LeCloutPanda/VideoProxy/releases/download/v1.1.1/VideoProxy.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/LeCloutPanda/VideoProxy/releases/tag/v1.1.1"
+                        },
+                        "1.1.2": {
+                            "artifacts": [
+                                {
+                                    "sha256": "b41a9090fe1667628de4c28c5cc235f1c7e7a230fd931d9aada6e2a19f6a18e5",
+                                    "url": "https://github.com/LeCloutPanda/VideoProxy/releases/download/v1.1.2/VideoProxy.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/LeCloutPanda/VideoProxy/releases/tag/v1.1.2"
+                        },
+                        "1.1.3": {
+                            "artifacts": [
+                                {
+                                    "sha256": "57a223c36fd7d9cfacedfa1145df8a56cd36648ab5226d533a826776ad63ec77",
+                                    "url": "https://github.com/LeCloutPanda/VideoProxy/releases/download/v1.1.3/VideoProxy.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/LeCloutPanda/VideoProxy/releases/tag/v1.1.3"
+                        },
+                        "1.1.4": {
+                            "artifacts": [
+                                {
+                                    "sha256": "1f44391e320b58c55ae505407c2edde67b232441e59b601a20d8812101d9b98b",
+                                    "url": "https://github.com/LeCloutPanda/VideoProxy/releases/download/v1.1.4/VideoProxy.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/LeCloutPanda/VideoProxy/releases/tag/v1.1.4"
+                        },
+                        "1.2.0": {
+                            "artifacts": [
+                                {
+                                    "sha256": "7d60e889c29c0f816688b4d9d98b4c8189b141cba2de46ba2d6ca1e7fefd0737",
+                                    "url": "https://github.com/LeCloutPanda/VideoProxy/releases/download/v1.2.0/VideoProxy.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/LeCloutPanda/VideoProxy/releases/tag/v1.2.0"
+                        },
+                        "1.3.0": {
+                            "artifacts": [
+                                {
+                                    "sha256": "1fffed87a5d887f0338590af0d1d3983eff8eb5473816b6da9603136c242aa04",
+                                    "url": "https://github.com/LeCloutPanda/VideoProxy/releases/download/v1.3.0/VideoProxy.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/LeCloutPanda/VideoProxy/releases/tag/v1.3.0"
+                        }
+                    }
+                }
+            }
+        },
         "dev.pointeroffset": {
             "author": {
                 "Pointer Offset": {
