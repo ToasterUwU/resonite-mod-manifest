@@ -17,6 +17,7 @@ This fork is bleeding edge unstable stuff. I dont check the mod updates, i dont 
 - [NoSRanipal](https://github.com/zahndy/NoSRanipal) (by zahndy)
 - [ProxyVisuals](https://github.com/LeCloutPanda/ProxyVisuals) (by LeCloutPanda)
 - [VideoProxy](https://github.com/LeCloutPanda/VideoProxy) (by LeCloutPanda)
+- [UnityPackageImporter](https://github.com/dfgHiatus/ResoniteUnityPackagesImporter) (by dfgHiatus)
 
 
 ## Mods that we have a newer version of
