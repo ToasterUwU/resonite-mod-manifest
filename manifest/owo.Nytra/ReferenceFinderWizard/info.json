@@ -5,6 +5,24 @@
     "category": "Wizards",
     "sourceLocation": "https://github.com/Nytra/ResoniteReferenceFinderWizard",
     "versions": {
+        "1.1.1": {
+            "releaseUrl": "https://github.com/Nytra/ResoniteReferenceFinderWizard/releases/tag/v1.1.1",
+            "artifacts": [
+                {
+                    "url": "https://github.com/Nytra/ResoniteReferenceFinderWizard/releases/download/v1.1.1/ReferenceFinderWizard.dll",
+                    "sha256": "3e626b40732e1846dd6157c22bcd902887146ce9e64ec2f1c1a37d8eac92d0fc"
+                }
+            ]
+        },
+        "1.1.0": {
+            "releaseUrl": "https://github.com/Nytra/ResoniteReferenceFinderWizard/releases/tag/v1.1.0",
+            "artifacts": [
+                {
+                    "url": "https://github.com/Nytra/ResoniteReferenceFinderWizard/releases/download/v1.1.0/ReferenceFinderWizard.dll",
+                    "sha256": "88198b054df6de3c907f4ae633ffdcc694cef12bd3082e36534d0a8aefa60faa"
+                }
+            ]
+        },
         "1.0.2": {
             "releaseUrl": "https://github.com/Nytra/ResoniteReferenceFinderWizard/releases/tag/v1.0.2",
             "artifacts": [
