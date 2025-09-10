@@ -3464,6 +3464,60 @@
                 }
             }
         },
+        "ginjake": {
+            "author": {
+                "ginjake": {
+                    "icon": "https://github.com/ginjake.png",
+                    "url": "https://github.com/ginjake"
+                }
+            },
+            "entries": {
+                "ginjake.OperatorLikeNeos": {
+                    "category": "Protoflux",
+                    "description": "Mod that makes Flux Operator names look more like Neos-style.",
+                    "name": "OperatorLikeNeos",
+                    "sourceLocation": "https://github.com/ginjake/ResoniteOperatorLikeNeos",
+                    "versions": {
+                        "1.0.1": {
+                            "artifacts": [
+                                {
+                                    "sha256": "db4259184dfc1b2c8cb79d40edade7abba3081c341de537178cd0be10584f836",
+                                    "url": "https://github.com/ginjake/ResoniteOperatorLikeNeos/releases/download/v1.0.1/ProtoFluxNodeDisplayMod.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/ginjake/ResoniteOperatorLikeNeos/releases/tag/v1.0.1"
+                        },
+                        "1.1.0": {
+                            "artifacts": [
+                                {
+                                    "sha256": "fe5ea5ca715c862e0e447a5599603692042ba056b0fd246f2af593fafc0f3523",
+                                    "url": "https://github.com/ginjake/ResoniteOperatorLikeNeos/releases/download/v1.1.0/ProtoFluxNodeDisplayMod.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/ginjake/ResoniteOperatorLikeNeos/releases/tag/v1.1.0"
+                        },
+                        "1.2.0": {
+                            "artifacts": [
+                                {
+                                    "sha256": "c6403ca170419a5b38f346476db2955c4d30f25f0efd8470b38f16c5d124a84a",
+                                    "url": "https://github.com/ginjake/ResoniteOperatorLikeNeos/releases/download/v1.2.0/ProtoFluxNodeDisplayMod.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/ginjake/ResoniteOperatorLikeNeos/releases/tag/v1.2.0"
+                        },
+                        "1.3.1": {
+                            "artifacts": [
+                                {
+                                    "sha256": "48b48c8c0618dcb9000e0a2a1e90e70f65d9708047167fe56cfbcf5a9712d45d",
+                                    "url": "https://github.com/ginjake/ResoniteOperatorLikeNeos/releases/download/v1.3.1/ProtoFluxNodeDisplayMod.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/ginjake/ResoniteOperatorLikeNeos/releases/tag/v1.3.1"
+                        }
+                    }
+                }
+            }
+        },
         "je.dj": {
             "author": {
                 "djsime1": {
