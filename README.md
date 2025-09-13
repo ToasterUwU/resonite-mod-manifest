@@ -17,7 +17,6 @@ This fork is bleeding edge unstable stuff. I dont check the mod updates, i dont 
 - [NoSRanipal](https://github.com/zahndy/NoSRanipal) (by zahndy)
 - [ProxyVisuals](https://github.com/LeCloutPanda/ProxyVisuals) (by LeCloutPanda)
 - [VideoProxy](https://github.com/LeCloutPanda/VideoProxy) (by LeCloutPanda)
-- [ResoniteDiscordRpc](https://github.com/Baplar/ResoniteDiscordRpc) (by Baplar)
 - [OperatorLikeNeos](https://github.com/ginjake/ResoniteOperatorLikeNeos) (by ginjake)
 - [UnityPackageImporter](https://github.com/dfgHiatus/ResoniteUnityPackagesImporter) (by dfgHiatus)
 
@@ -34,8 +33,7 @@ This fork is bleeding edge unstable stuff. I dont check the mod updates, i dont 
 
 ## Mods we are currently missing (will always be fixed ASAP)
 
-- [ResoniteDiscordRpc](https://github.com/Baplar/ResoniteDiscordRpc) (by Baplar)
-
+We currently have everything.
 
 ## Mods we have an older version of (will also be fixed ASAP)
 

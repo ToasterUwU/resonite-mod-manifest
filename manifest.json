@@ -3472,7 +3472,7 @@
                 }
             },
             "entries": {
-                "fr.Baplar.ResoniteDiscordRpc": {
+                "fr.baplar.ResoniteDiscordRpc": {
                     "category": "Misc",
                     "description": "Adds fancy features to the Discord Rich Presence integration.",
                     "name": "ResoniteDiscordRpc",
