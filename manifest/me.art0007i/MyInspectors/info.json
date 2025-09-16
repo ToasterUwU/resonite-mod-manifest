@@ -1,5 +1,15 @@
 {
     "versions": {
+        "2.1.1": {
+            "releaseUrl": "https://github.com/art0007i/MyInspectors/releases/tag/2.1.1",
+            "artifacts": [
+                {
+                    "url": "https://github.com/art0007i/MyInspectors/releases/download/2.1.1/MyInspectors.dll",
+                    "sha256": "a1c38ab8aafce3aa595107208ffeecf2b10aeddfe06e7754f82c6fa2b5c05bcd",
+                    "filename": "MyInspectors.dll"
+                }
+            ]
+        },
         "2.1.0": {
             "releaseUrl": "https://github.com/art0007i/MyInspectors/releases/tag/2.1.0",
             "artifacts": [
