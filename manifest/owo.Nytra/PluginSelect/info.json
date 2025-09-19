@@ -10,7 +10,8 @@
             "artifacts": [
                 {
                     "url": "https://github.com/Nytra/ResonitePluginSelect/releases/download/v1.0.1/PluginSelect.dll",
-                    "sha256": "a8d2b95c9950e3d08595573bb52aa5d307536aab13bac23cd1ba61f923b149f1"
+                    "sha256": "a8d2b95c9950e3d08595573bb52aa5d307536aab13bac23cd1ba61f923b149f1",
+				    "installLocation": "/rml_mods"
                 }
             ]
         },
@@ -19,7 +20,8 @@
             "artifacts": [
                 {
                     "url": "https://github.com/Nytra/ResonitePluginSelect/releases/download/v1.0.0/PluginSelect.dll",
-                    "sha256": "c89a6e52cda315d762489b78d2a3309eee64543084ddd27b6af7ab04a2415d47"
+                    "sha256": "c89a6e52cda315d762489b78d2a3309eee64543084ddd27b6af7ab04a2415d47",
+                    "installLocation": "/rml_mods"
                 }
             ]
         }
