@@ -4147,6 +4147,16 @@
                             ],
                             "changelog": "Fix for splittening",
                             "releaseUrl": "https://github.com/art0007i/CustomInspectors/releases/tag/2.1.6"
+                        },
+                        "2.2.0": {
+                            "artifacts": [
+                                {
+                                    "filename": "CustomInspectors.dll",
+                                    "sha256": "97e74fdf22fde6b1bdf3ef852a1ba022b2f530c3257ab74e119c510dfc26804a",
+                                    "url": "https://github.com/art0007i/CustomInspectors/releases/download/2.2.0/CustomInspectors.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/art0007i/CustomInspectors/releases/tag/2.2.0"
                         }
                     }
                 },
