@@ -700,6 +700,10 @@
                     "description": "Allows you to use a custom protoflux browser by saving and favoriting it in your inventory.",
                     "name": "CustomProtofluxBrowser",
                     "sourceLocation": "https://github.com/AlexW-578/CustomProtofluxBrowser",
+                    "tags": [
+                        "node",
+                        "favorite"
+                    ],
                     "versions": {
                         "1.0.0": {
                             "artifacts": [
@@ -709,6 +713,11 @@
                                     "url": "https://github.com/AlexW-578/CustomProtofluxBrowser/releases/download/v1.0.0/CustomLogixBrowser.dll"
                                 }
                             ],
+                            "dependencies": {
+                                "me.art0007i.SpecialItemsLib": {
+                                    "version": "^2.0.3"
+                                }
+                            },
                             "releaseUrl": "https://github.com/AlexW-578/CustomProtofluxBrowser/releases/tag/v1.0.0"
                         },
                         "1.1.0": {
@@ -764,6 +773,11 @@
                                     "url": "https://github.com/AlexW-578/CustomProtofluxBrowser/releases/download/v2.1.2/CustomProtofluxBrowser.dll"
                                 }
                             ],
+                            "dependencies": {
+                                "me.art0007i.SpecialItemsLib": {
+                                    "version": "^2.0.2"
+                                }
+                            },
                             "releaseUrl": "https://github.com/AlexW-578/CustomProtofluxBrowser/releases/tag/v2.1.2"
                         },
                         "2.1.3": {
@@ -773,6 +787,11 @@
                                     "url": "https://github.com/AlexW-578/CustomProtofluxBrowser/releases/download/v2.1.3/CustomProtofluxBrowser.dll"
                                 }
                             ],
+                            "dependencies": {
+                                "me.art0007i.SpecialItemsLib": {
+                                    "version": "^2.0.2"
+                                }
+                            },
                             "releaseUrl": "https://github.com/AlexW-578/CustomProtofluxBrowser/releases/tag/v2.1.3"
                         }
                     }
