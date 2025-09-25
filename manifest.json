@@ -3812,6 +3812,11 @@
                                     "url": "https://github.com/djsime1/GradientDriverEasing/releases/download/1.2.1/GradientDriverEasing.dll"
                                 }
                             ],
+                            "dependencies": {
+                                "me.art0007i.CustomUILib": {
+                                    "version": "^2.0.0"
+                                }
+                            },
                             "releaseUrl": "https://github.com/djsime1/GradientDriverEasing/releases/tag/1.2.1"
                         }
                     }
