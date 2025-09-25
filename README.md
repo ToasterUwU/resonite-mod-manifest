@@ -25,7 +25,7 @@ This fork is bleeding edge unstable stuff. I dont check the mod updates, i dont 
 
 - [BoundedUIX](https://github.com/Banane9/ResoniteBoundedUIX) (by Banane9)  - 2.1.0 vs 1.0.0
 - [FixMirrorSteamVRIPDOffset](https://github.com/ErrorJan/ResoniteMod-FixMirrorSteamVRIPDOffset) (by ErrorJan)  - 2.0.0 vs 1.0.0
-- [ProtoFluxOverhaul](https://github.com/DexyThePuppy/ProtoFluxOverhaul) (by DexyThePuppy)  - 1.4.4 vs 1.4.3
+- [ProtoFluxOverhaul](https://github.com/DexyThePuppy/ProtoFluxOverhaul) (by DexyThePuppy)  - 1.4.5 vs 1.4.3
 - [DoublePrecision](https://github.com/AwesomeTornado/Resonite-DoublePrecision-RML) (by __Choco__)  - 2.0.0 vs 1.6.1
 - [Thundagun](https://github.com/Frozenreflex/Thundagun) (by Frozenreflex)  - 1.2.2 vs 1.2.1
 - [EsnyaTweaks](https://github.com/esnya/ResoniteEsnyaTweaks) (by esnya)  - 1.0.0 vs 0.1.0
