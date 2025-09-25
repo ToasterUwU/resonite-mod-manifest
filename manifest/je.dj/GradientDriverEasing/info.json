@@ -7,6 +7,11 @@
     "versions": {
         "1.2.1": {
             "releaseUrl": "https://github.com/djsime1/GradientDriverEasing/releases/tag/1.2.1",
+            "dependencies": {
+                "me.art0007i.CustomUILib": {
+                    "version": "^2.0.0"
+                }
+            },
             "artifacts": [
                 {
                     "url": "https://github.com/djsime1/GradientDriverEasing/releases/download/1.2.1/CustomUILib.dll",
