@@ -2024,6 +2024,16 @@
                                 }
                             ],
                             "releaseUrl": "https://github.com/nalathethird/Fck-SessionCapture/releases/tag/1.0.2"
+                        },
+                        "1.0.3": {
+                            "artifacts": [
+                                {
+                                    "filename": "FckSessionCapture.dll",
+                                    "sha256": "c775bfb3f72c400c5d356104762fe6f51cece876d23134958478c232523ed6f2",
+                                    "url": "https://github.com/nalathethird/Fck-SessionCapture/releases/download/1.0.3/FckSessionCapture.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/nalathethird/Fck-SessionCapture/releases/tag/1.0.3"
                         }
                     }
                 },
