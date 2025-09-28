@@ -2347,6 +2347,11 @@
                                     "url": "https://github.com/resonite-modding-group/ResoniteModLoader/releases/download/4.1.0/ResoniteModLoader.xml"
                                 }
                             ],
+                            "dependencies": {
+                                "net.pardeike.harmony": {
+                                    "version": "^2.4.0"
+                                }
+                            },
                             "releaseUrl": "https://github.com/resonite-modding-group/ResoniteModLoader/releases/tag/4.1.0"
                         }
                     }
