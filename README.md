@@ -28,7 +28,6 @@ This fork is bleeding edge unstable stuff. I dont check the mod updates, i dont 
 - [DoublePrecision](https://github.com/AwesomeTornado/Resonite-DoublePrecision-RML) (by __Choco__)  - 2.0.0 vs 1.6.1
 - [Thundagun](https://github.com/Frozenreflex/Thundagun) (by Frozenreflex)  - 1.2.2 vs 1.2.1
 - [EsnyaTweaks](https://github.com/esnya/ResoniteEsnyaTweaks) (by esnya)  - 1.0.0 vs 0.1.0
-- [picture3dFix](https://github.com/tobs2007/picture3dFix) (by tobs)  - 1.1.3 vs 1.1.2
 - [VRCFTReceiver](https://github.com/hazre/VRCFTReceiver) (by hazre)  - 2.0.0 vs 1.0.4
 
 
