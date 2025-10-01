@@ -8,6 +8,15 @@
         "NepuShiro"
     ],
     "versions": {
+        "1.4.6": {
+            "releaseUrl": "https://github.com/DexyThePuppy/ProtoFluxOverhaul/releases/tag/1.4.6",
+            "artifacts": [
+                {
+                    "url": "https://github.com/DexyThePuppy/ProtoFluxOverhaul/releases/download/1.4.6/ProtoFluxOverhaul.dll",
+                    "sha256": "428bf01135a2e53fd222f803402e443d1d61ec3a0b34329e587bfd192a9cf85a"
+                }
+            ]
+        },
         "1.4.5": {
             "releaseUrl": "https://github.com/DexyThePuppy/ProtoFluxOverhaul/releases/tag/1.4.5",
             "artifacts": [
