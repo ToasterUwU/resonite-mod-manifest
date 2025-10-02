@@ -34,7 +34,8 @@ This fork is bleeding edge unstable stuff. I dont check the mod updates, i dont 
 
 ## Mods we are currently missing (will always be fixed ASAP)
 
-We currently have everything.
+- [InterprocessLib](https://github.com/Nytra/ResoniteInterprocessLib) (by Nytra)
+
 
 ## Mods we have an older version of (will also be fixed ASAP)
 
