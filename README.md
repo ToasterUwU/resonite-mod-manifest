@@ -34,8 +34,7 @@ This fork is bleeding edge unstable stuff. I dont check the mod updates, i dont 
 
 ## Mods we are currently missing (will always be fixed ASAP)
 
-- [NullableInputUI](https://git.unix.dog/yosh/ResoniteNullableInputUI) (by yosh)
-
+We currently have everything.
 
 ## Mods we have an older version of (will also be fixed ASAP)
 
