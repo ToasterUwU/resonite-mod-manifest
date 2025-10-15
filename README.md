@@ -31,6 +31,7 @@ This fork is bleeding edge unstable stuff. I dont check the mod updates, i dont 
 - [EsnyaTweaks](https://github.com/esnya/ResoniteEsnyaTweaks) (by esnya)  - 1.0.0 vs 0.1.0
 - [ResoniteScreenshotExtensions](https://github.com/hantabaru1014/ResoniteScreenshotExtensions) (by hantabaru1014)  - 2.1.1 vs 2.1.0
 - [VRCFTReceiver](https://github.com/hazre/VRCFTReceiver) (by hazre)  - 2.0.0 vs 1.0.4
+- [SVGImporter](https://github.com/dfgHiatus/ResoniteSVGImporter) (by dfgHiatus)  - 2.0.2 vs 2.0.0
 
 
 ## Mods we are currently missing (will always be fixed ASAP)
