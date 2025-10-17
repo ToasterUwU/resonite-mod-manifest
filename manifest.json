@@ -951,6 +951,15 @@
                                 }
                             ],
                             "releaseUrl": "https://github.com/DexyThePuppy/ProtoFluxOverhaul/releases/tag/1.4.7"
+                        },
+                        "1.4.8": {
+                            "artifacts": [
+                                {
+                                    "sha256": "34bd9c4667bf6de0fdb36df4fe188d5aa4333b23e91d1ae5779bdeba8622575c",
+                                    "url": "https://github.com/DexyThePuppy/ProtoFluxOverhaul/releases/download/1.4.8/ProtoFluxOverhaul.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/DexyThePuppy/ProtoFluxOverhaul/releases/tag/1.4.8"
                         }
                     }
                 }
