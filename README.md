@@ -25,18 +25,17 @@ This fork is bleeding edge unstable stuff. I dont check the mod updates, i dont 
 
 - [BoundedUIX](https://github.com/Banane9/ResoniteBoundedUIX) (by Banane9)  - 2.1.0 vs 1.0.0
 - [FixMirrorSteamVRIPDOffset](https://github.com/ErrorJan/ResoniteMod-FixMirrorSteamVRIPDOffset) (by ErrorJan)  - 2.0.0 vs 1.0.0
-- [ProtoFluxOverhaul](https://github.com/DexyThePuppy/ProtoFluxOverhaul) (by DexyThePuppy)  - 1.4.8 vs 1.4.6
 - [DoublePrecision](https://github.com/AwesomeTornado/Resonite-DoublePrecision-RML) (by __Choco__)  - 2.0.0 vs 1.6.1
 - [Thundagun](https://github.com/Frozenreflex/Thundagun) (by Frozenreflex)  - 1.2.2 vs 1.2.1
 - [EsnyaTweaks](https://github.com/esnya/ResoniteEsnyaTweaks) (by esnya)  - 1.0.0 vs 0.1.0
-- [ResoniteScreenshotExtensions](https://github.com/hantabaru1014/ResoniteScreenshotExtensions) (by hantabaru1014)  - 2.1.1 vs 2.1.0
 - [VRCFTReceiver](https://github.com/hazre/VRCFTReceiver) (by hazre)  - 2.0.0 vs 1.0.4
 - [SVGImporter](https://github.com/dfgHiatus/ResoniteSVGImporter) (by dfgHiatus)  - 2.0.2 vs 2.0.0
 
 
 ## Mods we are currently missing (will always be fixed ASAP)
 
-We currently have everything.
+- [VRCEyetrackingResonite](https://forge.awawi.nexus/Talii/VRCEyetrackingResonite) (by Talii)
+
 
 ## Mods we have an older version of (will also be fixed ASAP)
 
