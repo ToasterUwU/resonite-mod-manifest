@@ -13,7 +13,6 @@ This fork is bleeding edge unstable stuff. I dont check the mod updates, i dont 
 
 - [Gif Importer](https://github.com/LeCloutPanda/GifImporter) (by LeCloutPanda)
 - [Fck-SessionCapture](https://github.com/nalathethird/Fck-SessionCapture) (by nalathethird)
-- [IDontNeedHelp](https://github.com/nalathethird/IDontNeedHelp) (by nalathethird)
 - [NoSRanipal](https://github.com/zahndy/NoSRanipal) (by zahndy)
 - [ProxyVisuals](https://github.com/LeCloutPanda/ProxyVisuals) (by LeCloutPanda)
 - [VideoProxy](https://github.com/LeCloutPanda/VideoProxy) (by LeCloutPanda)
@@ -33,7 +32,9 @@ This fork is bleeding edge unstable stuff. I dont check the mod updates, i dont 
 
 ## Mods we are currently missing (will always be fixed ASAP)
 
-We currently have everything.
+- [SessionCaptureBlocker](https://github.com/nalathethird/SessionCaptureBlocker) (by nalathethird)
+- [bHapticsLib](https://github.com/nalathethird/bHapticsLib) (by nalathethird)
+
 
 ## Mods we have an older version of (will also be fixed ASAP)
 
