@@ -28,6 +28,7 @@ This fork is bleeding edge unstable stuff. I dont check the mod updates, i dont 
 - [Thundagun](https://github.com/Frozenreflex/Thundagun) (by Frozenreflex)  - 1.2.2 vs 1.2.1
 - [EsnyaTweaks](https://github.com/esnya/ResoniteEsnyaTweaks) (by esnya)  - 1.0.0 vs 0.1.0
 - [VRCFTReceiver](https://github.com/hazre/VRCFTReceiver) (by hazre)  - 2.0.0 vs 1.0.4
+- [InterprocessLib](https://github.com/Nytra/ResoniteInterprocessLib) (by Nytra)  - 2.0.1 vs 2.0.0
 
 
 ## Mods we are currently missing (will always be fixed ASAP)
