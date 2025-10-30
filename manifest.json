@@ -2039,75 +2039,97 @@
         "com.nalathethird": {
             "author": {
                 "nalathethird": {
-                    "icon": "https://avatars.githubusercontent.com/u/36301692?v=4",
-                    "support": "https://ko-fi.com/zeianala",
+                    "icon": "https://github.com/nalathethird.png",
+                    "support": "https://ko-fi.com/ZeiaNala",
                     "url": "https://github.com/nalathethird"
                 }
             },
             "entries": {
-                "com.nalathethird.Fck-SessionCapture": {
-                    "category": "Technical Tweaks",
-                    "description": "FckSessionCapture allows you to block the automatic upload and/or local generation of session thumbnails ('session captures') in Resonite. This helps protect your privacy by preventing images of your session from being uploaded to the internet or even stored locally, depending on your configuration.",
-                    "name": "Fck-SessionCapture",
-                    "sourceLocation": "https://github.com/nalathethird/Fck-SessionCapture",
-                    "versions": {
-                        "1.0.0": {
-                            "artifacts": [
-                                {
-                                    "filename": "FckSessionCapture.dll",
-                                    "sha256": "cffeab5a1fdcd933f2e5cddd687ce77a256c0bd7e4021305b8b065817e70c597",
-                                    "url": "https://github.com/nalathethird/Fck-SessionCapture/releases/download/1.0.0/FckSessionCapture.dll"
-                                }
-                            ],
-                            "releaseUrl": "https://github.com/nalathethird/Fck-SessionCapture/releases/tag/1.0.0"
-                        },
-                        "1.0.1": {
-                            "artifacts": [
-                                {
-                                    "filename": "FckSessionCapture.dll",
-                                    "sha256": "f2142e65272871db50bbe4e10202d1f9e2bf1af1a4dd9ddc790c67b69d03d4c8",
-                                    "url": "https://github.com/nalathethird/Fck-SessionCapture/releases/download/1.0.1/FckSessionCapture.dll"
-                                }
-                            ],
-                            "releaseUrl": "https://github.com/nalathethird/Fck-SessionCapture/releases/tag/1.0.1"
-                        },
-                        "1.0.2": {
-                            "artifacts": [
-                                {
-                                    "filename": "FckSessionCapture.dll",
-                                    "sha256": "fbf8c3f33f6974c5fb09cc5b391023f1502e8d0befbf8d68a548fd813389dc71",
-                                    "url": "https://github.com/nalathethird/Fck-SessionCapture/releases/download/1.0.2/FckSessionCapture.dll"
-                                }
-                            ],
-                            "releaseUrl": "https://github.com/nalathethird/Fck-SessionCapture/releases/tag/1.0.2"
-                        },
-                        "1.0.3": {
-                            "artifacts": [
-                                {
-                                    "filename": "FckSessionCapture.dll",
-                                    "sha256": "c775bfb3f72c400c5d356104762fe6f51cece876d23134958478c232523ed6f2",
-                                    "url": "https://github.com/nalathethird/Fck-SessionCapture/releases/download/1.0.3/FckSessionCapture.dll"
-                                }
-                            ],
-                            "releaseUrl": "https://github.com/nalathethird/Fck-SessionCapture/releases/tag/1.0.3"
-                        }
-                    }
-                },
                 "com.nalathethird.IDontNeedHelp": {
                     "category": "Dashboard",
-                    "description": "A mod to remove the 'Help' Section on the Dashboard for 'Experienced Resonite Users' - only.",
+                    "description": "Removes the 'Help' Tab on the Dashboard",
                     "name": "IDontNeedHelp",
                     "sourceLocation": "https://github.com/nalathethird/IDontNeedHelp",
                     "versions": {
                         "1.0.0": {
                             "artifacts": [
                                 {
-                                    "filename": "IDontNeedHelp.dll",
                                     "sha256": "cb5c1b47e85e2f94e2897ba34d21d1866b20e2f1b2c97f081450e1c3f1398783",
                                     "url": "https://github.com/nalathethird/IDontNeedHelp/releases/download/1.0.0/IDontNeedHelp.dll"
                                 }
                             ],
                             "releaseUrl": "https://github.com/nalathethird/IDontNeedHelp/releases/tag/1.0.0"
+                        }
+                    }
+                },
+                "com.nalathethird.SessionCaptureBlocker": {
+                    "category": "Technical Tweaks",
+                    "description": "Prevents session thumbnail generation and upload in sessions with selected AccessLevels",
+                    "name": "SessionCaptureBlocker",
+                    "sourceLocation": "https://github.com/nalathethird/SessionCaptureBlocker",
+                    "tags": [
+                        "image",
+                        "world",
+                        "privacy",
+                        "snapshot",
+                        "photo"
+                    ],
+                    "versions": {
+                        "1.0.0": {
+                            "artifacts": [
+                                {
+                                    "installLocation": "/rml_libs",
+                                    "sha256": "cffeab5a1fdcd933f2e5cddd687ce77a256c0bd7e4021305b8b065817e70c597",
+                                    "url": "https://github.com/nalathethird/SessionCaptureBlocker/releases/download/1.0.0/FckSessionCapture.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/nalathethird/SessionCaptureBlocker/releases/tag/1.0.0"
+                        },
+                        "1.0.1": {
+                            "artifacts": [
+                                {
+                                    "installLocation": "/rml_libs",
+                                    "sha256": "f2142e65272871db50bbe4e10202d1f9e2bf1af1a4dd9ddc790c67b69d03d4c8",
+                                    "url": "https://github.com/nalathethird/SessionCaptureBlocker/releases/download/1.0.1/FckSessionCapture.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/nalathethird/SessionCaptureBlocker/releases/tag/1.0.1"
+                        },
+                        "1.0.2": {
+                            "artifacts": [
+                                {
+                                    "installLocation": "/rml_libs",
+                                    "sha256": "fbf8c3f33f6974c5fb09cc5b391023f1502e8d0befbf8d68a548fd813389dc71",
+                                    "url": "https://github.com/nalathethird/SessionCaptureBlocker/releases/download/1.0.2/FckSessionCapture.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/nalathethird/SessionCaptureBlocker/releases/tag/1.0.2"
+                        },
+                        "1.0.3": {
+                            "artifacts": [
+                                {
+                                    "sha256": "29e4eeb9a98dcd289b44aefe7f06610a672c2b5b20e8b39ac2124d9ff07c7a2d",
+                                    "url": "https://github.com/nalathethird/SessionCaptureBlocker/releases/download/1.0.3/SessionCaptureBlocker.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/nalathethird/SessionCaptureBlocker/releases/tag/1.0.3"
+                        }
+                    }
+                },
+                "com.nalathethird.bHapticsLib": {
+                    "category": "Libraries",
+                    "description": "Modern .NET9 Library for bHaptics Integration",
+                    "name": "bHapticsLib",
+                    "sourceLocation": "https://github.com/nalathethird/bHapticsLib",
+                    "versions": {
+                        "1.0.8": {
+                            "artifacts": [
+                                {
+                                    "sha256": "40bf725c0dc10c57160c058c150beb0caa1720fbb9c772c119115603a6af90c4",
+                                    "url": "https://github.com/nalathethird/bHapticsLib/releases/download/1.0.8/bHapticsLib.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/nalathethird/bHapticsLib/releases/tag/1.0.8"
                         }
                     }
                 }
