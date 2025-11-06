@@ -17,7 +17,6 @@ This fork is bleeding edge unstable stuff. I dont check the mod updates, i dont 
 - [VideoProxy](https://github.com/LeCloutPanda/VideoProxy) (by LeCloutPanda)
 - [OperatorLikeNeos](https://github.com/ginjake/ResoniteOperatorLikeNeos) (by ginjake)
 - [UnityPackageImporter](https://github.com/dfgHiatus/ResoniteUnityPackagesImporter) (by dfgHiatus)
-- [ResoniteBaballoniaEyeTracking](https://github.com/hantabaru1014/ResoniteBaballoniaEyeTracking) (by hantabaru1014)
 
 
 ## Mods that we have a newer version of
