@@ -2165,6 +2165,16 @@
                                 }
                             ],
                             "releaseUrl": "https://github.com/nalathethird/bHapticsLib/releases/tag/1.0.8"
+                        },
+                        "1.0.9": {
+                            "artifacts": [
+                                {
+                                    "installLocation": "/rml_libs",
+                                    "sha256": "95887cbb19c769db03b9d48c973469dbf800b0cfd4841c8661882ed6eb6c1f54",
+                                    "url": "https://github.com/nalathethird/bHapticsLib/releases/download/1.0.9/bHapticsLib.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/nalathethird/bHapticsLib/releases/tag/1.0.9"
                         }
                     }
                 }
