@@ -29,6 +29,7 @@ This fork is bleeding edge unstable stuff. I dont check the mod updates, i dont 
 - [EsnyaTweaks](https://github.com/esnya/ResoniteEsnyaTweaks) (by esnya)  - 1.0.0 vs 0.1.0
 - [CyberFingerMod](https://github.com/DrSciCortex/CyberFingerMod) (by DrSciCortex)  - 1.1.1 vs 1.0.1
 - [VRCFTReceiver](https://github.com/hazre/VRCFTReceiver) (by hazre)  - 2.0.0 vs 1.0.4
+- [ResoniteBaballoniaEyeTracking](https://github.com/hantabaru1014/ResoniteBaballoniaEyeTracking) (by hantabaru1014)  - 0.1.1 vs 0.1.0
 
 
 ## Mods we are currently missing (will always be fixed ASAP)
