@@ -30,12 +30,12 @@ This fork is bleeding edge unstable stuff. I dont check the mod updates, i dont 
 - [CyberFingerMod](https://github.com/DrSciCortex/CyberFingerMod) (by DrSciCortex)  - 1.1.1 vs 1.0.1
 - [VRCFTReceiver](https://github.com/hazre/VRCFTReceiver) (by hazre)  - 2.0.0 vs 1.0.4
 - [ResoniteBaballoniaEyeTracking](https://github.com/hantabaru1014/ResoniteBaballoniaEyeTracking) (by hantabaru1014)  - 0.1.1 vs 0.1.0
-- [FriendlyInventoryAvatars](https://github.com/badhaloninja/FriendlyInventoryAvatars) (by badhaloninja)  - 1.1.0 vs 1.0.0
 
 
 ## Mods we are currently missing (will always be fixed ASAP)
 
-We currently have everything.
+- [PreventWebsocketCrash](https://codeberg.org/Orion_Moonclaw/PreventWebsocketCrash) (by OrionMoonclaw)
+
 
 ## Mods we have an older version of (will also be fixed ASAP)
 
