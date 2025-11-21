@@ -31,6 +31,7 @@ This fork is bleeding edge unstable stuff. I dont check the mod updates, i dont 
 - [VRCFTReceiver](https://github.com/hazre/VRCFTReceiver) (by hazre)  - 2.0.0 vs 1.0.4
 - [DefaultToolOverride](https://github.com/art0007i/DefaultToolOverride) (by art0007i)  - 1.0.6 vs 1.0.5
 - [ResoniteBaballoniaEyeTracking](https://github.com/hantabaru1014/ResoniteBaballoniaEyeTracking) (by hantabaru1014)  - 0.1.1 vs 0.1.0
+- [HeadlessTweaks](https://github.com/New-Project-Final-Final-WIP/HeadlessTweaks) (by New_Project_Final_Final_WIP)  - 2.1.12 vs 2.1.11
 
 
 ## Mods we are currently missing (will always be fixed ASAP)

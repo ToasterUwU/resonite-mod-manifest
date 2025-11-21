@@ -103,6 +103,30 @@
                 }
             ]
         },
+        "2.1.12": {
+            "releaseUrl": "https://github.com/New-Project-Final-Final-WIP/HeadlessTweaks/releases/tag/v2.1.12",
+            "artifacts": [
+                {
+                    "url": "https://github.com/New-Project-Final-Final-WIP/HeadlessTweaks/releases/download/v2.1.12/Discord.Net.Core.dll",
+                    "sha256": "324f5c0ce7814a66b5fefc7cce75e01c71746fb9a93e51f8c4e8060d6ddefb3d",
+                    "installLocation": "/rml_libs"
+                },
+                {
+                    "url": "https://github.com/New-Project-Final-Final-WIP/HeadlessTweaks/releases/download/v2.1.12/Discord.Net.Rest.dll",
+                    "sha256": "6ae5ec9ecf6117f24ad93c7bc445a312439892e14a0645c910cfda0860cdc91b",
+                    "installLocation": "/rml_libs"
+                },
+                {
+                    "url": "https://github.com/New-Project-Final-Final-WIP/HeadlessTweaks/releases/download/v2.1.12/Discord.Net.Webhook.dll",
+                    "sha256": "7afeb588f38cbaf9349dbc707a655cf5561543f13694d6839ae16a0b0eac81ed",
+                    "installLocation": "/rml_libs"
+                },
+                {
+                    "url": "https://github.com/New-Project-Final-Final-WIP/HeadlessTweaks/releases/download/v2.1.12/HeadlessTweaks.dll",
+                    "sha256": "7331e3da2fc2501aa54e03ef98a9b18d12a298712dd43a0164b382fa9bf8bc71"
+                }
+            ]
+        },
         "2.1.11": {
             "releaseUrl": "https://github.com/New-Project-Final-Final-WIP/HeadlessTweaks/releases/tag/v2.1.11",
             "changelog": "Post Splittening update\n- Added Renderite.Shared for moved types by Gyztor\n- Updated Discord.Net libraries to 3.18.0 by Gyztor",
