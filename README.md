@@ -36,7 +36,8 @@ We currently have everything.
 
 ## Mods we have an older version of (will also be fixed ASAP)
 
-We are currently up to date.
+- [Harmony](https://github.com/pardeike/Harmony) (by pardeike)  - 2.4.0
+
 
 ## What is this?
 
