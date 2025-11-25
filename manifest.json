@@ -2215,6 +2215,15 @@
                                 }
                             ],
                             "releaseUrl": "https://github.com/nalathethird/SessionCaptureBlocker/releases/tag/1.0.3"
+                        },
+                        "1.1.0": {
+                            "artifacts": [
+                                {
+                                    "sha256": "73d2b49dc66c3045a0197ecc78350dbe23603beedaaef1be4874f968787232d1",
+                                    "url": "https://github.com/nalathethird/SessionCaptureBlocker/releases/download/1.1.0/SessionCaptureBlocker.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/nalathethird/SessionCaptureBlocker/releases/tag/1.1.0"
                         }
                     }
                 },

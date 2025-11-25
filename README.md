@@ -28,6 +28,7 @@ This fork is bleeding edge unstable stuff. I dont check the mod updates, i dont 
 - [AutoAcceptInvite](https://github.com/Restrainite/AutoAcceptInvite) (by Restrainite developers)  - 2.0.2 vs 1.0.1
 - [DoublePrecision](https://github.com/AwesomeTornado/Resonite-DoublePrecision-RML) (by __Choco__)  - 2.0.0 vs 1.6.1
 - [Thundagun](https://github.com/Frozenreflex/Thundagun) (by Frozenreflex)  - 1.2.2 vs 1.2.1
+- [SessionCaptureBlocker](https://github.com/nalathethird/SessionCaptureBlocker) (by nalathethird)  - 1.1.0 vs 1.0.3
 - [bHapticsLib](https://github.com/nalathethird/bHapticsLib) (by nalathethird)  - 1.0.9 vs 1.0.8
 - [EsnyaTweaks](https://github.com/esnya/ResoniteEsnyaTweaks) (by esnya)  - 1.0.0 vs 0.1.0
 - [VRCFTReceiver](https://github.com/hazre/VRCFTReceiver) (by hazre)  - 2.0.0 vs 1.0.4
