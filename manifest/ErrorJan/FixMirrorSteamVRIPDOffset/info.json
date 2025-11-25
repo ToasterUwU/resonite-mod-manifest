@@ -5,6 +5,19 @@
     "category": "Bug Workaround",
     "sourceLocation": "https://github.com/ErrorJan/ResoniteMod-FixMirrorSteamVRIPDOffset",
     "versions": {
+        "2.0.1": {
+            "releaseUrl": "https://github.com/ErrorJan/ResoniteMod-FixMirrorSteamVRIPDOffset/releases/tag/2.0.1",
+            "artifacts": [
+                {
+                    "url": "https://github.com/ErrorJan/ResoniteMod-FixMirrorSteamVRIPDOffset/releases/download/2.0.1/FixMirrorSteamVRIPDOffset.dll",
+                    "sha256": "e787b1ccd2c7d1fc96c54c603d7cd75363c0d95c8f09dd3ca022ee0cf7198839"
+                },
+                {
+                    "url": "https://github.com/ErrorJan/ResoniteMod-FixMirrorSteamVRIPDOffset/releases/download/2.0.1/FixMirrorSteamVRIPDOffset_BepInEx.dll",
+                    "sha256": "16c18e59c22e93b4b458bbeb1424b151f10b39d4cff4313199dc583c00d79860"
+                }
+            ]
+        },
         "2.0.0": {
             "releaseUrl": "https://github.com/ErrorJan/ResoniteMod-FixMirrorSteamVRIPDOffset/releases/tag/2.0.0",
             "artifacts": [

@@ -5,6 +5,33 @@
     "category": "Dashboard",
     "sourceLocation": "https://github.com/Restrainite/AutoAcceptInvite",
     "versions": {
+        "2.0.2": {
+            "releaseUrl": "https://github.com/Restrainite/AutoAcceptInvite/releases/tag/v2.0.2",
+            "artifacts": [
+                {
+                    "url": "https://github.com/Restrainite/AutoAcceptInvite/releases/download/v2.0.2/AutoAcceptInvite.dll",
+                    "sha256": "1da58827c88f3635974d3f9045caa73fe6b5d09c68a3b69ab68c33c000a37bc3"
+                }
+            ]
+        },
+        "2.0.1": {
+            "releaseUrl": "https://github.com/Restrainite/AutoAcceptInvite/releases/tag/v2.0.1",
+            "artifacts": [
+                {
+                    "url": "https://github.com/Restrainite/AutoAcceptInvite/releases/download/v2.0.1/AutoAcceptInvite.dll",
+                    "sha256": "d991842368a8ad6c3a6b57fc8f7d4ce68acb5d36666ee6015445f1acc4436fdc"
+                }
+            ]
+        },
+        "2.0.0": {
+            "releaseUrl": "https://github.com/Restrainite/AutoAcceptInvite/releases/tag/v2.0.0",
+            "artifacts": [
+                {
+                    "url": "https://github.com/Restrainite/AutoAcceptInvite/releases/download/v2.0.0/AutoAcceptInvite.dll",
+                    "sha256": "fab88d57c5fd2d6b3e444bd113bf1df8c39d8e3df86a5efc2eae9ae8e0c26342"
+                }
+            ]
+        },
         "1.0.1": {
             "releaseUrl": "https://github.com/Restrainite/AutoAcceptInvite/releases/tag/v1.0.1",
             "artifacts": [

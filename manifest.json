@@ -100,6 +100,15 @@
                                 }
                             ],
                             "releaseUrl": "https://github.com/ErrorJan/ResoniteMod-EnableToolspawnInVR/releases/tag/1.0.1"
+                        },
+                        "1.0.2": {
+                            "artifacts": [
+                                {
+                                    "sha256": "35b45dcd1d3d4f202e2febe7e11c47358f5f41cedd5099c7c1355cf11622d0ac",
+                                    "url": "https://github.com/ErrorJan/ResoniteMod-EnableToolspawnInVR/releases/download/1.0.2/EnableToolspawnInVR.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/ErrorJan/ResoniteMod-EnableToolspawnInVR/releases/tag/1.0.2"
                         }
                     }
                 },
@@ -130,6 +139,19 @@
                                 }
                             ],
                             "releaseUrl": "https://github.com/ErrorJan/ResoniteMod-FixMirrorSteamVRIPDOffset/releases/tag/2.0.0"
+                        },
+                        "2.0.1": {
+                            "artifacts": [
+                                {
+                                    "sha256": "e787b1ccd2c7d1fc96c54c603d7cd75363c0d95c8f09dd3ca022ee0cf7198839",
+                                    "url": "https://github.com/ErrorJan/ResoniteMod-FixMirrorSteamVRIPDOffset/releases/download/2.0.1/FixMirrorSteamVRIPDOffset.dll"
+                                },
+                                {
+                                    "sha256": "16c18e59c22e93b4b458bbeb1424b151f10b39d4cff4313199dc583c00d79860",
+                                    "url": "https://github.com/ErrorJan/ResoniteMod-FixMirrorSteamVRIPDOffset/releases/download/2.0.1/FixMirrorSteamVRIPDOffset_BepInEx.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/ErrorJan/ResoniteMod-FixMirrorSteamVRIPDOffset/releases/tag/2.0.1"
                         }
                     }
                 },
@@ -156,6 +178,15 @@
                                 }
                             ],
                             "releaseUrl": "https://github.com/ErrorJan/ResoniteMod-IgnoreControllerAxis/releases/tag/1.1.0"
+                        },
+                        "1.1.1": {
+                            "artifacts": [
+                                {
+                                    "sha256": "9d688066fde38ccb548495348ee7a784caae466df691cb7eae2ce8e559f26ac0",
+                                    "url": "https://github.com/ErrorJan/ResoniteMod-IgnoreControllerAxis/releases/download/1.1.1/IgnoreControllerAxis.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/ErrorJan/ResoniteMod-IgnoreControllerAxis/releases/tag/1.1.1"
                         }
                     }
                 }
@@ -230,6 +261,33 @@
                                 }
                             ],
                             "releaseUrl": "https://github.com/Restrainite/AutoAcceptInvite/releases/tag/v1.0.1"
+                        },
+                        "2.0.0": {
+                            "artifacts": [
+                                {
+                                    "sha256": "fab88d57c5fd2d6b3e444bd113bf1df8c39d8e3df86a5efc2eae9ae8e0c26342",
+                                    "url": "https://github.com/Restrainite/AutoAcceptInvite/releases/download/v2.0.0/AutoAcceptInvite.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/Restrainite/AutoAcceptInvite/releases/tag/v2.0.0"
+                        },
+                        "2.0.1": {
+                            "artifacts": [
+                                {
+                                    "sha256": "d991842368a8ad6c3a6b57fc8f7d4ce68acb5d36666ee6015445f1acc4436fdc",
+                                    "url": "https://github.com/Restrainite/AutoAcceptInvite/releases/download/v2.0.1/AutoAcceptInvite.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/Restrainite/AutoAcceptInvite/releases/tag/v2.0.1"
+                        },
+                        "2.0.2": {
+                            "artifacts": [
+                                {
+                                    "sha256": "1da58827c88f3635974d3f9045caa73fe6b5d09c68a3b69ab68c33c000a37bc3",
+                                    "url": "https://github.com/Restrainite/AutoAcceptInvite/releases/download/v2.0.2/AutoAcceptInvite.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/Restrainite/AutoAcceptInvite/releases/tag/v2.0.2"
                         }
                     }
                 },
@@ -526,6 +584,15 @@
                                 }
                             ],
                             "releaseUrl": "https://github.com/Restrainite/Restrainite/releases/tag/v2.0.8"
+                        },
+                        "3.0.1": {
+                            "artifacts": [
+                                {
+                                    "sha256": "ba7bef572117ec8ac5446f994f6626d1313a95079d6bce5ea6ee845b97cbe29c",
+                                    "url": "https://github.com/Restrainite/Restrainite/releases/download/v3.0.1/Restrainite.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/Restrainite/Restrainite/releases/tag/v3.0.1"
                         }
                     },
                     "website": "https://restrainite.github.io/"
