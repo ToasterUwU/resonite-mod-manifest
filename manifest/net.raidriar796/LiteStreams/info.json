@@ -1,19 +1,29 @@
 {
-	"name": "LiteStreams",
-	"id": "net.raidriar796.LiteStreams",
-	"description": "Reduces outbound network traffic.",
-	"category": "Optimization",
-	"sourceLocation": "https://github.com/Raidriar796/LiteStreams",
-	"versions": {
-		"1.1.0": {
-			"releaseUrl": "https://github.com/Raidriar796/LiteStreams/releases/tag/1.1.0",
-			"artifacts": [
-				{
-					"url": "https://github.com/Raidriar796/LiteStreams/releases/download/1.1.0/LiteStreams.dll",
-					"filename": "LiteStreams.dll",
-					"sha256": "09C3C6644F8A7C91BC7832A58EAF8B2E70CA85D9DD53710B3C4D0140F3EECE60"
-				}
-			]
-		}
-	}
+    "name": "LiteStreams",
+    "id": "net.raidriar796.LiteStreams",
+    "description": "Reduces outbound network traffic.",
+    "category": "Optimization",
+    "sourceLocation": "https://github.com/Raidriar796/LiteStreams",
+    "versions": {
+        "1.1.0": {
+            "releaseUrl": "https://github.com/Raidriar796/LiteStreams/releases/tag/1.1.0",
+            "artifacts": [
+                {
+                    "url": "https://github.com/Raidriar796/LiteStreams/releases/download/1.1.0/LiteStreams.dll",
+                    "filename": "LiteStreams.dll",
+                    "sha256": "09C3C6644F8A7C91BC7832A58EAF8B2E70CA85D9DD53710B3C4D0140F3EECE60"
+                }
+            ]
+        },
+        "1.0.0": {
+            "releaseUrl": "https://github.com/Raidriar796/LiteStreams/releases/tag/1.0.0",
+            "artifacts": [
+                {
+                    "url": "https://github.com/Raidriar796/LiteStreams/releases/download/1.0.0/LiteStreams.dll",
+                    "sha256": "978eca6f1539f59a1b96bfd1dab88970083c5b4a165fbd72af9f78b85afbb6ac",
+                    "filename": "LiteStreams.dll"
+                }
+            ]
+        }
+    }
 }
