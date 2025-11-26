@@ -1,0 +1,18 @@
+{
+    "name": "InventoryHelper",
+    "id": "noblereign.InventoryHelper",
+    "description": "Adds inventory search and management features",
+    "category": "Dashboard",
+    "sourceLocation": "https://github.com/noblereign/InventoryHelper",
+    "versions": {
+        "3.0.0": {
+            "releaseUrl": "https://github.com/noblereign/InventoryHelper/releases/tag/3.0.0",
+            "artifacts": [
+                {
+                    "url": "https://github.com/noblereign/InventoryHelper/releases/download/3.0.0/InventoryHelper.dll",
+                    "sha256": "06d9352143b23be2bc36812ba2917ad9f63d57c1595fc4da3cc646b043de9cad"
+                }
+            ]
+        }
+    }
+}
