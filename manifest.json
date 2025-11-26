@@ -8683,6 +8683,16 @@
                                 }
                             ],
                             "releaseUrl": "https://github.com/Raidriar796/StresslessHeadless/releases/tag/2.0.0"
+                        },
+                        "2.0.1": {
+                            "artifacts": [
+                                {
+                                    "filename": "StresslessHeadless.dll",
+                                    "sha256": "59354e634cff92b3a70b9335481a10717bbcac716ff6f84abfcdd13ba747f16c",
+                                    "url": "https://github.com/Raidriar796/StresslessHeadless/releases/download/2.0.1/StresslessHeadless.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/Raidriar796/StresslessHeadless/releases/tag/2.0.1"
                         }
                     }
                 },
@@ -9425,6 +9435,32 @@
                                 }
                             ],
                             "releaseUrl": "https://github.com/badhaloninja/ShowObjectRootSlotNameInSubtitleOnInspectorsForSelectedSlotMod/releases/tag/v1.0.0"
+                        }
+                    }
+                }
+            }
+        },
+        "noblereign": {
+            "author": {
+                "ExampleAuthor": {
+                    "url": "https://github.com/noblereign"
+                }
+            },
+            "entries": {
+                "noblereign.InventoryHelper": {
+                    "category": "Dashboard",
+                    "description": "Adds inventory search and management features",
+                    "name": "InventoryHelper",
+                    "sourceLocation": "https://github.com/noblereign/InventoryHelper",
+                    "versions": {
+                        "3.0.0": {
+                            "artifacts": [
+                                {
+                                    "sha256": "06d9352143b23be2bc36812ba2917ad9f63d57c1595fc4da3cc646b043de9cad",
+                                    "url": "https://github.com/noblereign/InventoryHelper/releases/download/3.0.0/InventoryHelper.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/noblereign/InventoryHelper/releases/tag/3.0.0"
                         }
                     }
                 }

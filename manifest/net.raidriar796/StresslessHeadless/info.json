@@ -8,6 +8,16 @@
     ],
     "sourceLocation": "https://github.com/Raidriar796/StresslessHeadless",
     "versions": {
+        "2.0.1": {
+            "releaseUrl": "https://github.com/Raidriar796/StresslessHeadless/releases/tag/2.0.1",
+            "artifacts": [
+                {
+                    "url": "https://github.com/Raidriar796/StresslessHeadless/releases/download/2.0.1/StresslessHeadless.dll",
+                    "sha256": "59354e634cff92b3a70b9335481a10717bbcac716ff6f84abfcdd13ba747f16c",
+                    "filename": "StresslessHeadless.dll"
+                }
+            ]
+        },
         "2.0.0": {
             "releaseUrl": "https://github.com/Raidriar796/StresslessHeadless/releases/tag/2.0.0",
             "artifacts": [

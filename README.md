@@ -17,6 +17,7 @@ This fork is bleeding edge unstable stuff. I dont check the mod updates, i dont 
 - [VideoProxy](https://github.com/LeCloutPanda/VideoProxy) (by LeCloutPanda)
 - [OperatorLikeNeos](https://github.com/ginjake/ResoniteOperatorLikeNeos) (by ginjake)
 - [UnityPackageImporter](https://github.com/dfgHiatus/ResoniteUnityPackagesImporter) (by dfgHiatus)
+- [InventoryHelper](https://github.com/noblereign/InventoryHelper) (by ExampleAuthor)
 
 
 ## Mods that we have a newer version of
@@ -33,7 +34,8 @@ This fork is bleeding edge unstable stuff. I dont check the mod updates, i dont 
 
 ## Mods we are currently missing (will always be fixed ASAP)
 
-We currently have everything.
+- [LiteStreams](https://github.com/Raidriar796/LiteStreams) (by Raidriar796)
+
 
 ## Mods we have an older version of (will also be fixed ASAP)
 
