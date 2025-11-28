@@ -702,6 +702,32 @@
                 }
             }
         },
+        "brecert": {
+            "author": {
+                "bree": {
+                    "url": "https://github.com/brecert"
+                }
+            },
+            "entries": {
+                "com.brecert.ProtoFluxContextualActions": {
+                    "category": "Protoflux",
+                    "description": "Add additional contextual actions to ProtoFlux",
+                    "name": "ProtoFluxContextualActions",
+                    "sourceLocation": "https://github.com/brecert/ProtoFluxContextualActions",
+                    "versions": {
+                        "0.0.14.0": {
+                            "artifacts": [
+                                {
+                                    "sha256": "22f47f95a52cbc9fa8e1dfb115d2fdf5cd7ce8a3ce5d82991a67bc2323ad08bb",
+                                    "url": "https://github.com/brecert/ProtoFluxContextualActions/releases/download/v0.0.14.0/ProtoFluxContextualActions.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/brecert/ProtoFluxContextualActions/releases/tag/v0.0.14.0"
+                        }
+                    }
+                }
+            }
+        },
         "ch.isota": {
             "author": {
                 "isotach": {

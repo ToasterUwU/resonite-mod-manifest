@@ -12,6 +12,7 @@ This fork is bleeding edge unstable stuff. I dont check the mod updates, i dont 
 ## Mods we have, but the official Mod-Manifest does not
 
 - [Gif Importer](https://github.com/LeCloutPanda/GifImporter) (by LeCloutPanda)
+- [ProtoFluxContextualActions](https://github.com/brecert/ProtoFluxContextualActions) (by bree)
 - [NoSRanipal](https://github.com/zahndy/NoSRanipal) (by zahndy)
 - [ProxyVisuals](https://github.com/LeCloutPanda/ProxyVisuals) (by LeCloutPanda)
 - [VideoProxy](https://github.com/LeCloutPanda/VideoProxy) (by LeCloutPanda)
