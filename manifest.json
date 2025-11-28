@@ -715,7 +715,7 @@
                     "name": "ProtoFluxContextualActions",
                     "sourceLocation": "https://github.com/brecert/ProtoFluxContextualActions",
                     "versions": {
-                        "0.0.14.0": {
+                        "0.14.0": {
                             "artifacts": [
                                 {
                                     "sha256": "22f47f95a52cbc9fa8e1dfb115d2fdf5cd7ce8a3ce5d82991a67bc2323ad08bb",
