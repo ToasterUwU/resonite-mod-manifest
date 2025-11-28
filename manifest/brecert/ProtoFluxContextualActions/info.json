@@ -5,7 +5,7 @@
     "category": "Protoflux",
     "sourceLocation": "https://github.com/brecert/ProtoFluxContextualActions",
     "versions": {
-        "0.0.14.0": {
+        "0.14.0": {
             "releaseUrl": "https://github.com/brecert/ProtoFluxContextualActions/releases/tag/v0.0.14.0",
             "artifacts": [
                 {
