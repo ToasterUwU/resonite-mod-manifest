@@ -3935,6 +3935,20 @@
                                 }
                             ],
                             "releaseUrl": "https://github.com/Baplar/ResoniteDiscordRpc/releases/tag/v1.0.2"
+                        },
+                        "1.0.3": {
+                            "artifacts": [
+                                {
+                                    "installLocation": "/rml_libs",
+                                    "sha256": "849394a31a0bdae0d84df7dff756774839f210693de87b74a0d1800e9c7970e8",
+                                    "url": "https://github.com/Baplar/ResoniteDiscordRpc/releases/download/v1.0.3/DiscordRPC.dll"
+                                },
+                                {
+                                    "sha256": "bcf93dc3f40f97937d32ba03fb78319b0261e9a22681313b7694737538a1a9e4",
+                                    "url": "https://github.com/Baplar/ResoniteDiscordRpc/releases/download/v1.0.3/ResoniteDiscordRpc.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/Baplar/ResoniteDiscordRpc/releases/tag/v1.0.3"
                         }
                     }
                 }
