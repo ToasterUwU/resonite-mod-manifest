@@ -1,0 +1,18 @@
+{
+    "name": "ProtoFluxContextualActions",
+    "id": "com.brecert.ProtoFluxContextualActions",
+    "description": "Add additional contextual actions to ProtoFlux",
+    "category": "Protoflux",
+    "sourceLocation": "https://github.com/brecert/ProtoFluxContextualActions",
+    "versions": {
+        "0.0.14.0": {
+            "releaseUrl": "https://github.com/brecert/ProtoFluxContextualActions/releases/tag/v0.0.14.0",
+            "artifacts": [
+                {
+                    "url": "https://github.com/brecert/ProtoFluxContextualActions/releases/download/v0.0.14.0/ProtoFluxContextualActions.dll",
+                    "sha256": "22f47f95a52cbc9fa8e1dfb115d2fdf5cd7ce8a3ce5d82991a67bc2323ad08bb"
+                }
+            ]
+        }
+    }
+}
