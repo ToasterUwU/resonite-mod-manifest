@@ -31,12 +31,12 @@ This fork is bleeding edge unstable stuff. I dont check the mod updates, i dont 
 - [bHapticsLib](https://github.com/nalathethird/bHapticsLib) (by nalathethird)  - 1.0.9 vs 1.0.8
 - [EsnyaTweaks](https://github.com/esnya/ResoniteEsnyaTweaks) (by esnya)  - 1.0.0 vs 0.1.0
 - [VRCFTReceiver](https://github.com/hazre/VRCFTReceiver) (by hazre)  - 2.0.0 vs 1.0.4
-- [ResoniteDiscordRpc](https://github.com/Baplar/ResoniteDiscordRpc) (by Baplar)  - 1.0.3 vs 1.0.2
 
 
 ## Mods we are currently missing (will always be fixed ASAP)
 
-We currently have everything.
+- [SteamRecentUsers](https://github.com/DanteTucker/SteamRecentUsers) (by Dante)
+
 
 ## Mods we have an older version of (will also be fixed ASAP)
 
