@@ -3879,6 +3879,106 @@
                 }
             }
         },
+        "dog.glacier": {
+            "author": {
+                "Noble": {
+                    "icon": "https://github.com/noblereign.png",
+                    "url": "https://github.com/noblereign",
+                    "website": "https://glacier.dog"
+                }
+            },
+            "entries": {
+                "dog.glacier.ContextMenuBackOption": {
+                    "category": "Context Menu",
+                    "description": "Adds a Back option to every Context Menu submenu.",
+                    "name": "ContextMenuBackOption",
+                    "sourceLocation": "https://github.com/noblereign/ResoniteContextMenuBackOption",
+                    "versions": {
+                        "1.0.0": {
+                            "artifacts": [
+                                {
+                                    "sha256": "e4e0b0c9ffbc285a14b0d8ea7399ab3a1ea9992856430ff0bd24e724cb05acf0",
+                                    "url": "https://github.com/noblereign/ResoniteContextMenuBackOption/releases/download/v1.0.0-alpha.1/ContextMenuBackOption.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/noblereign/ResoniteContextMenuBackOption/releases/tag/v1.0.0-alpha.1"
+                        },
+                        "1.0.1": {
+                            "artifacts": [
+                                {
+                                    "sha256": "c35b6364ecac996d74709f7c7540295ba45de164a178ab1a4852eecfa51a8c06",
+                                    "url": "https://github.com/noblereign/ResoniteContextMenuBackOption/releases/download/v1.0.1/ContextMenuBackOption.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/noblereign/ResoniteContextMenuBackOption/releases/tag/v1.0.1"
+                        },
+                        "1.0.2": {
+                            "artifacts": [
+                                {
+                                    "sha256": "d506b0a76779a031c097c609642b90311ae3686ef3bdac2ac4ef601d77d5e375",
+                                    "url": "https://github.com/noblereign/ResoniteContextMenuBackOption/releases/download/v1.0.2/ContextMenuBackOption.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/noblereign/ResoniteContextMenuBackOption/releases/tag/v1.0.2"
+                        },
+                        "2.0.0": {
+                            "artifacts": [
+                                {
+                                    "sha256": "10cc30c3d290a32fa78c6fbddd930feb93cf92a3ea48e0510a49a12f5213c77a",
+                                    "url": "https://github.com/noblereign/ResoniteContextMenuBackOption/releases/download/v2.0.0/ContextMenuBackOption.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/noblereign/ResoniteContextMenuBackOption/releases/tag/v2.0.0"
+                        },
+                        "2.0.1": {
+                            "artifacts": [
+                                {
+                                    "sha256": "2918aa694184b72f644888126473b4efbbc8dffc1b8ed7e737b8b04830af62ea",
+                                    "url": "https://github.com/noblereign/ResoniteContextMenuBackOption/releases/download/v2.0.1/ContextMenuBackOption.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/noblereign/ResoniteContextMenuBackOption/releases/tag/v2.0.1"
+                        },
+                        "2.0.2": {
+                            "artifacts": [
+                                {
+                                    "sha256": "05e073901fde95caa9c3c6bb4559c4c29926fdcd67d1c0a37d590ecca99d110e",
+                                    "url": "https://github.com/noblereign/ResoniteContextMenuBackOption/releases/download/v2.0.2/ContextMenuBackOption.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/noblereign/ResoniteContextMenuBackOption/releases/tag/v2.0.2"
+                        },
+                        "2.1.0": {
+                            "artifacts": [
+                                {
+                                    "sha256": "16e07f07ada703fa37049c58d463972f25ce4c15c3792ebdf8e8ed558c04fe24",
+                                    "url": "https://github.com/noblereign/ResoniteContextMenuBackOption/releases/download/v2.1.0/ContextMenuBackOption.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/noblereign/ResoniteContextMenuBackOption/releases/tag/v2.1.0"
+                        },
+                        "2.2.0": {
+                            "artifacts": [
+                                {
+                                    "sha256": "ff256f22abaab1990c5f0a25810e54ff14faa15bcdd1b45e345ee19fc91900a9",
+                                    "url": "https://github.com/noblereign/ResoniteContextMenuBackOption/releases/download/v2.2.0/ContextMenuBackOption.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/noblereign/ResoniteContextMenuBackOption/releases/tag/v2.2.0"
+                        },
+                        "2.3.0": {
+                            "artifacts": [
+                                {
+                                    "sha256": "b8d2b4ec03eabbf720c59c0388b0df2e65666861f34a8bfc557aca6b3283d4a0",
+                                    "url": "https://github.com/noblereign/ResoniteContextMenuBackOption/releases/download/v2.3.0/ContextMenuBackOption.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/noblereign/ResoniteContextMenuBackOption/releases/tag/v2.3.0"
+                        }
+                    }
+                }
+            }
+        },
         "es.dant": {
             "author": {
                 "Dante": {
@@ -8428,6 +8528,34 @@
                 }
             },
             "entries": {
+                "net.raidriar796.DynamicDesyncHelper": {
+                    "category": "Misc",
+                    "description": "Dynamically adjusts the LNL Window Size to avoid desyncing.",
+                    "name": "DynamicDesyncHelper",
+                    "sourceLocation": "https://github.com/Raidriar796/DynamicDesyncHelper",
+                    "versions": {
+                        "0.1.0": {
+                            "artifacts": [
+                                {
+                                    "filename": "DynamicDesyncHelper.dll",
+                                    "sha256": "711fab6950cb518e5e553469b8f0064552dc944760b35ed17b68589f9fa1289f",
+                                    "url": "https://github.com/Raidriar796/DynamicDesyncHelper/releases/download/0.1.0/DynamicDesyncHelper.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/Raidriar796/DynamicDesyncHelper/releases/tag/0.1.0"
+                        },
+                        "0.1.1": {
+                            "artifacts": [
+                                {
+                                    "filename": "DynamicDesyncHelper.dll",
+                                    "sha256": "FB239E6F43BE2A2AB98A03EACE791F3B9C8EA860464945F733D9E10A4AE8CE10",
+                                    "url": "https://github.com/Raidriar796/DynamicDesyncHelper/releases/download/0.1.1/DynamicDesyncHelper.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/Raidriar796/DynamicDesyncHelper/releases/tag/0.1.1"
+                        }
+                    }
+                },
                 "net.raidriar796.DynamicTickRate": {
                     "category": "Optimization",
                     "description": "Adjusts the tick rate of the headless client based on user and world count.",
@@ -8776,6 +8904,24 @@
                                 }
                             ],
                             "releaseUrl": "https://github.com/Raidriar796/ResoniteIkCulling/releases/tag/2.7.0"
+                        }
+                    }
+                },
+                "net.raidriar796.Resurfacer": {
+                    "category": "Wizards",
+                    "description": "Adds batch texture operations.",
+                    "name": "Resurfacer",
+                    "sourceLocation": "https://github.com/Raidriar796/Resurfacer",
+                    "versions": {
+                        "0.1.0": {
+                            "artifacts": [
+                                {
+                                    "filename": "Resurfacer.dll",
+                                    "sha256": "61AE8977595B983B604A9D99181F28C34D9D76D0FC172A67146ABAD135DB1150",
+                                    "url": "https://github.com/Raidriar796/Resurfacer/releases/download/0.1.0/Resurfacer.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/Raidriar796/Resurfacer/releases/tag/0.1.0"
                         }
                     }
                 },

@@ -35,10 +35,7 @@ This fork is bleeding edge unstable stuff. I dont check the mod updates, i dont 
 
 ## Mods we are currently missing (will always be fixed ASAP)
 
-- [ContextMenuBackOption](https://github.com/noblereign/ResoniteContextMenuBackOption) (by Noble)
-- [DynamicDesyncHelper](https://github.com/Raidriar796/DynamicDesyncHelper) (by Raidriar796)
-- [Resurfacer](https://github.com/Raidriar796/Resurfacer) (by Raidriar796)
-
+We currently have everything.
 
 ## Mods we have an older version of (will also be fixed ASAP)
 

@@ -1,16 +1,90 @@
 {
-	"name": "ContextMenuBackOption",
-	"id": "dog.glacier.ContextMenuBackOption",
-	"description": "Adds a Back option to every Context Menu submenu.",
-	"category": "Context Menu",
-	"sourceLocation": "https://github.com/noblereign/ResoniteContextMenuBackOption",
-	"versions": {
-		"2.3.0": {
-			"releaseUrl": "https://github.com/noblereign/ResoniteContextMenuBackOption/releases/tag/v2.3.0",
-			"artifacts": [{
-				"url": "https://github.com/noblereign/ResoniteContextMenuBackOption/releases/download/v2.3.0/ContextMenuBackOption.dll",
-				"sha256": "b8d2b4ec03eabbf720c59c0388b0df2e65666861f34a8bfc557aca6b3283d4a0"
-			}]
-		}
-	}
+    "name": "ContextMenuBackOption",
+    "id": "dog.glacier.ContextMenuBackOption",
+    "description": "Adds a Back option to every Context Menu submenu.",
+    "category": "Context Menu",
+    "sourceLocation": "https://github.com/noblereign/ResoniteContextMenuBackOption",
+    "versions": {
+        "2.3.0": {
+            "releaseUrl": "https://github.com/noblereign/ResoniteContextMenuBackOption/releases/tag/v2.3.0",
+            "artifacts": [
+                {
+                    "url": "https://github.com/noblereign/ResoniteContextMenuBackOption/releases/download/v2.3.0/ContextMenuBackOption.dll",
+                    "sha256": "b8d2b4ec03eabbf720c59c0388b0df2e65666861f34a8bfc557aca6b3283d4a0"
+                }
+            ]
+        },
+        "2.2.0": {
+            "releaseUrl": "https://github.com/noblereign/ResoniteContextMenuBackOption/releases/tag/v2.2.0",
+            "artifacts": [
+                {
+                    "url": "https://github.com/noblereign/ResoniteContextMenuBackOption/releases/download/v2.2.0/ContextMenuBackOption.dll",
+                    "sha256": "ff256f22abaab1990c5f0a25810e54ff14faa15bcdd1b45e345ee19fc91900a9"
+                }
+            ]
+        },
+        "2.1.0": {
+            "releaseUrl": "https://github.com/noblereign/ResoniteContextMenuBackOption/releases/tag/v2.1.0",
+            "artifacts": [
+                {
+                    "url": "https://github.com/noblereign/ResoniteContextMenuBackOption/releases/download/v2.1.0/ContextMenuBackOption.dll",
+                    "sha256": "16e07f07ada703fa37049c58d463972f25ce4c15c3792ebdf8e8ed558c04fe24"
+                }
+            ]
+        },
+        "2.0.2": {
+            "releaseUrl": "https://github.com/noblereign/ResoniteContextMenuBackOption/releases/tag/v2.0.2",
+            "artifacts": [
+                {
+                    "url": "https://github.com/noblereign/ResoniteContextMenuBackOption/releases/download/v2.0.2/ContextMenuBackOption.dll",
+                    "sha256": "05e073901fde95caa9c3c6bb4559c4c29926fdcd67d1c0a37d590ecca99d110e"
+                }
+            ]
+        },
+        "2.0.1": {
+            "releaseUrl": "https://github.com/noblereign/ResoniteContextMenuBackOption/releases/tag/v2.0.1",
+            "artifacts": [
+                {
+                    "url": "https://github.com/noblereign/ResoniteContextMenuBackOption/releases/download/v2.0.1/ContextMenuBackOption.dll",
+                    "sha256": "2918aa694184b72f644888126473b4efbbc8dffc1b8ed7e737b8b04830af62ea"
+                }
+            ]
+        },
+        "2.0.0": {
+            "releaseUrl": "https://github.com/noblereign/ResoniteContextMenuBackOption/releases/tag/v2.0.0",
+            "artifacts": [
+                {
+                    "url": "https://github.com/noblereign/ResoniteContextMenuBackOption/releases/download/v2.0.0/ContextMenuBackOption.dll",
+                    "sha256": "10cc30c3d290a32fa78c6fbddd930feb93cf92a3ea48e0510a49a12f5213c77a"
+                }
+            ]
+        },
+        "1.0.2": {
+            "releaseUrl": "https://github.com/noblereign/ResoniteContextMenuBackOption/releases/tag/v1.0.2",
+            "artifacts": [
+                {
+                    "url": "https://github.com/noblereign/ResoniteContextMenuBackOption/releases/download/v1.0.2/ContextMenuBackOption.dll",
+                    "sha256": "d506b0a76779a031c097c609642b90311ae3686ef3bdac2ac4ef601d77d5e375"
+                }
+            ]
+        },
+        "1.0.1": {
+            "releaseUrl": "https://github.com/noblereign/ResoniteContextMenuBackOption/releases/tag/v1.0.1",
+            "artifacts": [
+                {
+                    "url": "https://github.com/noblereign/ResoniteContextMenuBackOption/releases/download/v1.0.1/ContextMenuBackOption.dll",
+                    "sha256": "c35b6364ecac996d74709f7c7540295ba45de164a178ab1a4852eecfa51a8c06"
+                }
+            ]
+        },
+        "1.0.0": {
+            "releaseUrl": "https://github.com/noblereign/ResoniteContextMenuBackOption/releases/tag/v1.0.0-alpha.1",
+            "artifacts": [
+                {
+                    "url": "https://github.com/noblereign/ResoniteContextMenuBackOption/releases/download/v1.0.0-alpha.1/ContextMenuBackOption.dll",
+                    "sha256": "e4e0b0c9ffbc285a14b0d8ea7399ab3a1ea9992856430ff0bd24e724cb05acf0"
+                }
+            ]
+        }
+    }
 }
