@@ -5,6 +5,15 @@
     "category": "Misc",
     "sourceLocation": "https://github.com/Restrainite/Restrainite",
     "versions": {
+        "3.0.3": {
+            "releaseUrl": "https://github.com/Restrainite/Restrainite/releases/tag/v3.0.3",
+            "artifacts": [
+                {
+                    "url": "https://github.com/Restrainite/Restrainite/releases/download/v3.0.3/Restrainite.dll",
+                    "sha256": "17e24cd886048a81f65ecc4abb465e139578e372be4dbd07337aff91f1b6833a"
+                }
+            ]
+        },
         "3.0.2": {
             "releaseUrl": "https://github.com/Restrainite/Restrainite/releases/tag/v3.0.2",
             "artifacts": [
