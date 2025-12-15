@@ -5,6 +5,19 @@
     "category": "Misc",
     "sourceLocation": "https://github.com/AlexW-578/CloseConfirm",
     "versions": {
+        "1.2.0": {
+            "releaseUrl": "https://github.com/AlexW-578/CloseConfirm/releases/tag/v1.2.0",
+            "artifacts": [
+                {
+                    "url": "https://github.com/AlexW-578/CloseConfirm/releases/download/v1.2.0/CloseConfirm.dll",
+                    "sha256": "074bebdae854f7a40ddf074d5a4f017c5c7516f1878f1dc3d79560945bd57574"
+                },
+                {
+                    "url": "https://github.com/AlexW-578/CloseConfirm/releases/download/v1.2.0/CloseConfirm.dll.sha256",
+                    "sha256": "301737d721b00eb74077a74fa251948e9a68853fd524532d990eb234ef9a2380"
+                }
+            ]
+        },
         "1.1.0": {
             "releaseUrl": "https://github.com/AlexW-578/CloseConfirm/releases/tag/v1.1.0",
             "artifacts": [
