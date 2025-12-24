@@ -30,6 +30,7 @@ This fork is bleeding edge unstable stuff. I dont check the mod updates, i dont 
 - [SessionCaptureBlocker](https://github.com/nalathethird/SessionCaptureBlocker) (by nalathethird)  - 1.1.0 vs 1.0.3
 - [bHapticsLib](https://github.com/nalathethird/bHapticsLib) (by nalathethird)  - 1.0.9 vs 1.0.8
 - [EsnyaTweaks](https://github.com/esnya/ResoniteEsnyaTweaks) (by esnya)  - 1.0.0 vs 0.1.0
+- [CyberFingerMod](https://github.com/DrSciCortex/CyberFingerMod) (by DrSciCortex)  - 1.1.2 vs 1.1.1
 - [VRCFTReceiver](https://github.com/hazre/VRCFTReceiver) (by hazre)  - 2.0.0 vs 1.0.4
 
 
