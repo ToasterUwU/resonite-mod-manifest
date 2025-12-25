@@ -37,13 +37,11 @@ This fork is bleeding edge unstable stuff. I dont check the mod updates, i dont 
 
 ## Mods we are currently missing (will always be fixed ASAP)
 
-- [SpeedyImpulseValidation](https://git.unix.dog/yosh/ResoniteSpeedyImpulseValidation) (by yosh)
-
+We currently have everything.
 
 ## Mods we have an older version of (will also be fixed ASAP)
 
-- [DirectoryCopyURL](https://git.unix.dog/yosh/ResoniteDirectoryCopyURL) (by yosh)  - 1.0.0
-
+We are currently up to date.
 
 ## What is this?
 
