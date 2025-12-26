@@ -33,6 +33,7 @@ This fork is bleeding edge unstable stuff. I dont check the mod updates, i dont 
 - [EsnyaTweaks](https://github.com/esnya/ResoniteEsnyaTweaks) (by esnya)  - 1.0.0 vs 0.1.0
 - [CyberFingerMod](https://github.com/DrSciCortex/CyberFingerMod) (by DrSciCortex)  - 1.1.2 vs 1.1.1
 - [VRCFTReceiver](https://github.com/hazre/VRCFTReceiver) (by hazre)  - 2.0.0 vs 1.0.4
+- [Resurfacer](https://github.com/Raidriar796/Resurfacer) (by Raidriar796)  - 0.3.0 vs 0.2.2
 
 
 ## Mods we are currently missing (will always be fixed ASAP)
