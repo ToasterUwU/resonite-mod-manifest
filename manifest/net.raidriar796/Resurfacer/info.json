@@ -5,6 +5,16 @@
     "category": "Wizards",
     "sourceLocation": "https://github.com/Raidriar796/Resurfacer",
     "versions": {
+        "0.4.0": {
+            "releaseUrl": "https://github.com/Raidriar796/Resurfacer/releases/tag/0.4.0",
+            "artifacts": [
+                {
+                    "url": "https://github.com/Raidriar796/Resurfacer/releases/download/0.4.0/Resurfacer.dll",
+                    "sha256": "b962b0814102f2644086ee5c44f0344e6ef6b453f833606651aa66625637711c",
+                    "filename": "Resurfacer.dll"
+                }
+            ]
+        },
         "0.3.0": {
             "releaseUrl": "https://github.com/Raidriar796/Resurfacer/releases/tag/0.3.0",
             "artifacts": [
