@@ -35,7 +35,8 @@ This fork is bleeding edge unstable stuff. I dont check the mod updates, i dont 
 
 ## Mods we are currently missing (will always be fixed ASAP)
 
-We currently have everything.
+- [CherryTypes](https://github.com/ColinTimBarndt/resonite-cherry-types-mod) (by ColinTimBarndt)
+
 
 ## Mods we have an older version of (will also be fixed ASAP)
 
