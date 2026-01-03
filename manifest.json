@@ -764,6 +764,54 @@
                 }
             }
         },
+        "cat.colin": {
+            "author": {
+                "ColinTimBarndt": {
+                    "icon": "https://github.com/ColinTimBarndt.png",
+                    "url": "https://github.com/ColinTimBarndt"
+                }
+            },
+            "entries": {
+                "cat.colin.CherryTypes": {
+                    "category": "Technical Tweaks",
+                    "description": "Smarter generic type suggestions for component selectors.",
+                    "name": "CherryTypes",
+                    "sourceLocation": "https://github.com/ColinTimBarndt/resonite-cherry-types-mod",
+                    "tags": [
+                        "inspector",
+                        "component",
+                        "favorite",
+                        "favourite",
+                        "ProtoFlux"
+                    ],
+                    "versions": {
+                        "1.0.0": {
+                            "artifacts": [
+                                {
+                                    "sha256": "0a1db5f9cb31345452d43fb645b4716927de8eca97a6de0a2262f7282bc7176d",
+                                    "url": "https://github.com/ColinTimBarndt/resonite-cherry-types-mod/releases/download/v1.0.0/CherryTypes.dll"
+                                },
+                                {
+                                    "sha256": "583db42423207bab83496c5de1e9092e7799446d818305430a204754ea7e755b",
+                                    "url": "https://github.com/ColinTimBarndt/resonite-cherry-types-mod/releases/download/v1.0.0/CherryTypes.pdb"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/ColinTimBarndt/resonite-cherry-types-mod/releases/tag/v1.0.0"
+                        },
+                        "1.0.1": {
+                            "artifacts": [
+                                {
+                                    "sha256": "aa19ceee651b8be17c6b7361d4e1303ebc530559ae9a42d4a1e44278584ab1e7",
+                                    "url": "https://github.com/ColinTimBarndt/resonite-cherry-types-mod/releases/download/v1.0.1/CherryTypes.dll"
+                                }
+                            ],
+                            "changelog": "Fix: Use world type parser to parse some types correctly.",
+                            "releaseUrl": "https://github.com/ColinTimBarndt/resonite-cherry-types-mod/releases/tag/v1.0.1"
+                        }
+                    }
+                }
+            }
+        },
         "ch.isota": {
             "author": {
                 "isotach": {
