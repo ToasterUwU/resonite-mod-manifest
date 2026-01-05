@@ -35,7 +35,9 @@ This fork is bleeding edge unstable stuff. I dont check the mod updates, i dont 
 
 ## Mods we are currently missing (will always be fixed ASAP)
 
-We currently have everything.
+- [SessionTabOverhaul](https://github.com/NepuShiro/ResoniteSessionTabOverhaul) (by NepuShiro)
+- [ContextMenuHookLib](https://git.unix.dog/yosh/ResoniteContextMenuHookLib) (by yosh)
+
 
 ## Mods we have an older version of (will also be fixed ASAP)
 
