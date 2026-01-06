@@ -36,14 +36,11 @@ This fork is bleeding edge unstable stuff. I dont check the mod updates, i dont 
 
 ## Mods we are currently missing (will always be fixed ASAP)
 
-- [SessionTabOverhaul](https://github.com/NepuShiro/ResoniteSessionTabOverhaul) (by NepuShiro)
-- [ContextMenuHookLib](https://git.unix.dog/yosh/ResoniteContextMenuHookLib) (by yosh)
-
+We currently have everything.
 
 ## Mods we have an older version of (will also be fixed ASAP)
 
-- [DirectoryCopyURL](https://git.unix.dog/yosh/ResoniteDirectoryCopyURL) (by yosh)  - 1.0.1
-
+We are currently up to date.
 
 ## What is this?
 

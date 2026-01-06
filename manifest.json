@@ -7113,6 +7113,39 @@
                             "releaseUrl": "https://github.com/NepuShiro/ResoniteSlotInspectorCounter/releases/tag/1.9.2"
                         }
                     }
+                },
+                "net.NepuShiro.SessionTabOverhaul": {
+                    "additionalAuthors": {
+                        "noblereign": {
+                            "noblereign": {
+                                "url": "https://github.com/noblereign"
+                            }
+                        }
+                    },
+                    "category": "Dashboard",
+                    "description": "Improves the session tab of the dash, most notably the users list. Adds a Bring button.",
+                    "name": "SessionTabOverhaul",
+                    "sourceLocation": "https://github.com/NepuShiro/ResoniteSessionTabOverhaul",
+                    "versions": {
+                        "2.0.0": {
+                            "artifacts": [
+                                {
+                                    "sha256": "415a7a22e7da9e29e8455e48be75f2fbe26d801aa370580779a0f862f36b7713",
+                                    "url": "https://github.com/NepuShiro/ResoniteSessionTabOverhaul/releases/download/2.0.0/SessionTabOverhaul.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/NepuShiro/ResoniteSessionTabOverhaul/releases/tag/2.0.0"
+                        },
+                        "2.1.1": {
+                            "artifacts": [
+                                {
+                                    "sha256": "602c92ffe4cd6067dadd70868651dd8c300b7550fbb48bcad025d9f2e6350d0a",
+                                    "url": "https://github.com/NepuShiro/ResoniteSessionTabOverhaul/releases/download/2.1.1/SessionTabOverhaul.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/NepuShiro/ResoniteSessionTabOverhaul/releases/tag/2.1.1"
+                        }
+                    }
                 }
             }
         },
@@ -9977,6 +10010,23 @@
                 }
             },
             "entries": {
+                "org.yosh.ContextMenuHookLib": {
+                    "category": "Libraries",
+                    "description": "Library for adding prefix hooks to functions that make context menu items",
+                    "name": "ContextMenuHookLib",
+                    "sourceLocation": "https://git.unix.dog/yosh/ResoniteContextMenuHookLib",
+                    "versions": {
+                        "1.0.0": {
+                            "artifacts": [
+                                {
+                                    "sha256": "2dafb593483b8c549738408df86abb5013e774a9ceb2e26b4eb822fdd5fd6b2e",
+                                    "url": "https://git.unix.dog/yosh/ResoniteContextMenuHookLib/releases/download/v1.0.0/ContextMenuHookLib.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://git.unix.dog/yosh/ResoniteContextMenuHookLib/releases/tag/v1.0.0"
+                        }
+                    }
+                },
                 "org.yosh.DirectoryCopyURL": {
                     "category": "Bug Workaround",
                     "description": "Fixes the \"Get Url\" button in the inventory to copy directory URLs as well.",
@@ -10000,6 +10050,15 @@
                                 }
                             ],
                             "releaseUrl": "https://git.unix.dog/yosh/ResoniteDirectoryCopyURL/releases/tag/v1.0.1"
+                        },
+                        "1.0.2": {
+                            "artifacts": [
+                                {
+                                    "sha256": "e4d0f615a9e960b4e9ac216f5755bbce5e97601af8dbc8aedc4af9f49a22a758",
+                                    "url": "https://git.unix.dog/yosh/ResoniteDirectoryCopyURL/releases/download/v1.0.2/DirectoryCopyURL.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://git.unix.dog/yosh/ResoniteDirectoryCopyURL/releases/tag/v1.0.2"
                         }
                     }
                 },
