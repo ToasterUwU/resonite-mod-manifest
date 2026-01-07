@@ -10956,7 +10956,7 @@
                         "1.2.0": {
                             "artifacts": [
                                 {
-                                    "sha256": "6e061cd4fc43bd197501b5fe67847081c4e99f345ba29367f8bdc9f24181bbb8",
+                                    "sha256": "c4dfdff70de2694d0f8d2452944e9ed387598fea339a5c8e995cb2118aa415f5",
                                     "url": "https://github.com/Nytra/ResoniteReferenceFinderWizard/releases/download/v1.2.0/ReferenceFinderWizard.dll"
                                 }
                             ],
