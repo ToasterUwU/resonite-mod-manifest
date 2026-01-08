@@ -30,6 +30,7 @@ This fork is bleeding edge unstable stuff. I dont check the mod updates, i dont 
 - [SessionCaptureBlocker](https://github.com/nalathethird/SessionCaptureBlocker) (by nalathethird)  - 1.1.0 vs 1.0.3
 - [bHapticsLib](https://github.com/nalathethird/bHapticsLib) (by nalathethird)  - 1.0.9 vs 1.0.8
 - [EsnyaTweaks](https://github.com/esnya/ResoniteEsnyaTweaks) (by esnya)  - 1.0.0 vs 0.1.0
+- [CustomTextureSettings](https://github.com/ultrawidegamer/CustomTextureSettings) (by ultrawidegamer)  - 1.2.0 vs 1.1.0
 - [VRCFTReceiver](https://github.com/hazre/VRCFTReceiver) (by hazre)  - 2.0.0 vs 1.0.4
 - [ContextMenuBackOption](https://github.com/noblereign/ResoniteContextMenuBackOption) (by Noble)  - 2.3.1 vs 2.3.0
 - [ReferenceFinderWizard](https://github.com/Nytra/ResoniteReferenceFinderWizard) (by Nytra)  - 1.2.0 vs 1.1.3
