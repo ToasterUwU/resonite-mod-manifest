@@ -25,19 +25,18 @@ This fork is bleeding edge unstable stuff. I dont check the mod updates, i dont 
 
 - [BoundedUIX](https://github.com/Banane9/ResoniteBoundedUIX) (by Banane9)  - 2.1.0 vs 1.0.0
 - [FixMirrorSteamVRIPDOffset](https://github.com/ErrorJan/ResoniteMod-FixMirrorSteamVRIPDOffset) (by ErrorJan)  - 2.0.1 vs 1.0.0
-- [BoneReferenceHelper](https://github.com/TheJebForge/BoneReferenceHelper) (by TheJebForge)  - 2.2.1 vs 2.2.0
 - [DoublePrecision](https://github.com/AwesomeTornado/Resonite-DoublePrecision-RML) (by __Choco__)  - 2.0.0 vs 1.6.1
 - [Thundagun](https://github.com/Frozenreflex/Thundagun) (by Frozenreflex)  - 1.2.2 vs 1.2.1
 - [SessionCaptureBlocker](https://github.com/nalathethird/SessionCaptureBlocker) (by nalathethird)  - 1.1.0 vs 1.0.3
 - [bHapticsLib](https://github.com/nalathethird/bHapticsLib) (by nalathethird)  - 1.0.9 vs 1.0.8
 - [EsnyaTweaks](https://github.com/esnya/ResoniteEsnyaTweaks) (by esnya)  - 1.0.0 vs 0.1.0
 - [VRCFTReceiver](https://github.com/hazre/VRCFTReceiver) (by hazre)  - 2.0.0 vs 1.0.4
-- [ReferenceFinderWizard](https://github.com/Nytra/ResoniteReferenceFinderWizard) (by Nytra)  - 1.2.0 vs 1.1.3
 
 
 ## Mods we are currently missing (will always be fixed ASAP)
 
-We currently have everything.
+- [CollectionEditor](https://git.unix.dog/yosh/ResoniteCollectionEditor) (by yosh)
+
 
 ## Mods we have an older version of (will also be fixed ASAP)
 
