@@ -7382,6 +7382,23 @@
                         }
                     }
                 },
+                "net.deltawolf.HomeAccessLevel": {
+                    "category": "Technical Tweaks",
+                    "description": "Sets the access level for your home world when automatically opened on start. Private by default.",
+                    "name": "HomeAccessLevel",
+                    "sourceLocation": "https://github.com/XDelta/HomeAccessLevel",
+                    "versions": {
+                        "1.0.0": {
+                            "artifacts": [
+                                {
+                                    "sha256": "a6db02853d218af507e8a2de537c26e0adc62cfb06a35299c41e8944fe542ce1",
+                                    "url": "https://github.com/XDelta/HomeAccessLevel/releases/download/1.0.0/HomeAccessLevel.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/XDelta/HomeAccessLevel/releases/tag/1.0.0"
+                        }
+                    }
+                },
                 "net.deltawolf.ImNotAsking": {
                     "category": "Dashboard",
                     "description": "Hides the 'Ask to join' button on the contacts list. You can still request an invite with a contacts selected.",
@@ -10050,6 +10067,34 @@
                 }
             },
             "entries": {
+                "org.yosh.CollectionEditor": {
+                    "category": "Wizards",
+                    "description": "Adds a form for editing certain types of collections",
+                    "name": "CollectionEditor",
+                    "sourceLocation": "https://git.unix.dog/yosh/ResoniteCollectionEditor",
+                    "versions": {
+                        "1.0.0": {
+                            "artifacts": [
+                                {
+                                    "sha256": "b1edf16805ddc386ee512ec68f59007d976d867d4de4e2ad2e78f7501d5fbe9b",
+                                    "url": "https://git.unix.dog/yosh/ResoniteCollectionEditor/releases/download/v1.0.0/CollectionEditor.dll"
+                                }
+                            ],
+                            "conflicts": {
+                                "owo.Nytra.ReferenceFinderWizard": {
+                                    "version": "1.1.0"
+                                }
+                            },
+                            "dependencies": {
+                                "org.yosh.ContextMenuHookLib": {
+                                    "optional": true,
+                                    "version": "^1.0.0"
+                                }
+                            },
+                            "releaseUrl": "https://git.unix.dog/yosh/ResoniteCollectionEditor/releases/tag/v1.0.0"
+                        }
+                    }
+                },
                 "org.yosh.ContextMenuHookLib": {
                     "category": "Libraries",
                     "description": "Library for adding prefix hooks to functions that make context menu items",
