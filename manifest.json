@@ -8420,6 +8420,15 @@
                                 }
                             ],
                             "releaseUrl": "https://github.com/hantabaru1014/ResoniteBaballoniaEyeTracking/releases/tag/v0.1.1"
+                        },
+                        "0.2.0": {
+                            "artifacts": [
+                                {
+                                    "sha256": "a2e23932bc6f857e640703447c4f29e554859d6b070b6dad6a1a1572cd464ed3",
+                                    "url": "https://github.com/hantabaru1014/ResoniteBaballoniaEyeTracking/releases/download/v0.2.0/ResoniteBaballoniaEyeTracking.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/hantabaru1014/ResoniteBaballoniaEyeTracking/releases/tag/v0.2.0"
                         }
                     }
                 },
@@ -10067,6 +10076,15 @@
                                 }
                             ],
                             "releaseUrl": "https://github.com/noblereign/InventoryHelper/releases/tag/3.0.0"
+                        },
+                        "4.0.0": {
+                            "artifacts": [
+                                {
+                                    "sha256": "477f3f58b05f68d61177fca7a0048615025cda75076c3d989599c91148691626",
+                                    "url": "https://github.com/noblereign/InventoryHelper/releases/download/4.0.0/InventoryHelper.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/noblereign/InventoryHelper/releases/tag/4.0.0"
                         }
                     }
                 }

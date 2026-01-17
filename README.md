@@ -33,6 +33,7 @@ This fork is bleeding edge unstable stuff. I dont check the mod updates, i dont 
 - [EsnyaTweaks](https://github.com/esnya/ResoniteEsnyaTweaks) (by esnya)  - 1.0.0 vs 0.1.0
 - [VRCFTReceiver](https://github.com/hazre/VRCFTReceiver) (by hazre)  - 2.0.0 vs 1.0.4
 - [ResoniteDiscordRpc](https://github.com/Baplar/ResoniteDiscordRpc) (by Baplar)  - 1.0.4 vs 1.0.3
+- [ResoniteBaballoniaEyeTracking](https://github.com/hantabaru1014/ResoniteBaballoniaEyeTracking) (by hantabaru1014)  - 0.2.0 vs 0.1.1
 
 
 ## Mods we are currently missing (will always be fixed ASAP)

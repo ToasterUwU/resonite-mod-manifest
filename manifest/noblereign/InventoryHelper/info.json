@@ -5,6 +5,15 @@
     "category": "Dashboard",
     "sourceLocation": "https://github.com/noblereign/InventoryHelper",
     "versions": {
+        "4.0.0": {
+            "releaseUrl": "https://github.com/noblereign/InventoryHelper/releases/tag/4.0.0",
+            "artifacts": [
+                {
+                    "url": "https://github.com/noblereign/InventoryHelper/releases/download/4.0.0/InventoryHelper.dll",
+                    "sha256": "477f3f58b05f68d61177fca7a0048615025cda75076c3d989599c91148691626"
+                }
+            ]
+        },
         "3.0.0": {
             "releaseUrl": "https://github.com/noblereign/InventoryHelper/releases/tag/3.0.0",
             "artifacts": [
