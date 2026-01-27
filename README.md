@@ -25,8 +25,6 @@ This fork is bleeding edge unstable stuff. I dont check the mod updates, i dont 
 
 - [BoundedUIX](https://github.com/Banane9/ResoniteBoundedUIX) (by Banane9)  - 2.1.0 vs 1.0.0
 - [FixMirrorSteamVRIPDOffset](https://github.com/ErrorJan/ResoniteMod-FixMirrorSteamVRIPDOffset) (by ErrorJan)  - 2.0.1 vs 1.0.0
-- [CherryTypes](https://github.com/ColinTimBarndt/resonite-cherry-types-mod) (by ColinTimBarndt)  - 1.0.2 vs 1.0.1
-- [SlotInspectorHighlighter](https://github.com/sjsanjsrh/SlotInspectorHighlighter) (by Sinduy)  - 1.0.3 vs 1.0.2
 - [DoublePrecision](https://github.com/AwesomeTornado/Resonite-DoublePrecision-RML) (by __Choco__)  - 2.0.0 vs 1.6.1
 - [Thundagun](https://github.com/Frozenreflex/Thundagun) (by Frozenreflex)  - 1.2.2 vs 1.2.1
 - [SessionCaptureBlocker](https://github.com/nalathethird/SessionCaptureBlocker) (by nalathethird)  - 1.1.0 vs 1.0.3
@@ -38,7 +36,8 @@ This fork is bleeding edge unstable stuff. I dont check the mod updates, i dont 
 
 ## Mods we are currently missing (will always be fixed ASAP)
 
-We currently have everything.
+- [X11Clipboard](https://git.unix.dog/yosh/ResoniteX11Clipboard) (by yosh)
+
 
 ## Mods we have an older version of (will also be fixed ASAP)
 
