@@ -33,6 +33,9 @@ This fork is bleeding edge unstable stuff. I dont check the mod updates, i dont 
 - [ResoniteModLoader](https://github.com/resonite-modding-group/ResoniteModLoader/) (by Resonite Modding Group)  - 5.0.0 vs 4.2.0
 - [VRCFTReceiver](https://github.com/hazre/VRCFTReceiver) (by hazre)  - 2.0.0 vs 1.0.4
 - [SessionTabOverhaul](https://github.com/NepuShiro/ResoniteSessionTabOverhaul) (by NepuShiro)  - 2.2.0 vs 2.1.1
+- [LogAutoFlush](https://github.com/XDelta/LogAutoFlush) (by Delta)  - 1.0.2 vs 1.0.1
+- [PTTKeybinds](https://github.com/XDelta/ResonitePTTKeybinds) (by Delta)  - 1.5.2 vs 1.5.1
+- [ShowSourceLocation](https://github.com/XDelta/ResoniteShowSourceLocation) (by Delta)  - 1.2.3 vs 1.2.2
 
 
 ## Mods we are currently missing (will always be fixed ASAP)
