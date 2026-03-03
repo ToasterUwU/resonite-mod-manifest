@@ -34,6 +34,7 @@ This fork is bleeding edge unstable stuff. I dont check the mod updates, i dont 
 - [VRCFTReceiver](https://github.com/hazre/VRCFTReceiver) (by hazre)  - 2.0.0 vs 1.0.4
 - [SessionTabOverhaul](https://github.com/NepuShiro/ResoniteSessionTabOverhaul) (by NepuShiro)  - 2.2.0 vs 2.1.1
 - [LogAutoFlush](https://github.com/XDelta/LogAutoFlush) (by Delta)  - 1.0.2 vs 1.0.1
+- [NonPersistentInspectors](https://github.com/XDelta/NonPersistentInspectors) (by Delta)  - 2.0.1 vs 2.0.0
 - [PTTKeybinds](https://github.com/XDelta/ResonitePTTKeybinds) (by Delta)  - 1.5.2 vs 1.5.1
 - [ShowSourceLocation](https://github.com/XDelta/ResoniteShowSourceLocation) (by Delta)  - 1.2.3 vs 1.2.2
 
