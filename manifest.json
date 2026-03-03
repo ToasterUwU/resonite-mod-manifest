@@ -7422,6 +7422,16 @@
                                 }
                             ],
                             "releaseUrl": "https://github.com/XDelta/ContextMenuControl/releases/tag/1.0.0"
+                        },
+                        "1.0.1": {
+                            "artifacts": [
+                                {
+                                    "filename": "ContextMenuControl.dll",
+                                    "sha256": "dfcef674ddc65bb70778860cda9aabb3b5a5fe934284491472ac56c4f1ae589b",
+                                    "url": "https://github.com/XDelta/ContextMenuControl/releases/download/1.0.1/ContextMenuControl.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/XDelta/ContextMenuControl/releases/tag/1.0.1"
                         }
                     }
                 },
