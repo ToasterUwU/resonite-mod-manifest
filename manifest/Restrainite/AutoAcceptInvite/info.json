@@ -5,6 +5,15 @@
     "category": "Dashboard",
     "sourceLocation": "https://github.com/Restrainite/AutoAcceptInvite",
     "versions": {
+        "2.0.4": {
+            "releaseUrl": "https://github.com/Restrainite/AutoAcceptInvite/releases/tag/v2.0.4",
+            "artifacts": [
+                {
+                    "url": "https://github.com/Restrainite/AutoAcceptInvite/releases/download/v2.0.4/AutoAcceptInvite.dll",
+                    "sha256": "090dec10c91d044d65de2b9ac8c72393148d066950ef0ee36745989c00b58016"
+                }
+            ]
+        },
         "2.0.3": {
             "releaseUrl": "https://github.com/Restrainite/AutoAcceptInvite/releases/tag/v2.0.3",
             "artifacts": [
