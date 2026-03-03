@@ -2833,6 +2833,26 @@
                                 }
                             },
                             "releaseUrl": "https://github.com/resonite-modding-group/ResoniteModLoader/releases/tag/4.2.0"
+                        },
+                        "5.0.0": {
+                            "artifacts": [
+                                {
+                                    "installLocation": "/rml_libs",
+                                    "sha256": "fd77b88724f4104440df0cf979a851d35eec75ea3a7e86297d04abe47c71aff6",
+                                    "url": "https://github.com/resonite-modding-group/ResoniteModLoader/releases/download/5.0.0/0Harmony.dll"
+                                },
+                                {
+                                    "filename": "ResoniteModLoader.dll",
+                                    "sha256": "fdd3481ffbc1be68baa8f71ce09c5ea16cadfb7812bf310c9bcf755d490c17ba",
+                                    "url": "https://github.com/resonite-modding-group/ResoniteModLoader/releases/download/5.0.0/ResoniteModLoader.dll"
+                                },
+                                {
+                                    "installLocation": "/rml_config",
+                                    "sha256": "23acf90178880bbe9485758aa6ab412902ea921671cae048dcc6bb848c22c888",
+                                    "url": "https://github.com/resonite-modding-group/ResoniteModLoader/releases/download/5.0.0/ResoniteModLoader.xml"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/resonite-modding-group/ResoniteModLoader/releases/tag/5.0.0"
                         }
                     }
                 }
