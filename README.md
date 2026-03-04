@@ -35,6 +35,7 @@ This fork is bleeding edge unstable stuff. I dont check the mod updates, i dont 
 - [DynamicDesyncHelper](https://github.com/Raidriar796/DynamicDesyncHelper) (by Raidriar796)  - 0.1.2 vs 0.1.1
 - [DynamicTickRate](https://github.com/Raidriar796/DynamicTickRate) (by Raidriar796)  - 1.0.2 vs 1.0.1
 - [FastSync](https://github.com/Raidriar796/FastSync) (by Raidriar796)  - 1.0.1 vs 1.0.0
+- [HDRProbeFix](https://github.com/Raidriar796/HDRProbeFix) (by Raidriar796)  - 1.0.1 vs 1.0.0
 
 
 ## Mods we are currently missing (will always be fixed ASAP)
