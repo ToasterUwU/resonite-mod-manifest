@@ -836,6 +836,62 @@
                             "releaseUrl": "https://github.com/ColinTimBarndt/resonite-cherry-types-mod/releases/tag/v1.0.2"
                         }
                     }
+                },
+                "cat.colin.ResdbTools": {
+                    "category": "Dashboard",
+                    "description": "Extends the inventory browser with tools to get and modify Resonite database records.",
+                    "name": "Resdb Tools",
+                    "sourceLocation": "https://github.com/ColinTimBarndt/resonite-resdb-tools-mod",
+                    "tags": [
+                        "inventory",
+                        "resdb",
+                        "database",
+                        "cloud"
+                    ],
+                    "versions": {
+                        "0.1.0": {
+                            "artifacts": [
+                                {
+                                    "sha256": "59e0fd62df32c5258414c2cfbabb7bdb82abd96407015316e7825df062a936a7",
+                                    "url": "https://github.com/ColinTimBarndt/resonite-resdb-tools-mod/releases/download/v0.1.0/Mod.ResdbTools.nupkg"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/ColinTimBarndt/resonite-resdb-tools-mod/releases/tag/v0.1.0"
+                        },
+                        "0.1.1": {
+                            "artifacts": [
+                                {
+                                    "sha256": "f59836ff54105bbf9af754c7f8a80d68036308421f7260692c22ae5b43fd262b",
+                                    "url": "https://github.com/ColinTimBarndt/resonite-resdb-tools-mod/releases/download/v0.1.1/Mod.ResdbTools.nupkg"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/ColinTimBarndt/resonite-resdb-tools-mod/releases/tag/v0.1.1"
+                        },
+                        "1.0.0": {
+                            "artifacts": [
+                                {
+                                    "installLocation": "/rml_libs",
+                                    "sha256": "ad03d09314ed8da6892afd37c56954f50a94fc502c48a02c5da74e1a85c75169",
+                                    "url": "https://github.com/ColinTimBarndt/resonite-resdb-tools-mod/releases/download/v1.0.0/ResdbTools.dll"
+                                },
+                                {
+                                    "sha256": "2acadd31c9962cee146c9d1da8db08db16506781e80e6ce5a21bc3fca5316782",
+                                    "url": "https://github.com/ColinTimBarndt/resonite-resdb-tools-mod/releases/download/v1.0.0/ResdbTools.pdb"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/ColinTimBarndt/resonite-resdb-tools-mod/releases/tag/v1.0.0"
+                        },
+                        "1.0.1": {
+                            "artifacts": [
+                                {
+                                    "sha256": "67361a23583e499e5bc4236303c43df7e533a3fdce4bd958769caa0e677fa977",
+                                    "url": "https://github.com/ColinTimBarndt/resonite-resdb-tools-mod/releases/download/v1.0.1/ResdbTools.dll"
+                                }
+                            ],
+                            "changelog": "Initial RML release.",
+                            "releaseUrl": "https://github.com/ColinTimBarndt/resonite-resdb-tools-mod/releases/tag/v1.0.1"
+                        }
+                    }
                 }
             }
         },
