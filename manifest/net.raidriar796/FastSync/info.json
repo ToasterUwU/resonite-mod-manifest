@@ -5,6 +5,16 @@
     "category": "Optimization",
     "sourceLocation": "https://github.com/Raidriar796/FastSync",
     "versions": {
+        "1.0.1": {
+            "releaseUrl": "https://github.com/Raidriar796/FastSync/releases/tag/1.0.1",
+            "artifacts": [
+                {
+                    "url": "https://github.com/Raidriar796/FastSync/releases/download/1.0.1/FastSync.dll",
+                    "sha256": "daa9906556cf9dac36462de946d126e3797893831540b0569db8488aff70fac3",
+                    "filename": "FastSync.dll"
+                }
+            ]
+        },
         "1.0.0": {
             "releaseUrl": "https://github.com/Raidriar796/FastSync/releases/tag/1.0.0",
             "artifacts": [

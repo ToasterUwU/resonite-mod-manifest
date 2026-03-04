@@ -5,6 +5,16 @@
     "category": "Misc",
     "sourceLocation": "https://github.com/Raidriar796/DynamicDesyncHelper",
     "versions": {
+        "0.1.2": {
+            "releaseUrl": "https://github.com/Raidriar796/DynamicDesyncHelper/releases/tag/0.1.2",
+            "artifacts": [
+                {
+                    "url": "https://github.com/Raidriar796/DynamicDesyncHelper/releases/download/0.1.2/DynamicDesyncHelper.dll",
+                    "sha256": "bf066707b59ab43bc9e871da3bf4c5c90d23cc37d90a344bb2831d687617b6f3",
+                    "filename": "DynamicDesyncHelper.dll"
+                }
+            ]
+        },
         "0.1.1": {
             "releaseUrl": "https://github.com/Raidriar796/DynamicDesyncHelper/releases/tag/0.1.1",
             "artifacts": [
