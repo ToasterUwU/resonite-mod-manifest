@@ -5,6 +5,16 @@
     "category": "Optimization",
     "sourceLocation": "https://github.com/Raidriar796/ResoniteIkCulling",
     "versions": {
+        "2.7.1": {
+            "releaseUrl": "https://github.com/Raidriar796/ResoniteIkCulling/releases/tag/2.7.1",
+            "artifacts": [
+                {
+                    "url": "https://github.com/Raidriar796/ResoniteIkCulling/releases/download/2.7.1/ResoniteIKCulling.dll",
+                    "sha256": "86d901a818477840272fb1aaa3480f87ac97f8fb9691cf9b60fd33d1cc9770b6",
+                    "filename": "ResoniteIKCulling.dll"
+                }
+            ]
+        },
         "2.7.0": {
             "releaseUrl": "https://github.com/Raidriar796/ResoniteIkCulling/releases/tag/2.7.0",
             "artifacts": [

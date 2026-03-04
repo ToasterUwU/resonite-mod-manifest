@@ -5,6 +5,16 @@
     "category": "Optimization",
     "sourceLocation": "https://github.com/Raidriar796/LiteStreams",
     "versions": {
+        "1.3.2": {
+            "releaseUrl": "https://github.com/Raidriar796/LiteStreams/releases/tag/1.3.2",
+            "artifacts": [
+                {
+                    "url": "https://github.com/Raidriar796/LiteStreams/releases/download/1.3.2/LiteStreams.dll",
+                    "sha256": "681aaa17b5b31a9d7ceb452d6663d9ca069b40ecdd63d10f924e3d133e37367e",
+                    "filename": "LiteStreams.dll"
+                }
+            ]
+        },
         "1.3.1": {
             "releaseUrl": "https://github.com/Raidriar796/LiteStreams/releases/tag/1.3.1",
             "artifacts": [

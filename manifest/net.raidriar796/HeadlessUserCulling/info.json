@@ -8,6 +8,16 @@
     ],
     "sourceLocation": "https://github.com/Raidriar796/HeadlessUserCulling",
     "versions": {
+        "1.1.3": {
+            "releaseUrl": "https://github.com/Raidriar796/HeadlessUserCulling/releases/tag/1.1.3",
+            "artifacts": [
+                {
+                    "url": "https://github.com/Raidriar796/HeadlessUserCulling/releases/download/1.1.3/HeadlessUserCulling.dll",
+                    "sha256": "2589fbdcc2d722ff24be61f5e70e7eda709ff88578432ba33f7e5e8b5e784a16",
+                    "filename": "HeadlessUserCulling.dll"
+                }
+            ]
+        },
         "1.1.2": {
             "releaseUrl": "https://github.com/Raidriar796/HeadlessUserCulling/releases/tag/1.1.2",
             "artifacts": [

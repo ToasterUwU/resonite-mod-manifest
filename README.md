@@ -36,6 +36,12 @@ This fork is bleeding edge unstable stuff. I dont check the mod updates, i dont 
 - [DynamicTickRate](https://github.com/Raidriar796/DynamicTickRate) (by Raidriar796)  - 1.0.2 vs 1.0.1
 - [FastSync](https://github.com/Raidriar796/FastSync) (by Raidriar796)  - 1.0.1 vs 1.0.0
 - [HDRProbeFix](https://github.com/Raidriar796/HDRProbeFix) (by Raidriar796)  - 1.0.1 vs 1.0.0
+- [HeadlessUserCulling](https://github.com/Raidriar796/HeadlessUserCulling) (by Raidriar796)  - 1.1.3 vs 1.1.2
+- [LiteStreams](https://github.com/Raidriar796/LiteStreams) (by Raidriar796)  - 1.3.2 vs 1.3.1
+- [ResoniteIkCulling](https://github.com/Raidriar796/ResoniteIkCulling) (by Raidriar796)  - 2.7.1 vs 2.7.0
+- [Resurfacer](https://github.com/Raidriar796/Resurfacer) (by Raidriar796)  - 0.4.1 vs 0.4.0
+- [StresslessHeadless](https://github.com/Raidriar796/StresslessHeadless) (by Raidriar796)  - 2.0.2 vs 2.0.1
+- [Lognt](https://github.com/Raidriar796/Lognt) (by Raidriar796)  - 1.1.1 vs 1.1.0
 
 
 ## Mods we are currently missing (will always be fixed ASAP)
