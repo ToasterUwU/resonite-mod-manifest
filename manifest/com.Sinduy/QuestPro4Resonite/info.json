@@ -14,6 +14,21 @@
         "Dante Tucker"
     ],
     "versions": {
+        "2.2.0": {
+            "releaseUrl": "https://github.com/sjsanjsrh/QuestPro4Resonite/releases/tag/2.2.0",
+            "artifacts": [
+                {
+                    "url": "https://github.com/sjsanjsrh/QuestPro4Resonite/releases/download/2.2.0/libalxr-sharp.dll",
+                    "sha256": "5cf611e53686991fc6c9b65ee82df87727d60e9160d9dff70b72a4b877247620",
+                    "installLocation": "/rml_libs"
+                },
+                {
+                    "url": "https://github.com/sjsanjsrh/QuestPro4Resonite/releases/download/2.2.0/QuestProModule.dll",
+                    "sha256": "1436145df2153f3cc77c7c3a65b03d69586fa14c3e9774b53673c24846199808",
+                    "filename": "QuestProModule.dll"
+                }
+            ]
+        },
         "2.1.4": {
             "releaseUrl": "https://github.com/sjsanjsrh/QuestPro4Resonite/releases/tag/2.1.4",
             "dependencies": {

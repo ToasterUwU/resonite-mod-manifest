@@ -1664,6 +1664,21 @@
                                 }
                             },
                             "releaseUrl": "https://github.com/sjsanjsrh/QuestPro4Resonite/releases/tag/2.1.4"
+                        },
+                        "2.2.0": {
+                            "artifacts": [
+                                {
+                                    "installLocation": "/rml_libs",
+                                    "sha256": "5cf611e53686991fc6c9b65ee82df87727d60e9160d9dff70b72a4b877247620",
+                                    "url": "https://github.com/sjsanjsrh/QuestPro4Resonite/releases/download/2.2.0/libalxr-sharp.dll"
+                                },
+                                {
+                                    "filename": "QuestProModule.dll",
+                                    "sha256": "1436145df2153f3cc77c7c3a65b03d69586fa14c3e9774b53673c24846199808",
+                                    "url": "https://github.com/sjsanjsrh/QuestPro4Resonite/releases/download/2.2.0/QuestProModule.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/sjsanjsrh/QuestPro4Resonite/releases/tag/2.2.0"
                         }
                     }
                 },
@@ -1734,6 +1749,17 @@
                                 }
                             ],
                             "releaseUrl": "https://github.com/sjsanjsrh/libalxr-sharp/releases/tag/1.2.0"
+                        },
+                        "1.9.0": {
+                            "artifacts": [
+                                {
+                                    "filename": "libalxr-sharp.dll",
+                                    "installLocation": "/rml_libs",
+                                    "sha256": "5cf611e53686991fc6c9b65ee82df87727d60e9160d9dff70b72a4b877247620",
+                                    "url": "https://github.com/sjsanjsrh/libalxr-sharp/releases/download/1.9.0/libalxr-sharp.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/sjsanjsrh/libalxr-sharp/releases/tag/1.9.0"
                         }
                     }
                 }
