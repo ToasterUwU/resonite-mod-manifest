@@ -26,6 +26,7 @@ This fork is bleeding edge unstable stuff. I dont check the mod updates, i dont 
 - [BoundedUIX](https://github.com/Banane9/ResoniteBoundedUIX) (by Banane9)  - 2.1.0 vs 1.0.0
 - [FixMirrorSteamVRIPDOffset](https://github.com/ErrorJan/ResoniteMod-FixMirrorSteamVRIPDOffset) (by ErrorJan)  - 2.0.1 vs 1.0.0
 - [QuestPro4Resonite](https://github.com/sjsanjsrh/QuestPro4Resonite) (by Sinduy)  - 2.2.0 vs 2.1.4
+- [SlotInspectorHighlighter](https://github.com/sjsanjsrh/SlotInspectorHighlighter) (by Sinduy)  - 1.0.5 vs 1.0.3
 - [libalxr-sharp](https://github.com/sjsanjsrh/libalxr-sharp) (by Sinduy)  - 1.9.0 vs 1.2.0
 - [DoublePrecision](https://github.com/AwesomeTornado/Resonite-DoublePrecision-RML) (by __Choco__)  - 2.0.0 vs 1.6.1
 - [Thundagun](https://github.com/Frozenreflex/Thundagun) (by Frozenreflex)  - 1.2.2 vs 1.2.1
