@@ -35,6 +35,7 @@ This fork is bleeding edge unstable stuff. I dont check the mod updates, i dont 
 - [EsnyaTweaks](https://github.com/esnya/ResoniteEsnyaTweaks) (by esnya)  - 1.0.0 vs 0.1.0
 - [VRCFTReceiver](https://github.com/hazre/VRCFTReceiver) (by hazre)  - 2.0.0 vs 1.0.4
 - [SessionTabOverhaul](https://github.com/NepuShiro/ResoniteSessionTabOverhaul) (by NepuShiro)  - 2.2.0 vs 2.1.1
+- [VDFaceTracking](https://github.com/Zeitheron/VDFaceTracking) (by Zeith)  - 1.1.4 vs 1.1.3
 
 
 ## Mods we are currently missing (will always be fixed ASAP)
