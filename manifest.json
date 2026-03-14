@@ -1806,7 +1806,7 @@
                         "korejan": {}
                     },
                     "category": "Libraries",
-                    "description": ".NET Bindings for libalxr compiled with .NET Framework 4.7.2",
+                    "description": ".NET Bindings for libalxr compiled with .NET 10",
                     "name": "libalxr-sharp",
                     "sourceLocation": "https://github.com/sjsanjsrh/libalxr-sharp",
                     "versions": {
