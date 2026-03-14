@@ -17,7 +17,6 @@ This fork is bleeding edge unstable stuff. I dont check the mod updates, i dont 
 - [ProxyVisuals](https://github.com/LeCloutPanda/ProxyVisuals) (by LeCloutPanda)
 - [VideoProxy](https://github.com/LeCloutPanda/VideoProxy) (by LeCloutPanda)
 - [OperatorLikeNeos](https://github.com/ginjake/ResoniteOperatorLikeNeos) (by ginjake)
-- [Inspectorimprovements](https://github.com/XDelta/Inspectorimprovements) (by Delta)
 - [UnityPackageImporter](https://github.com/dfgHiatus/ResoniteUnityPackagesImporter) (by dfgHiatus)
 - [InventoryHelper](https://github.com/noblereign/InventoryHelper) (by noblereign)
 
@@ -37,10 +36,7 @@ This fork is bleeding edge unstable stuff. I dont check the mod updates, i dont 
 
 ## Mods we are currently missing (will always be fixed ASAP)
 
-- [DoNotRunAwaySceneInspecter](https://github.com/sjsanjsrh/DoNotRunAwaySceneInspecter) (by Sinduy)
-- [WikiIntegration](https://github.com/art0007i/WikiIntegration) (by art0007i)
-- [InspectorImprovements](https://github.com/XDelta/Inspectorimprovements) (by Delta)
-
+We currently have everything.
 
 ## Mods we have an older version of (will also be fixed ASAP)
 

@@ -1510,6 +1510,54 @@
                 }
             },
             "entries": {
+                "com.Sinduy.DoNotRunAwaySceneInspecter": {
+                    "category": "Inspectors",
+                    "description": "This mod prevents the scene inspector from moving away form user when they are trying to inspect a scene.",
+                    "name": "DoNotRunAwaySceneInspecter",
+                    "sourceLocation": "https://github.com/sjsanjsrh/DoNotRunAwaySceneInspecter",
+                    "versions": {
+                        "1.0.0": {
+                            "artifacts": [
+                                {
+                                    "filename": "DoNotRunAwaySceneInspecter.dll",
+                                    "sha256": "a2ee76df5361933db30e812d3fad60998409eba2dc14dfbf5dfca0d52ac6e0cf",
+                                    "url": "https://github.com/sjsanjsrh/DoNotRunAwaySceneInspecter/releases/download/v1.0.0/DoNotRunAwaySceneInspecter.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/sjsanjsrh/DoNotRunAwaySceneInspecter/releases/tag/v1.0.0"
+                        },
+                        "1.0.1": {
+                            "artifacts": [
+                                {
+                                    "filename": "DoNotRunAwaySceneInspecter.dll",
+                                    "sha256": "a6c9c20c62661331bbd994a1d9749bb2bd2225d4dc1568b49695da8aece9812a",
+                                    "url": "https://github.com/sjsanjsrh/DoNotRunAwaySceneInspecter/releases/download/v1.0.1/DoNotRunAwaySceneInspecter.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/sjsanjsrh/DoNotRunAwaySceneInspecter/releases/tag/v1.0.1"
+                        },
+                        "1.0.3": {
+                            "artifacts": [
+                                {
+                                    "filename": "DoNotRunAwaySceneInspecter.dll",
+                                    "sha256": "305d10546a159f6abea716f0429bb7d8e6b999b37112ba78dbc86f317052e378",
+                                    "url": "https://github.com/sjsanjsrh/DoNotRunAwaySceneInspecter/releases/download/v1.0.3/DoNotRunAwaySceneInspecter.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/sjsanjsrh/DoNotRunAwaySceneInspecter/releases/tag/v1.0.3"
+                        },
+                        "1.0.5": {
+                            "artifacts": [
+                                {
+                                    "filename": "DoNotRunAwaySceneInspecter.dll",
+                                    "sha256": "ec022ba693587dfc67773e226295ab5d79418cb4384c3930492b72e2e89b4812",
+                                    "url": "https://github.com/sjsanjsrh/DoNotRunAwaySceneInspecter/releases/download/1.0.5/DoNotRunAwaySceneInspecter.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/sjsanjsrh/DoNotRunAwaySceneInspecter/releases/tag/1.0.5"
+                        }
+                    }
+                },
                 "com.Sinduy.QuestPro4Resonite": {
                     "additionalAuthors": {
                         "Dante Tucker": {},
@@ -6841,6 +6889,32 @@
                         }
                     }
                 },
+                "me.art0007i.WikiIntegration": {
+                    "additionalAuthors": {
+                        "Banane9": {
+                            "Banane9": {
+                                "icon": "https://avatars.githubusercontent.com/u/2124570?v=4",
+                                "support": "https://paypal.me/Banane9",
+                                "url": "https://github.com/Banane9"
+                            }
+                        }
+                    },
+                    "category": "Inspectors",
+                    "description": "Adds links to the Wiki to Components in Worker Inspectors and ProtoFlux nodes.",
+                    "name": "WikiIntegration",
+                    "sourceLocation": "https://github.com/art0007i/WikiIntegrationRML",
+                    "versions": {
+                        "0.1.0": {
+                            "artifacts": [
+                                {
+                                    "sha256": "d35423983e2b5c561751b7cf2146f3f492b49953db047b36969a490861938cd0",
+                                    "url": "https://github.com/art0007i/WikiIntegrationRML/releases/download/0.1.0/WikiIntegration.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/art0007i/WikiIntegrationRML/releases/tag/0.1.0"
+                        }
+                    }
+                },
                 "me.art0007i.\ud83c\udf40": {
                     "category": "Memes",
                     "description": "Makes you luckier",
@@ -7674,10 +7748,10 @@
                         }
                     }
                 },
-                "net.deltawolf.Inspectorimprovements": {
+                "net.deltawolf.InspectorImprovements": {
                     "category": "Inspectors",
                     "description": "Adds several configurable improvements to inspectors",
-                    "name": "Inspectorimprovements",
+                    "name": "InspectorImprovements",
                     "sourceLocation": "https://github.com/XDelta/Inspectorimprovements",
                     "versions": {
                         "1.0.0": {
