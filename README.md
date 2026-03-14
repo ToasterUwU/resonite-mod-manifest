@@ -17,6 +17,7 @@ This fork is bleeding edge unstable stuff. I dont check the mod updates, i dont 
 - [ProxyVisuals](https://github.com/LeCloutPanda/ProxyVisuals) (by LeCloutPanda)
 - [VideoProxy](https://github.com/LeCloutPanda/VideoProxy) (by LeCloutPanda)
 - [OperatorLikeNeos](https://github.com/ginjake/ResoniteOperatorLikeNeos) (by ginjake)
+- [Inspectorimprovements](https://github.com/XDelta/Inspectorimprovements) (by Delta)
 - [UnityPackageImporter](https://github.com/dfgHiatus/ResoniteUnityPackagesImporter) (by dfgHiatus)
 - [InventoryHelper](https://github.com/noblereign/InventoryHelper) (by noblereign)
 
@@ -25,9 +26,6 @@ This fork is bleeding edge unstable stuff. I dont check the mod updates, i dont 
 
 - [BoundedUIX](https://github.com/Banane9/ResoniteBoundedUIX) (by Banane9)  - 2.1.0 vs 1.0.0
 - [FixMirrorSteamVRIPDOffset](https://github.com/ErrorJan/ResoniteMod-FixMirrorSteamVRIPDOffset) (by ErrorJan)  - 2.0.1 vs 1.0.0
-- [QuestPro4Resonite](https://github.com/sjsanjsrh/QuestPro4Resonite) (by Sinduy)  - 2.2.0 vs 2.1.4
-- [SlotInspectorHighlighter](https://github.com/sjsanjsrh/SlotInspectorHighlighter) (by Sinduy)  - 1.0.6 vs 1.0.3
-- [libalxr-sharp](https://github.com/sjsanjsrh/libalxr-sharp) (by Sinduy)  - 1.9.0 vs 1.2.0
 - [DoublePrecision](https://github.com/AwesomeTornado/Resonite-DoublePrecision-RML) (by __Choco__)  - 2.0.0 vs 1.6.1
 - [Thundagun](https://github.com/Frozenreflex/Thundagun) (by Frozenreflex)  - 1.2.2 vs 1.2.1
 - [SessionCaptureBlocker](https://github.com/nalathethird/SessionCaptureBlocker) (by nalathethird)  - 1.1.0 vs 1.0.3
@@ -39,7 +37,10 @@ This fork is bleeding edge unstable stuff. I dont check the mod updates, i dont 
 
 ## Mods we are currently missing (will always be fixed ASAP)
 
-We currently have everything.
+- [DoNotRunAwaySceneInspecter](https://github.com/sjsanjsrh/DoNotRunAwaySceneInspecter) (by Sinduy)
+- [WikiIntegration](https://github.com/art0007i/WikiIntegration) (by art0007i)
+- [InspectorImprovements](https://github.com/XDelta/Inspectorimprovements) (by Delta)
+
 
 ## Mods we have an older version of (will also be fixed ASAP)
 
