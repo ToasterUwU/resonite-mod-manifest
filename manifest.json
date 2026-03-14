@@ -733,6 +733,7 @@
         "U-xyla": {
             "author": {
                 "Zyntaks": {
+                    "icon": "https://github.com/furrz.png",
                     "url": "https://github.com/furrz"
                 }
             },
@@ -1333,6 +1334,7 @@
         "com.GrandtheUK": {
             "author": {
                 "Grand": {
+                    "icon": "https://github.com/GrandtheUK.png",
                     "url": "https://github.com/GrandtheUK"
                 }
             },
@@ -1406,6 +1408,7 @@
         "com.Kannya": {
             "author": {
                 "Kannya": {
+                    "icon": "https://github.com/KannyaResonite.png",
                     "url": "https://github.com/KannyaResonite"
                 }
             },
@@ -2061,6 +2064,7 @@
         "com.__Choco__": {
             "author": {
                 "__Choco__": {
+                    "icon": "https://github.com/AwesomeTornado.png",
                     "url": "https://github.com/AwesomeTornado"
                 }
             },
@@ -2448,6 +2452,7 @@
         "com.example": {
             "author": {
                 "ExampleAuthor": {
+                    "icon": "https://github.com/resonite-modding-group.png",
                     "url": "https://github.com/resonite-modding-group"
                 }
             },
@@ -2474,6 +2479,7 @@
         "com.frozenreflex": {
             "author": {
                 "Frozenreflex": {
+                    "icon": "https://github.com/Frozenreflex.png",
                     "url": "https://github.com/Frozenreflex/"
                 }
             },
@@ -3049,6 +3055,7 @@
         "com.scicortex": {
             "author": {
                 "DrSciCortex": {
+                    "icon": "https://github.com/DrSciCortex.png",
                     "url": "https://github.com/DrSciCortex"
                 }
             },
@@ -3116,6 +3123,7 @@
         "com.tabbynet": {
             "author": {
                 "tabithamoon": {
+                    "icon": "https://github.com/tabithamoon.png",
                     "url": "https://github.com/tabithamoon",
                     "website": "https://tabby.page"
                 }
@@ -3157,6 +3165,7 @@
         "com.tobsstuff": {
             "author": {
                 "tobs": {
+                    "icon": "https://github.com/tobs2007.png",
                     "url": "https://github.com/tobs2007"
                 }
             },
@@ -4871,6 +4880,7 @@
         "lc.j4": {
             "author": {
                 "Jae": {
+                    "icon": "https://github.com/jae1911.png",
                     "url": "https://j4.lc"
                 }
             },
@@ -7514,6 +7524,7 @@
         "net.catshark": {
             "author": {
                 "CatSharkShin": {
+                    "icon": "https://github.com/CatSharkShin.png",
                     "url": "https://github.com/CatSharkShin"
                 }
             },
@@ -9077,6 +9088,7 @@
         "net.mizle": {
             "author": {
                 "Eai": {
+                    "icon": "https://github.com/eai04191.png",
                     "url": "https://github.com/eai04191"
                 }
             },
@@ -9931,7 +9943,9 @@
         "news.fawx": {
             "author": {
                 "OrionMoonclaw": {
-                    "url": "https://blog.fawx.news/"
+                    "icon": "https://github.com/OrionMoonclaw.png",
+                    "url": "https://github.com/OrionMoonclaw",
+                    "website": "https://blog.fawx.news/"
                 }
             },
             "entries": {
@@ -10947,6 +10961,7 @@
         "owo.Nytra": {
             "author": {
                 "Nytra": {
+                    "icon": "https://github.com/Nytra.png",
                     "url": "https://github.com/Nytra"
                 }
             },
@@ -12085,6 +12100,7 @@
         "semmiedev": {
             "author": {
                 "SemmieDev": {
+                    "icon": "https://github.com/SemmieDev.png",
                     "url": "https://github.com/SemmieDev"
                 }
             },
