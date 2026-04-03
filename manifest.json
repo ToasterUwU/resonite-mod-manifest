@@ -3166,6 +3166,15 @@
                                 }
                             ],
                             "releaseUrl": "https://github.com/tabithamoon/ResonitePSVR2/releases/tag/v1.0.1"
+                        },
+                        "1.1.0": {
+                            "artifacts": [
+                                {
+                                    "sha256": "a783f2c74fb7a75ae28d87fb3833ba9509fa4c2a303af1f8940fa2d6fae4cd92",
+                                    "url": "https://github.com/tabithamoon/ResonitePSVR2/releases/download/v1.1.0/ResonitePSVR2.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/tabithamoon/ResonitePSVR2/releases/tag/v1.1.0"
                         }
                     }
                 }
