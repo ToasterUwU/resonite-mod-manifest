@@ -7134,6 +7134,9 @@
                 "net.Cyro.EffortlessEfficiency": {
                     "category": "Optimization",
                     "description": "Provide a continually-expanding patchset for increasing performance in certain key areas of the game to reduce microstutters and momentary hitching.",
+                    "flags": [
+                        "deprecated"
+                    ],
                     "name": "EffortlessEfficiency",
                     "sourceLocation": "https://github.com/BlueCyro/EffortlessEfficiency",
                     "versions": {
@@ -9237,8 +9240,8 @@
         },
         "net.raidriar796": {
             "author": {
-                "Raidriar796": {
-                    "url": "https://github.com/Raidriar796"
+                "Raidriar": {
+                    "url": "https://codeberg.org/Raidriar"
                 }
             },
             "entries": {
@@ -9246,7 +9249,7 @@
                     "category": "Misc",
                     "description": "Dynamically adjusts the LNL Window Size to avoid desyncing.",
                     "name": "DynamicDesyncHelper",
-                    "sourceLocation": "https://github.com/Raidriar796/DynamicDesyncHelper",
+                    "sourceLocation": "https://codeberg.org/Raidriar/DynamicDesyncHelper",
                     "versions": {
                         "0.1.0": {
                             "artifacts": [
@@ -9263,20 +9266,20 @@
                                 {
                                     "filename": "DynamicDesyncHelper.dll",
                                     "sha256": "FB239E6F43BE2A2AB98A03EACE791F3B9C8EA860464945F733D9E10A4AE8CE10",
-                                    "url": "https://github.com/Raidriar796/DynamicDesyncHelper/releases/download/0.1.1/DynamicDesyncHelper.dll"
+                                    "url": "https://codeberg.org/Raidriar/DynamicDesyncHelper/releases/download/0.1.1/DynamicDesyncHelper.dll"
                                 }
                             ],
-                            "releaseUrl": "https://github.com/Raidriar796/DynamicDesyncHelper/releases/tag/0.1.1"
+                            "releaseUrl": "https://codeberg.org/Raidriar/DynamicDesyncHelper/releases/tag/0.1.1"
                         },
                         "0.1.2": {
                             "artifacts": [
                                 {
                                     "filename": "DynamicDesyncHelper.dll",
                                     "sha256": "bf066707b59ab43bc9e871da3bf4c5c90d23cc37d90a344bb2831d687617b6f3",
-                                    "url": "https://github.com/Raidriar796/DynamicDesyncHelper/releases/download/0.1.2/DynamicDesyncHelper.dll"
+                                    "url": "https://codeberg.org/Raidriar/DynamicDesyncHelper/releases/download/0.1.2/DynamicDesyncHelper.dll"
                                 }
                             ],
-                            "releaseUrl": "https://github.com/Raidriar796/DynamicDesyncHelper/releases/tag/0.1.2"
+                            "releaseUrl": "https://codeberg.org/Raidriar/DynamicDesyncHelper/releases/tag/0.1.2"
                         }
                     }
                 },
@@ -9287,37 +9290,37 @@
                     "platforms": [
                         "headless"
                     ],
-                    "sourceLocation": "https://github.com/Raidriar796/DynamicTickRate",
+                    "sourceLocation": "https://codeberg.org/Raidriar/DynamicTickRate",
                     "versions": {
                         "1.0.0": {
                             "artifacts": [
                                 {
                                     "filename": "DynamicTickRate.dll",
                                     "sha256": "3AF94439A0E7153CDDF4F85A94A97F5349A50CB60B92D456001CCFF5A4BDABF5",
-                                    "url": "https://github.com/Raidriar796/DynamicTickRate/releases/download/1.0.0/DynamicTickRate.dll"
+                                    "url": "https://codeberg.org/Raidriar/DynamicTickRate/releases/download/1.0.0/DynamicTickRate.dll"
                                 }
                             ],
-                            "releaseUrl": "https://github.com/Raidriar796/DynamicTickRate/releases/tag/1.0.0"
+                            "releaseUrl": "https://codeberg.org/Raidriar/DynamicTickRate/releases/tag/1.0.0"
                         },
                         "1.0.1": {
                             "artifacts": [
                                 {
                                     "filename": "DynamicTickRate.dll",
                                     "sha256": "a45c34a05ceb87bf3d70485df98849d4127c78056b31c2dff4716faa74e95315",
-                                    "url": "https://github.com/Raidriar796/DynamicTickRate/releases/download/1.0.1/DynamicTickRate.dll"
+                                    "url": "https://codeberg.org/Raidriar/DynamicTickRate/releases/download/1.0.1/DynamicTickRate.dll"
                                 }
                             ],
-                            "releaseUrl": "https://github.com/Raidriar796/DynamicTickRate/releases/tag/1.0.1"
+                            "releaseUrl": "https://codeberg.org/Raidriar/DynamicTickRate/releases/tag/1.0.1"
                         },
                         "1.0.2": {
                             "artifacts": [
                                 {
                                     "filename": "DynamicTickRate.dll",
                                     "sha256": "6798fdeb29957bc5691736a7a7ea4b5a6c635abbba8bd510c91250b1d246992b",
-                                    "url": "https://github.com/Raidriar796/DynamicTickRate/releases/download/1.0.2/DynamicTickRate.dll"
+                                    "url": "https://codeberg.org/Raidriar/DynamicTickRate/releases/download/1.0.2/DynamicTickRate.dll"
                                 }
                             ],
-                            "releaseUrl": "https://github.com/Raidriar796/DynamicTickRate/releases/tag/1.0.2"
+                            "releaseUrl": "https://codeberg.org/Raidriar/DynamicTickRate/releases/tag/1.0.2"
                         }
                     }
                 },
@@ -9325,27 +9328,27 @@
                     "category": "Optimization",
                     "description": "Improves compression speed for sync messages.",
                     "name": "FastSync",
-                    "sourceLocation": "https://github.com/Raidriar796/FastSync",
+                    "sourceLocation": "https://codeberg.org/Raidriar/FastSync",
                     "versions": {
                         "1.0.0": {
                             "artifacts": [
                                 {
                                     "filename": "FastSync.dll",
                                     "sha256": "B7CC2897F96F6B4F968A0067ECEB03C31C75B6A0458FBE42566539AC7FF2F6D2",
-                                    "url": "https://github.com/Raidriar796/FastSync/releases/download/1.0.0/FastSync.dll"
+                                    "url": "https://codeberg.org/Raidriar/FastSync/releases/download/1.0.0/FastSync.dll"
                                 }
                             ],
-                            "releaseUrl": "https://github.com/Raidriar796/FastSync/releases/tag/1.0.0"
+                            "releaseUrl": "https://codeberg.org/Raidriar/FastSync/releases/tag/1.0.0"
                         },
                         "1.0.1": {
                             "artifacts": [
                                 {
                                     "filename": "FastSync.dll",
                                     "sha256": "daa9906556cf9dac36462de946d126e3797893831540b0569db8488aff70fac3",
-                                    "url": "https://github.com/Raidriar796/FastSync/releases/download/1.0.1/FastSync.dll"
+                                    "url": "https://codeberg.org/Raidriar/FastSync/releases/download/1.0.1/FastSync.dll"
                                 }
                             ],
-                            "releaseUrl": "https://github.com/Raidriar796/FastSync/releases/tag/1.0.1"
+                            "releaseUrl": "https://codeberg.org/Raidriar/FastSync/releases/tag/1.0.1"
                         }
                     }
                 },
@@ -9356,25 +9359,25 @@
                     "platforms": [
                         "headless"
                     ],
-                    "sourceLocation": "https://github.com/Raidriar796/HDRProbeFix",
+                    "sourceLocation": "https://codeberg.org/Raidriar/HDRProbeFix",
                     "versions": {
                         "1.0.0": {
                             "artifacts": [
                                 {
                                     "sha256": "6D1F152107679BE5C67AD8D84B5C0EBE35638FA1172D386D1D93469149A76719",
-                                    "url": "https://github.com/Raidriar796/HDRProbeFix/releases/download/v1.0.0/HDRProbeFix.dll"
+                                    "url": "https://codeberg.org/Raidriar/HDRProbeFix/releases/download/v1.0.0/HDRProbeFix.dll"
                                 }
                             ],
-                            "releaseUrl": "https://github.com/Raidriar796/HDRProbeFix/releases/tag/v1.0.0"
+                            "releaseUrl": "https://codeberg.org/Raidriar/HDRProbeFix/releases/tag/v1.0.0"
                         },
                         "1.0.1": {
                             "artifacts": [
                                 {
                                     "sha256": "a002d412201aceedd79c8e42e49d8fd09d35979cad48b6788ef79e868e6c7ae0",
-                                    "url": "https://github.com/Raidriar796/HDRProbeFix/releases/download/1.0.1/HDRProbeFix.dll"
+                                    "url": "https://codeberg.org/Raidriar/HDRProbeFix/releases/download/1.0.1/HDRProbeFix.dll"
                                 }
                             ],
-                            "releaseUrl": "https://github.com/Raidriar796/HDRProbeFix/releases/tag/1.0.1"
+                            "releaseUrl": "https://codeberg.org/Raidriar/HDRProbeFix/releases/tag/1.0.1"
                         }
                     }
                 },
@@ -9385,44 +9388,44 @@
                     "platforms": [
                         "headless"
                     ],
-                    "sourceLocation": "https://github.com/Raidriar796/HeadlessUserCulling",
+                    "sourceLocation": "https://codeberg.org/Raidriar/HeadlessUserCulling",
                     "versions": {
                         "1.0.0": {
                             "artifacts": [
                                 {
                                     "filename": "HeadlessUserCulling.dll",
                                     "sha256": "E83890F75447E5496A7DAB10453D7212C1756F3C91285F1184E6C57495964ACD",
-                                    "url": "https://github.com/Raidriar796/HeadlessUserCulling/releases/download/1.0.0/HeadlessUserCulling.dll"
+                                    "url": "https://codeberg.org/Raidriar/HeadlessUserCulling/releases/download/1.0.0/HeadlessUserCulling.dll"
                                 }
                             ],
-                            "releaseUrl": "https://github.com/Raidriar796/HeadlessUserCulling/releases/tag/1.0.0"
+                            "releaseUrl": "https://codeberg.org/Raidriar/HeadlessUserCulling/releases/tag/1.0.0"
                         },
                         "1.1.0": {
                             "artifacts": [
                                 {
                                     "filename": "HeadlessUserCulling.dll",
                                     "sha256": "6d9975c69faea5144da623e6bada5bf18b9486654a24b71318279fc9a622195f",
-                                    "url": "https://github.com/Raidriar796/HeadlessUserCulling/releases/download/1.1.0/HeadlessUserCulling.dll"
+                                    "url": "https://codeberg.org/Raidriar/HeadlessUserCulling/releases/download/1.1.0/HeadlessUserCulling.dll"
                                 }
                             ],
-                            "releaseUrl": "https://github.com/Raidriar796/HeadlessUserCulling/releases/tag/1.1.0"
+                            "releaseUrl": "https://codeberg.org/Raidriar/HeadlessUserCulling/releases/tag/1.1.0"
                         },
                         "1.1.1": {
                             "artifacts": [
                                 {
                                     "filename": "HeadlessUserCulling.dll",
                                     "sha256": "2BA6F640DA9FE8D4451884838295A7A9E31C9DE2BBA2C7F33149F783F2114F15",
-                                    "url": "https://github.com/Raidriar796/HeadlessUserCulling/releases/download/1.1.1/HeadlessUserCulling.dll"
+                                    "url": "https://codeberg.org/Raidriar/HeadlessUserCulling/releases/download/1.1.1/HeadlessUserCulling.dll"
                                 }
                             ],
-                            "releaseUrl": "https://github.com/Raidriar796/HeadlessUserCulling/releases/tag/1.1.1"
+                            "releaseUrl": "https://codeberg.org/Raidriar/HeadlessUserCulling/releases/tag/1.1.1"
                         },
                         "1.1.2": {
                             "artifacts": [
                                 {
                                     "filename": "HeadlessUserCulling.dll",
                                     "sha256": "BB632928114E2318D883CEB2A5E2B20734434D2AC83600791B803CAC2EC59131",
-                                    "url": "https://github.com/Raidriar796/HeadlessUserCulling/releases/download/1.1.2/HeadlessUserCulling.dll"
+                                    "url": "https://codeberg.org/Raidriar/HeadlessUserCulling/releases/download/1.1.2/HeadlessUserCulling.dll"
                                 }
                             ],
                             "releaseUrl": "https://github.com/Raidriar796/HeadlessUserCulling/releases/tag/1.1.2"
@@ -9435,7 +9438,7 @@
                                     "url": "https://github.com/Raidriar796/HeadlessUserCulling/releases/download/1.1.3/HeadlessUserCulling.dll"
                                 }
                             ],
-                            "releaseUrl": "https://github.com/Raidriar796/HeadlessUserCulling/releases/tag/1.1.3"
+                            "releaseUrl": "https://codeberg.org/Raidriar/HeadlessUserCulling/releases/tag/1.1.3"
                         }
                     }
                 },
@@ -9443,7 +9446,7 @@
                     "category": "Optimization",
                     "description": "Reduces outbound network traffic.",
                     "name": "LiteStreams",
-                    "sourceLocation": "https://github.com/Raidriar796/LiteStreams",
+                    "sourceLocation": "https://codeberg.org/Raidriar/LiteStreams",
                     "versions": {
                         "1.0.0": {
                             "artifacts": [
@@ -9460,50 +9463,50 @@
                                 {
                                     "filename": "LiteStreams.dll",
                                     "sha256": "09C3C6644F8A7C91BC7832A58EAF8B2E70CA85D9DD53710B3C4D0140F3EECE60",
-                                    "url": "https://github.com/Raidriar796/LiteStreams/releases/download/1.1.0/LiteStreams.dll"
+                                    "url": "https://codeberg.org/Raidriar/LiteStreams/releases/download/1.1.0/LiteStreams.dll"
                                 }
                             ],
-                            "releaseUrl": "https://github.com/Raidriar796/LiteStreams/releases/tag/1.1.0"
+                            "releaseUrl": "https://codeberg.org/Raidriar/LiteStreams/releases/tag/1.1.0"
                         },
                         "1.2.0": {
                             "artifacts": [
                                 {
                                     "filename": "LiteStreams.dll",
                                     "sha256": "57ca7b7d3303ce465ba78ed28f7889af94d5953317c959f58e7059884bf6a7fd",
-                                    "url": "https://github.com/Raidriar796/LiteStreams/releases/download/1.2.0/LiteStreams.dll"
+                                    "url": "https://codeberg.org/Raidriar/LiteStreams/releases/download/1.2.0/LiteStreams.dll"
                                 }
                             ],
-                            "releaseUrl": "https://github.com/Raidriar796/LiteStreams/releases/tag/1.2.0"
+                            "releaseUrl": "https://codeberg.org/Raidriar/LiteStreams/releases/tag/1.2.0"
                         },
                         "1.3.0": {
                             "artifacts": [
                                 {
                                     "filename": "LiteStreams.dll",
                                     "sha256": "7d18f254d2bc429ca49347bbc7990eed5606f6e132d63a9fb6257c34c5c0c135",
-                                    "url": "https://github.com/Raidriar796/LiteStreams/releases/download/1.3.0/LiteStreams.dll"
+                                    "url": "https://codeberg.org/Raidriar/LiteStreams/releases/download/1.3.0/LiteStreams.dll"
                                 }
                             ],
-                            "releaseUrl": "https://github.com/Raidriar796/LiteStreams/releases/tag/1.3.0"
+                            "releaseUrl": "https://codeberg.org/Raidriar/LiteStreams/releases/tag/1.3.0"
                         },
                         "1.3.1": {
                             "artifacts": [
                                 {
                                     "filename": "LiteStreams.dll",
                                     "sha256": "a0e72b2285a113772bc12b7a1f86c1299144e1ad474fdc3192fe82cd2bc7b47a",
-                                    "url": "https://github.com/Raidriar796/LiteStreams/releases/download/1.3.1/LiteStreams.dll"
+                                    "url": "https://codeberg.org/Raidriar/LiteStreams/releases/download/1.3.1/LiteStreams.dll"
                                 }
                             ],
-                            "releaseUrl": "https://github.com/Raidriar796/LiteStreams/releases/tag/1.3.1"
+                            "releaseUrl": "https://codeberg.org/Raidriar/LiteStreams/releases/tag/1.3.1"
                         },
                         "1.3.2": {
                             "artifacts": [
                                 {
                                     "filename": "LiteStreams.dll",
                                     "sha256": "681aaa17b5b31a9d7ceb452d6663d9ca069b40ecdd63d10f924e3d133e37367e",
-                                    "url": "https://github.com/Raidriar796/LiteStreams/releases/download/1.3.2/LiteStreams.dll"
+                                    "url": "https://codeberg.org/Raidriar/LiteStreams/releases/download/1.3.2/LiteStreams.dll"
                                 }
                             ],
-                            "releaseUrl": "https://github.com/Raidriar796/LiteStreams/releases/tag/1.3.2"
+                            "releaseUrl": "https://codeberg.org/Raidriar/LiteStreams/releases/tag/1.3.2"
                         }
                     }
                 },
@@ -9518,27 +9521,17 @@
                         "linux",
                         "windows"
                     ],
-                    "sourceLocation": "https://github.com/Raidriar796/NoSteamScreenshots",
+                    "sourceLocation": "https://codeberg.org/Raidriar/NoSteamScreenshots",
                     "versions": {
-                        "1.0.0": {
-                            "artifacts": [
-                                {
-                                    "filename": "NoSteamScreenshots.dll",
-                                    "sha256": "29f024ee7c3e7cae8946b38be1926fff784d194d478f1936e741658bde5d8b15",
-                                    "url": "https://github.com/Raidriar796/NoSteamScreenshots/releases/download/1.0.0/NoSteamScreenshots.dll"
-                                }
-                            ],
-                            "releaseUrl": "https://github.com/Raidriar796/NoSteamScreenshots/releases/tag/1.0.0"
-                        },
                         "1.0.1": {
                             "artifacts": [
                                 {
                                     "filename": "NoSteamScreenshots.dll",
                                     "sha256": "8D9F335ECD39AD245838215B47334825E8F96A8A1464545A1404FFE5C8A345D7",
-                                    "url": "https://github.com/Raidriar796/NoSteamScreenshots/releases/download/1.0.1/NoSteamScreenshots.dll"
+                                    "url": "https://codeberg.org/Raidriar/NoSteamScreenshots/releases/download/1.0.1/NoSteamScreenshots.dll"
                                 }
                             ],
-                            "releaseUrl": "https://github.com/Raidriar796/NoSteamScreenshots/releases/tag/1.0.1"
+                            "releaseUrl": "https://codeberg.org/Raidriar/NoSteamScreenshots/releases/tag/1.0.1"
                         }
                     }
                 },
@@ -9546,7 +9539,7 @@
                     "category": "Optimization",
                     "description": "Disables the IK of Users who are behind you or far away. Includes optional IK throttling.",
                     "name": "ResoniteIkCulling",
-                    "sourceLocation": "https://github.com/Raidriar796/ResoniteIkCulling",
+                    "sourceLocation": "https://codeberg.org/Raidriar/ResoniteIkCulling",
                     "versions": {
                         "2.0.0": {
                             "artifacts": [
@@ -9633,10 +9626,10 @@
                                 {
                                     "filename": "ResoniteIKCulling.dll",
                                     "sha256": "F302E36B1E5EF41FD518F03D69C157B763F2127149DD0095A3DF61D9EB0E1E2C",
-                                    "url": "https://github.com/Raidriar796/ResoniteIkCulling/releases/download/2.5.0/ResoniteIKCulling.dll"
+                                    "url": "https://codeberg.org/Raidriar/ResoniteIkCulling/releases/download/2.5.0/ResoniteIKCulling.dll"
                                 }
                             ],
-                            "releaseUrl": "https://github.com/Raidriar796/ResoniteIkCulling/releases/tag/2.5.0"
+                            "releaseUrl": "https://codeberg.org/Raidriar/ResoniteIkCulling/releases/tag/2.5.0"
                         },
                         "2.6.0": {
                             "artifacts": [
@@ -9653,40 +9646,40 @@
                                 {
                                     "filename": "ResoniteIKCulling.dll",
                                     "sha256": "01A38C707818039EE9EAF3BFC2F0EFFB406308CC1968D8F419C4BB60D38EB49A",
-                                    "url": "https://github.com/Raidriar796/ResoniteIkCulling/releases/download/2.6.1/ResoniteIKCulling.dll"
+                                    "url": "https://codeberg.org/Raidriar/ResoniteIkCulling/releases/download/2.6.1/ResoniteIKCulling.dll"
                                 }
                             ],
-                            "releaseUrl": "https://github.com/Raidriar796/ResoniteIkCulling/releases/tag/2.6.1"
+                            "releaseUrl": "https://codeberg.org/Raidriar/ResoniteIkCulling/releases/tag/2.6.1"
                         },
                         "2.6.2": {
                             "artifacts": [
                                 {
                                     "filename": "ResoniteIKCulling.dll",
                                     "sha256": "1D0A370B05FDE8937BCF2D96CFA632163F9BA3E4EC716EB62D5BF92524C7FE87",
-                                    "url": "https://github.com/Raidriar796/ResoniteIkCulling/releases/download/2.6.2/ResoniteIKCulling.dll"
+                                    "url": "https://codeberg.org/Raidriar/ResoniteIkCulling/releases/download/2.6.2/ResoniteIKCulling.dll"
                                 }
                             ],
-                            "releaseUrl": "https://github.com/Raidriar796/ResoniteIkCulling/releases/tag/2.6.2"
+                            "releaseUrl": "https://codeberg.org/Raidriar/ResoniteIkCulling/releases/tag/2.6.2"
                         },
                         "2.7.0": {
                             "artifacts": [
                                 {
                                     "filename": "ResoniteIKCulling.dll",
                                     "sha256": "98F6BD007B0E0D4EAE726D66D3D6096626691024849F4A394A2BCF48357E681E",
-                                    "url": "https://github.com/Raidriar796/ResoniteIkCulling/releases/download/2.7.0/ResoniteIKCulling.dll"
+                                    "url": "https://codeberg.org/Raidriar/ResoniteIkCulling/releases/download/2.7.0/ResoniteIKCulling.dll"
                                 }
                             ],
-                            "releaseUrl": "https://github.com/Raidriar796/ResoniteIkCulling/releases/tag/2.7.0"
+                            "releaseUrl": "https://codeberg.org/Raidriar/ResoniteIkCulling/releases/tag/2.7.0"
                         },
                         "2.7.1": {
                             "artifacts": [
                                 {
                                     "filename": "ResoniteIKCulling.dll",
                                     "sha256": "86d901a818477840272fb1aaa3480f87ac97f8fb9691cf9b60fd33d1cc9770b6",
-                                    "url": "https://github.com/Raidriar796/ResoniteIkCulling/releases/download/2.7.1/ResoniteIKCulling.dll"
+                                    "url": "https://codeberg.org/Raidriar/ResoniteIkCulling/releases/download/2.7.1/ResoniteIKCulling.dll"
                                 }
                             ],
-                            "releaseUrl": "https://github.com/Raidriar796/ResoniteIkCulling/releases/tag/2.7.1"
+                            "releaseUrl": "https://codeberg.org/Raidriar/ResoniteIkCulling/releases/tag/2.7.1"
                         }
                     }
                 },
@@ -9694,77 +9687,77 @@
                     "category": "Wizards",
                     "description": "Adds batch texture operations.",
                     "name": "Resurfacer",
-                    "sourceLocation": "https://github.com/Raidriar796/Resurfacer",
+                    "sourceLocation": "https://codeberg.org/Raidriar/Resurfacer",
                     "versions": {
                         "0.1.0": {
                             "artifacts": [
                                 {
                                     "filename": "Resurfacer.dll",
                                     "sha256": "61AE8977595B983B604A9D99181F28C34D9D76D0FC172A67146ABAD135DB1150",
-                                    "url": "https://github.com/Raidriar796/Resurfacer/releases/download/0.1.0/Resurfacer.dll"
+                                    "url": "https://codeberg.org/Raidriar/Resurfacer/releases/download/0.1.0/Resurfacer.dll"
                                 }
                             ],
-                            "releaseUrl": "https://github.com/Raidriar796/Resurfacer/releases/tag/0.1.0"
+                            "releaseUrl": "https://codeberg.org/Raidriar/Resurfacer/releases/tag/0.1.0"
                         },
                         "0.2.0": {
                             "artifacts": [
                                 {
                                     "filename": "Resurfacer.dll",
                                     "sha256": "fdb5accbb98fa337555cf013e454272f74bdab2686b6965313dc4419dcba0993",
-                                    "url": "https://github.com/Raidriar796/Resurfacer/releases/download/0.2.0/Resurfacer.dll"
+                                    "url": "https://codeberg.org/Raidriar/Resurfacer/releases/download/0.2.0/Resurfacer.dll"
                                 }
                             ],
-                            "releaseUrl": "https://github.com/Raidriar796/Resurfacer/releases/tag/0.2.0"
+                            "releaseUrl": "https://codeberg.org/Raidriar/Resurfacer/releases/tag/0.2.0"
                         },
                         "0.2.1": {
                             "artifacts": [
                                 {
                                     "filename": "Resurfacer.dll",
                                     "sha256": "93793f115c6794d70da296b2eea4332d4fc1ea9e0f51a18a8ccf2837492b577c",
-                                    "url": "https://github.com/Raidriar796/Resurfacer/releases/download/0.2.1/Resurfacer.dll"
+                                    "url": "https://codeberg.org/Raidriar/Resurfacer/releases/download/0.2.1/Resurfacer.dll"
                                 }
                             ],
-                            "releaseUrl": "https://github.com/Raidriar796/Resurfacer/releases/tag/0.2.1"
+                            "releaseUrl": "https://codeberg.org/Raidriar/Resurfacer/releases/tag/0.2.1"
                         },
                         "0.2.2": {
                             "artifacts": [
                                 {
                                     "filename": "Resurfacer.dll",
                                     "sha256": "5880fd5ca02199ca0bcdebeb2d8e0f659f0780c7ddaf644f93cedadb343a4025",
-                                    "url": "https://github.com/Raidriar796/Resurfacer/releases/download/0.2.2/Resurfacer.dll"
+                                    "url": "https://codeberg.org/Raidriar/Resurfacer/releases/download/0.2.2/Resurfacer.dll"
                                 }
                             ],
-                            "releaseUrl": "https://github.com/Raidriar796/Resurfacer/releases/tag/0.2.2"
+                            "releaseUrl": "https://codeberg.org/Raidriar/Resurfacer/releases/tag/0.2.2"
                         },
                         "0.3.0": {
                             "artifacts": [
                                 {
                                     "filename": "Resurfacer.dll",
                                     "sha256": "0c26b17baf09a2e6fcda170e117b82a35a6ea8ad3acafd47f28ef489f63dc0e4",
-                                    "url": "https://github.com/Raidriar796/Resurfacer/releases/download/0.3.0/Resurfacer.dll"
+                                    "url": "https://codeberg.org/Raidriar/Resurfacer/releases/download/0.3.0/Resurfacer.dll"
                                 }
                             ],
-                            "releaseUrl": "https://github.com/Raidriar796/Resurfacer/releases/tag/0.3.0"
+                            "releaseUrl": "https://codeberg.org/Raidriar/Resurfacer/releases/tag/0.3.0"
                         },
                         "0.4.0": {
                             "artifacts": [
                                 {
                                     "filename": "Resurfacer.dll",
                                     "sha256": "b962b0814102f2644086ee5c44f0344e6ef6b453f833606651aa66625637711c",
-                                    "url": "https://github.com/Raidriar796/Resurfacer/releases/download/0.4.0/Resurfacer.dll"
+                                    "url": "https://codeberg.org/Raidriar/Resurfacer/releases/download/0.4.0/Resurfacer.dll"
                                 }
                             ],
-                            "releaseUrl": "https://github.com/Raidriar796/Resurfacer/releases/tag/0.4.0"
+                            "releaseUrl": "https://codeberg.org/Raidriar/Resurfacer/releases/tag/0.4.0"
                         },
                         "0.4.1": {
                             "artifacts": [
                                 {
                                     "filename": "Resurfacer.dll",
                                     "sha256": "ddf196c7d23850ce6a007e3da0f90f13b29d0e7cda0814b95eae9737adf785c6",
-                                    "url": "https://github.com/Raidriar796/Resurfacer/releases/download/0.4.1/Resurfacer.dll"
+                                    "url": "https://codeberg.org/Raidriar/Resurfacer/releases/download/0.4.1/Resurfacer.dll"
                                 }
                             ],
-                            "releaseUrl": "https://github.com/Raidriar796/Resurfacer/releases/tag/0.4.1"
+                            "releaseUrl": "https://codeberg.org/Raidriar/Resurfacer/releases/tag/0.4.1"
                         }
                     }
                 },
@@ -9775,7 +9768,7 @@
                     "platforms": [
                         "headless"
                     ],
-                    "sourceLocation": "https://github.com/Raidriar796/StresslessHeadless",
+                    "sourceLocation": "https://codeberg.org/Raidriar/StresslessHeadless",
                     "versions": {
                         "1.0.0": {
                             "artifacts": [
@@ -9792,20 +9785,20 @@
                                 {
                                     "filename": "StresslessHeadless.dll",
                                     "sha256": "5F8C97CD506AF6C788DF03FE2CDE174A379FEBC0570FABCA3434172A38B3988D",
-                                    "url": "https://github.com/Raidriar796/StresslessHeadless/releases/download/1.1.0/StresslessHeadless.dll"
+                                    "url": "https://codeberg.org/Raidriar/StresslessHeadless/releases/download/1.1.0/StresslessHeadless.dll"
                                 }
                             ],
-                            "releaseUrl": "https://github.com/Raidriar796/StresslessHeadless/releases/tag/1.1.0"
+                            "releaseUrl": "https://codeberg.org/Raidriar/StresslessHeadless/releases/tag/1.1.0"
                         },
                         "1.2.0": {
                             "artifacts": [
                                 {
                                     "filename": "StresslessHeadless.dll",
                                     "sha256": "3A42C7169335F3F1D02EB4B352977E0082EA8A458BCBE129BC3D12A182B3EC15",
-                                    "url": "https://github.com/Raidriar796/StresslessHeadless/releases/download/1.2.0/StresslessHeadless.dll"
+                                    "url": "https://codeberg.org/Raidriar/StresslessHeadless/releases/download/1.2.0/StresslessHeadless.dll"
                                 }
                             ],
-                            "releaseUrl": "https://github.com/Raidriar796/StresslessHeadless/releases/tag/1.2.0"
+                            "releaseUrl": "https://codeberg.org/Raidriar/StresslessHeadless/releases/tag/1.2.0"
                         },
                         "1.3.0": {
                             "artifacts": [
@@ -9822,40 +9815,40 @@
                                 {
                                     "filename": "StresslessHeadless.dll",
                                     "sha256": "B3E2DDCA4C745422B9EA43BFD2414ED9A2C1C7A7E091434E4548F17CBC1F6166",
-                                    "url": "https://github.com/Raidriar796/StresslessHeadless/releases/download/1.3.1/StresslessHeadless.dll"
+                                    "url": "https://codeberg.org/Raidriar/StresslessHeadless/releases/download/1.3.1/StresslessHeadless.dll"
                                 }
                             ],
-                            "releaseUrl": "https://github.com/Raidriar796/StresslessHeadless/releases/tag/1.3.1"
+                            "releaseUrl": "https://codeberg.org/Raidriar/StresslessHeadless/releases/tag/1.3.1"
                         },
                         "2.0.0": {
                             "artifacts": [
                                 {
                                     "filename": "StresslessHeadless.dll",
                                     "sha256": "0C9F9177A3712762D7A9194609AADF0AD5988DEB8C3705CBFDBD4406388B656A",
-                                    "url": "https://github.com/Raidriar796/StresslessHeadless/releases/download/2.0.0/StresslessHeadless.dll"
+                                    "url": "https://codeberg.org/Raidriar/StresslessHeadless/releases/download/2.0.0/StresslessHeadless.dll"
                                 }
                             ],
-                            "releaseUrl": "https://github.com/Raidriar796/StresslessHeadless/releases/tag/2.0.0"
+                            "releaseUrl": "https://codeberg.org/Raidriar/StresslessHeadless/releases/tag/2.0.0"
                         },
                         "2.0.1": {
                             "artifacts": [
                                 {
                                     "filename": "StresslessHeadless.dll",
                                     "sha256": "59354e634cff92b3a70b9335481a10717bbcac716ff6f84abfcdd13ba747f16c",
-                                    "url": "https://github.com/Raidriar796/StresslessHeadless/releases/download/2.0.1/StresslessHeadless.dll"
+                                    "url": "https://codeberg.org/Raidriar/StresslessHeadless/releases/download/2.0.1/StresslessHeadless.dll"
                                 }
                             ],
-                            "releaseUrl": "https://github.com/Raidriar796/StresslessHeadless/releases/tag/2.0.1"
+                            "releaseUrl": "https://codeberg.org/Raidriar/StresslessHeadless/releases/tag/2.0.1"
                         },
                         "2.0.2": {
                             "artifacts": [
                                 {
                                     "filename": "StresslessHeadless.dll",
                                     "sha256": "1dcf08a17fa2b31f561224b00897e597dfd47ed06986e983746a3272a334f689",
-                                    "url": "https://github.com/Raidriar796/StresslessHeadless/releases/download/2.0.2/StresslessHeadless.dll"
+                                    "url": "https://codeberg.org/Raidriar/StresslessHeadless/releases/download/2.0.2/StresslessHeadless.dll"
                                 }
                             ],
-                            "releaseUrl": "https://github.com/Raidriar796/StresslessHeadless/releases/tag/2.0.2"
+                            "releaseUrl": "https://codeberg.org/Raidriar/StresslessHeadless/releases/tag/2.0.2"
                         }
                     }
                 },
@@ -9863,37 +9856,37 @@
                     "category": "Technical Tweaks",
                     "description": "Allows for disabling all logs, warnings, and errors from being written to disk.",
                     "name": "Lognt",
-                    "sourceLocation": "https://github.com/Raidriar796/Lognt",
+                    "sourceLocation": "https://codeberg.org/Raidriar/Lognt",
                     "versions": {
                         "1.0.0": {
                             "artifacts": [
                                 {
                                     "filename": "Lognt.dll",
                                     "sha256": "1F69BE8F97EEBB89F7C86286E3540966D176F160AB3D91003C8DF9BB96C2F81A",
-                                    "url": "https://github.com/Raidriar796/Lognt/releases/download/1.0.0/Lognt.dll"
+                                    "url": "https://codeberg.org/Raidriar/Lognt/releases/download/1.0.0/Lognt.dll"
                                 }
                             ],
-                            "releaseUrl": "https://github.com/Raidriar796/Lognt/releases/tag/1.0.0"
+                            "releaseUrl": "https://codeberg.org/Raidriar/Lognt/releases/tag/1.0.0"
                         },
                         "1.1.0": {
                             "artifacts": [
                                 {
                                     "filename": "Lognt.dll",
                                     "sha256": "0C2B00AAED7FA050040B62CB534AA9DA4DC26A862590507E5549D6FE85836FEE",
-                                    "url": "https://github.com/Raidriar796/Lognt/releases/download/1.1.0/Lognt.dll"
+                                    "url": "https://codeberg.org/Raidriar/Lognt/releases/download/1.1.0/Lognt.dll"
                                 }
                             ],
-                            "releaseUrl": "https://github.com/Raidriar796/Lognt/releases/tag/1.1.0"
+                            "releaseUrl": "https://codeberg.org/Raidriar/Lognt/releases/tag/1.1.0"
                         },
                         "1.1.1": {
                             "artifacts": [
                                 {
                                     "filename": "Lognt.dll",
                                     "sha256": "1e0c52bbfb47c82eab7625c6ce37f4899d5ca192429e1c4049120484fc66fdfa",
-                                    "url": "https://github.com/Raidriar796/Lognt/releases/download/1.1.1/Lognt.dll"
+                                    "url": "https://codeberg.org/Raidriar/Lognt/releases/download/1.1.1/Lognt.dll"
                                 }
                             ],
-                            "releaseUrl": "https://github.com/Raidriar796/Lognt/releases/tag/1.1.1"
+                            "releaseUrl": "https://codeberg.org/Raidriar/Lognt/releases/tag/1.1.1"
                         }
                     }
                 },
@@ -9908,47 +9901,37 @@
                         "linux-wine",
                         "windows"
                     ],
-                    "sourceLocation": "https://github.com/Raidriar796/yt-dlp-Updater",
+                    "sourceLocation": "https://codeberg.org/Raidriar/yt-dlp-Updater",
                     "versions": {
-                        "1.0.0": {
-                            "artifacts": [
-                                {
-                                    "filename": "ytdlpUpdater.dll",
-                                    "sha256": "5b7650245cdcad791ef7ee0b71e761aba88c15707a5e83f839616d1d3388e81d",
-                                    "url": "https://github.com/Raidriar796/yt-dlp-Updater/releases/download/1.0.0/ytdlpUpdater.dll"
-                                }
-                            ],
-                            "releaseUrl": "https://github.com/Raidriar796/yt-dlp-Updater/releases/tag/1.0.0"
-                        },
                         "1.1.0": {
                             "artifacts": [
                                 {
                                     "filename": "ytdlpUpdater.dll",
                                     "sha256": "9B6AEE2D1DBEC0A80DA7CEBD90EC208254B64D3F8B00BCA76234CC10098F4CB5",
-                                    "url": "https://github.com/Raidriar796/yt-dlp-Updater/releases/download/1.1.0/ytdlpUpdater.dll"
+                                    "url": "https://codeberg.org/Raidriar/yt-dlp-Updater/releases/download/1.1.0/ytdlpUpdater.dll"
                                 }
                             ],
-                            "releaseUrl": "https://github.com/Raidriar796/yt-dlp-Updater/releases/tag/1.1.0"
+                            "releaseUrl": "https://codeberg.org/Raidriar/yt-dlp-Updater/releases/tag/1.1.0"
                         },
                         "1.2.0": {
                             "artifacts": [
                                 {
                                     "filename": "ytdlpUpdater.dll",
                                     "sha256": "4B9DF59C40D647F90AE1166A3619B408B558C049C42823CA975AEE8833DB2066",
-                                    "url": "https://github.com/Raidriar796/yt-dlp-Updater/releases/download/1.2.0/ytdlpUpdater.dll"
+                                    "url": "https://codeberg.org/Raidriar/yt-dlp-Updater/releases/download/1.2.0/ytdlpUpdater.dll"
                                 }
                             ],
-                            "releaseUrl": "https://github.com/Raidriar796/yt-dlp-Updater/releases/tag/1.2.0"
+                            "releaseUrl": "https://codeberg.org/Raidriar/yt-dlp-Updater/releases/tag/1.2.0"
                         },
                         "1.3.0": {
                             "artifacts": [
                                 {
                                     "filename": "ytdlpUpdater.dll",
                                     "sha256": "2C00777F29F88E0B032239A55029944938592823523EC05CB8459F2D6BD742FE",
-                                    "url": "https://github.com/Raidriar796/yt-dlp-Updater/releases/download/1.3.0/ytdlpUpdater.dll"
+                                    "url": "https://codeberg.org/Raidriar/yt-dlp-Updater/releases/download/1.3.0/ytdlpUpdater.dll"
                                 }
                             ],
-                            "releaseUrl": "https://github.com/Raidriar796/yt-dlp-Updater/releases/tag/1.3.0"
+                            "releaseUrl": "https://codeberg.org/Raidriar/yt-dlp-Updater/releases/tag/1.3.0"
                         }
                     }
                 }
@@ -10687,7 +10670,7 @@
                                 },
                                 {
                                     "installLocation": "/rml_libs",
-                                    "sha256": "14795053d2e091fe8510f4b5c3284e1490af4118d4e44f2b4b1d0e99ca0f0994",
+                                    "sha256": "e85d35c0319260b00425cf23f9e01de17be5e82a13a494877b07390adccec3ad",
                                     "url": "https://git.unix.dog/yosh/bc7enc_rdo_ffi/releases/download/v0.2.0/bc7enc.dll"
                                 },
                                 {
@@ -10697,6 +10680,54 @@
                                 }
                             ],
                             "releaseUrl": "https://git.unix.dog/yosh/ResoniteBC7EncMod/releases/tag/v1.2.1"
+                        },
+                        "1.2.2": {
+                            "artifacts": [
+                                {
+                                    "sha256": "d7850289e3926ff1d912feb85b4bf1c0e6c4ea877a20a034a65c1d6e0e600c2f",
+                                    "url": "https://git.unix.dog/yosh/ResoniteBC7EncMod/releases/download/v1.2.2/BC7EncMod.dll"
+                                },
+                                {
+                                    "installLocation": "/rml_libs",
+                                    "sha256": "c65a5278891f755baefb4840bf5d2809d988dc41ddf796edd1008fc6c2ada82d",
+                                    "url": "https://git.unix.dog/yosh/bc7enc.NET/releases/download/v0.2.1/bc7enc.NET.dll"
+                                },
+                                {
+                                    "installLocation": "/rml_libs",
+                                    "sha256": "e85d35c0319260b00425cf23f9e01de17be5e82a13a494877b07390adccec3ad",
+                                    "url": "https://git.unix.dog/yosh/bc7enc_rdo_ffi/releases/download/v0.2.0/bc7enc.dll"
+                                },
+                                {
+                                    "installLocation": "/rml_libs",
+                                    "sha256": "7cf28802f726517f8d7d4f839846b98377b438e976e185951eeee78710670943",
+                                    "url": "https://git.unix.dog/yosh/bc7enc_rdo_ffi/releases/download/v0.2.0/libbc7enc.so"
+                                }
+                            ],
+                            "releaseUrl": "https://git.unix.dog/yosh/ResoniteBC7EncMod/releases/tag/v1.2.2"
+                        },
+                        "1.2.3": {
+                            "artifacts": [
+                                {
+                                    "sha256": "71301637fff29f5fa502b06a3d3abd75538335ca58409038aebab7b3a413d470",
+                                    "url": "https://git.unix.dog/yosh/ResoniteBC7EncMod/releases/download/v1.2.3/BC7EncMod.dll"
+                                },
+                                {
+                                    "installLocation": "/rml_libs",
+                                    "sha256": "c65a5278891f755baefb4840bf5d2809d988dc41ddf796edd1008fc6c2ada82d",
+                                    "url": "https://git.unix.dog/yosh/bc7enc.NET/releases/download/v0.2.1/bc7enc.NET.dll"
+                                },
+                                {
+                                    "installLocation": "/rml_libs",
+                                    "sha256": "e85d35c0319260b00425cf23f9e01de17be5e82a13a494877b07390adccec3ad",
+                                    "url": "https://git.unix.dog/yosh/bc7enc_rdo_ffi/releases/download/v0.2.0/bc7enc.dll"
+                                },
+                                {
+                                    "installLocation": "/rml_libs",
+                                    "sha256": "7cf28802f726517f8d7d4f839846b98377b438e976e185951eeee78710670943",
+                                    "url": "https://git.unix.dog/yosh/bc7enc_rdo_ffi/releases/download/v0.2.0/libbc7enc.so"
+                                }
+                            ],
+                            "releaseUrl": "https://git.unix.dog/yosh/ResoniteBC7EncMod/releases/tag/v1.2.3"
                         }
                     }
                 },
