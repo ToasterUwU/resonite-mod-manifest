@@ -41,8 +41,7 @@ We currently have everything.
 
 ## Mods we have an older version of (will also be fixed ASAP)
 
-- [StresslessHeadless](https://codeberg.org/Raidriar/StresslessHeadless) (by Raidriar)  - 2.0.2
-
+We are currently up to date.
 
 ## What is this?
 
