@@ -32,7 +32,6 @@ This fork is bleeding edge unstable stuff. I dont check the mod updates, i dont 
 - [bHapticsLib](https://github.com/nalathethird/bHapticsLib) (by nalathethird)  - 1.0.9 vs 1.0.8
 - [EsnyaTweaks](https://github.com/esnya/ResoniteEsnyaTweaks) (by esnya)  - 1.0.0 vs 0.1.0
 - [VRCFTReceiver](https://github.com/hazre/VRCFTReceiver) (by hazre)  - 2.0.0 vs 1.0.4
-- [ContextMenuBackOption](https://github.com/noblereign/ResoniteContextMenuBackOption) (by Noble)  - 3.0.0 vs 2.3.2
 - [SessionTabOverhaul](https://github.com/NepuShiro/ResoniteSessionTabOverhaul) (by NepuShiro)  - 2.2.0 vs 2.1.1
 
 
