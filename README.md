@@ -42,7 +42,9 @@ We currently have everything.
 
 ## Mods we have an older version of (will also be fixed ASAP)
 
-We are currently up to date.
+- [FastSync](https://codeberg.org/Raidriar/FastSync) (by Raidriar)  - 1.0.1
+- [StresslessHeadless](https://codeberg.org/Raidriar/StresslessHeadless) (by Raidriar)  - 2.2.0
+
 
 ## What is this?
 
