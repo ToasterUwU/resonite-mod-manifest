@@ -18,6 +18,7 @@ This fork is bleeding edge unstable stuff. I dont check the mod updates, i dont 
 - [VideoProxy](https://github.com/LeCloutPanda/VideoProxy) (by LeCloutPanda)
 - [OperatorLikeNeos](https://github.com/ginjake/ResoniteOperatorLikeNeos) (by ginjake)
 - [UnityPackageImporter](https://github.com/dfgHiatus/ResoniteUnityPackagesImporter) (by dfgHiatus)
+- [ResoniteIkCulling](https://codeberg.org/Raidriar/ResoniteIkCulling) (by Raidriar)
 - [InventoryHelper](https://github.com/noblereign/InventoryHelper) (by noblereign)
 
 
@@ -37,7 +38,8 @@ This fork is bleeding edge unstable stuff. I dont check the mod updates, i dont 
 
 ## Mods we are currently missing (will always be fixed ASAP)
 
-We currently have everything.
+- [IkCulling](https://codeberg.org/Raidriar/IkCulling) (by Raidriar)
+
 
 ## Mods we have an older version of (will also be fixed ASAP)
 
