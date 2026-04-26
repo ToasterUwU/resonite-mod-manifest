@@ -16,6 +16,7 @@ This fork is bleeding edge unstable stuff. I dont check the mod updates, i dont 
 - [NoSRanipal](https://github.com/zahndy/NoSRanipal) (by zahndy)
 - [ProxyVisuals](https://github.com/LeCloutPanda/ProxyVisuals) (by LeCloutPanda)
 - [VideoProxy](https://github.com/LeCloutPanda/VideoProxy) (by LeCloutPanda)
+- [JustLetItGo](https://forge.chapril.org/Baplar/Resonite.JustLetItGo) (by Baplar)
 - [OperatorLikeNeos](https://github.com/ginjake/ResoniteOperatorLikeNeos) (by ginjake)
 - [UnityPackageImporter](https://github.com/dfgHiatus/ResoniteUnityPackagesImporter) (by dfgHiatus)
 - [InventoryHelper](https://github.com/noblereign/InventoryHelper) (by noblereign)
@@ -41,9 +42,7 @@ We currently have everything.
 
 ## Mods we have an older version of (will also be fixed ASAP)
 
-- [FastSync](https://codeberg.org/Raidriar/FastSync) (by Raidriar)  - 1.0.1
-- [StresslessHeadless](https://codeberg.org/Raidriar/StresslessHeadless) (by Raidriar)  - 2.2.0
-
+We are currently up to date.
 
 ## What is this?
 
