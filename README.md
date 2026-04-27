@@ -42,7 +42,10 @@ We currently have everything.
 
 ## Mods we have an older version of (will also be fixed ASAP)
 
-We are currently up to date.
+- [IkCulling](https://codeberg.org/Raidriar/IkCulling) (by Raidriar)  - 2.8.1
+- [LiteStreams](https://codeberg.org/Raidriar/LiteStreams) (by Raidriar)  - 1.3.2
+- [Lognt](https://codeberg.org/Raidriar/Lognt) (by Raidriar)  - 1.1.1
+
 
 ## What is this?
 
