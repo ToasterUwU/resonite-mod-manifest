@@ -5,6 +5,16 @@
     "category": "Controls",
     "sourceLocation": "https://github.com/art0007i/InspectorScroll",
     "versions": {
+        "2.0.2": {
+            "releaseUrl": "https://github.com/art0007i/InspectorScroll/releases/tag/2.0.2-pre1",
+            "artifacts": [
+                {
+                    "url": "https://github.com/art0007i/InspectorScroll/releases/download/2.0.2-pre1/InspectorScroll.dll",
+                    "sha256": "11be35371630f9050f100ef2768116b30c872c391283b3acc79d5692dc808144",
+                    "filename": "InspectorScroll.dll"
+                }
+            ]
+        },
         "2.0.1": {
             "releaseUrl": "https://github.com/art0007i/InspectorScroll/releases/tag/2.0.1",
             "artifacts": [
