@@ -5,6 +5,16 @@
     "category": "Inspectors",
     "sourceLocation": "https://github.com/Moonbasee/ReBlendshapes",
     "versions": {
+        "1.0.1": {
+            "releaseUrl": "https://github.com/Moonbasee/ReBlendshapes/releases/tag/1.0.1",
+            "artifacts": [
+                {
+                    "url": "https://github.com/Moonbasee/ReBlendshapes/releases/download/1.0.1/ReBlendshapes.dll",
+                    "sha256": "629820148eb901282ff9a06c45791d43740c2db5482e1a2721cf05a2c47537a2",
+                    "filename": "ReBlendshapes.dll"
+                }
+            ]
+        },
         "1.0.0": {
             "releaseUrl": "https://github.com/Moonbasee/ReBlendshapes/releases/tag/1.0.0",
             "artifacts": [
