@@ -44,7 +44,8 @@ This fork is bleeding edge unstable stuff. I dont check the mod updates, i dont 
 
 ## Mods we have an older version of (will also be fixed ASAP)
 
-We are currently up to date.
+- [LiteStreams](https://codeberg.org/Raidriar/LiteStreams) (by Raidriar)  - 2.0.0
+
 
 ## What is this?
 
