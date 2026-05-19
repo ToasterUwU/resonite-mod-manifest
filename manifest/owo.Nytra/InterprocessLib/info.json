@@ -5,6 +5,61 @@
     "category": "Libraries",
     "sourceLocation": "https://github.com/Nytra/ResoniteInterprocessLib",
     "versions": {
+        "3.0.1": {
+            "releaseUrl": "https://github.com/Nytra/ResoniteInterprocessLib/releases/tag/v3.0.1",
+            "artifacts": [
+                {
+                    "url": "https://github.com/Nytra/ResoniteInterprocessLib/releases/download/v3.0.1/InterprocessLib.BepInEx.Tests.dll",
+                    "sha256": "61b3e8d0a63a451c2f492b0db169fc0557b5036cd47bdb9bee77e9c969fc966d",
+                    "installLocation": "/rml_libs"
+                },
+                {
+                    "url": "https://github.com/Nytra/ResoniteInterprocessLib/releases/download/v3.0.1/InterprocessLib.BepInEx_Extensions.dll",
+                    "sha256": "eadf81bc603db73ac5d95b6efe74244aacbf694ddb9db9784c5728a727b53a00",
+                    "installLocation": "/rml_libs"
+                },
+                {
+                    "url": "https://github.com/Nytra/ResoniteInterprocessLib/releases/download/v3.0.1/InterprocessLib.BepisLoader.Tests.dll",
+                    "sha256": "e34816725d0d9e7797e0ae20c3bba311947e4732c19b471977d6b405dd0a180a",
+                    "installLocation": "/rml_libs"
+                },
+                {
+                    "url": "https://github.com/Nytra/ResoniteInterprocessLib/releases/download/v3.0.1/InterprocessLib.BepisLoader_Extensions.dll",
+                    "sha256": "0469f846bae1bf558fafa0fdbd51f4826f1ddc287e0ed7d93cdba076d0f2fa51",
+                    "installLocation": "/rml_libs"
+                },
+                {
+                    "url": "https://github.com/Nytra/ResoniteInterprocessLib/releases/download/v3.0.1/InterprocessLib.FrooxEngine.dll",
+                    "sha256": "2df20a667a499d77d15d63f9e9fe3573343c82d6a4d8f486cf9b27fe809df822",
+                    "installLocation": "/rml_libs"
+                },
+                {
+                    "url": "https://github.com/Nytra/ResoniteInterprocessLib/releases/download/v3.0.1/InterprocessLib.RML.Tests.dll",
+                    "sha256": "172afa69421d5c8904ad44d0d9ab32756ea3554755fc8db11d1e36e921ed1ef6",
+                    "installLocation": "/rml_libs"
+                },
+                {
+                    "url": "https://github.com/Nytra/ResoniteInterprocessLib/releases/download/v3.0.1/InterprocessLib.RML_Extensions.dll",
+                    "sha256": "e3ca7c7db5bcaa212401a0c216ac8b741bb817fe872651a343cd2c8df5f348d4",
+                    "installLocation": "/rml_libs"
+                },
+                {
+                    "url": "https://github.com/Nytra/ResoniteInterprocessLib/releases/download/v3.0.1/InterprocessLib.Standalone.dll",
+                    "sha256": "0d64ec8d476e11bd01499a0acdda79ce6b515655b650fe52ab6a1e82996d55f3",
+                    "installLocation": "/rml_libs"
+                },
+                {
+                    "url": "https://github.com/Nytra/ResoniteInterprocessLib/releases/download/v3.0.1/InterprocessLib.Standalone.Tests.dll",
+                    "sha256": "30a9f99153d4e547028ced14c29f63a376994d4942874393317a15584bdf3e73",
+                    "installLocation": "/rml_libs"
+                },
+                {
+                    "url": "https://github.com/Nytra/ResoniteInterprocessLib/releases/download/v3.0.1/InterprocessLib.Unity.dll",
+                    "sha256": "6bfc186049e5792aec24851ff13157a60edf733a0c4643f83c8d1c389ad698f0",
+                    "installLocation": "/rml_libs"
+                }
+            ]
+        },
         "3.0.0": {
             "releaseUrl": "https://github.com/Nytra/ResoniteInterprocessLib/releases/tag/v3.0.0",
             "artifacts": [
