@@ -4,7 +4,9 @@
     "description": "Allows you to use Eye Tracking devices supported by Baballonia in Resonite, like the Bigscreen Beyond 2e for example.",
     "category": "Hardware Integration",
     "sourceLocation": "https://github.com/hantabaru1014/ResoniteBaballoniaEyeTracking",
-	"flags": ["deprecated"],
+    "flags": [
+        "deprecated"
+    ],
     "versions": {
         "0.2.1": {
             "releaseUrl": "https://github.com/hantabaru1014/ResoniteBaballoniaEyeTracking/releases/tag/v0.2.1",

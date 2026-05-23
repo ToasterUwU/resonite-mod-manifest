@@ -39,14 +39,11 @@ This fork is bleeding edge unstable stuff. I dont check the mod updates, i dont 
 
 ## Mods we are currently missing (will always be fixed ASAP)
 
-- [SlashMe](https://github.com/DanteTucker/SlashMe) (by Dante)
-- [WorldOrbDynVars](https://github.com/Cyberboss/WorldOrbDynVars) (by Dominion)
-
+We currently have everything.
 
 ## Mods we have an older version of (will also be fixed ASAP)
 
-- [LiteStreams](https://codeberg.org/Raidriar/LiteStreams) (by Raidriar)  - 2.0.0
-
+We are currently up to date.
 
 ## What is this?
 

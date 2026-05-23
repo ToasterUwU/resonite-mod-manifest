@@ -4898,6 +4898,23 @@
                             "releaseUrl": "https://github.com/DanteTucker/SteamRecentUsers/releases/tag/1.0.2"
                         }
                     }
+                },
+                "es.dant.slashme": {
+                    "category": "Misc",
+                    "description": "Parses outgoing DMs for \"/me\" and replaces the message text with an asterisk enclosed version. Perfect if you are used to emoting that way.",
+                    "name": "SlashMe",
+                    "sourceLocation": "https://github.com/DanteTucker/SlashMe",
+                    "versions": {
+                        "1.0.0": {
+                            "artifacts": [
+                                {
+                                    "sha256": "4d882fcae96820207ae1e7d5d056fbff9ef92855aee8fac0033b5c0ebbb67961",
+                                    "url": "https://github.com/DanteTucker/SlashMe/releases/download/1.0/SlashMe.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/DanteTucker/SlashMe/releases/tag/1.0"
+                        }
+                    }
                 }
             }
         },
@@ -7245,6 +7262,9 @@
                 "me.art0007i.TransparentCameraEnabler": {
                     "category": "Bug Workaround",
                     "description": "Allows you to record transparent videos using OBS",
+                    "flags": [
+                        "deprecated"
+                    ],
                     "name": "TransparentCameraEnabler",
                     "sourceLocation": "https://github.com/art0007i/TransparentCameraEnabler",
                     "versions": {
@@ -8606,6 +8626,38 @@
                 }
             }
         },
+        "net.dextraspace": {
+            "author": {
+                "Dominion": {
+                    "icon": "https://github.com/Cyberboss.png",
+                    "url": "https://github.com/Cyberboss"
+                }
+            },
+            "entries": {
+                "net.dextraspace.WorldOrbDynVars": {
+                    "category": "Technical Tweaks",
+                    "description": "A Resonite mod to attach a DynamicVariableSpace to a child slot of WorldOrb components that relays info for them.",
+                    "name": "WorldOrbDynVars",
+                    "sourceLocation": "https://github.com/Cyberboss/WorldOrbDynVars",
+                    "tags": [
+                        "dynamic",
+                        "variable",
+                        "dynamicvariablespace"
+                    ],
+                    "versions": {
+                        "1.0.2": {
+                            "artifacts": [
+                                {
+                                    "sha256": "dc38bd8b75ba5772f7da0d0970efe38b182ae1ba8495512cd062103129c24737",
+                                    "url": "https://github.com/Cyberboss/WorldOrbDynVars/releases/download/v1.0.2/WorldOrbDynVars.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/Cyberboss/WorldOrbDynVars/releases/tag/v1.0.2"
+                        }
+                    }
+                }
+            }
+        },
         "net.dfgHiatus": {
             "author": {
                 "dfgHiatus": {
@@ -9276,6 +9328,9 @@
                 "net.hantabaru1014.ResoniteBaballoniaEyeTracking": {
                     "category": "Hardware Integration",
                     "description": "Allows you to use Eye Tracking devices supported by Baballonia in Resonite, like the Bigscreen Beyond 2e for example.",
+                    "flags": [
+                        "deprecated"
+                    ],
                     "name": "ResoniteBaballoniaEyeTracking",
                     "sourceLocation": "https://github.com/hantabaru1014/ResoniteBaballoniaEyeTracking",
                     "versions": {
@@ -10039,6 +10094,16 @@
                                 }
                             ],
                             "releaseUrl": "https://codeberg.org/Raidriar/LiteStreams/releases/tag/2.0.0"
+                        },
+                        "2.0.1": {
+                            "artifacts": [
+                                {
+                                    "filename": "LiteStreams.dll",
+                                    "sha256": "3D7879E3E197B03E301AD95FBF65C65C825B60B15A27F552D2806CA37F526536",
+                                    "url": "https://codeberg.org/Raidriar/LiteStreams/releases/download/2.0.1/LiteStreams.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://codeberg.org/Raidriar/LiteStreams/releases/tag/2.0.1"
                         }
                     }
                 },
