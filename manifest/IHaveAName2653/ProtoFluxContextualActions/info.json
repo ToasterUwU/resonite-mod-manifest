@@ -9,10 +9,6 @@
             "releaseUrl": "https://github.com/IHaveAName2653/ProtoFluxContextualActions/releases/tag/v2.0.9",
             "artifacts": [
                 {
-                    "url": "https://github.com/IHaveAName2653/ProtoFluxContextualActions/releases/download/v2.0.9/ProtoFluxContextualActions-DEBUG.dll",
-                    "sha256": "d553872e98fe2d7e62f45023addb7944bb7f8afc60cfad4114b6374e6edf1d90"
-                },
-                {
                     "url": "https://github.com/IHaveAName2653/ProtoFluxContextualActions/releases/download/v2.0.9/ProtoFluxContextualActions.dll",
                     "sha256": "c36103ff69eed082ed5813bb7636b3e6638bc946415e32de6862fc8de98b43f2"
                 }
@@ -21,10 +17,6 @@
         "2.0.8": {
             "releaseUrl": "https://github.com/IHaveAName2653/ProtoFluxContextualActions/releases/tag/v2.0.8",
             "artifacts": [
-                {
-                    "url": "https://github.com/IHaveAName2653/ProtoFluxContextualActions/releases/download/v2.0.8/ProtoFluxContextualActions-DEBUG.dll",
-                    "sha256": "259c108b3d279e51d60fcedc1bcfb028cff045beaec17317d5df523b29e6949e"
-                },
                 {
                     "url": "https://github.com/IHaveAName2653/ProtoFluxContextualActions/releases/download/v2.0.8/ProtoFluxContextualActions.dll",
                     "sha256": "749d814b346c5966da7b8008357ba67ca51533c06f60ec950736ee40dad3e164"
@@ -35,10 +27,6 @@
             "releaseUrl": "https://github.com/IHaveAName2653/ProtoFluxContextualActions/releases/tag/v2.0.7",
             "artifacts": [
                 {
-                    "url": "https://github.com/IHaveAName2653/ProtoFluxContextualActions/releases/download/v2.0.7/ProtoFluxContextualActions-DEBUG.dll",
-                    "sha256": "7eab2dd0cc80dfb83cc351d091081e906011bad08067ac9d3edb59b8f6ac27ee"
-                },
-                {
                     "url": "https://github.com/IHaveAName2653/ProtoFluxContextualActions/releases/download/v2.0.7/ProtoFluxContextualActions.dll",
                     "sha256": "93892c5ef3ccbb37836cc33162c4480117a24f0c54983c408338aba539e4f4b6"
                 }
@@ -47,10 +35,6 @@
         "2.0.6": {
             "releaseUrl": "https://github.com/IHaveAName2653/ProtoFluxContextualActions/releases/tag/v2.0.6",
             "artifacts": [
-                {
-                    "url": "https://github.com/IHaveAName2653/ProtoFluxContextualActions/releases/download/v2.0.6/ProtoFluxContextualActions-DEBUG.dll",
-                    "sha256": "668618903413a30cd9ae3765bc5a4835c1ba58217ff4089a2f24c51e260536d4"
-                },
                 {
                     "url": "https://github.com/IHaveAName2653/ProtoFluxContextualActions/releases/download/v2.0.6/ProtoFluxContextualActions.dll",
                     "sha256": "a2e8386100b19ad85a14d9a5d3fd21e70d528d03c08b2c6bace0394e505d662a"
@@ -61,10 +45,6 @@
             "releaseUrl": "https://github.com/IHaveAName2653/ProtoFluxContextualActions/releases/tag/v2.0.5",
             "artifacts": [
                 {
-                    "url": "https://github.com/IHaveAName2653/ProtoFluxContextualActions/releases/download/v2.0.5/ProtoFluxContextualActions-DEBUG.dll",
-                    "sha256": "599942dbd40e603d2264d6b7d3dec4afdd86a4aedb633d042a9b375df340f519"
-                },
-                {
                     "url": "https://github.com/IHaveAName2653/ProtoFluxContextualActions/releases/download/v2.0.5/ProtoFluxContextualActions.dll",
                     "sha256": "34d766dae507aaa927ce1f4e39eef295d145bd1a27ec84736c5edbe671f88862"
                 }
@@ -73,10 +53,6 @@
         "2.0.3": {
             "releaseUrl": "https://github.com/IHaveAName2653/ProtoFluxContextualActions/releases/tag/v2.0.3",
             "artifacts": [
-                {
-                    "url": "https://github.com/IHaveAName2653/ProtoFluxContextualActions/releases/download/v2.0.3/ProtoFluxContextualActions-DEBUG.dll",
-                    "sha256": "ce6890922027a797da70b971e41548857b9a2ee678ba53cfd171b2759526d01e"
-                },
                 {
                     "url": "https://github.com/IHaveAName2653/ProtoFluxContextualActions/releases/download/v2.0.3/ProtoFluxContextualActions.dll",
                     "sha256": "23d14c055635e54983d504bc580b05efce5f142426ae7568df5310a36cfbddc9"
@@ -100,10 +76,6 @@
             "releaseUrl": "https://github.com/IHaveAName2653/ProtoFluxContextualActions/releases/tag/v2.0.2",
             "artifacts": [
                 {
-                    "url": "https://github.com/IHaveAName2653/ProtoFluxContextualActions/releases/download/v2.0.2/ProtoFluxContextualActions-DEBUG.dll",
-                    "sha256": "574fb505e3943666673200dbb43facc3d7bced4e6b3e36f713cb06969c718db4"
-                },
-                {
                     "url": "https://github.com/IHaveAName2653/ProtoFluxContextualActions/releases/download/v2.0.2/ProtoFluxContextualActions.dll",
                     "sha256": "234e4271cff4e520dca730bf41356808d368264c3454477c1d307a25218c7ac7"
                 }
@@ -112,10 +84,6 @@
         "2.0.19": {
             "releaseUrl": "https://github.com/IHaveAName2653/ProtoFluxContextualActions/releases/tag/v2.0.19",
             "artifacts": [
-                {
-                    "url": "https://github.com/IHaveAName2653/ProtoFluxContextualActions/releases/download/v2.0.19/ProtoFluxContextualActions-DEBUG.dll",
-                    "sha256": "5d01b3834a8e557f0bd954bd4693846c82f611aa535711892c1dcbffaa6973b5"
-                },
                 {
                     "url": "https://github.com/IHaveAName2653/ProtoFluxContextualActions/releases/download/v2.0.19/ProtoFluxContextualActions.dll",
                     "sha256": "12b4637b71afa5a546a77611365fb7ab94e6abd228c7c104aacdad395d5c9a83"
@@ -126,10 +94,6 @@
             "releaseUrl": "https://github.com/IHaveAName2653/ProtoFluxContextualActions/releases/tag/v2.0.18",
             "artifacts": [
                 {
-                    "url": "https://github.com/IHaveAName2653/ProtoFluxContextualActions/releases/download/v2.0.18/ProtoFluxContextualActions-DEBUG.dll",
-                    "sha256": "0d96112b6ab5d7ec27d30ad3cede091fecebae69384fb81dd9d2e8e15277ec83"
-                },
-                {
                     "url": "https://github.com/IHaveAName2653/ProtoFluxContextualActions/releases/download/v2.0.18/ProtoFluxContextualActions.dll",
                     "sha256": "5f1b00fb5581668df072d2f0852b88a4d858fab07dffa6349b8d840ab7fc1342"
                 }
@@ -138,10 +102,6 @@
         "2.0.17": {
             "releaseUrl": "https://github.com/IHaveAName2653/ProtoFluxContextualActions/releases/tag/v2.0.17",
             "artifacts": [
-                {
-                    "url": "https://github.com/IHaveAName2653/ProtoFluxContextualActions/releases/download/v2.0.17/ProtoFluxContextualActions-DEBUG.dll",
-                    "sha256": "2640d515bc012bc0cad5a3cad0e2b0665a31ee45e73dab31c8aacd561fc133f5"
-                },
                 {
                     "url": "https://github.com/IHaveAName2653/ProtoFluxContextualActions/releases/download/v2.0.17/ProtoFluxContextualActions.dll",
                     "sha256": "56383b772f3d254574baa99701deefa3a57af9bc252b5b24f9bfccaac2a4655f"
@@ -152,10 +112,6 @@
             "releaseUrl": "https://github.com/IHaveAName2653/ProtoFluxContextualActions/releases/tag/v2.0.16",
             "artifacts": [
                 {
-                    "url": "https://github.com/IHaveAName2653/ProtoFluxContextualActions/releases/download/v2.0.16/ProtoFluxContextualActions-DEBUG.dll",
-                    "sha256": "7427b813b793145a397336e03fd69eaaa234095c1b276d4f7fc77b203b0fe0b6"
-                },
-                {
                     "url": "https://github.com/IHaveAName2653/ProtoFluxContextualActions/releases/download/v2.0.16/ProtoFluxContextualActions.dll",
                     "sha256": "16f04d9d93b1b629e983c9b2e3e4e71827dc930fa9b52fadb83b0d164d1c1988"
                 }
@@ -164,10 +120,6 @@
         "2.0.15": {
             "releaseUrl": "https://github.com/IHaveAName2653/ProtoFluxContextualActions/releases/tag/v2.0.15",
             "artifacts": [
-                {
-                    "url": "https://github.com/IHaveAName2653/ProtoFluxContextualActions/releases/download/v2.0.15/ProtoFluxContextualActions-DEBUG.dll",
-                    "sha256": "d9587df5e145844cdf8536923f80fc39221274936edff1a8351a02fe7a6b73d6"
-                },
                 {
                     "url": "https://github.com/IHaveAName2653/ProtoFluxContextualActions/releases/download/v2.0.15/ProtoFluxContextualActions.dll",
                     "sha256": "4f729d7fb3b98c6043de9ab80b09cb77e30a244e6b9460874525d2dfc33d7f57"
@@ -178,10 +130,6 @@
             "releaseUrl": "https://github.com/IHaveAName2653/ProtoFluxContextualActions/releases/tag/v2.0.14",
             "artifacts": [
                 {
-                    "url": "https://github.com/IHaveAName2653/ProtoFluxContextualActions/releases/download/v2.0.14/ProtoFluxContextualActions-DEBUG.dll",
-                    "sha256": "3b42d8dc20971718cdcd36a51f422ec2e497fcd241593190aa15fc473d8674bc"
-                },
-                {
                     "url": "https://github.com/IHaveAName2653/ProtoFluxContextualActions/releases/download/v2.0.14/ProtoFluxContextualActions.dll",
                     "sha256": "26b5b1fa85901699b75a8d29595784cee927e6d8f69788c01fd93f2b111cd27b"
                 }
@@ -190,10 +138,6 @@
         "2.0.13": {
             "releaseUrl": "https://github.com/IHaveAName2653/ProtoFluxContextualActions/releases/tag/v2.0.13",
             "artifacts": [
-                {
-                    "url": "https://github.com/IHaveAName2653/ProtoFluxContextualActions/releases/download/v2.0.13/ProtoFluxContextualActions-DEBUG.dll",
-                    "sha256": "ab6ef4b96e188230f8bafd4c710ffce38da5b5d3a0ee8883879dc2175152bce7"
-                },
                 {
                     "url": "https://github.com/IHaveAName2653/ProtoFluxContextualActions/releases/download/v2.0.13/ProtoFluxContextualActions.dll",
                     "sha256": "a6ccd43528a29081b57d61467ccd73642dd793d335c72f3ace98ec893441bfb6"
@@ -204,10 +148,6 @@
             "releaseUrl": "https://github.com/IHaveAName2653/ProtoFluxContextualActions/releases/tag/v2.0.12",
             "artifacts": [
                 {
-                    "url": "https://github.com/IHaveAName2653/ProtoFluxContextualActions/releases/download/v2.0.12/ProtoFluxContextualActions-DEBUG.dll",
-                    "sha256": "e5fcb12e13595f4fdb16282d1ae11ae72a8b26588f76d6769315cd81ddb41fab"
-                },
-                {
                     "url": "https://github.com/IHaveAName2653/ProtoFluxContextualActions/releases/download/v2.0.12/ProtoFluxContextualActions.dll",
                     "sha256": "65c2c0f4ae692d7304c95ef1315f59922fcace8ed030ac3e04b8281480d6a7c7"
                 }
@@ -216,10 +156,6 @@
         "2.0.11": {
             "releaseUrl": "https://github.com/IHaveAName2653/ProtoFluxContextualActions/releases/tag/v2.0.11",
             "artifacts": [
-                {
-                    "url": "https://github.com/IHaveAName2653/ProtoFluxContextualActions/releases/download/v2.0.11/ProtoFluxContextualActions-DEBUG.dll",
-                    "sha256": "f857fa6e3acccb25cea885151195932b64815ac2dc5a95f42cd1849be1a8eede"
-                },
                 {
                     "url": "https://github.com/IHaveAName2653/ProtoFluxContextualActions/releases/download/v2.0.11/ProtoFluxContextualActions.dll",
                     "sha256": "ae39aa15b94a4afcdf4472fd85b5e682fdf33916b8385aafd58986a0c8318977"
@@ -230,10 +166,6 @@
             "releaseUrl": "https://github.com/IHaveAName2653/ProtoFluxContextualActions/releases/tag/v2.0.10",
             "artifacts": [
                 {
-                    "url": "https://github.com/IHaveAName2653/ProtoFluxContextualActions/releases/download/v2.0.10/ProtoFluxContextualActions-DEBUG.dll",
-                    "sha256": "cb642c6ba315cb70218523130d30807df61ed2bb540e943b4a8d3c9caf8e8e2d"
-                },
-                {
                     "url": "https://github.com/IHaveAName2653/ProtoFluxContextualActions/releases/download/v2.0.10/ProtoFluxContextualActions.dll",
                     "sha256": "7ce10e25f4de81ab209dad49b20bfd70439bac3068e35ab52cee3073a3458081"
                 }
@@ -242,10 +174,6 @@
         "2.0.1": {
             "releaseUrl": "https://github.com/IHaveAName2653/ProtoFluxContextualActions/releases/tag/v2.0.1",
             "artifacts": [
-                {
-                    "url": "https://github.com/IHaveAName2653/ProtoFluxContextualActions/releases/download/v2.0.1/ProtoFluxContextualActions-DEBUG.dll",
-                    "sha256": "317005065c5342fc76255bc6b3dc0f75b2461a10fffe0c8265364c613c966e2c"
-                },
                 {
                     "url": "https://github.com/IHaveAName2653/ProtoFluxContextualActions/releases/download/v2.0.1/ProtoFluxContextualActions.dll",
                     "sha256": "bc7b1f9bc4b37eb674b9733c2f0bfc2f3bc8c2042e7d596e88e6993e43df31ce"
