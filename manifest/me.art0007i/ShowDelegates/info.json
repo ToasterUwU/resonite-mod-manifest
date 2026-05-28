@@ -89,6 +89,16 @@
                 }
             ]
         },
+        "2.2.11": {
+            "releaseUrl": "https://github.com/art0007i/ShowDelegates/releases/tag/2.2.11",
+            "artifacts": [
+                {
+                    "url": "https://github.com/art0007i/ShowDelegates/releases/download/2.2.11/ShowDelegates.dll",
+                    "sha256": "8aebd1cf051c235f43bad2cd902099e46c194dfd097729267b70cc9fcf0d48d4",
+                    "filename": "ShowDelegates.dll"
+                }
+            ]
+        },
         "2.2.10": {
             "releaseUrl": "https://github.com/art0007i/ShowDelegates/releases/tag/2.2.10",
             "artifacts": [
