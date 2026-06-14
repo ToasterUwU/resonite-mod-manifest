@@ -10,6 +10,9 @@ import requests
 ignore_list = ["net.eia485.GetItemLink"]
 
 
+exclude_dlls = {"com.IHaveAName2653.ProtoFluxContextualActions": ["DEBUG"]}
+
+
 def check_github_rate_limit(response):
     remaining = int(response.headers.get("X-RateLimit-Remaining", "1"))
     reset = int(response.headers.get("X-RateLimit-Reset", "0"))
@@ -149,6 +152,17 @@ def check_for_updates(info: dict):
             # Ignore archive files entirely
             if asset_name.lower().endswith(archive_exts):
                 continue
+
+            # Check for excluded DLLs if it's a new artifact
+            if asset_name not in previous_artifact_info:
+                mod_id = info.get("id")
+                if mod_id in exclude_dlls:
+                    if any(
+                        keyword.lower() in asset_name.lower()
+                        for keyword in exclude_dlls[mod_id]
+                    ):
+                        print(f"Skipping excluded DLL {asset_name} for mod {mod_id}")
+                        continue
 
             try:
                 asset_resp = github_request_with_retry(asset_url, headers=headers)
