@@ -397,6 +397,15 @@
                             ],
                             "releaseUrl": "https://github.com/IHaveAName2653/ProtoFluxContextualActions/releases/tag/v2.0.21"
                         },
+                        "2.0.22": {
+                            "artifacts": [
+                                {
+                                    "sha256": "0b2b189b9b23336f4b4997cc533e5e78845d0cbb250f2a2185a80326ee44d345",
+                                    "url": "https://github.com/IHaveAName2653/ProtoFluxContextualActions/releases/download/v2.0.22/ProtoFluxContextualActions.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/IHaveAName2653/ProtoFluxContextualActions/releases/tag/v2.0.22"
+                        },
                         "2.0.3": {
                             "artifacts": [
                                 {
