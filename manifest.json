@@ -11191,6 +11191,15 @@
                                 }
                             ],
                             "releaseUrl": "https://github.com/noblereign/InventoryHelper/releases/tag/4.0.1-preview"
+                        },
+                        "4.0.2": {
+                            "artifacts": [
+                                {
+                                    "sha256": "af99c796b76472ad40a75a5b293bcd74f339b849e2b4de6e0965d02bfcafd4a1",
+                                    "url": "https://github.com/noblereign/InventoryHelper/releases/download/4.0.2-preview/InventoryHelper.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/noblereign/InventoryHelper/releases/tag/4.0.2-preview"
                         }
                     }
                 }
