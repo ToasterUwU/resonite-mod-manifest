@@ -43,7 +43,8 @@ We currently have everything.
 
 ## Mods we have an older version of (will also be fixed ASAP)
 
-We are currently up to date.
+- [ContextMenuHookLib](https://git.unix.dog/yosh/ResoniteContextMenuHookLib) (by yosh)  - 1.0.0
+
 
 ## What is this?
 
