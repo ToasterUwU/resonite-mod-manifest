@@ -35,7 +35,6 @@ This fork is bleeding edge unstable stuff. I dont check the mod updates, i dont 
 - [VRCFTReceiver](https://github.com/hazre/VRCFTReceiver) (by hazre)  - 2.0.0 vs 1.0.4
 - [InspectorScroll](https://github.com/art0007i/InspectorScroll) (by art0007i)  - 2.0.2 vs 2.0.1
 - [SessionTabOverhaul](https://github.com/NepuShiro/ResoniteSessionTabOverhaul) (by NepuShiro)  - 2.2.0 vs 2.1.1
-- [HeadlessTweaks](https://github.com/New-Project-Final-Final-WIP/HeadlessTweaks) (by New_Project_Final_Final_WIP)  - 2.2.1 vs 2.2.0
 
 
 ## Mods we are currently missing (will always be fixed ASAP)
@@ -44,6 +43,7 @@ We currently have everything.
 
 ## Mods we have an older version of (will also be fixed ASAP)
 
+- [ContextMenuHookLib](https://git.unix.dog/yosh/ResoniteContextMenuHookLib) (by yosh)  - 1.0.1
 - [EmpoweredImageEncoding](https://git.unix.dog/yosh/ResoniteEmpoweredImageEncoding) (by yosh)  - 2.0.1
 
 
