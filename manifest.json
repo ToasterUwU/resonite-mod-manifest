@@ -44,6 +44,15 @@
                                 }
                             ],
                             "releaseUrl": "https://github.com/ResoniteModdingGroup/BoundedUIX/releases/tag/v2.1.0"
+                        },
+                        "2.1.1": {
+                            "artifacts": [
+                                {
+                                    "sha256": "dfb74a2d7e0ac06113a7a311b6fc9a4c4aa66dcec20486323100462b064f8be0",
+                                    "url": "https://github.com/ResoniteModdingGroup/BoundedUIX/releases/download/v2.1.1/BoundedUIX.nupkg"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/ResoniteModdingGroup/BoundedUIX/releases/tag/v2.1.1"
                         }
                     }
                 },
