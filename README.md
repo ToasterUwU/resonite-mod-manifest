@@ -34,6 +34,7 @@ This fork is bleeding edge unstable stuff. I dont check the mod updates, i dont 
 - [EsnyaTweaks](https://github.com/esnya/ResoniteEsnyaTweaks) (by esnya)  - 1.0.0 vs 0.1.0
 - [VRCFTReceiver](https://github.com/hazre/VRCFTReceiver) (by hazre)  - 2.0.0 vs 1.0.4
 - [InspectorScroll](https://github.com/art0007i/InspectorScroll) (by art0007i)  - 2.0.2 vs 2.0.1
+- [LogCleaner](https://github.com/art0007i/LogCleaner) (by art0007i)  - 1.1.3 vs 1.1.2
 - [SessionTabOverhaul](https://github.com/NepuShiro/ResoniteSessionTabOverhaul) (by NepuShiro)  - 2.2.0 vs 2.1.1
 
 
