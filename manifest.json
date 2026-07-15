@@ -4762,6 +4762,23 @@
                 }
             },
             "entries": {
+                "dog.glacier.BetterDynBoneVisualizer": {
+                    "category": "Visual Tweaks",
+                    "description": "Reimplements the Dynamic Bone Chain's visualizer in a less flashy way.",
+                    "name": "BetterDynBoneVisualizer",
+                    "sourceLocation": "https://github.com/noblereign/ResoniteBetterDynBoneVisualizer",
+                    "versions": {
+                        "1.0.0": {
+                            "artifacts": [
+                                {
+                                    "sha256": "5c2e8ff58b078f6d2b7d4f03625f25e9d7f04b0d73a25becf13c0b3a5793cadd",
+                                    "url": "https://github.com/noblereign/ResoniteBetterDynBoneVisualizer/releases/download/v1.0.0/BetterDynBoneVisualizer.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/noblereign/ResoniteBetterDynBoneVisualizer/releases/tag/v1.0.0"
+                        }
+                    }
+                },
                 "dog.glacier.ContextMenuBackOption": {
                     "category": "Context Menu",
                     "description": "Adds a Back option to every Context Menu submenu.",
@@ -4875,6 +4892,58 @@
                                 }
                             ],
                             "releaseUrl": "https://github.com/noblereign/ResoniteContextMenuBackOption/releases/tag/v3.0.0"
+                        }
+                    }
+                },
+                "dog.glacier.CustomToolScaling": {
+                    "category": "Technical Tweaks",
+                    "description": "Lets you specify a custom tool scale for your avatars. ",
+                    "name": "CustomToolScaling",
+                    "sourceLocation": "https://github.com/noblereign/ResoniteCustomToolScaling",
+                    "versions": {
+                        "1.0.0": {
+                            "artifacts": [
+                                {
+                                    "sha256": "9bf9d6acc6ea1b1e75e8f9d58e2cb3484d18111d7c6725c24d937a3a38308548",
+                                    "url": "https://github.com/noblereign/ResoniteCustomToolScaling/releases/download/v1.0.0/CustomToolScaling.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/noblereign/ResoniteCustomToolScaling/releases/tag/v1.0.0"
+                        },
+                        "1.0.1": {
+                            "artifacts": [
+                                {
+                                    "sha256": "caf942f54e174bed84a4f787d0cebec9045cfea50db7dfc5ab3f72bb00713f83",
+                                    "url": "https://github.com/noblereign/ResoniteCustomToolScaling/releases/download/v1.0.1/CustomToolScaling.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/noblereign/ResoniteCustomToolScaling/releases/tag/v1.0.1"
+                        }
+                    }
+                },
+                "dog.glacier.GrabbersGalore": {
+                    "category": "Controls",
+                    "description": "Allows you to add more Grabbers to your avatar using dynamic variables. Check the readme for setup steps",
+                    "name": "GrabbersGalore",
+                    "sourceLocation": "https://github.com/noblereign/ResoniteGrabbersGalore",
+                    "versions": {
+                        "1.0.0": {
+                            "artifacts": [
+                                {
+                                    "sha256": "a01c1a68fce72400c11f3d2c6cee94b61dad49d42fbcd552ab3ed814b9af62ac",
+                                    "url": "https://github.com/noblereign/ResoniteGrabbersGalore/releases/download/v1.0.0/GrabbersGalore.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/noblereign/ResoniteGrabbersGalore/releases/tag/v1.0.0"
+                        },
+                        "1.1.0": {
+                            "artifacts": [
+                                {
+                                    "sha256": "c3c394601992801a85ac5311148196b39761cb9410f282fc2acd275d2a859c22",
+                                    "url": "https://github.com/noblereign/ResoniteGrabbersGalore/releases/download/v1.1.0/GrabbersGalore.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/noblereign/ResoniteGrabbersGalore/releases/tag/v1.1.0"
                         }
                     }
                 }
@@ -11364,6 +11433,15 @@
                                 }
                             ],
                             "releaseUrl": "https://git.unix.dog/yosh/ResoniteContextMenuHookLib/releases/tag/v1.0.1"
+                        },
+                        "1.0.2": {
+                            "artifacts": [
+                                {
+                                    "sha256": "f6b456cab705ca838212ce44b679b040f025e0874ddaa73d3e7b046f657e8925",
+                                    "url": "https://git.unix.dog/yosh/ResoniteContextMenuHookLib/releases/download/v1.0.2/ContextMenuHookLib.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://git.unix.dog/yosh/ResoniteContextMenuHookLib/releases/tag/v1.0.2"
                         }
                     }
                 },
@@ -11443,6 +11521,15 @@
                                 }
                             ],
                             "releaseUrl": "https://git.unix.dog/yosh/ResoniteEmpoweredImageEncoding/releases/tag/v2.0.1"
+                        },
+                        "2.0.2": {
+                            "artifacts": [
+                                {
+                                    "sha256": "6a7555e42d299817196749a4bd3c5b526ea888930d94638696e071270f9ed7a2",
+                                    "url": "https://git.unix.dog/yosh/ResoniteEmpoweredImageEncoding/releases/download/v2.0.2/EmpoweredImageEncoding.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://git.unix.dog/yosh/ResoniteEmpoweredImageEncoding/releases/tag/v2.0.2"
                         }
                     }
                 },

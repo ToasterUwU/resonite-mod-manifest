@@ -39,16 +39,11 @@ This fork is bleeding edge unstable stuff. I dont check the mod updates, i dont 
 
 ## Mods we are currently missing (will always be fixed ASAP)
 
-- [BetterDynBoneVisualizer](https://github.com/noblereign/ResoniteBetterDynBoneVisualizer) (by Noble)
-- [CustomToolScaling](https://github.com/noblereign/ResoniteCustomToolScaling) (by Noble)
-- [GrabbersGalore](https://github.com/noblereign/ResoniteGrabbersGalore) (by Noble)
-
+We currently have everything.
 
 ## Mods we have an older version of (will also be fixed ASAP)
 
-- [ContextMenuHookLib](https://git.unix.dog/yosh/ResoniteContextMenuHookLib) (by yosh)  - 1.0.1
-- [EmpoweredImageEncoding](https://git.unix.dog/yosh/ResoniteEmpoweredImageEncoding) (by yosh)  - 2.0.1
-
+We are currently up to date.
 
 ## What is this?
 
