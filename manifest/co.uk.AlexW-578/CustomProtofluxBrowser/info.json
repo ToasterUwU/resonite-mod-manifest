@@ -19,7 +19,7 @@
             "artifacts": [
                 {
                     "url": "https://github.com/AlexW-578/CustomProtofluxBrowser/releases/download/v2.1.3/CustomProtofluxBrowser.dll",
-                    "sha256": "4EB4182F0468C79BB5FA80DF755E44032162967B006748BCC509CB6210D81A97"
+                    "sha256": "4eb4182f0468c79bb5fa80df755e44032162967b006748bcc509cb6210d81a97"
                 }
             ]
         },

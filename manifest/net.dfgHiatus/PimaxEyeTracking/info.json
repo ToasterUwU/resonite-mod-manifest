@@ -10,7 +10,7 @@
             "artifacts": [
                 {
                     "url": "https://github.com/dfgHiatus/ResonitePimaxEyeTracking/releases/download/v2.0.0/PimaxEyeTracking-Resonite.dll",
-                    "sha256": "b37fb3a29c75907f1dc412908395e74cf35e90ad58657e81a59479aba4fa0c22"
+                    "sha256": "c6903a9244b9ff51c9107664ef77f70d6b4e7b074bdefe64878e23259a604917"
                 },
                 {
                     "url": "https://github.com/dfgHiatus/ResonitePimaxEyeTracking/releases/download/v2.0.0/PimaxEyeTracker.dll",

@@ -22,7 +22,7 @@
             "artifacts": [
                 {
                     "url": "https://codeberg.org/Raidriar/HDRProbeFix/releases/download/v1.0.0/HDRProbeFix.dll",
-                    "sha256": "6D1F152107679BE5C67AD8D84B5C0EBE35638FA1172D386D1D93469149A76719"
+                    "sha256": "6d1f152107679be5c67ad8d84b5c0ebe35638fa1172d386d1d93469149a76719"
                 }
             ]
         }

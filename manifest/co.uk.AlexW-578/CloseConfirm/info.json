@@ -10,11 +10,11 @@
             "artifacts": [
                 {
                     "url": "https://github.com/AlexW-578/CloseConfirm/releases/download/v1.2.0/CloseConfirm.dll",
-                    "sha256": "074bebdae854f7a40ddf074d5a4f017c5c7516f1878f1dc3d79560945bd57574"
+                    "sha256": "06012d9f38a65e2eddd4570c8ff6e01ad0c58e0d79df90c606b4ee0b22144017"
                 },
                 {
                     "url": "https://github.com/AlexW-578/CloseConfirm/releases/download/v1.2.0/CloseConfirm.dll.sha256",
-                    "sha256": "301737d721b00eb74077a74fa251948e9a68853fd524532d990eb234ef9a2380"
+                    "sha256": "8ec7a853f4c97b4cd3855886445d8270d5bb3745255fcc3150d388b1a4d0c621"
                 }
             ]
         },
@@ -23,7 +23,7 @@
             "artifacts": [
                 {
                     "url": "https://github.com/AlexW-578/CloseConfirm/releases/download/v1.1.0/CloseConfirm.dll",
-                    "sha256": "C188D02C48303254066CBCC9D34737EF9FB646D7599ED73F2679BA437D3F1ABD"
+                    "sha256": "c188d02c48303254066cbcc9d34737ef9fb646d7599ed73f2679ba437d3f1abd"
                 }
             ]
         },

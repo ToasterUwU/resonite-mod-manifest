@@ -11,7 +11,7 @@
                 {
                     "url": "https://codeberg.org/Raidriar/IkCulling/releases/download/2.8.3/IkCulling.dll",
                     "filename": "IkCulling.dll",
-                    "sha256": "7E8FD1DD5F29C58A14AD0BE348D1046119EDBC59EA5773A812C6DC3594C58177"
+                    "sha256": "7e8fd1dd5f29c58a14ad0be348d1046119edbc59ea5773a812c6dc3594c58177"
                 }
             ]
         },
@@ -21,7 +21,7 @@
                 {
                     "url": "https://codeberg.org/Raidriar/IkCulling/releases/download/2.8.1/IkCulling.dll",
                     "filename": "IkCulling.dll",
-                    "sha256": "F5EEB8F37E5CC4DD9513186F78A798DFB04A34701809AA656BFE0AAB0217F29E"
+                    "sha256": "f5eeb8f37e5cc4dd9513186f78a798dfb04a34701809aa656bfe0aab0217f29e"
                 }
             ]
         },
@@ -31,7 +31,7 @@
                 {
                     "url": "https://codeberg.org/Raidriar/IkCulling/releases/download/2.8.0/IkCulling.dll",
                     "filename": "IkCulling.dll",
-                    "sha256": "4077940A210542AAB7694C195594515B250C12B95A97030005BC329366EB6431"
+                    "sha256": "4077940a210542aab7694c195594515b250c12b95a97030005bc329366eb6431"
                 }
             ]
         },
@@ -41,7 +41,7 @@
                 {
                     "url": "https://codeberg.org/Raidriar/IkCulling/releases/download/2.7.1/ResoniteIKCulling.dll",
                     "filename": "ResoniteIKCulling.dll",
-                    "sha256": "86D901A818477840272FB1AAA3480F87AC97F8FB9691CF9B60FD33D1CC9770B6"
+                    "sha256": "86d901a818477840272fb1aaa3480f87ac97f8fb9691cf9b60fd33d1cc9770b6"
                 }
             ]
         },
@@ -51,7 +51,7 @@
                 {
                     "url": "https://codeberg.org/Raidriar/IkCulling/releases/download/2.7.0/ResoniteIKCulling.dll",
                     "filename": "ResoniteIKCulling.dll",
-                    "sha256": "98F6BD007B0E0D4EAE726D66D3D6096626691024849F4A394A2BCF48357E681E"
+                    "sha256": "98f6bd007b0e0d4eae726d66d3d6096626691024849f4a394a2bcf48357e681e"
                 }
             ]
         },
@@ -61,7 +61,7 @@
                 {
                     "url": "https://codeberg.org/Raidriar/IkCulling/releases/download/2.6.2/ResoniteIKCulling.dll",
                     "filename": "ResoniteIKCulling.dll",
-                    "sha256": "1D0A370B05FDE8937BCF2D96CFA632163F9BA3E4EC716EB62D5BF92524C7FE87"
+                    "sha256": "1d0a370b05fde8937bcf2d96cfa632163f9ba3e4ec716eb62d5bf92524c7fe87"
                 }
             ]
         },
@@ -71,7 +71,7 @@
                 {
                     "url": "https://codeberg.org/Raidriar/IkCulling/releases/download/2.6.1/ResoniteIKCulling.dll",
                     "filename": "ResoniteIKCulling.dll",
-                    "sha256": "01A38C707818039EE9EAF3BFC2F0EFFB406308CC1968D8F419C4BB60D38EB49A"
+                    "sha256": "01a38c707818039ee9eaf3bfc2f0effb406308cc1968d8f419c4bb60d38eb49a"
                 }
             ]
         },
@@ -81,7 +81,7 @@
                 {
                     "url": "https://codeberg.org/Raidriar/IkCulling/releases/download/2.5.0/ResoniteIKCulling.dll",
                     "filename": "ResoniteIKCulling.dll",
-                    "sha256": "F302E36B1E5EF41FD518F03D69C157B763F2127149DD0095A3DF61D9EB0E1E2C"
+                    "sha256": "f302e36b1e5ef41fd518f03d69c157b763f2127149dd0095a3df61d9eb0e1e2c"
                 }
             ]
         }

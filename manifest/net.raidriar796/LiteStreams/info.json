@@ -11,7 +11,7 @@
                 {
                     "url": "https://codeberg.org/Raidriar/LiteStreams/releases/download/2.0.1/LiteStreams.dll",
                     "filename": "LiteStreams.dll",
-                    "sha256": "3D7879E3E197B03E301AD95FBF65C65C825B60B15A27F552D2806CA37F526536"
+                    "sha256": "3d7879e3e197b03e301ad95fbf65c65c825b60b15a27f552d2806ca37f526536"
                 }
             ]
         },
@@ -21,7 +21,7 @@
                 {
                     "url": "https://codeberg.org/Raidriar/LiteStreams/releases/download/2.0.0/LiteStreams.dll",
                     "filename": "LiteStreams.dll",
-                    "sha256": "7D98768292E3A61B98EE2C26ACE8E42DC91F569189A079C7E63B904061171D03"
+                    "sha256": "7d98768292e3a61b98ee2c26ace8e42dc91f569189a079c7e63b904061171d03"
                 }
             ]
         },
@@ -71,7 +71,7 @@
                 {
                     "url": "https://codeberg.org/Raidriar/LiteStreams/releases/download/1.1.0/LiteStreams.dll",
                     "filename": "LiteStreams.dll",
-                    "sha256": "09C3C6644F8A7C91BC7832A58EAF8B2E70CA85D9DD53710B3C4D0140F3EECE60"
+                    "sha256": "09c3c6644f8a7c91bc7832a58eaf8b2e70ca85d9dd53710b3c4d0140f3eece60"
                 }
             ]
         },

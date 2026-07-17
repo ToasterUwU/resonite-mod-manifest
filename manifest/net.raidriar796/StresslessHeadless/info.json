@@ -14,7 +14,7 @@
                 {
                     "url": "https://codeberg.org/Raidriar/StresslessHeadless/releases/download/2.2.1/StresslessHeadless.dll",
                     "filename": "StresslessHeadless.dll",
-                    "sha256": "0E2A5E497D45EB4E29FF3300CA382069BE8EDA439F9E389B7DD5110214B3E1C5"
+                    "sha256": "0e2a5e497d45eb4e29ff3300ca382069be8eda439f9e389b7dd5110214b3e1c5"
                 }
             ]
         },
@@ -24,7 +24,7 @@
                 {
                     "url": "https://codeberg.org/Raidriar/StresslessHeadless/releases/download/2.2.0/StresslessHeadless.dll",
                     "filename": "StresslessHeadless.dll",
-                    "sha256": "834A4052978EBB39744FF39455EFB2F3E0007B1C1FCD5331D112C92D3221CC8E"
+                    "sha256": "834a4052978ebb39744ff39455efb2f3e0007b1c1fcd5331d112c92d3221cc8e"
                 }
             ]
         },
@@ -34,7 +34,7 @@
                 {
                     "url": "https://codeberg.org/Raidriar/StresslessHeadless/releases/download/2.1.0/StresslessHeadless.dll",
                     "filename": "StresslessHeadless.dll",
-                    "sha256": "66E99BA443238F754E0ED9DBFF7E9D364194DE4E2FCA4ABB58FCD468C7E5EB88"
+                    "sha256": "66e99ba443238f754e0ed9dbff7e9d364194de4e2fca4abb58fcd468c7e5eb88"
                 }
             ]
         },
@@ -64,7 +64,7 @@
                 {
                     "url": "https://codeberg.org/Raidriar/StresslessHeadless/releases/download/2.0.0/StresslessHeadless.dll",
                     "filename": "StresslessHeadless.dll",
-                    "sha256": "0C9F9177A3712762D7A9194609AADF0AD5988DEB8C3705CBFDBD4406388B656A"
+                    "sha256": "0c9f9177a3712762d7a9194609aadf0ad5988deb8c3705cbfdbd4406388b656a"
                 }
             ]
         },
@@ -74,7 +74,7 @@
                 {
                     "url": "https://codeberg.org/Raidriar/StresslessHeadless/releases/download/1.3.1/StresslessHeadless.dll",
                     "filename": "StresslessHeadless.dll",
-                    "sha256": "B3E2DDCA4C745422B9EA43BFD2414ED9A2C1C7A7E091434E4548F17CBC1F6166"
+                    "sha256": "b3e2ddca4c745422b9ea43bfd2414ed9a2c1c7a7e091434e4548f17cbc1f6166"
                 }
             ]
         },
@@ -94,7 +94,7 @@
                 {
                     "url": "https://codeberg.org/Raidriar/StresslessHeadless/releases/download/1.2.0/StresslessHeadless.dll",
                     "filename": "StresslessHeadless.dll",
-                    "sha256": "3A42C7169335F3F1D02EB4B352977E0082EA8A458BCBE129BC3D12A182B3EC15"
+                    "sha256": "3a42c7169335f3f1d02eb4b352977e0082ea8a458bcbe129bc3d12a182b3ec15"
                 }
             ]
         },
@@ -104,7 +104,7 @@
                 {
                     "url": "https://codeberg.org/Raidriar/StresslessHeadless/releases/download/1.1.0/StresslessHeadless.dll",
                     "filename": "StresslessHeadless.dll",
-                    "sha256": "5F8C97CD506AF6C788DF03FE2CDE174A379FEBC0570FABCA3434172A38B3988D"
+                    "sha256": "5f8c97cd506af6c788df03fe2cde174a379febc0570fabca3434172a38b3988d"
                 }
             ]
         },

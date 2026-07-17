@@ -11,7 +11,7 @@
                 {
                     "url": "https://codeberg.org/Raidriar/Lognt/releases/download/1.2.0/Lognt.dll",
                     "filename": "Lognt.dll",
-                    "sha256": "8C3F50E63CCA6FDE5053A40CB170AF14CC59C0C2A6186BD1501FE79F6AAB2195"
+                    "sha256": "8c3f50e63cca6fde5053a40cb170af14cc59c0c2a6186bd1501fe79f6aab2195"
                 }
             ]
         },
@@ -31,7 +31,7 @@
                 {
                     "url": "https://codeberg.org/Raidriar/Lognt/releases/download/1.1.0/Lognt.dll",
                     "filename": "Lognt.dll",
-                    "sha256": "0C2B00AAED7FA050040B62CB534AA9DA4DC26A862590507E5549D6FE85836FEE"
+                    "sha256": "0c2b00aaed7fa050040b62cb534aa9da4dc26a862590507e5549d6fe85836fee"
                 }
             ]
         },
@@ -41,7 +41,7 @@
                 {
                     "url": "https://codeberg.org/Raidriar/Lognt/releases/download/1.0.0/Lognt.dll",
                     "filename": "Lognt.dll",
-                    "sha256": "1F69BE8F97EEBB89F7C86286E3540966D176F160AB3D91003C8DF9BB96C2F81A"
+                    "sha256": "1f69be8f97eebb89f7c86286e3540966d176f160ab3d91003c8df9bb96c2f81a"
                 }
             ]
         }

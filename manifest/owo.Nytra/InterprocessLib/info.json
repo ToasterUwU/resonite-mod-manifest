@@ -90,7 +90,7 @@
                 },
                 {
                     "url": "https://github.com/Nytra/ResoniteInterprocessLib/releases/download/v3.0.0/InterprocessLib.RML.Tests.dll",
-                    "sha256": "0ed1a03ac6dbfbed5958c08e254e8d155d8c35d554fdf73633644298e15268a5",
+                    "sha256": "b0d3d3cc95a2b016c6e41b6a07f774ed953e3742012355fa571b4472b8d4184d",
                     "installLocation": "/rml_libs"
                 },
                 {

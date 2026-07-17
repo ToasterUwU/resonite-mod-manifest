@@ -20,7 +20,7 @@
                 {
                     "url": "https://github.com/hazre/ResonitePrivacyShield/releases/download/v2.0.3/PrivacyShield.dll",
                     "filename": "PrivacyShield.dll",
-                    "sha256": "13D47822596AB0D6DD2DDD2B7AE6BB005A1FF89A84E1E6345B0912E2BCDCEDA0"
+                    "sha256": "13d47822596ab0d6dd2ddd2b7ae6bb005a1ff89a84e1e6345b0912e2bcdceda0"
                 }
             ]
         },
@@ -30,7 +30,7 @@
                 {
                     "url": "https://github.com/hazre/ResonitePrivacyShield/releases/download/v2.0.2/PrivacyShield.dll",
                     "filename": "PrivacyShield.dll",
-                    "sha256": "1BDBF99BCC08E3699A86BCEBE850C60B1598D0B8F39882E2F73CD7F225DC3352"
+                    "sha256": "1bdbf99bcc08e3699a86bcebe850c60b1598d0b8f39882e2f73cd7f225dc3352"
                 }
             ]
         },

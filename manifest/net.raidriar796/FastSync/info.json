@@ -11,7 +11,7 @@
                 {
                     "url": "https://codeberg.org/Raidriar/FastSync/releases/download/1.1.0/FastSync.dll",
                     "filename": "FastSync.dll",
-                    "sha256": "8045D74F505989AFC32CA9FF353BA9F3AF25C38472A1C3702D78A70370FD06B3"
+                    "sha256": "8045d74f505989afc32ca9ff353ba9f3af25c38472a1c3702d78a70370fd06b3"
                 }
             ]
         },
@@ -31,7 +31,7 @@
                 {
                     "url": "https://codeberg.org/Raidriar/FastSync/releases/download/1.0.0/FastSync.dll",
                     "filename": "FastSync.dll",
-                    "sha256": "B7CC2897F96F6B4F968A0067ECEB03C31C75B6A0458FBE42566539AC7FF2F6D2"
+                    "sha256": "b7cc2897f96f6b4f968a0067eceb03c31c75b6a0458fbe42566539ac7ff2f6d2"
                 }
             ]
         }

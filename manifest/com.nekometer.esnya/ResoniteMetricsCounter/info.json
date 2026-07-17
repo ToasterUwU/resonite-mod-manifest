@@ -29,7 +29,7 @@
             "artifacts": [
                 {
                     "url": "https://github.com/esnya/ResoniteMetricsCounter/releases/download/v0.7.0.0/ResoniteMetricsCounter.dll",
-                    "sha256": "26c5f0aec4bbde207cc4c23b2261eb6a6975fbeae28c939c61648215cb818511"
+                    "sha256": "7d23c78ec7fde579f17505dc488b5bd02143d510e7959ff8eba494f2ad565d90"
                 }
             ]
         }
