@@ -1303,7 +1303,7 @@
                             "artifacts": [
                                 {
                                     "filename": "ResonitePlatformSpoof.dll",
-                                    "sha256": "082D9872AC50F915B8D06820AF9B5E7D44D8941D6D2FEB023818EE2C34376CF3",
+                                    "sha256": "082d9872ac50f915b8d06820af9b5e7d44d8941d6d2feb023818ee2c34376cf3",
                                     "url": "https://github.com/isovel/ResonitePlatformSpoof/releases/download/v2.0.1/ResonitePlatformSpoof.dll"
                                 }
                             ],
@@ -1340,7 +1340,7 @@
                         "1.1.0": {
                             "artifacts": [
                                 {
-                                    "sha256": "C188D02C48303254066CBCC9D34737EF9FB646D7599ED73F2679BA437D3F1ABD",
+                                    "sha256": "c188d02c48303254066cbcc9d34737ef9fb646d7599ed73f2679ba437d3f1abd",
                                     "url": "https://github.com/AlexW-578/CloseConfirm/releases/download/v1.1.0/CloseConfirm.dll"
                                 }
                             ],
@@ -1349,11 +1349,11 @@
                         "1.2.0": {
                             "artifacts": [
                                 {
-                                    "sha256": "074bebdae854f7a40ddf074d5a4f017c5c7516f1878f1dc3d79560945bd57574",
+                                    "sha256": "06012d9f38a65e2eddd4570c8ff6e01ad0c58e0d79df90c606b4ee0b22144017",
                                     "url": "https://github.com/AlexW-578/CloseConfirm/releases/download/v1.2.0/CloseConfirm.dll"
                                 },
                                 {
-                                    "sha256": "301737d721b00eb74077a74fa251948e9a68853fd524532d990eb234ef9a2380",
+                                    "sha256": "8ec7a853f4c97b4cd3855886445d8270d5bb3745255fcc3150d388b1a4d0c621",
                                     "url": "https://github.com/AlexW-578/CloseConfirm/releases/download/v1.2.0/CloseConfirm.dll.sha256"
                                 }
                             ],
@@ -1379,7 +1379,7 @@
                         "2.0.0": {
                             "artifacts": [
                                 {
-                                    "sha256": "078FBA5D661C34CF0723798E2C70301854BC1A7B507E70F2C1BAA7D02DB298AA",
+                                    "sha256": "078fba5d661c34cf0723798e2c70301854bc1a7b507e70f2c1baa7d02db298aa",
                                     "url": "https://github.com/AlexW-578/ScalableMaterialOrbs/releases/download/v2.0.0/ScalableMaterialOrbs.dll"
                                 }
                             ],
@@ -1475,7 +1475,7 @@
                         "2.1.3": {
                             "artifacts": [
                                 {
-                                    "sha256": "4EB4182F0468C79BB5FA80DF755E44032162967B006748BCC509CB6210D81A97",
+                                    "sha256": "4eb4182f0468c79bb5fa80df755e44032162967b006748bcc509cb6210d81a97",
                                     "url": "https://github.com/AlexW-578/CustomProtofluxBrowser/releases/download/v2.1.3/CustomProtofluxBrowser.dll"
                                 }
                             ],
@@ -1602,7 +1602,7 @@
                         "1.4.3": {
                             "artifacts": [
                                 {
-                                    "sha256": "d523ee51cc05d8b742dafa27de653259298825def9c5a0ac66a4d6a3db9cab34",
+                                    "sha256": "414da7c71d8d4e0e22fa9e48a7e37172dcb3a6d1b93633cc078b6e0fffe5a2ec",
                                     "url": "https://github.com/DexyThePuppy/ProtoFluxOverhaul/releases/download/1.4.3/ProtoFluxOverhaul.dll"
                                 }
                             ],
@@ -3221,7 +3221,7 @@
                         "0.7.0": {
                             "artifacts": [
                                 {
-                                    "sha256": "26c5f0aec4bbde207cc4c23b2261eb6a6975fbeae28c939c61648215cb818511",
+                                    "sha256": "7d23c78ec7fde579f17505dc488b5bd02143d510e7959ff8eba494f2ad565d90",
                                     "url": "https://github.com/esnya/ResoniteMetricsCounter/releases/download/v0.7.0.0/ResoniteMetricsCounter.dll"
                                 }
                             ],
@@ -4441,7 +4441,7 @@
                             "artifacts": [
                                 {
                                     "filename": "PrivacyShield.dll",
-                                    "sha256": "1BDBF99BCC08E3699A86BCEBE850C60B1598D0B8F39882E2F73CD7F225DC3352",
+                                    "sha256": "1bdbf99bcc08e3699a86bcebe850c60b1598d0b8f39882e2f73cd7f225dc3352",
                                     "url": "https://github.com/hazre/ResonitePrivacyShield/releases/download/v2.0.2/PrivacyShield.dll"
                                 }
                             ],
@@ -4451,7 +4451,7 @@
                             "artifacts": [
                                 {
                                     "filename": "PrivacyShield.dll",
-                                    "sha256": "13D47822596AB0D6DD2DDD2B7AE6BB005A1FF89A84E1E6345B0912E2BCDCEDA0",
+                                    "sha256": "13d47822596ab0d6dd2ddd2b7ae6bb005a1ff89a84e1e6345b0912e2bcdceda0",
                                     "url": "https://github.com/hazre/ResonitePrivacyShield/releases/download/v2.0.3/PrivacyShield.dll"
                                 }
                             ],
@@ -4534,7 +4534,7 @@
                             "artifacts": [
                                 {
                                     "filename": "VRCFTReceiver.dll",
-                                    "sha256": "8B419A4FB64543D36CE7C02E1BFDCB9FA32039584F5462C3A6FBD067387F384F",
+                                    "sha256": "8b419a4fb64543d36ce7c02e1bfdcb9fa32039584f5462c3a6fbd067387f384f",
                                     "url": "https://github.com/hazre/VRCFTReceiver/releases/download/v1.0.4/VRCFTReceiver.dll"
                                 }
                             ]
@@ -5032,11 +5032,20 @@
                         "1.3.0": {
                             "artifacts": [
                                 {
-                                    "sha256": "1359399e3cff612e2138a4e9f4f8eb09e44d18d0c6444aff8ffbf2ed33563a58",
+                                    "sha256": "e497232699086f69487001363169f2e1a3fa3158e2e7e99cd5fa1eb9037666cd",
                                     "url": "https://forge.chapril.org/Baplar/Resonite.JustLetItGo/releases/download/1.3.0/JustLetItGo.dll"
                                 }
                             ],
                             "releaseUrl": "https://forge.chapril.org/Baplar/Resonite.JustLetItGo/releases/tag/1.3.0"
+                        },
+                        "1.4.0": {
+                            "artifacts": [
+                                {
+                                    "sha256": "705d9c89059fc661fe64dca7704375e28cac041b5d3dd603b3d7bd0b7b709042",
+                                    "url": "https://forge.chapril.org/Baplar/Resonite.JustLetItGo/releases/download/1.4.0/JustLetItGo.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://forge.chapril.org/Baplar/Resonite.JustLetItGo/releases/tag/1.4.0"
                         }
                     }
                 },
@@ -8863,7 +8872,7 @@
                         "2.0.0": {
                             "artifacts": [
                                 {
-                                    "sha256": "b37fb3a29c75907f1dc412908395e74cf35e90ad58657e81a59479aba4fa0c22",
+                                    "sha256": "c6903a9244b9ff51c9107664ef77f70d6b4e7b074bdefe64878e23259a604917",
                                     "url": "https://github.com/dfgHiatus/ResonitePimaxEyeTracking/releases/download/v2.0.0/PimaxEyeTracking-Resonite.dll"
                                 },
                                 {
@@ -9888,7 +9897,7 @@
                             "artifacts": [
                                 {
                                     "filename": "DynamicDesyncHelper.dll",
-                                    "sha256": "FB239E6F43BE2A2AB98A03EACE791F3B9C8EA860464945F733D9E10A4AE8CE10",
+                                    "sha256": "fb239e6f43be2a2ab98a03eace791f3b9c8ea860464945f733d9e10a4ae8ce10",
                                     "url": "https://codeberg.org/Raidriar/DynamicDesyncHelper/releases/download/0.1.1/DynamicDesyncHelper.dll"
                                 }
                             ],
@@ -9919,7 +9928,7 @@
                             "artifacts": [
                                 {
                                     "filename": "DynamicTickRate.dll",
-                                    "sha256": "3AF94439A0E7153CDDF4F85A94A97F5349A50CB60B92D456001CCFF5A4BDABF5",
+                                    "sha256": "3af94439a0e7153cddf4f85a94a97f5349a50cb60b92d456001ccff5a4bdabf5",
                                     "url": "https://codeberg.org/Raidriar/DynamicTickRate/releases/download/1.0.0/DynamicTickRate.dll"
                                 }
                             ],
@@ -9957,7 +9966,7 @@
                             "artifacts": [
                                 {
                                     "filename": "FastSync.dll",
-                                    "sha256": "B7CC2897F96F6B4F968A0067ECEB03C31C75B6A0458FBE42566539AC7FF2F6D2",
+                                    "sha256": "b7cc2897f96f6b4f968a0067eceb03c31c75b6a0458fbe42566539ac7ff2f6d2",
                                     "url": "https://codeberg.org/Raidriar/FastSync/releases/download/1.0.0/FastSync.dll"
                                 }
                             ],
@@ -9977,7 +9986,7 @@
                             "artifacts": [
                                 {
                                     "filename": "FastSync.dll",
-                                    "sha256": "8045D74F505989AFC32CA9FF353BA9F3AF25C38472A1C3702D78A70370FD06B3",
+                                    "sha256": "8045d74f505989afc32ca9ff353ba9f3af25c38472a1c3702d78a70370fd06b3",
                                     "url": "https://codeberg.org/Raidriar/FastSync/releases/download/1.1.0/FastSync.dll"
                                 }
                             ],
@@ -9997,7 +10006,7 @@
                         "1.0.0": {
                             "artifacts": [
                                 {
-                                    "sha256": "6D1F152107679BE5C67AD8D84B5C0EBE35638FA1172D386D1D93469149A76719",
+                                    "sha256": "6d1f152107679be5c67ad8d84b5c0ebe35638fa1172d386d1d93469149a76719",
                                     "url": "https://codeberg.org/Raidriar/HDRProbeFix/releases/download/v1.0.0/HDRProbeFix.dll"
                                 }
                             ],
@@ -10027,7 +10036,7 @@
                             "artifacts": [
                                 {
                                     "filename": "HeadlessUserCulling.dll",
-                                    "sha256": "E83890F75447E5496A7DAB10453D7212C1756F3C91285F1184E6C57495964ACD",
+                                    "sha256": "e83890f75447e5496a7dab10453d7212c1756f3c91285f1184e6c57495964acd",
                                     "url": "https://codeberg.org/Raidriar/HeadlessUserCulling/releases/download/1.0.0/HeadlessUserCulling.dll"
                                 }
                             ],
@@ -10047,7 +10056,7 @@
                             "artifacts": [
                                 {
                                     "filename": "HeadlessUserCulling.dll",
-                                    "sha256": "2BA6F640DA9FE8D4451884838295A7A9E31C9DE2BBA2C7F33149F783F2114F15",
+                                    "sha256": "2ba6f640da9fe8d4451884838295a7a9e31c9de2bba2c7f33149f783f2114f15",
                                     "url": "https://codeberg.org/Raidriar/HeadlessUserCulling/releases/download/1.1.1/HeadlessUserCulling.dll"
                                 }
                             ],
@@ -10057,7 +10066,7 @@
                             "artifacts": [
                                 {
                                     "filename": "HeadlessUserCulling.dll",
-                                    "sha256": "BB632928114E2318D883CEB2A5E2B20734434D2AC83600791B803CAC2EC59131",
+                                    "sha256": "bb632928114e2318d883ceb2a5e2b20734434d2ac83600791b803cac2ec59131",
                                     "url": "https://codeberg.org/Raidriar/HeadlessUserCulling/releases/download/1.1.2/HeadlessUserCulling.dll"
                                 }
                             ],
@@ -10085,7 +10094,7 @@
                             "artifacts": [
                                 {
                                     "filename": "ResoniteIKCulling.dll",
-                                    "sha256": "F302E36B1E5EF41FD518F03D69C157B763F2127149DD0095A3DF61D9EB0E1E2C",
+                                    "sha256": "f302e36b1e5ef41fd518f03d69c157b763f2127149dd0095a3df61d9eb0e1e2c",
                                     "url": "https://codeberg.org/Raidriar/IkCulling/releases/download/2.5.0/ResoniteIKCulling.dll"
                                 }
                             ],
@@ -10095,7 +10104,7 @@
                             "artifacts": [
                                 {
                                     "filename": "ResoniteIKCulling.dll",
-                                    "sha256": "01A38C707818039EE9EAF3BFC2F0EFFB406308CC1968D8F419C4BB60D38EB49A",
+                                    "sha256": "01a38c707818039ee9eaf3bfc2f0effb406308cc1968d8f419c4bb60d38eb49a",
                                     "url": "https://codeberg.org/Raidriar/IkCulling/releases/download/2.6.1/ResoniteIKCulling.dll"
                                 }
                             ],
@@ -10105,7 +10114,7 @@
                             "artifacts": [
                                 {
                                     "filename": "ResoniteIKCulling.dll",
-                                    "sha256": "1D0A370B05FDE8937BCF2D96CFA632163F9BA3E4EC716EB62D5BF92524C7FE87",
+                                    "sha256": "1d0a370b05fde8937bcf2d96cfa632163f9ba3e4ec716eb62d5bf92524c7fe87",
                                     "url": "https://codeberg.org/Raidriar/IkCulling/releases/download/2.6.2/ResoniteIKCulling.dll"
                                 }
                             ],
@@ -10115,7 +10124,7 @@
                             "artifacts": [
                                 {
                                     "filename": "ResoniteIKCulling.dll",
-                                    "sha256": "98F6BD007B0E0D4EAE726D66D3D6096626691024849F4A394A2BCF48357E681E",
+                                    "sha256": "98f6bd007b0e0d4eae726d66d3d6096626691024849f4a394a2bcf48357e681e",
                                     "url": "https://codeberg.org/Raidriar/IkCulling/releases/download/2.7.0/ResoniteIKCulling.dll"
                                 }
                             ],
@@ -10125,7 +10134,7 @@
                             "artifacts": [
                                 {
                                     "filename": "ResoniteIKCulling.dll",
-                                    "sha256": "86D901A818477840272FB1AAA3480F87AC97F8FB9691CF9B60FD33D1CC9770B6",
+                                    "sha256": "86d901a818477840272fb1aaa3480f87ac97f8fb9691cf9b60fd33d1cc9770b6",
                                     "url": "https://codeberg.org/Raidriar/IkCulling/releases/download/2.7.1/ResoniteIKCulling.dll"
                                 }
                             ],
@@ -10135,7 +10144,7 @@
                             "artifacts": [
                                 {
                                     "filename": "IkCulling.dll",
-                                    "sha256": "4077940A210542AAB7694C195594515B250C12B95A97030005BC329366EB6431",
+                                    "sha256": "4077940a210542aab7694c195594515b250c12b95a97030005bc329366eb6431",
                                     "url": "https://codeberg.org/Raidriar/IkCulling/releases/download/2.8.0/IkCulling.dll"
                                 }
                             ],
@@ -10145,7 +10154,7 @@
                             "artifacts": [
                                 {
                                     "filename": "IkCulling.dll",
-                                    "sha256": "F5EEB8F37E5CC4DD9513186F78A798DFB04A34701809AA656BFE0AAB0217F29E",
+                                    "sha256": "f5eeb8f37e5cc4dd9513186f78a798dfb04a34701809aa656bfe0aab0217f29e",
                                     "url": "https://codeberg.org/Raidriar/IkCulling/releases/download/2.8.1/IkCulling.dll"
                                 }
                             ],
@@ -10155,7 +10164,7 @@
                             "artifacts": [
                                 {
                                     "filename": "IkCulling.dll",
-                                    "sha256": "7E8FD1DD5F29C58A14AD0BE348D1046119EDBC59EA5773A812C6DC3594C58177",
+                                    "sha256": "7e8fd1dd5f29c58a14ad0be348d1046119edbc59ea5773a812c6dc3594c58177",
                                     "url": "https://codeberg.org/Raidriar/IkCulling/releases/download/2.8.3/IkCulling.dll"
                                 }
                             ],
@@ -10183,7 +10192,7 @@
                             "artifacts": [
                                 {
                                     "filename": "LiteStreams.dll",
-                                    "sha256": "09C3C6644F8A7C91BC7832A58EAF8B2E70CA85D9DD53710B3C4D0140F3EECE60",
+                                    "sha256": "09c3c6644f8a7c91bc7832a58eaf8b2e70ca85d9dd53710b3c4d0140f3eece60",
                                     "url": "https://codeberg.org/Raidriar/LiteStreams/releases/download/1.1.0/LiteStreams.dll"
                                 }
                             ],
@@ -10233,7 +10242,7 @@
                             "artifacts": [
                                 {
                                     "filename": "LiteStreams.dll",
-                                    "sha256": "7D98768292E3A61B98EE2C26ACE8E42DC91F569189A079C7E63B904061171D03",
+                                    "sha256": "7d98768292e3a61b98ee2c26ace8e42dc91f569189a079c7e63b904061171d03",
                                     "url": "https://codeberg.org/Raidriar/LiteStreams/releases/download/2.0.0/LiteStreams.dll"
                                 }
                             ],
@@ -10243,7 +10252,7 @@
                             "artifacts": [
                                 {
                                     "filename": "LiteStreams.dll",
-                                    "sha256": "3D7879E3E197B03E301AD95FBF65C65C825B60B15A27F552D2806CA37F526536",
+                                    "sha256": "3d7879e3e197b03e301ad95fbf65c65c825b60b15a27f552d2806ca37f526536",
                                     "url": "https://codeberg.org/Raidriar/LiteStreams/releases/download/2.0.1/LiteStreams.dll"
                                 }
                             ],
@@ -10268,7 +10277,7 @@
                             "artifacts": [
                                 {
                                     "filename": "NoSteamScreenshots.dll",
-                                    "sha256": "8D9F335ECD39AD245838215B47334825E8F96A8A1464545A1404FFE5C8A345D7",
+                                    "sha256": "8d9f335ecd39ad245838215b47334825e8f96a8a1464545a1404ffe5c8a345d7",
                                     "url": "https://codeberg.org/Raidriar/NoSteamScreenshots/releases/download/1.0.1/NoSteamScreenshots.dll"
                                 }
                             ],
@@ -10286,7 +10295,7 @@
                             "artifacts": [
                                 {
                                     "filename": "Resurfacer.dll",
-                                    "sha256": "61AE8977595B983B604A9D99181F28C34D9D76D0FC172A67146ABAD135DB1150",
+                                    "sha256": "61ae8977595b983b604a9d99181f28c34d9d76d0fc172a67146abad135db1150",
                                     "url": "https://codeberg.org/Raidriar/Resurfacer/releases/download/0.1.0/Resurfacer.dll"
                                 }
                             ],
@@ -10377,7 +10386,7 @@
                             "artifacts": [
                                 {
                                     "filename": "StresslessHeadless.dll",
-                                    "sha256": "5F8C97CD506AF6C788DF03FE2CDE174A379FEBC0570FABCA3434172A38B3988D",
+                                    "sha256": "5f8c97cd506af6c788df03fe2cde174a379febc0570fabca3434172a38b3988d",
                                     "url": "https://codeberg.org/Raidriar/StresslessHeadless/releases/download/1.1.0/StresslessHeadless.dll"
                                 }
                             ],
@@ -10387,7 +10396,7 @@
                             "artifacts": [
                                 {
                                     "filename": "StresslessHeadless.dll",
-                                    "sha256": "3A42C7169335F3F1D02EB4B352977E0082EA8A458BCBE129BC3D12A182B3EC15",
+                                    "sha256": "3a42c7169335f3f1d02eb4b352977e0082ea8a458bcbe129bc3d12a182b3ec15",
                                     "url": "https://codeberg.org/Raidriar/StresslessHeadless/releases/download/1.2.0/StresslessHeadless.dll"
                                 }
                             ],
@@ -10407,7 +10416,7 @@
                             "artifacts": [
                                 {
                                     "filename": "StresslessHeadless.dll",
-                                    "sha256": "B3E2DDCA4C745422B9EA43BFD2414ED9A2C1C7A7E091434E4548F17CBC1F6166",
+                                    "sha256": "b3e2ddca4c745422b9ea43bfd2414ed9a2c1c7a7e091434e4548f17cbc1f6166",
                                     "url": "https://codeberg.org/Raidriar/StresslessHeadless/releases/download/1.3.1/StresslessHeadless.dll"
                                 }
                             ],
@@ -10417,7 +10426,7 @@
                             "artifacts": [
                                 {
                                     "filename": "StresslessHeadless.dll",
-                                    "sha256": "0C9F9177A3712762D7A9194609AADF0AD5988DEB8C3705CBFDBD4406388B656A",
+                                    "sha256": "0c9f9177a3712762d7a9194609aadf0ad5988deb8c3705cbfdbd4406388b656a",
                                     "url": "https://codeberg.org/Raidriar/StresslessHeadless/releases/download/2.0.0/StresslessHeadless.dll"
                                 }
                             ],
@@ -10447,7 +10456,7 @@
                             "artifacts": [
                                 {
                                     "filename": "StresslessHeadless.dll",
-                                    "sha256": "66E99BA443238F754E0ED9DBFF7E9D364194DE4E2FCA4ABB58FCD468C7E5EB88",
+                                    "sha256": "66e99ba443238f754e0ed9dbff7e9d364194de4e2fca4abb58fcd468c7e5eb88",
                                     "url": "https://codeberg.org/Raidriar/StresslessHeadless/releases/download/2.1.0/StresslessHeadless.dll"
                                 }
                             ],
@@ -10457,7 +10466,7 @@
                             "artifacts": [
                                 {
                                     "filename": "StresslessHeadless.dll",
-                                    "sha256": "834A4052978EBB39744FF39455EFB2F3E0007B1C1FCD5331D112C92D3221CC8E",
+                                    "sha256": "834a4052978ebb39744ff39455efb2f3e0007b1c1fcd5331d112c92d3221cc8e",
                                     "url": "https://codeberg.org/Raidriar/StresslessHeadless/releases/download/2.2.0/StresslessHeadless.dll"
                                 }
                             ],
@@ -10467,7 +10476,7 @@
                             "artifacts": [
                                 {
                                     "filename": "StresslessHeadless.dll",
-                                    "sha256": "0E2A5E497D45EB4E29FF3300CA382069BE8EDA439F9E389B7DD5110214B3E1C5",
+                                    "sha256": "0e2a5e497d45eb4e29ff3300ca382069be8eda439f9e389b7dd5110214b3e1c5",
                                     "url": "https://codeberg.org/Raidriar/StresslessHeadless/releases/download/2.2.1/StresslessHeadless.dll"
                                 }
                             ],
@@ -10485,7 +10494,7 @@
                             "artifacts": [
                                 {
                                     "filename": "Lognt.dll",
-                                    "sha256": "1F69BE8F97EEBB89F7C86286E3540966D176F160AB3D91003C8DF9BB96C2F81A",
+                                    "sha256": "1f69be8f97eebb89f7c86286e3540966d176f160ab3d91003c8df9bb96c2f81a",
                                     "url": "https://codeberg.org/Raidriar/Lognt/releases/download/1.0.0/Lognt.dll"
                                 }
                             ],
@@ -10495,7 +10504,7 @@
                             "artifacts": [
                                 {
                                     "filename": "Lognt.dll",
-                                    "sha256": "0C2B00AAED7FA050040B62CB534AA9DA4DC26A862590507E5549D6FE85836FEE",
+                                    "sha256": "0c2b00aaed7fa050040b62cb534aa9da4dc26a862590507e5549d6fe85836fee",
                                     "url": "https://codeberg.org/Raidriar/Lognt/releases/download/1.1.0/Lognt.dll"
                                 }
                             ],
@@ -10515,7 +10524,7 @@
                             "artifacts": [
                                 {
                                     "filename": "Lognt.dll",
-                                    "sha256": "8C3F50E63CCA6FDE5053A40CB170AF14CC59C0C2A6186BD1501FE79F6AAB2195",
+                                    "sha256": "8c3f50e63cca6fde5053a40cb170af14cc59c0c2a6186bd1501fe79f6aab2195",
                                     "url": "https://codeberg.org/Raidriar/Lognt/releases/download/1.2.0/Lognt.dll"
                                 }
                             ],
@@ -10540,7 +10549,7 @@
                             "artifacts": [
                                 {
                                     "filename": "ytdlpUpdater.dll",
-                                    "sha256": "9B6AEE2D1DBEC0A80DA7CEBD90EC208254B64D3F8B00BCA76234CC10098F4CB5",
+                                    "sha256": "9b6aee2d1dbec0a80da7cebd90ec208254b64d3f8b00bca76234cc10098f4cb5",
                                     "url": "https://codeberg.org/Raidriar/yt-dlp-Updater/releases/download/1.1.0/ytdlpUpdater.dll"
                                 }
                             ],
@@ -10550,7 +10559,7 @@
                             "artifacts": [
                                 {
                                     "filename": "ytdlpUpdater.dll",
-                                    "sha256": "4B9DF59C40D647F90AE1166A3619B408B558C049C42823CA975AEE8833DB2066",
+                                    "sha256": "4b9df59c40d647f90ae1166a3619b408b558c049c42823ca975aee8833db2066",
                                     "url": "https://codeberg.org/Raidriar/yt-dlp-Updater/releases/download/1.2.0/ytdlpUpdater.dll"
                                 }
                             ],
@@ -10560,7 +10569,7 @@
                             "artifacts": [
                                 {
                                     "filename": "ytdlpUpdater.dll",
-                                    "sha256": "2C00777F29F88E0B032239A55029944938592823523EC05CB8459F2D6BD742FE",
+                                    "sha256": "2c00777f29f88e0b032239a55029944938592823523ec05cb8459f2d6bd742fe",
                                     "url": "https://codeberg.org/Raidriar/yt-dlp-Updater/releases/download/1.3.0/ytdlpUpdater.dll"
                                 }
                             ],
@@ -12178,7 +12187,7 @@
                                 },
                                 {
                                     "installLocation": "/rml_libs",
-                                    "sha256": "0ed1a03ac6dbfbed5958c08e254e8d155d8c35d554fdf73633644298e15268a5",
+                                    "sha256": "b0d3d3cc95a2b016c6e41b6a07f774ed953e3742012355fa571b4472b8d4184d",
                                     "url": "https://github.com/Nytra/ResoniteInterprocessLib/releases/download/v3.0.0/InterprocessLib.RML.Tests.dll"
                                 },
                                 {
@@ -12851,24 +12860,24 @@
                                 {
                                     "installLocation": "/rml_libs",
                                     "sha256": "324f5c0ce7814a66b5fefc7cce75e01c71746fb9a93e51f8c4e8060d6ddefb3d",
-                                    "url": "https://github.com/New-Project-Final-Final-WIP/HeadlessTweaks/releases/download/v2.2.1/Discord.Net.Core.dll"
+                                    "url": "https://github.com/New-Project-Final-Final-WIP/HeadlessTweaks/releases/download/v2.2.1-b/Discord.Net.Core.dll"
                                 },
                                 {
                                     "installLocation": "/rml_libs",
                                     "sha256": "6ae5ec9ecf6117f24ad93c7bc445a312439892e14a0645c910cfda0860cdc91b",
-                                    "url": "https://github.com/New-Project-Final-Final-WIP/HeadlessTweaks/releases/download/v2.2.1/Discord.Net.Rest.dll"
+                                    "url": "https://github.com/New-Project-Final-Final-WIP/HeadlessTweaks/releases/download/v2.2.1-b/Discord.Net.Rest.dll"
                                 },
                                 {
                                     "installLocation": "/rml_libs",
                                     "sha256": "7afeb588f38cbaf9349dbc707a655cf5561543f13694d6839ae16a0b0eac81ed",
-                                    "url": "https://github.com/New-Project-Final-Final-WIP/HeadlessTweaks/releases/download/v2.2.1/Discord.Net.Webhook.dll"
+                                    "url": "https://github.com/New-Project-Final-Final-WIP/HeadlessTweaks/releases/download/v2.2.1-b/Discord.Net.Webhook.dll"
                                 },
                                 {
-                                    "sha256": "55bef3e1a598c217000f0156bdefd4779d5e21c2727a99a701d2e3d238bc5ab3",
-                                    "url": "https://github.com/New-Project-Final-Final-WIP/HeadlessTweaks/releases/download/v2.2.1/HeadlessTweaks.dll"
+                                    "sha256": "de719b753845ff9a4d9503bee13fe38a3bc32ad3c65222f33bfa91c881b4c824",
+                                    "url": "https://github.com/New-Project-Final-Final-WIP/HeadlessTweaks/releases/download/v2.2.1-b/HeadlessTweaks.dll"
                                 }
                             ],
-                            "releaseUrl": "https://github.com/New-Project-Final-Final-WIP/HeadlessTweaks/releases/tag/v2.2.1"
+                            "releaseUrl": "https://github.com/New-Project-Final-Final-WIP/HeadlessTweaks/releases/tag/v2.2.1-b"
                         }
                     },
                     "website": "https://github.com/New-Project-Final-Final-WIP/HeadlessTweaks/blob/master/README.md"
