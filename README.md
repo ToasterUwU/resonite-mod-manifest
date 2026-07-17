@@ -33,6 +33,7 @@ This fork is bleeding edge unstable stuff. I dont check the mod updates, i dont 
 - [bHapticsLib](https://github.com/nalathethird/bHapticsLib) (by nalathethird)  - 1.0.9 vs 1.0.8
 - [EsnyaTweaks](https://github.com/esnya/ResoniteEsnyaTweaks) (by esnya)  - 1.0.0 vs 0.1.0
 - [VRCFTReceiver](https://github.com/hazre/VRCFTReceiver) (by hazre)  - 2.0.0 vs 1.0.4
+- [ContextMenuBackOption](https://github.com/noblereign/ResoniteContextMenuBackOption) (by Noble)  - 4.0.0 vs 3.0.0
 - [InspectorScroll](https://github.com/art0007i/InspectorScroll) (by art0007i)  - 2.0.2 vs 2.0.1
 - [SessionTabOverhaul](https://github.com/NepuShiro/ResoniteSessionTabOverhaul) (by NepuShiro)  - 2.2.0 vs 2.1.1
 
@@ -43,7 +44,8 @@ We currently have everything.
 
 ## Mods we have an older version of (will also be fixed ASAP)
 
-We are currently up to date.
+- [Resdb Tools](https://forge.colintimbarndt.de/Colin/resonite-resdb-tools-mod) (by ColinTimBarndt)  - 1.0.1
+
 
 ## What is this?
 
