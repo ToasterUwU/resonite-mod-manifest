@@ -16,7 +16,6 @@ This fork is bleeding edge unstable stuff. I dont check the mod updates, i dont 
 - [NoSRanipal](https://github.com/zahndy/NoSRanipal) (by zahndy)
 - [ProxyVisuals](https://github.com/LeCloutPanda/ProxyVisuals) (by LeCloutPanda)
 - [VideoProxy](https://github.com/LeCloutPanda/VideoProxy) (by LeCloutPanda)
-- [JustLetItGo](https://forge.chapril.org/Baplar/Resonite.JustLetItGo) (by Baplar)
 - [OperatorLikeNeos](https://github.com/ginjake/ResoniteOperatorLikeNeos) (by ginjake)
 - [UnityPackageImporter](https://github.com/dfgHiatus/ResoniteUnityPackagesImporter) (by dfgHiatus)
 - [InventoryHelper](https://github.com/noblereign/InventoryHelper) (by noblereign)
@@ -33,7 +32,6 @@ This fork is bleeding edge unstable stuff. I dont check the mod updates, i dont 
 - [bHapticsLib](https://github.com/nalathethird/bHapticsLib) (by nalathethird)  - 1.0.9 vs 1.0.8
 - [EsnyaTweaks](https://github.com/esnya/ResoniteEsnyaTweaks) (by esnya)  - 1.0.0 vs 0.1.0
 - [VRCFTReceiver](https://github.com/hazre/VRCFTReceiver) (by hazre)  - 2.0.0 vs 1.0.4
-- [InspectorScroll](https://github.com/art0007i/InspectorScroll) (by art0007i)  - 2.0.2 vs 2.0.1
 - [SessionTabOverhaul](https://github.com/NepuShiro/ResoniteSessionTabOverhaul) (by NepuShiro)  - 2.2.0 vs 2.1.1
 
 
