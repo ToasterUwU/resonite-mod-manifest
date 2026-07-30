@@ -2,7 +2,9 @@
     "name": "ResoniteDiscordRpc",
     "id": "fr.baplar.ResoniteDiscordRpc",
     "description": "Adds fancy features to the Discord Rich Presence integration.",
-	"flags": ["deprecated"],
+    "flags": [
+        "deprecated"
+    ],
     "category": "Misc",
     "sourceLocation": "https://github.com/Baplar/ResoniteDiscordRpc",
     "platforms": [
