@@ -37,6 +37,7 @@ This fork is bleeding edge unstable stuff. I dont check the mod updates, i dont 
 
 ## Mods we are currently missing (will always be fixed ASAP)
 
+- [PhysicalGrabOnDesktop](https://github.com/XDelta/PhysicalGrabOnDesktop) (by Delta)
 - [ExposePatchedMethods](https://github.com/Nytra/ResoniteExposePatchedMethods) (by Nytra)
 
 
