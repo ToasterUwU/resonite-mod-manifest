@@ -41,6 +41,7 @@ We currently have everything.
 
 ## Mods we have an older version of (will also be fixed ASAP)
 
+- [DynamicDesyncHelper](https://codeberg.org/Raidriar/DynamicDesyncHelper) (by Raidriar)  - 0.1.2
 - [DynamicTickRate](https://codeberg.org/Raidriar/DynamicTickRate) (by Raidriar)  - 1.0.2
 - [HDRProbeFix](https://codeberg.org/Raidriar/HDRProbeFix) (by Raidriar)  - 1.0.1
 
