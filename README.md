@@ -37,13 +37,12 @@ This fork is bleeding edge unstable stuff. I dont check the mod updates, i dont 
 
 ## Mods we are currently missing (will always be fixed ASAP)
 
-- [PhysicalGrabOnDesktop](https://github.com/XDelta/PhysicalGrabOnDesktop) (by Delta)
-- [ExposePatchedMethods](https://github.com/Nytra/ResoniteExposePatchedMethods) (by Nytra)
-
+We currently have everything.
 
 ## Mods we have an older version of (will also be fixed ASAP)
 
-We are currently up to date.
+- [HDRProbeFix](https://codeberg.org/Raidriar/HDRProbeFix) (by Raidriar)  - 1.0.1
+
 
 ## What is this?
 

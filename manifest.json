@@ -8619,6 +8619,23 @@
                         }
                     }
                 },
+                "net.deltawolf.PhysicalGrabOnDesktop": {
+                    "category": "Controls",
+                    "description": "Allows physical grabbers (grab sphere area) to be used while in desktop mode",
+                    "name": "PhysicalGrabOnDesktop",
+                    "sourceLocation": "https://github.com/XDelta/PhysicalGrabOnDesktop",
+                    "versions": {
+                        "1.0.0": {
+                            "artifacts": [
+                                {
+                                    "sha256": "60b1139647811d01c48ffc89dea670f4957d5045c1939a61ec9c745e16cda9e8",
+                                    "url": "https://github.com/XDelta/PhysicalGrabOnDesktop/releases/download/1.0.0/PhysicalGrabOnDesktop.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/XDelta/PhysicalGrabOnDesktop/releases/tag/1.0.0"
+                        }
+                    }
+                },
                 "net.deltawolf.ResonitePTTKeybinds": {
                     "category": "Controls",
                     "description": "Allows disabling and rebinding the default Push to Talk / Mute keybinds and setting keybinds for your voicemode",
@@ -11983,6 +12000,46 @@
                                 }
                             ],
                             "releaseUrl": "https://github.com/Nytra/ResoniteExpandedMemberEditors/releases/tag/v1.0.0"
+                        }
+                    }
+                },
+                "owo.Nytra.ExposePatchedMethods": {
+                    "additionalAuthors": {
+                        "EIA485": {},
+                        "kazu0617": {},
+                        "rampa3": {}
+                    },
+                    "category": "Misc",
+                    "description": "Adds the option to expose what mods you have loaded to your userspace and/or the world you are in.",
+                    "name": "ExposePatchedMethods",
+                    "sourceLocation": "https://github.com/Nytra/ResoniteExposePatchedMethods",
+                    "versions": {
+                        "5.0.0": {
+                            "artifacts": [
+                                {
+                                    "sha256": "b522c67f8efff304a5c49af6dec9994f861384c664d5f402d17ac34c4e5eb77f",
+                                    "url": "https://github.com/Nytra/ResoniteExposePatchedMethods/releases/download/v5.0.0/ExposePatchedMethods.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/Nytra/ResoniteExposePatchedMethods/releases/tag/v5.0.0"
+                        },
+                        "5.1.0": {
+                            "artifacts": [
+                                {
+                                    "sha256": "ae4a18093249b3405c494b8dae441145d5ee0d2e47cb6be04c718de22b7eae61",
+                                    "url": "https://github.com/Nytra/ResoniteExposePatchedMethods/releases/download/v5.1.0/ExposePatchedMethods.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/Nytra/ResoniteExposePatchedMethods/releases/tag/v5.1.0"
+                        },
+                        "5.1.1": {
+                            "artifacts": [
+                                {
+                                    "sha256": "6910e3707b5666690788317e8308efdd0f07575c4ebb1a0c3e507933988bf30f",
+                                    "url": "https://github.com/Nytra/ResoniteExposePatchedMethods/releases/download/v5.1.1/ExposePatchedMethods.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/Nytra/ResoniteExposePatchedMethods/releases/tag/v5.1.1"
                         }
                     }
                 },
