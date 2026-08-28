@@ -5,6 +5,15 @@
     "category": "Inspectors",
     "sourceLocation": "https://github.com/XDelta/Inspectorimprovements",
     "versions": {
+        "1.0.2": {
+            "releaseUrl": "https://github.com/XDelta/Inspectorimprovements/releases/tag/1.0.2",
+            "artifacts": [
+                {
+                    "url": "https://github.com/XDelta/Inspectorimprovements/releases/download/1.0.2/InspectorImprovements.dll",
+                    "sha256": "6407ad92ea449e437fb921723202903582bcac70de717a168fa2f9b4e224aaf5"
+                }
+            ]
+        },
         "1.0.0": {
             "releaseUrl": "https://github.com/XDelta/Inspectorimprovements/releases/tag/1.0.0",
             "artifacts": [

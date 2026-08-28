@@ -23,7 +23,7 @@ This fork is bleeding edge unstable stuff. I dont check the mod updates, i dont 
 
 ## Mods that we have a newer version of
 
-- [BoundedUIX](https://github.com/Banane9/ResoniteBoundedUIX) (by Banane9)  - 2.1.1 vs 1.0.0
+- [BoundedUIX](https://github.com/Banane9/ResoniteBoundedUIX) (by Banane9)  - 2.1.2 vs 1.0.0
 - [FixMirrorSteamVRIPDOffset](https://github.com/ErrorJan/ResoniteMod-FixMirrorSteamVRIPDOffset) (by ErrorJan)  - 2.0.1 vs 1.0.0
 - [Restrainite](https://github.com/Restrainite/Restrainite) (by Restrainite developers)  - 3.0.7 vs 3.0.6
 - [MoreReferenceProxies](https://github.com/GrandtheUK/MoreReferenceProxies) (by Grand)  - 1.1.0 vs 1.0.1
@@ -38,6 +38,7 @@ This fork is bleeding edge unstable stuff. I dont check the mod updates, i dont 
 
 ## Mods we are currently missing (will always be fixed ASAP)
 
+- [Restonite](https://github.com/Uruloke/Restonite) (by Uruloke)
 - [SmileForTheCamera](https://forge.moldy.gift/Baplar/Resonite.SmileForTheCamera) (by Baplar)
 
 

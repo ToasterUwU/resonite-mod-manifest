@@ -5,6 +5,16 @@
     "category": "Plugins",
     "sourceLocation": "https://github.com/Nytra/ResonitePluginSelect",
     "versions": {
+        "1.0.2": {
+            "releaseUrl": "https://github.com/Nytra/ResonitePluginSelect/releases/tag/v1.0.2",
+            "artifacts": [
+                {
+                    "url": "https://github.com/Nytra/ResonitePluginSelect/releases/download/v1.0.2/PluginSelect.dll",
+                    "sha256": "984e2281b5dac29967a0ba5aabc2e25cb83e406150bb486bd64487eef7c9980a",
+                    "installLocation": "/rml_mods"
+                }
+            ]
+        },
         "1.0.1": {
             "releaseUrl": "https://github.com/Nytra/ResonitePluginSelect/releases/tag/v1.0.1",
             "artifacts": [

@@ -53,6 +53,15 @@
                                 }
                             ],
                             "releaseUrl": "https://github.com/ResoniteModdingGroup/BoundedUIX/releases/tag/v2.1.1"
+                        },
+                        "2.1.2": {
+                            "artifacts": [
+                                {
+                                    "sha256": "420c144df2b879fb25ce3976a8b8f7609f2b66cad566c9135905f2a2bebf4663",
+                                    "url": "https://github.com/ResoniteModdingGroup/BoundedUIX/releases/download/v2.1.2/BoundedUIX.nupkg"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/ResoniteModdingGroup/BoundedUIX/releases/tag/v2.1.2"
                         }
                     }
                 },
@@ -8571,6 +8580,15 @@
                                 }
                             ],
                             "releaseUrl": "https://github.com/XDelta/Inspectorimprovements/releases/tag/1.0.0"
+                        },
+                        "1.0.2": {
+                            "artifacts": [
+                                {
+                                    "sha256": "6407ad92ea449e437fb921723202903582bcac70de717a168fa2f9b4e224aaf5",
+                                    "url": "https://github.com/XDelta/Inspectorimprovements/releases/download/1.0.2/InspectorImprovements.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/XDelta/Inspectorimprovements/releases/tag/1.0.2"
                         }
                     }
                 },
@@ -8963,6 +8981,15 @@
                                 }
                             ],
                             "releaseUrl": "https://github.com/Cyberboss/WorldOrbDynVars/releases/tag/v1.0.2"
+                        },
+                        "1.1.0": {
+                            "artifacts": [
+                                {
+                                    "sha256": "ea86c1e3ef8e86134c96cdb2dd09c2e53975e95a50751607d53c48f45f1ef818",
+                                    "url": "https://github.com/Cyberboss/WorldOrbDynVars/releases/download/v1.1.0/WorldOrbDynVars.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/Cyberboss/WorldOrbDynVars/releases/tag/v1.1.0"
                         }
                     }
                 }
@@ -12036,6 +12063,15 @@
                                 }
                             ],
                             "releaseUrl": "https://github.com/Nytra/ResoniteColorMyProtoFlux/releases/tag/v1.2.1"
+                        },
+                        "1.2.2": {
+                            "artifacts": [
+                                {
+                                    "sha256": "1fccd70bee710ea526cc7582d1851e3facaa4451df9685b6127ac26d62c1f845",
+                                    "url": "https://github.com/Nytra/ResoniteColorMyProtoFlux/releases/download/v1.2.2/ColorMyProtoFlux.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/Nytra/ResoniteColorMyProtoFlux/releases/tag/v1.2.2"
                         }
                     }
                 },
@@ -12672,6 +12708,16 @@
                                 }
                             ],
                             "releaseUrl": "https://github.com/Nytra/ResonitePluginSelect/releases/tag/v1.0.1"
+                        },
+                        "1.0.2": {
+                            "artifacts": [
+                                {
+                                    "installLocation": "/rml_mods",
+                                    "sha256": "984e2281b5dac29967a0ba5aabc2e25cb83e406150bb486bd64487eef7c9980a",
+                                    "url": "https://github.com/Nytra/ResonitePluginSelect/releases/download/v1.0.2/PluginSelect.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/Nytra/ResonitePluginSelect/releases/tag/v1.0.2"
                         }
                     }
                 },
@@ -12752,6 +12798,15 @@
                                 }
                             ],
                             "releaseUrl": "https://github.com/Nytra/ResoniteReferenceFinderWizard/releases/tag/v1.2.0"
+                        },
+                        "1.2.1": {
+                            "artifacts": [
+                                {
+                                    "sha256": "e9306832b7c8680db407a28dae584a0614a7b26ef7f1cecb5bb5942fb320a0d5",
+                                    "url": "https://github.com/Nytra/ResoniteReferenceFinderWizard/releases/download/v1.2.1/ReferenceFinderWizard.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/Nytra/ResoniteReferenceFinderWizard/releases/tag/v1.2.1"
                         }
                     }
                 },

@@ -8,6 +8,15 @@
     "category": "Inspectors",
     "sourceLocation": "https://github.com/Banane9/ResoniteBoundedUIX",
     "versions": {
+        "2.1.2": {
+            "releaseUrl": "https://github.com/ResoniteModdingGroup/BoundedUIX/releases/tag/v2.1.2",
+            "artifacts": [
+                {
+                    "url": "https://github.com/ResoniteModdingGroup/BoundedUIX/releases/download/v2.1.2/BoundedUIX.nupkg",
+                    "sha256": "420c144df2b879fb25ce3976a8b8f7609f2b66cad566c9135905f2a2bebf4663"
+                }
+            ]
+        },
         "2.1.1": {
             "releaseUrl": "https://github.com/ResoniteModdingGroup/BoundedUIX/releases/tag/v2.1.1",
             "artifacts": [
