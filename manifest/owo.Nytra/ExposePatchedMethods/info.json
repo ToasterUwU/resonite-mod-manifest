@@ -10,6 +10,15 @@
     ],
     "sourceLocation": "https://github.com/Nytra/ResoniteExposePatchedMethods",
     "versions": {
+        "5.1.2": {
+            "releaseUrl": "https://github.com/Nytra/ResoniteExposePatchedMethods/releases/tag/v5.1.2",
+            "artifacts": [
+                {
+                    "url": "https://github.com/Nytra/ResoniteExposePatchedMethods/releases/download/v5.1.2/ExposePatchedMethods.dll",
+                    "sha256": "8223fea83a169edb8342ae7f320f69de83c3c1d61c149d0850303c7c360e1c06"
+                }
+            ]
+        },
         "5.1.1": {
             "releaseUrl": "https://github.com/Nytra/ResoniteExposePatchedMethods/releases/tag/v5.1.1",
             "artifacts": [

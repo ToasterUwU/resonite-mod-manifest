@@ -10,6 +10,68 @@
         "SystemHelper"
     ],
     "versions": {
+        "2.0.1": {
+            "releaseUrl": "https://github.com/esnya/ResoniteEsnyaTweaks/releases/tag/v2.0.1",
+            "artifacts": [
+                {
+                    "url": "https://github.com/esnya/ResoniteEsnyaTweaks/releases/download/v2.0.1/EsnyaTweaks.FluxLoopTweaks.dll",
+                    "sha256": "fc0aaa54c02519233448cf5f75d9490b0166b4aecf01c3ed43d0e09427783fb7"
+                },
+                {
+                    "url": "https://github.com/esnya/ResoniteEsnyaTweaks/releases/download/v2.0.1/EsnyaTweaks.InventoryUITweaks.dll",
+                    "sha256": "1a20f480b60d7caa553941e62e9d1fe83cde7d9028b82f63e63876632a22df74"
+                },
+                {
+                    "url": "https://github.com/esnya/ResoniteEsnyaTweaks/releases/download/v2.0.1/EsnyaTweaks.LODGroupTweaks.dll",
+                    "sha256": "a9b017aad32650da3becfa6f04408e10692794ea0d81a290a30af7df9192cb4a"
+                },
+                {
+                    "url": "https://github.com/esnya/ResoniteEsnyaTweaks/releases/download/v2.0.1/EsnyaTweaks.PhotonDustTweaks.dll",
+                    "sha256": "1634ad3f0c8158a0e1bc50e9bb0aae76ab5e96183d47b9f2c585fce38d60b029"
+                },
+                {
+                    "url": "https://github.com/esnya/ResoniteEsnyaTweaks/releases/download/v2.0.1/EsnyaTweaks.SceneAuditor.dll",
+                    "sha256": "84d125db92eda9058d79a7b938448b161f6aa4f0c1e39b07f086cc19e69e2b5d"
+                },
+                {
+                    "url": "https://github.com/esnya/ResoniteEsnyaTweaks/releases/download/v2.0.1/EsnyaTweaks.UniLogTweaks.dll",
+                    "sha256": "3d983c5bb4f5aadddbc0bd064fed748936e4786ce7599e0888ec28f545464af6"
+                }
+            ]
+        },
+        "2.0.0": {
+            "releaseUrl": "https://github.com/esnya/ResoniteEsnyaTweaks/releases/tag/v2.0.0",
+            "artifacts": [
+                {
+                    "url": "https://github.com/esnya/ResoniteEsnyaTweaks/releases/download/v2.0.0/EsnyaTweaks.Common.PureTests.dll",
+                    "sha256": "7b004b34e9a423daa85519b22f2b68ab4e8c354b364c5ffb0ac6c072db43606f"
+                },
+                {
+                    "url": "https://github.com/esnya/ResoniteEsnyaTweaks/releases/download/v2.0.0/EsnyaTweaks.FluxLoopTweaks.dll",
+                    "sha256": "7d157b78ee7d8372418e616aca05a8162b1cdeaac15aaca9ba09f9f1ca21d42c"
+                },
+                {
+                    "url": "https://github.com/esnya/ResoniteEsnyaTweaks/releases/download/v2.0.0/EsnyaTweaks.InventoryUITweaks.dll",
+                    "sha256": "f62fb62c43d2fc5d3f32b70dc0bd73db6d666ebcf6f44fb5935a1f235f2e521b"
+                },
+                {
+                    "url": "https://github.com/esnya/ResoniteEsnyaTweaks/releases/download/v2.0.0/EsnyaTweaks.LODGroupTweaks.dll",
+                    "sha256": "2695e11df271291cf24a26a9e32858d49bcbbd23a0ed5e1196be6ddf244b4700"
+                },
+                {
+                    "url": "https://github.com/esnya/ResoniteEsnyaTweaks/releases/download/v2.0.0/EsnyaTweaks.PhotonDustTweaks.dll",
+                    "sha256": "0aed90101df3b7027aa4cc5005ea27c4b958e173276764b181248d7988f0a26e"
+                },
+                {
+                    "url": "https://github.com/esnya/ResoniteEsnyaTweaks/releases/download/v2.0.0/EsnyaTweaks.SceneAuditor.dll",
+                    "sha256": "511c9fd48ae883e1bd3f1f50b19d018630252eb17310f68780de5af7b35d539d"
+                },
+                {
+                    "url": "https://github.com/esnya/ResoniteEsnyaTweaks/releases/download/v2.0.0/EsnyaTweaks.UniLogTweaks.dll",
+                    "sha256": "fbb2d1aa6c1a17ae6a7d1ab9782b67c8dcc584efea4a543fb0d110ffc00dd13c"
+                }
+            ]
+        },
         "1.0.0": {
             "releaseUrl": "https://github.com/esnya/ResoniteEsnyaTweaks/releases/tag/v1.0.0",
             "artifacts": [

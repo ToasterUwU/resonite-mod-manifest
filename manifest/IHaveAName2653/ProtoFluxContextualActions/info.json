@@ -5,6 +5,15 @@
     "category": "Protoflux",
     "sourceLocation": "https://github.com/IHaveAName2653/ProtoFluxContextualActions",
     "versions": {
+        "2.1.0": {
+            "releaseUrl": "https://github.com/IHaveAName2653/ProtoFluxContextualActions/releases/tag/v2.1.0",
+            "artifacts": [
+                {
+                    "url": "https://github.com/IHaveAName2653/ProtoFluxContextualActions/releases/download/v2.1.0/ProtoFluxContextualActions.dll",
+                    "sha256": "c47314726afcbb4f84ddf06db90892b775c22426545580c77a17b02752e8bc8b"
+                }
+            ]
+        },
         "2.0.9": {
             "releaseUrl": "https://github.com/IHaveAName2653/ProtoFluxContextualActions/releases/tag/v2.0.9",
             "artifacts": [
