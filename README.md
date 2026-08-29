@@ -37,6 +37,10 @@ This fork is bleeding edge unstable stuff. I dont check the mod updates, i dont 
 - [CopyHyperlink](https://github.com/djsime1/CopyHyperlink) (by djsime1)  - 1.1.0 vs 1.0.2
 - [GradientDriverEasing](https://github.com/djsime1/GradientDriverEasing) (by djsime1)  - 1.3.0 vs 1.2.1
 - [SwapToDynamicBlendShapeDriver](https://github.com/djsime1/SwapToDynamicBlendShapeDriver) (by djsime1)  - 1.0.2 vs 1.0.1
+- [DuplicateFix](https://github.com/art0007i/DuplicateFix) (by art0007i)  - 1.0.6 vs 1.0.5
+- [MessageCopy](https://github.com/art0007i/MessageCopy) (by art0007i)  - 1.0.4 vs 1.0.2
+- [MyInspectors](https://github.com/art0007i/MyInspectors) (by art0007i)  - 2.1.2 vs 2.1.1
+- [SimpleInventorySearch](https://github.com/art0007i/SimpleInventorySearch) (by art0007i)  - 1.0.3 vs 1.0.1
 - [SessionTabOverhaul](https://github.com/NepuShiro/ResoniteSessionTabOverhaul) (by NepuShiro)  - 2.2.0 vs 2.1.1
 
 
