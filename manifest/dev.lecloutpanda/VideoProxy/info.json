@@ -9,6 +9,15 @@
     "category": "Asset Importing",
     "sourceLocation": "https://github.com/LeCloutPanda/VideoProxy",
     "versions": {
+        "1.4.0": {
+            "releaseUrl": "https://github.com/LeCloutPanda/VideoProxy/releases/tag/v1.4.0",
+            "artifacts": [
+                {
+                    "url": "https://github.com/LeCloutPanda/VideoProxy/releases/download/v1.4.0/VideoProxy.dll",
+                    "sha256": "96e5bc3aa8a0f1bf7744db2eecabe08669c2eddac5a94335973aa075c20a5ad3"
+                }
+            ]
+        },
         "1.3.0": {
             "releaseUrl": "https://github.com/LeCloutPanda/VideoProxy/releases/tag/v1.3.0",
             "artifacts": [
