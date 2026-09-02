@@ -2,8 +2,9 @@ import hashlib
 import json
 import os
 import re
-import requests
 from concurrent.futures import ThreadPoolExecutor, as_completed
+
+import requests
 
 
 def get_github_headers():
@@ -22,7 +23,7 @@ def resolve_correct_url_and_hash(url, version_key):
     if not match:
         return None, None, None
 
-    owner, repo, wrong_tag, filename = match.groups()
+    owner, repo, _wrong_tag, filename = match.groups()
     api_url = f"https://api.github.com/repos/{owner}/{repo}/releases"
 
     headers = get_github_headers()
@@ -30,7 +31,7 @@ def resolve_correct_url_and_hash(url, version_key):
         response = requests.get(api_url, headers=headers)
         response.raise_for_status()
         releases = response.json()
-    except Exception as e:
+    except (requests.RequestException, ValueError) as e:
         print(f"  [Auto-Fix] Failed to fetch releases for {owner}/{repo}: {e}")
         return None, None, None
 
@@ -54,7 +55,7 @@ def resolve_correct_url_and_hash(url, version_key):
                         for chunk in resp.iter_content(chunk_size=8192):
                             h.update(chunk)
                         return new_url, new_release_url, h.hexdigest()
-                    except Exception as e:
+                    except requests.RequestException as e:
                         print(f"  [Auto-Fix] Failed to download {new_url}: {e}")
                         return None, None, None
     return None, None, None
@@ -156,11 +157,14 @@ def main():
             executor.submit(verify_and_update_mod, path): path for path in info_paths
         }
         for future in as_completed(future_to_path):
+            path = future_to_path[future]
             try:
                 if future.result():
                     updated_count += 1
-            except Exception:
-                pass
+            # A worker touches the network and the filesystem, so anything it
+            # raises is fair game - log it and keep going through the rest.
+            except Exception as e:  # noqa: BLE001
+                print(f"Failed to verify {path}: {e}")
 
     print(f"Verification complete. Updated {updated_count} files.")
 

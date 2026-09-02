@@ -6,6 +6,7 @@ import time
 
 import requests
 
+from util import is_valid_version, parse_version
 
 ignore_list = ["net.eia485.GetItemLink"]
 
@@ -67,7 +68,7 @@ def check_for_updates(info: dict):
         check_github_rate_limit(response)
         response.raise_for_status()
         releases = response.json()
-    except Exception as e:
+    except (requests.RequestException, ValueError) as e:
         print(
             f"Failed to fetch releases for {info['name']}: {e}"
         )  # Failed to fetch releases
@@ -107,6 +108,12 @@ def check_for_updates(info: dict):
         else:
             normalized_tag = ".".join(version_parts)
 
+        # A tag like "1.0.0_final" gets past the regex above and would land in
+        # the manifest as a version key nothing downstream can order.
+        if not is_valid_version(normalized_tag):
+            print(f"Skipping unparseable tag {tag} for mod {info.get('name')}")
+            continue
+
         is_prerelease = bool(
             re.search(
                 r"-(rc|b|beta|alpha|preview|dev|test|canary|exp|experimental)",
@@ -126,25 +133,22 @@ def check_for_updates(info: dict):
         asset_list = list(release.get("assets", []))  # Get asset list
         archive_exts = (".zip", ".tar.gz", ".tar", ".7z", ".rar")  # Archive extensions
 
-        previous_versions = [
-            v for v in info["versions"].keys()
-        ]  # Get previous version tags
+        previous_versions = list(info["versions"])  # Get previous version tags
         previous_versions_sorted = sorted(
             previous_versions,
-            key=lambda v: [int(x) if x.isdigit() else x for x in v.split(".")],
+            key=parse_version,
             reverse=True,
         )  # Sort previous versions
         previous_artifact_info = {}  # Dict to store previous artifact info
         for prev_version in previous_versions_sorted:
             for prev_artifact in info["versions"][prev_version].get("artifacts", []):
                 prev_name = os.path.basename(prev_artifact.get("url", ""))
-                if prev_name:
-                    if prev_name not in previous_artifact_info:
-                        previous_artifact_info[prev_name] = {
-                            k: v
-                            for k, v in prev_artifact.items()
-                            if k not in ("url", "sha256")
-                        }  # Copy special args from previous artifact
+                if prev_name and prev_name not in previous_artifact_info:
+                    previous_artifact_info[prev_name] = {
+                        k: v
+                        for k, v in prev_artifact.items()
+                        if k not in ("url", "sha256")
+                    }  # Copy special args from previous artifact
 
         for asset in asset_list:
             asset_url = asset.get("browser_download_url")
@@ -156,20 +160,19 @@ def check_for_updates(info: dict):
             # Check for excluded DLLs if it's a new artifact
             if asset_name not in previous_artifact_info:
                 mod_id = info.get("id")
-                if mod_id in exclude_dlls:
-                    if any(
-                        keyword.lower() in asset_name.lower()
-                        for keyword in exclude_dlls[mod_id]
-                    ):
-                        print(f"Skipping excluded DLL {asset_name} for mod {mod_id}")
-                        continue
+                if mod_id in exclude_dlls and any(
+                    keyword.lower() in asset_name.lower()
+                    for keyword in exclude_dlls[mod_id]
+                ):
+                    print(f"Skipping excluded DLL {asset_name} for mod {mod_id}")
+                    continue
 
             try:
                 asset_resp = github_request_with_retry(asset_url, headers=headers)
                 check_github_rate_limit(asset_resp)
                 asset_resp.raise_for_status()
                 sha256 = hashlib.sha256(asset_resp.content).hexdigest()
-            except Exception as e:
+            except requests.RequestException as e:
                 print(
                     f"Failed to download asset {asset_url}: {e}"
                 )  # Failed to download asset
@@ -224,15 +227,12 @@ def check_for_updates(info: dict):
             }  # Add artifacts to version entry
 
     # Sort versions: newest (highest) first, oldest last
-    if "versions" in info and info["versions"]:
-
-        def version_key(v):
-            parts = v.split(".")
-            return tuple(str(p) for p in parts)
-
+    if info.get("versions"):
         info["versions"] = dict(
             sorted(
-                info["versions"].items(), key=lambda x: version_key(x[0]), reverse=True
+                info["versions"].items(),
+                key=lambda x: parse_version(x[0]),
+                reverse=True,
             )
         )  # Sort versions
 

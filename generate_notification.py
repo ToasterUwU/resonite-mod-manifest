@@ -5,17 +5,17 @@ Basic JSON diffing between two git versions of the 'manifest.json' file,
 When a new version of a mod is found, this will write to GITHUB_OUTPUT with a discord webhook message JSON
 """
 
-import json
 import datetime
-from os import environ
+import json
 from copy import deepcopy
+from os import environ
 from typing import Any
 
 import util
 
 REF_BASE = util.exec_shell(f"git rev-parse {environ.get('REF_BASE') or 'HEAD^1'}")
 REF_NEW = util.exec_shell(f"git rev-parse {environ.get('REF_NEW') or 'HEAD'}")
- 
+
 OLD_MANIFEST: dict[str, Any] = json.loads(util.exec_shell(f"git show {REF_BASE}:manifest.json"))
 NEW_MANIFEST: dict[str, Any] = json.loads(util.exec_shell(f"git show {REF_NEW}:manifest.json"))
 

@@ -2,6 +2,8 @@ import json
 
 import requests
 
+from util import parse_version
+
 response = requests.get(
     "https://raw.githubusercontent.com/resonite-modding-group/resonite-mod-manifest/refs/heads/main/manifest.json"
 )
@@ -17,60 +19,45 @@ upstream_outdated = {}
 local_outdated = {}
 
 
-def parse_version(v):
-    parts = v.split(".")
-    result = []
-    for x in parts[:3]:
-        try:
-            result.append(int(x))
-        except ValueError:
-            result.append(x)
-    while len(result) < 3:
-        result.append(0)
-    return tuple(result)
-
-
 for author in upstream_manifest["objects"]:
     for mod in sorted(upstream_manifest["objects"][author]["entries"]):
-        if author not in local_manifest["objects"]:
+        if (
+            author not in local_manifest["objects"]
+            or mod not in local_manifest["objects"][author]["entries"]
+        ):
             only_upstream[mod] = upstream_manifest["objects"][author]["entries"][mod]
-            only_upstream[mod]["author"] = list(upstream_manifest["objects"][author]["author"].keys())[0]
-            only_upstream[mod]["author_id"] = author
-        elif mod not in sorted(local_manifest["objects"][author]["entries"]):
-            only_upstream[mod] = upstream_manifest["objects"][author]["entries"][mod]
-            only_upstream[mod]["author"] = list(upstream_manifest["objects"][author]["author"].keys())[0]
+            only_upstream[mod]["author"] = next(iter(upstream_manifest["objects"][author]["author"]))
             only_upstream[mod]["author_id"] = author
         else:
             local_versions = local_manifest["objects"][author]["entries"][mod].get("versions", {})
             upstream_versions = upstream_manifest["objects"][author]["entries"][mod].get("versions", {})
             if local_versions and upstream_versions:
-                local_latest = max(local_versions.keys(), key=parse_version)
-                upstream_latest = max(upstream_versions.keys(), key=parse_version)
+                local_latest = max(local_versions, key=parse_version)
+                upstream_latest = max(upstream_versions, key=parse_version)
                 if parse_version(upstream_latest) > parse_version(local_latest):
                     local_outdated[mod] = local_manifest["objects"][author]["entries"][mod]
-                    local_outdated[mod]["author"] = list(local_manifest["objects"][author]["author"].keys())[0]
+                    local_outdated[mod]["author"] = next(iter(local_manifest["objects"][author]["author"]))
                     local_outdated[mod]["author_id"] = author
 
 
 for author in local_manifest["objects"]:
     for mod in sorted(local_manifest["objects"][author]["entries"]):
-        if author not in upstream_manifest["objects"]:
+        if (
+            author not in upstream_manifest["objects"]
+            or mod not in upstream_manifest["objects"][author]["entries"]
+        ):
             only_local[mod] = local_manifest["objects"][author]["entries"][mod]
-            only_local[mod]["author"] = list(local_manifest["objects"][author]["author"].keys())[0]
-            only_local[mod]["author_id"] = author
-        elif mod not in sorted(upstream_manifest["objects"][author]["entries"]):
-            only_local[mod] = local_manifest["objects"][author]["entries"][mod]
-            only_local[mod]["author"] = list(local_manifest["objects"][author]["author"].keys())[0]
+            only_local[mod]["author"] = next(iter(local_manifest["objects"][author]["author"]))
             only_local[mod]["author_id"] = author
         else:
             local_versions = local_manifest["objects"][author]["entries"][mod].get("versions", {})
             upstream_versions = upstream_manifest["objects"][author]["entries"][mod].get("versions", {})
             if local_versions and upstream_versions:
-                local_latest = max(local_versions.keys(), key=parse_version)
-                upstream_latest = max(upstream_versions.keys(), key=parse_version)
+                local_latest = max(local_versions, key=parse_version)
+                upstream_latest = max(upstream_versions, key=parse_version)
                 if parse_version(local_latest) > parse_version(upstream_latest):
                     upstream_outdated[mod] = local_manifest["objects"][author]["entries"][mod]
-                    upstream_outdated[mod]["author"] = list(local_manifest["objects"][author]["author"].keys())[0]
+                    upstream_outdated[mod]["author"] = next(iter(local_manifest["objects"][author]["author"]))
                     upstream_outdated[mod]["author_id"] = author
 
 
@@ -78,25 +65,25 @@ with open("README_TEMPLATE.md", "r") as f:
     readme_template = f.read()
 
 local_only_formatted = ""
-for id, data in only_local.items():
+for mod_id, data in only_local.items():
     local_only_formatted += (
         f"- [{data['name']}]({data['sourceLocation']}) (by {data['author']})\n"
     )
 readme_template = readme_template.replace("%MISSING_UPSTREAM%", local_only_formatted or "Upstream currently has everything.")
 
 upstream_only_formatted = ""
-for id, data in only_upstream.items():
+for mod_id, data in only_upstream.items():
     upstream_only_formatted += (
         f"- [{data['name']}]({data['sourceLocation']}) (by {data['author']})\n"
     )
 readme_template = readme_template.replace("%MISSING_LOCAL%", upstream_only_formatted or "We currently have everything.")
 
 upstream_outdated_formatted = ""
-for id, data in upstream_outdated.items():
+for mod_id, data in upstream_outdated.items():
     local_versions = data.get("versions", {})
-    upstream_versions = upstream_manifest["objects"][data["author_id"]]["entries"][id].get("versions", {})
-    local_latest = max(local_versions.keys(), key=parse_version) if local_versions else "?"
-    upstream_latest = max(upstream_versions.keys(), key=parse_version) if upstream_versions else "?"
+    upstream_versions = upstream_manifest["objects"][data["author_id"]]["entries"][mod_id].get("versions", {})
+    local_latest = max(local_versions, key=parse_version) if local_versions else "?"
+    upstream_latest = max(upstream_versions, key=parse_version) if upstream_versions else "?"
     upstream_outdated_formatted += (
         f"- [{data['name']}]({data['sourceLocation']}) (by {data['author']}) "
         f" - {local_latest} vs {upstream_latest}\n"
@@ -104,9 +91,9 @@ for id, data in upstream_outdated.items():
 readme_template = readme_template.replace("%OUTDATED_UPSTREAM%", upstream_outdated_formatted or "Upstream is currently up to date.")
 
 local_outdated_formatted = ""
-for id, data in local_outdated.items():
+for mod_id, data in local_outdated.items():
     local_versions = data.get("versions", {})
-    local_latest = max(local_versions.keys(), key=parse_version) if local_versions else "?"
+    local_latest = max(local_versions, key=parse_version) if local_versions else "?"
     local_outdated_formatted += (
         f"- [{data['name']}]({data['sourceLocation']}) (by {data['author']}) "
         f" - {local_latest}\n"

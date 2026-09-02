@@ -1,5 +1,6 @@
-import os
 import json
+import os
+import sys
 
 root_folder = "manifest"
 manifest = {}
@@ -65,7 +66,7 @@ try:
     with open("manifest.json", "w") as manifest_file:
         json.dump(manifest, manifest_file, indent=4, separators=(',', ': '), sort_keys=True)
     print("manifest.json created successfully")
-except Exception as e:
+except (OSError, TypeError) as e:
     print(f"Error writing manifest.json: {e}")
-    exit(1)
+    sys.exit(1)
 
