@@ -1140,6 +1140,15 @@
                                 }
                             ],
                             "releaseUrl": "https://github.com/RyanVittore/ArrayEditing/releases/tag/1.0.1"
+                        },
+                        "1.0.2": {
+                            "artifacts": [
+                                {
+                                    "sha256": "3a5edbb7b12a8fd5c2b4cebd3336be105f37153a8f3a9b3829f496e9478689ad",
+                                    "url": "https://github.com/RyanVittore/ArrayEditing/releases/download/1.0.2/ArrayEditing.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/RyanVittore/ArrayEditing/releases/tag/1.0.2"
                         }
                     }
                 }
@@ -2397,6 +2406,15 @@
                                 }
                             ],
                             "releaseUrl": "https://github.com/TheJebForge/BoneReferenceHelper/releases/tag/v2.2.1"
+                        },
+                        "2.2.2": {
+                            "artifacts": [
+                                {
+                                    "sha256": "8f4123bdee972a44b358803c07880687a182a56ddb6a724fc9954ee86f4eca89",
+                                    "url": "https://github.com/TheJebForge/BoneReferenceHelper/releases/download/v2.2.2/BoneReferenceHelper.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/TheJebForge/BoneReferenceHelper/releases/tag/v2.2.2"
                         }
                     }
                 },
@@ -2504,6 +2522,15 @@
                                 }
                             ],
                             "releaseUrl": "https://github.com/TheJebForge/DynVarGenerator/releases/tag/1.3.4"
+                        },
+                        "1.3.5": {
+                            "artifacts": [
+                                {
+                                    "sha256": "f60f3591dfb889a5460489525496b31b7c58ab2811002ccbb0d9de8f16c6f2b6",
+                                    "url": "https://github.com/TheJebForge/DynVarGenerator/releases/download/1.3.5/DynVarGenerator.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/TheJebForge/DynVarGenerator/releases/tag/1.3.5"
                         }
                     }
                 }
@@ -4279,6 +4306,24 @@
                                 }
                             ],
                             "releaseUrl": "https://github.com/hantabaru1014/BetterInventoryBrowser/releases/tag/v0.7.1"
+                        },
+                        "0.7.2": {
+                            "artifacts": [
+                                {
+                                    "sha256": "16b121e806ae4843386debf7aa5022999a722fc029406f4d32362de5c73d09e3",
+                                    "url": "https://github.com/hantabaru1014/BetterInventoryBrowser/releases/download/v0.7.2/BetterInventoryBrowser.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/hantabaru1014/BetterInventoryBrowser/releases/tag/v0.7.2"
+                        },
+                        "0.7.3": {
+                            "artifacts": [
+                                {
+                                    "sha256": "23766f4236b5136954896d8cac24f89a8e5d4eaa051322ad8d12d05cb4361ee9",
+                                    "url": "https://github.com/hantabaru1014/BetterInventoryBrowser/releases/download/v0.7.3/BetterInventoryBrowser.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/hantabaru1014/BetterInventoryBrowser/releases/tag/v0.7.3"
                         }
                     }
                 },
@@ -8925,6 +8970,15 @@
                                 }
                             ],
                             "releaseUrl": "https://github.com/XDelta/PermissionControl/releases/tag/2.0.2"
+                        },
+                        "2.0.3": {
+                            "artifacts": [
+                                {
+                                    "sha256": "ef4084905c54cb13793ac98f07da899cc0167ce60742f86ac88a7c0a5cd4d6cb",
+                                    "url": "https://github.com/XDelta/PermissionControl/releases/download/2.0.3/PermissionControl.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/XDelta/PermissionControl/releases/tag/2.0.3"
                         }
                     }
                 },

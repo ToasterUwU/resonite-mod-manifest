@@ -31,20 +31,23 @@ This fork is bleeding edge unstable stuff. I dont check the mod updates, i dont 
 - [SessionCaptureBlocker](https://github.com/nalathethird/SessionCaptureBlocker) (by nalathethird)  - 1.1.0 vs 1.0.3
 - [bHapticsLib](https://github.com/nalathethird/bHapticsLib) (by nalathethird)  - 1.0.9 vs 1.0.8
 - [EsnyaTweaks](https://github.com/esnya/ResoniteEsnyaTweaks) (by esnya)  - 2.0.1 vs 0.1.0
-- [Resonite Metrics Counter](https://github.com/esnya/ResoniteMetricsCounter) (by esnya)  - 0.8.1 vs 0.8.0
+- [BetterInventoryBrowser](https://github.com/hantabaru1014/BetterInventoryBrowser) (by hantabaru1014)  - 0.7.3 vs 0.7.1
 - [VRCFTReceiver](https://github.com/hazre/VRCFTReceiver) (by hazre)  - 2.0.0 vs 1.0.4
 - [SessionTabOverhaul](https://github.com/NepuShiro/ResoniteSessionTabOverhaul) (by NepuShiro)  - 2.2.0 vs 2.1.1
 
 
 ## Mods we are currently missing (will always be fixed ASAP)
 
+- [FBTCalibratorFollowHead](https://github.com/ModernBalloonie/FBTCalibratorFollowHead) (by ModernBalloonie)
 - [Restonite](https://github.com/Uruloke/Restonite) (by Uruloke)
 - [SmileForTheCamera](https://forge.moldy.gift/Baplar/Resonite.SmileForTheCamera) (by Baplar)
 
 
 ## Mods we have an older version of (will also be fixed ASAP)
 
-We are currently up to date.
+- [CherryTypes](https://forge.colintimbarndt.de/Colin/resonite-cherry-types-mod) (by ColinTimBarndt)  - 1.0.2
+- [CollectionEditor](https://git.unix.dog/yosh/ResoniteCollectionEditor) (by yosh)  - 1.0.0
+
 
 ## What is this?
 

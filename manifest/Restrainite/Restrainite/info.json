@@ -284,33 +284,6 @@
                 }
             ]
         },
-        "0.4.9": {
-            "releaseUrl": "https://github.com/Restrainite/Restrainite/releases/tag/v0.4.9",
-            "artifacts": [
-                {
-                    "url": "https://github.com/Restrainite/Restrainite/releases/download/v0.4.9/Restrainite.dll",
-                    "sha256": "be8af9402936d7443caf400327cea2c81376b6584ed174caf2c87851b279d3b7"
-                }
-            ]
-        },
-        "0.4.8": {
-            "releaseUrl": "https://github.com/Restrainite/Restrainite/releases/tag/v0.4.8",
-            "artifacts": [
-                {
-                    "url": "https://github.com/Restrainite/Restrainite/releases/download/v0.4.8/Restrainite.dll",
-                    "sha256": "87550637c838f7ffb9d2b2e949694a2f10caad3e6f2f38a59676179520469bf8"
-                }
-            ]
-        },
-        "0.4.7": {
-            "releaseUrl": "https://github.com/Restrainite/Restrainite/releases/tag/v0.4.7",
-            "artifacts": [
-                {
-                    "url": "https://github.com/Restrainite/Restrainite/releases/download/v0.4.7/Restrainite.dll",
-                    "sha256": "dd83fd79a866650ff09da2b29c3c46223a74fb98233fb3af4cd321fd50376224"
-                }
-            ]
-        },
         "0.4.14": {
             "releaseUrl": "https://github.com/Restrainite/Restrainite/releases/tag/v0.4.14",
             "artifacts": [
@@ -353,6 +326,33 @@
                 {
                     "url": "https://github.com/Restrainite/Restrainite/releases/download/v0.4.10/Restrainite.dll",
                     "sha256": "fdf273c5cb77e8fb30d72f516d59180e55466c363a193f98319873f8f2fd5efa"
+                }
+            ]
+        },
+        "0.4.9": {
+            "releaseUrl": "https://github.com/Restrainite/Restrainite/releases/tag/v0.4.9",
+            "artifacts": [
+                {
+                    "url": "https://github.com/Restrainite/Restrainite/releases/download/v0.4.9/Restrainite.dll",
+                    "sha256": "be8af9402936d7443caf400327cea2c81376b6584ed174caf2c87851b279d3b7"
+                }
+            ]
+        },
+        "0.4.8": {
+            "releaseUrl": "https://github.com/Restrainite/Restrainite/releases/tag/v0.4.8",
+            "artifacts": [
+                {
+                    "url": "https://github.com/Restrainite/Restrainite/releases/download/v0.4.8/Restrainite.dll",
+                    "sha256": "87550637c838f7ffb9d2b2e949694a2f10caad3e6f2f38a59676179520469bf8"
+                }
+            ]
+        },
+        "0.4.7": {
+            "releaseUrl": "https://github.com/Restrainite/Restrainite/releases/tag/v0.4.7",
+            "artifacts": [
+                {
+                    "url": "https://github.com/Restrainite/Restrainite/releases/download/v0.4.7/Restrainite.dll",
+                    "sha256": "dd83fd79a866650ff09da2b29c3c46223a74fb98233fb3af4cd321fd50376224"
                 }
             ]
         }
