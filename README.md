@@ -41,8 +41,7 @@ We currently have everything.
 
 ## Mods we have an older version of (will also be fixed ASAP)
 
-- [NullableInputUI](https://git.unix.dog/yosh/ResoniteNullableInputUI) (by yosh)  - 1.0.1
-
+We are currently up to date.
 
 ## What is this?
 
