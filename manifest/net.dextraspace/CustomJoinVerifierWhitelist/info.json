@@ -1,21 +1,41 @@
 {
-	"name": "CustomJoinVerifierWhitelist",
-	"id": "net.dextraspace.CustomJoinVerifierWhitelist",
-	"description": "Allows adding a list of user IDs to skip running an enabled custom join verifier for hosted sessions.",
-	"category": "Technical Tweaks",
-	"sourceLocation": "https://github.com/Cyberboss/CustomJoinVerifierWhitelist",
-	"tags": [
-		"world",
-		"skip",
-		"allowlist"
-	],
-	"versions": {
-		"1.1.1": {
-			"releaseUrl": "https://github.com/Cyberboss/CustomJoinVerifierWhitelist/releases/tag/v1.1.1",
-			"artifacts": [{
-				"url": "https://github.com/Cyberboss/CustomJoinVerifierWhitelist/releases/download/v1.1.1/CustomJoinVerifierWhitelist.dll",
-				"sha256": "14c17c99293288eda8a6e70451ae88b1d7079d5b89e935effd08db72093095c9"
-			}]
-		}
-	}
+    "name": "CustomJoinVerifierWhitelist",
+    "id": "net.dextraspace.CustomJoinVerifierWhitelist",
+    "description": "Allows adding a list of user IDs to skip running an enabled custom join verifier for hosted sessions.",
+    "category": "Technical Tweaks",
+    "sourceLocation": "https://github.com/Cyberboss/CustomJoinVerifierWhitelist",
+    "tags": [
+        "world",
+        "skip",
+        "allowlist"
+    ],
+    "versions": {
+        "1.1.1": {
+            "releaseUrl": "https://github.com/Cyberboss/CustomJoinVerifierWhitelist/releases/tag/v1.1.1",
+            "artifacts": [
+                {
+                    "url": "https://github.com/Cyberboss/CustomJoinVerifierWhitelist/releases/download/v1.1.1/CustomJoinVerifierWhitelist.dll",
+                    "sha256": "14c17c99293288eda8a6e70451ae88b1d7079d5b89e935effd08db72093095c9"
+                }
+            ]
+        },
+        "1.1.0": {
+            "releaseUrl": "https://github.com/Cyberboss/CustomJoinVerifierWhitelist/releases/tag/v1.1.0",
+            "artifacts": [
+                {
+                    "url": "https://github.com/Cyberboss/CustomJoinVerifierWhitelist/releases/download/v1.1.0/CustomJoinVerifierWhitelist.dll",
+                    "sha256": "6bc8041832155cad7f9f6cf2e64571d9b53051dd9f05a78bd48896326496fc2d"
+                }
+            ]
+        },
+        "1.0.0": {
+            "releaseUrl": "https://github.com/Cyberboss/CustomJoinVerifierWhitelist/releases/tag/v1.0.0",
+            "artifacts": [
+                {
+                    "url": "https://github.com/Cyberboss/CustomJoinVerifierWhitelist/releases/download/v1.0.0/CustomJoinVerifierWhitelist.dll",
+                    "sha256": "11c2b8711f0ad8bfd8b84fbb97c387ec9e5eaa86e0f48c4397f938cecdf7e2f7"
+                }
+            ]
+        }
+    }
 }

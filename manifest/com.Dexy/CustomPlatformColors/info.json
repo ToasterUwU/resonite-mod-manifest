@@ -3,7 +3,9 @@
     "id": "com.Dexy.CustomPlatformColors",
     "description": "Change your UI and UIX colors, configurable through mod settings. \ud83c\udfa8",
     "category": "Visual Tweaks",
-	"flags": ["broken"],
+    "flags": [
+        "broken"
+    ],
     "sourceLocation": "https://github.com/DexyThePuppy/CustomPlatformColors",
     "additionalAuthors": [
         "troyBORG",
