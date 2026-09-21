@@ -5,6 +5,15 @@
     "category": "Inspectors",
     "sourceLocation": "https://github.com/Nytra/ResoniteExpandedMemberEditors",
     "versions": {
+        "1.1.0": {
+            "releaseUrl": "https://github.com/Nytra/ResoniteExpandedMemberEditors/releases/tag/v1.1.0",
+            "artifacts": [
+                {
+                    "url": "https://github.com/Nytra/ResoniteExpandedMemberEditors/releases/download/v1.1.0/ExpandedMemberEditors.dll",
+                    "sha256": "f0e4a430084fc846ba59ff168cbcce8098d94f777cf0ef5e279575e4d41cf22e"
+                }
+            ]
+        },
         "1.0.0": {
             "releaseUrl": "https://github.com/Nytra/ResoniteExpandedMemberEditors/releases/tag/v1.0.0",
             "artifacts": [
