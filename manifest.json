@@ -5510,6 +5510,72 @@
                             "releaseUrl": "https://github.com/noblereign/ResoniteGrabbersGalore/releases/tag/v1.1.0"
                         }
                     }
+                },
+                "dog.glacier.UnifiedExpressionMapper": {
+                    "category": "Asset Importing",
+                    "description": "Adds automatic support for more face tracking standards, most notably Unified Expressions.",
+                    "name": "UnifiedExpressionMapper",
+                    "sourceLocation": "https://github.com/noblereign/ResoniteUnifiedExpressionMapper",
+                    "tags": [
+                        "ue",
+                        "sranipal",
+                        "arkit",
+                        "facs",
+                        "blendshapes"
+                    ],
+                    "versions": {
+                        "1.0.0": {
+                            "artifacts": [
+                                {
+                                    "sha256": "d3a9b1623c2c7d5decc770fd89025b76ba456613b0bfc07513c5d8a8b142acdf",
+                                    "url": "https://github.com/noblereign/ResoniteUnifiedExpressionMapper/releases/download/v1.0.0/UnifiedExpressionMapper.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/noblereign/ResoniteUnifiedExpressionMapper/releases/tag/v1.0.0"
+                        },
+                        "1.0.1": {
+                            "artifacts": [
+                                {
+                                    "sha256": "441d670eda20eb08fe71e5595146f9f689ba13b9f29a29727dea554a17fe167a",
+                                    "url": "https://github.com/noblereign/ResoniteUnifiedExpressionMapper/releases/download/v1.0.1/UnifiedExpressionMapper.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/noblereign/ResoniteUnifiedExpressionMapper/releases/tag/v1.0.1"
+                        },
+                        "1.1.0": {
+                            "artifacts": [
+                                {
+                                    "sha256": "0484dd67ddd441adc599ea95f17732ea822acc22fd1bc4b27e2fc4877950c501",
+                                    "url": "https://github.com/noblereign/ResoniteUnifiedExpressionMapper/releases/download/v1.1.0/UnifiedExpressionMapper.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/noblereign/ResoniteUnifiedExpressionMapper/releases/tag/v1.1.0"
+                        },
+                        "1.1.1": {
+                            "artifacts": [
+                                {
+                                    "sha256": "189978ab51fc79fdc453a8149e03c240ade69d6e1e7fd55a94fb665a92853279",
+                                    "url": "https://github.com/noblereign/ResoniteUnifiedExpressionMapper/releases/download/v1.1.1/UnifiedExpressionMapper.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/noblereign/ResoniteUnifiedExpressionMapper/releases/tag/v1.1.1"
+                        },
+                        "1.1.2": {
+                            "artifacts": [
+                                {
+                                    "sha256": "3803b8cb6671d05eb9d445a88d2a925ad31bcea93da068621a506c2a7218f92e",
+                                    "url": "https://github.com/noblereign/ResoniteUnifiedExpressionMapper/releases/download/v1.1.2/UnifiedExpressionMapper.dll"
+                                }
+                            ],
+                            "dependencies": {
+                                "me.art0007i.CustomUILib": {
+                                    "optional": false,
+                                    "version": "^2.0.0"
+                                }
+                            },
+                            "releaseUrl": "https://github.com/noblereign/ResoniteUnifiedExpressionMapper/releases/tag/v1.1.2"
+                        }
+                    }
                 }
             }
         },
@@ -8996,6 +9062,33 @@
                 }
             },
             "entries": {
+                "net.deltawolf.ComponentRunUpgrade": {
+                    "category": "Technical Tweaks",
+                    "description": "Allows re-running some components' cleanup or upgrade methods such as on RadiantDashScreen and GridContainerScreen for issue #594",
+                    "name": "ComponentRunUpgrade",
+                    "sourceLocation": "https://github.com/XDelta/ComponentRunUpgrade",
+                    "tags": [
+                        "LegacyRadiantScreenWrapper",
+                        "screen",
+                        "dash"
+                    ],
+                    "versions": {
+                        "1.0.0": {
+                            "artifacts": [
+                                {
+                                    "sha256": "dd0e4f0e826e841d8fe9ec442e9afc4e6dc495385ee53d2e8dc77414289ac560",
+                                    "url": "https://github.com/XDelta/ComponentRunUpgrade/releases/download/1.0.0/ComponentRunUpgrade.dll"
+                                }
+                            ],
+                            "dependencies": {
+                                "me.art0007i.CustomUILib": {
+                                    "version": "^2.0.0"
+                                }
+                            },
+                            "releaseUrl": "https://github.com/XDelta/ComponentRunUpgrade/releases/tag/1.0.0"
+                        }
+                    }
+                },
                 "net.deltawolf.ContextMenuControl": {
                     "category": "Context Menu",
                     "description": "Gives higher control over your context menu. Features include disabling scale reset, hiding the scale or locomotion options and hiding the context menu from others.",
@@ -9618,6 +9711,37 @@
                                 }
                             ],
                             "releaseUrl": "https://github.com/Cyberboss/ResoniteGetItemLink/releases/tag/v2.0.0"
+                        }
+                    }
+                },
+                "net.dextraspace.LetMeIn": {
+                    "category": "Misc",
+                    "description": "Automatically requests invites from the hosts of sessions in your `autoJoinSessions` config list when you log in.",
+                    "name": "LetMeIn",
+                    "sourceLocation": "https://github.com/Cyberboss/LetMeIn",
+                    "tags": [
+                        "invite",
+                        "contacts",
+                        "sessions"
+                    ],
+                    "versions": {
+                        "1.0.1": {
+                            "artifacts": [
+                                {
+                                    "sha256": "2f53a354953c07cf9d9ce3f321047977521fb1efb1b0173b0f30d2c0c9be521d",
+                                    "url": "https://github.com/Cyberboss/LetMeIn/releases/download/v1.0.1/LetMeIn.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/Cyberboss/LetMeIn/releases/tag/v1.0.1"
+                        },
+                        "1.1.0": {
+                            "artifacts": [
+                                {
+                                    "sha256": "d1d8c059ee131299f5edc59a41dfdacae8be22bdc18f81fc52d5c6f7125518d5",
+                                    "url": "https://github.com/Cyberboss/LetMeIn/releases/download/v1.1.0/LetMeIn.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/Cyberboss/LetMeIn/releases/tag/v1.1.0"
                         }
                     }
                 },

@@ -1,7 +1,7 @@
 {
-	"name": "UnifiedExpressionMapper",
-	"id": "dog.glacier.UnifiedExpressionMapper",
-	"description": "Adds automatic support for more face tracking standards, most notably Unified Expressions.",
+    "name": "UnifiedExpressionMapper",
+    "id": "dog.glacier.UnifiedExpressionMapper",
+    "description": "Adds automatic support for more face tracking standards, most notably Unified Expressions.",
     "tags": [
         "ue",
         "sranipal",
@@ -9,21 +9,59 @@
         "facs",
         "blendshapes"
     ],
-	"category": "Asset Importing",
-	"sourceLocation": "https://github.com/noblereign/ResoniteUnifiedExpressionMapper",
-	"versions": {
-		"1.1.2": {
-			"releaseUrl": "https://github.com/noblereign/ResoniteUnifiedExpressionMapper/releases/tag/v1.1.2",
-			"artifacts": [{
-				"url": "https://github.com/noblereign/ResoniteUnifiedExpressionMapper/releases/download/v1.1.2/UnifiedExpressionMapper.dll",
-				"sha256": "3803b8cb6671d05eb9d445a88d2a925ad31bcea93da068621a506c2a7218f92e"
-			}],
+    "category": "Asset Importing",
+    "sourceLocation": "https://github.com/noblereign/ResoniteUnifiedExpressionMapper",
+    "versions": {
+        "1.1.2": {
+            "releaseUrl": "https://github.com/noblereign/ResoniteUnifiedExpressionMapper/releases/tag/v1.1.2",
+            "artifacts": [
+                {
+                    "url": "https://github.com/noblereign/ResoniteUnifiedExpressionMapper/releases/download/v1.1.2/UnifiedExpressionMapper.dll",
+                    "sha256": "3803b8cb6671d05eb9d445a88d2a925ad31bcea93da068621a506c2a7218f92e"
+                }
+            ],
             "dependencies": {
                 "me.art0007i.CustomUILib": {
                     "version": "^2.0.0",
                     "optional": false
                 }
             }
-		}
-	}
+        },
+        "1.1.1": {
+            "releaseUrl": "https://github.com/noblereign/ResoniteUnifiedExpressionMapper/releases/tag/v1.1.1",
+            "artifacts": [
+                {
+                    "url": "https://github.com/noblereign/ResoniteUnifiedExpressionMapper/releases/download/v1.1.1/UnifiedExpressionMapper.dll",
+                    "sha256": "189978ab51fc79fdc453a8149e03c240ade69d6e1e7fd55a94fb665a92853279"
+                }
+            ]
+        },
+        "1.1.0": {
+            "releaseUrl": "https://github.com/noblereign/ResoniteUnifiedExpressionMapper/releases/tag/v1.1.0",
+            "artifacts": [
+                {
+                    "url": "https://github.com/noblereign/ResoniteUnifiedExpressionMapper/releases/download/v1.1.0/UnifiedExpressionMapper.dll",
+                    "sha256": "0484dd67ddd441adc599ea95f17732ea822acc22fd1bc4b27e2fc4877950c501"
+                }
+            ]
+        },
+        "1.0.1": {
+            "releaseUrl": "https://github.com/noblereign/ResoniteUnifiedExpressionMapper/releases/tag/v1.0.1",
+            "artifacts": [
+                {
+                    "url": "https://github.com/noblereign/ResoniteUnifiedExpressionMapper/releases/download/v1.0.1/UnifiedExpressionMapper.dll",
+                    "sha256": "441d670eda20eb08fe71e5595146f9f689ba13b9f29a29727dea554a17fe167a"
+                }
+            ]
+        },
+        "1.0.0": {
+            "releaseUrl": "https://github.com/noblereign/ResoniteUnifiedExpressionMapper/releases/tag/v1.0.0",
+            "artifacts": [
+                {
+                    "url": "https://github.com/noblereign/ResoniteUnifiedExpressionMapper/releases/download/v1.0.0/UnifiedExpressionMapper.dll",
+                    "sha256": "d3a9b1623c2c7d5decc770fd89025b76ba456613b0bfc07513c5d8a8b142acdf"
+                }
+            ]
+        }
+    }
 }

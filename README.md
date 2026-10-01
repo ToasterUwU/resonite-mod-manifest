@@ -37,9 +37,7 @@ This fork is bleeding edge unstable stuff. I dont check the mod updates, i dont 
 
 ## Mods we are currently missing (will always be fixed ASAP)
 
-- [UnifiedExpressionMapper](https://github.com/noblereign/ResoniteUnifiedExpressionMapper) (by Noble)
-- [ComponentRunUpgrade](https://github.com/XDelta/ComponentRunUpgrade) (by Delta)
-- [LetMeIn](https://github.com/Cyberboss/LetMeIn) (by Dominion)
+- [Numantics](https://github.com/nalathethird/Numantics) (by nalathethird)
 
 
 ## Mods we have an older version of (will also be fixed ASAP)
