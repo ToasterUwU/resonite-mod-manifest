@@ -3340,6 +3340,54 @@
                         }
                     }
                 },
+                "com.nalathethird.Numantics": {
+                    "category": "Technical Tweaks",
+                    "description": "Adds math expression evaluation to numeric input fields",
+                    "name": "Numantics",
+                    "sourceLocation": "https://github.com/nalathethird/Numantics",
+                    "tags": [
+                        "math",
+                        "input"
+                    ],
+                    "versions": {
+                        "1.0.0": {
+                            "artifacts": [
+                                {
+                                    "sha256": "72b8a65dedc58f5698bbfbab2825d18ecab64d454def326033c798a5ba3211a3",
+                                    "url": "https://github.com/nalathethird/Numantics/releases/download/1.0.0/Numantics.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/nalathethird/Numantics/releases/tag/1.0.0"
+                        },
+                        "1.0.1": {
+                            "artifacts": [
+                                {
+                                    "sha256": "4ce1b5f27f339f81f2f271f831a56ac1fa7e7c0042abc31735e4c6b139ec1cb6",
+                                    "url": "https://github.com/nalathethird/Numantics/releases/download/1.0.1/Numantics.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/nalathethird/Numantics/releases/tag/1.0.1"
+                        },
+                        "1.0.2": {
+                            "artifacts": [
+                                {
+                                    "sha256": "27649e29a2d4311f987cf5a87ee6768b2046ccfb40188608724b980d5a519044",
+                                    "url": "https://github.com/nalathethird/Numantics/releases/download/1.0.2/Numantics.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/nalathethird/Numantics/releases/tag/1.0.2"
+                        },
+                        "1.0.3": {
+                            "artifacts": [
+                                {
+                                    "sha256": "595088934d0dd838b3997087cfafc015b96a2d27093aeaeb64bd007eb1c3b4f0",
+                                    "url": "https://github.com/nalathethird/Numantics/releases/download/1.0.3/Numantics.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/nalathethird/Numantics/releases/tag/1.0.3"
+                        }
+                    }
+                },
                 "com.nalathethird.SessionCaptureBlocker": {
                     "category": "Technical Tweaks",
                     "description": "Prevents session thumbnail generation and upload in sessions with selected AccessLevels",
@@ -9643,10 +9691,31 @@
             "author": {
                 "Dominion": {
                     "icon": "https://github.com/Cyberboss.png",
+                    "support": "https://github.com/sponsors/Cyberboss",
                     "url": "https://github.com/Cyberboss"
                 }
             },
             "entries": {
+                "net.dextraspace.AnimatorTrackReference": {
+                    "category": "Inspectors",
+                    "description": "Adds a button to Animator components to show a reference of the clips animation tracks.",
+                    "name": "AnimatorTrackReference",
+                    "sourceLocation": "https://github.com/Cyberboss/AnimatorTrackReference",
+                    "tags": [
+                        "animx"
+                    ],
+                    "versions": {
+                        "1.0.0": {
+                            "artifacts": [
+                                {
+                                    "sha256": "387e803d0e0f1afc830c478a3ea0cda4b50f61c8b7e3073739d294456ff2f062",
+                                    "url": "https://github.com/Cyberboss/AnimatorTrackReference/releases/download/v1.0.0/AnimatorTrackReference.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/Cyberboss/AnimatorTrackReference/releases/tag/v1.0.0"
+                        }
+                    }
+                },
                 "net.dextraspace.CustomJoinVerifierWhitelist": {
                     "category": "Technical Tweaks",
                     "description": "Allows adding a list of user IDs to skip running an enabled custom join verifier for hosted sessions.",
