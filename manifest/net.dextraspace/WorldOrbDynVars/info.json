@@ -5,6 +5,24 @@
     "category": "Technical Tweaks",
     "sourceLocation": "https://github.com/Cyberboss/WorldOrbDynVars",
     "versions": {
+        "2.0.1": {
+            "releaseUrl": "https://github.com/Cyberboss/WorldOrbDynVars/releases/tag/v2.0.1",
+            "artifacts": [
+                {
+                    "url": "https://github.com/Cyberboss/WorldOrbDynVars/releases/download/v2.0.1/WorldOrbDynVars.dll",
+                    "sha256": "16c996814bf538839b58348d6d431ba39e97cd468e2e55545f81faed72a6f1b8"
+                }
+            ]
+        },
+        "2.0.0": {
+            "releaseUrl": "https://github.com/Cyberboss/WorldOrbDynVars/releases/tag/v2.0.0",
+            "artifacts": [
+                {
+                    "url": "https://github.com/Cyberboss/WorldOrbDynVars/releases/download/v2.0.0/WorldOrbDynVars.dll",
+                    "sha256": "e7749f36a372dde921c0cb2088899b8b25db9eb5c7ce32f4424eaf8dccf48f29"
+                }
+            ]
+        },
         "1.1.1": {
             "releaseUrl": "https://github.com/Cyberboss/WorldOrbDynVars/releases/tag/v1.1.1",
             "artifacts": [
