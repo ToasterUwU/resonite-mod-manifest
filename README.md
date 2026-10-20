@@ -37,6 +37,7 @@ This fork is bleeding edge unstable stuff. I dont check the mod updates, i dont 
 
 ## Mods we are currently missing (will always be fixed ASAP)
 
+- [AutoResoLink](https://github.com/XekriRedmane/AutoResoLink) (by Xekri)
 - [DynamicSavedSlotNames](https://github.com/Cyberboss/DynamicSavedSlotNames) (by Dominion)
 
 
