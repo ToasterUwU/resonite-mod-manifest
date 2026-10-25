@@ -12,6 +12,15 @@
     "category": "Asset Importing",
     "sourceLocation": "https://github.com/noblereign/ResoniteUnifiedExpressionMapper",
     "versions": {
+        "1.2.0": {
+            "releaseUrl": "https://github.com/noblereign/ResoniteUnifiedExpressionMapper/releases/tag/v1.2.0",
+            "artifacts": [
+                {
+                    "url": "https://github.com/noblereign/ResoniteUnifiedExpressionMapper/releases/download/v1.2.0/UnifiedExpressionMapper.dll",
+                    "sha256": "46eeddbdd84eb4801b8f16b6d5981955577593254494d6e4ce0ad9fb9de2eb08"
+                }
+            ]
+        },
         "1.1.2": {
             "releaseUrl": "https://github.com/noblereign/ResoniteUnifiedExpressionMapper/releases/tag/v1.1.2",
             "artifacts": [

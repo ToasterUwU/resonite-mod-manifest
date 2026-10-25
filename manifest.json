@@ -5622,6 +5622,15 @@
                                 }
                             },
                             "releaseUrl": "https://github.com/noblereign/ResoniteUnifiedExpressionMapper/releases/tag/v1.1.2"
+                        },
+                        "1.2.0": {
+                            "artifacts": [
+                                {
+                                    "sha256": "46eeddbdd84eb4801b8f16b6d5981955577593254494d6e4ce0ad9fb9de2eb08",
+                                    "url": "https://github.com/noblereign/ResoniteUnifiedExpressionMapper/releases/download/v1.2.0/UnifiedExpressionMapper.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/noblereign/ResoniteUnifiedExpressionMapper/releases/tag/v1.2.0"
                         }
                     }
                 }
