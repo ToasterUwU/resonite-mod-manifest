@@ -39,6 +39,7 @@ This fork is bleeding edge unstable stuff. I dont check the mod updates, i dont 
 
 - [AutoResoLink](https://github.com/XekriRedmane/AutoResoLink) (by Xekri)
 - [DynamicSavedSlotNames](https://github.com/Cyberboss/DynamicSavedSlotNames) (by Dominion)
+- [BabbleFrameRuntime](https://github.com/eth0fox/resonite-babblelink) (by eth0fox)
 
 
 ## Mods we have an older version of (will also be fixed ASAP)
