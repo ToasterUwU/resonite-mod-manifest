@@ -44,7 +44,8 @@ This fork is bleeding edge unstable stuff. I dont check the mod updates, i dont 
 
 ## Mods we have an older version of (will also be fixed ASAP)
 
-We are currently up to date.
+- [Harmony](https://github.com/pardeike/Harmony) (by pardeike)  - 2.4.2
+
 
 ## What is this?
 
