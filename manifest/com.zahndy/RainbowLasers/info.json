@@ -1,11 +1,9 @@
 {
-    "name": "RainbowLasers",
-    "id": "com.zahndy.RainbowLasers",
-    "description": "Turns your lasers into a animated rainbow.",
-    "tags": [
-        "rainbow",
-        "lasers",
-        "laser",
+	"name": "RainbowLasers",
+	"id": "com.zahndy.RainbowLasers",
+	"description": "Turns your lasers into a animated rainbow.",
+	"tags": [
+        "color",
         "rgb"
     ],
     "category": "Misc",

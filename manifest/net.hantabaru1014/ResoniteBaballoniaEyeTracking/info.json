@@ -1,48 +1,39 @@
 {
-    "name": "ResoniteBaballoniaEyeTracking",
-    "id": "net.hantabaru1014.ResoniteBaballoniaEyeTracking",
-    "description": "Allows you to use Eye Tracking devices supported by Baballonia in Resonite, like the Bigscreen Beyond 2e for example.",
-    "category": "Hardware Integration",
-    "sourceLocation": "https://github.com/hantabaru1014/ResoniteBaballoniaEyeTracking",
-    "flags": [
-        "deprecated"
-    ],
-    "versions": {
-        "0.2.1": {
-            "releaseUrl": "https://github.com/hantabaru1014/ResoniteBaballoniaEyeTracking/releases/tag/v0.2.1",
-            "artifacts": [
-                {
-                    "url": "https://github.com/hantabaru1014/ResoniteBaballoniaEyeTracking/releases/download/v0.2.1/ResoniteBaballoniaEyeTracking.dll",
-                    "sha256": "193374c4edc94ff4a56183e5d70b2787e1997ca0906b9ef3d12b24d86a2478de"
-                }
-            ]
-        },
-        "0.2.0": {
-            "releaseUrl": "https://github.com/hantabaru1014/ResoniteBaballoniaEyeTracking/releases/tag/v0.2.0",
-            "artifacts": [
-                {
-                    "url": "https://github.com/hantabaru1014/ResoniteBaballoniaEyeTracking/releases/download/v0.2.0/ResoniteBaballoniaEyeTracking.dll",
-                    "sha256": "a2e23932bc6f857e640703447c4f29e554859d6b070b6dad6a1a1572cd464ed3"
-                }
-            ]
-        },
-        "0.1.1": {
-            "releaseUrl": "https://github.com/hantabaru1014/ResoniteBaballoniaEyeTracking/releases/tag/v0.1.1",
-            "artifacts": [
-                {
-                    "url": "https://github.com/hantabaru1014/ResoniteBaballoniaEyeTracking/releases/download/v0.1.1/ResoniteBaballoniaEyeTracking.dll",
-                    "sha256": "3e4af10106b16a3c2edb9b9a3060aed57043ad6463502d86a8fa49230de3fa60"
-                }
-            ]
-        },
-        "0.1.0": {
-            "releaseUrl": "https://github.com/hantabaru1014/ResoniteBaballoniaEyeTracking/releases/tag/v0.1.0",
-            "artifacts": [
-                {
-                    "url": "https://github.com/hantabaru1014/ResoniteBaballoniaEyeTracking/releases/download/v0.1.0/ResoniteBaballoniaEyeTracking.dll",
-                    "sha256": "a260ff4d7181e2453fe0b256833c23fd2d47b361f48f9dd051459c78e9749164"
-                }
-            ]
-        }
-    }
+	"name": "ResoniteBaballoniaEyeTracking",
+	"id": "net.hantabaru1014.ResoniteBaballoniaEyeTracking",
+	"description": "Allows using Baballonia for face and eye tracking in Resonite",
+	"category": "Hardware Integration",
+	"sourceLocation": "https://github.com/hantabaru1014/ResoniteBaballoniaEyeTracking",
+	"tags": [
+		"babble",
+		"beyond",
+		"bigscreen",
+		"pimax",
+		"varjo",
+		"vive"
+	],
+	"flags": ["deprecated"],
+	"versions": {
+		"0.1.0": {
+			"releaseUrl": "https://github.com/hantabaru1014/ResoniteBaballoniaEyeTracking/releases/tag/v0.1.0",
+			"artifacts": [{
+				"url": "https://github.com/hantabaru1014/ResoniteBaballoniaEyeTracking/releases/download/v0.1.0/ResoniteBaballoniaEyeTracking.dll",
+				"sha256": "a260ff4d7181e2453fe0b256833c23fd2d47b361f48f9dd051459c78e9749164"
+			}]
+		},
+		"0.1.1": {
+			"releaseUrl": "https://github.com/hantabaru1014/ResoniteBaballoniaEyeTracking/releases/tag/v0.1.1",
+			"artifacts": [{
+				"url": "https://github.com/hantabaru1014/ResoniteBaballoniaEyeTracking/releases/download/v0.1.1/ResoniteBaballoniaEyeTracking.dll",
+				"sha256": "3e4af10106b16a3c2edb9b9a3060aed57043ad6463502d86a8fa49230de3fa60"
+			}]
+		},
+		"0.2.1": {
+			"releaseUrl": "https://github.com/hantabaru1014/ResoniteBaballoniaEyeTracking/releases/tag/v0.2.1",
+			"artifacts": [{
+				"url": "https://github.com/hantabaru1014/ResoniteBaballoniaEyeTracking/releases/download/v0.2.1/ResoniteBaballoniaEyeTracking.dll",
+				"sha256": "193374c4edc94ff4a56183e5d70b2787e1997ca0906b9ef3d12b24d86a2478de"
+			}]
+		}
+	}
 }
