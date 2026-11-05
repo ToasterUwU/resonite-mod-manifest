@@ -30,23 +30,18 @@ This fork is bleeding edge unstable stuff. I dont check the mod updates, i dont 
 - [Thundagun](https://github.com/Frozenreflex/Thundagun) (by Frozenreflex)  - 1.2.2 vs 1.2.1
 - [SessionCaptureBlocker](https://github.com/nalathethird/SessionCaptureBlocker) (by nalathethird)  - 1.1.0 vs 1.0.3
 - [bHapticsLib](https://github.com/nalathethird/bHapticsLib) (by nalathethird)  - 1.0.9 vs 1.0.8
-- [EsnyaTweaks](https://github.com/esnya/ResoniteEsnyaTweaks) (by esnya)  - 2.0.1 vs 0.1.0
 - [VRCFTReceiver](https://github.com/hazre/VRCFTReceiver) (by hazre)  - 2.0.0 vs 1.0.4
 - [SessionTabOverhaul](https://github.com/NepuShiro/ResoniteSessionTabOverhaul) (by NepuShiro)  - 2.2.0 vs 2.1.1
 
 
 ## Mods we are currently missing (will always be fixed ASAP)
 
-- [AutoResoLink](https://github.com/XekriRedmane/AutoResoLink) (by Xekri)
-- [ResoniteModularSearch](https://github.com/mpmxyz/ResoniteModularSearch/) (by mpmxyz)
 - [DynamicSavedSlotNames](https://github.com/Cyberboss/DynamicSavedSlotNames) (by Dominion)
-- [BabbleFrameRuntime](https://github.com/eth0fox/resonite-babblelink) (by eth0fox)
 
 
 ## Mods we have an older version of (will also be fixed ASAP)
 
-- [Harmony](https://github.com/pardeike/Harmony) (by pardeike)  - 2.4.2
-
+We are currently up to date.
 
 ## What is this?
 

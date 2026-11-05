@@ -1,46 +1,56 @@
 {
-	"name": "WorldOrbDynVars",
-	"id": "net.dextraspace.WorldOrbDynVars",
-	"description": "A Resonite mod to attach a DynamicVariableSpace to a child slot of WorldOrb components that relays info for them.",
-	"category": "Technical Tweaks",
-	"sourceLocation": "https://github.com/Cyberboss/WorldOrbDynVars",
-	"versions": {
-		"1.0.2": {
-			"releaseUrl": "https://github.com/Cyberboss/WorldOrbDynVars/releases/tag/v1.0.2",
-			"artifacts": [{
-				"url": "https://github.com/Cyberboss/WorldOrbDynVars/releases/download/v1.0.2/WorldOrbDynVars.dll",
-				"sha256": "dc38bd8b75ba5772f7da0d0970efe38b182ae1ba8495512cd062103129c24737"
-			}]
-		},
-		"1.1.0": {
-			"releaseUrl": "https://github.com/Cyberboss/WorldOrbDynVars/releases/tag/v1.1.0",
-			"artifacts": [{
-				"url": "https://github.com/Cyberboss/WorldOrbDynVars/releases/download/v1.1.0/WorldOrbDynVars.dll",
-				"sha256": "ea86c1e3ef8e86134c96cdb2dd09c2e53975e95a50751607d53c48f45f1ef818"
-			}]
-		},
-		"1.1.1": {
-			"releaseUrl": "https://github.com/Cyberboss/WorldOrbDynVars/releases/tag/v1.1.1",
-			"artifacts": [{
-				"url": "https://github.com/Cyberboss/WorldOrbDynVars/releases/download/v1.1.1/WorldOrbDynVars.dll",
-				"sha256": "f4d9f97695cf8f005b59f0de59b26ce0817398410ae51a5d895f3ac21f306599"
-			}]
-		},
-		"2.0.0": {
-			"releaseUrl": "https://github.com/Cyberboss/WorldOrbDynVars/releases/tag/v2.0.0",
-			"artifacts": [{
-				"url": "https://github.com/Cyberboss/WorldOrbDynVars/releases/download/v2.0.0/WorldOrbDynVars.dll",
-				"sha256": "e7749f36a372dde921c0cb2088899b8b25db9eb5c7ce32f4424eaf8dccf48f29"
-			}],
-			"changelog": "The DynamicVariableSpace now only allows direct binding."
-		},
-		"2.0.1": {
-			"releaseUrl": "https://github.com/Cyberboss/WorldOrbDynVars/releases/tag/v2.0.1",
-			"artifacts": [{
-				"url": "https://github.com/Cyberboss/WorldOrbDynVars/releases/download/v2.0.1/WorldOrbDynVars.dll",
-				"sha256": "16c996814bf538839b58348d6d431ba39e97cd468e2e55545f81faed72a6f1b8"
-			}],
-			"changelog": "Fixed the DynamicVariableSpace also being created next to your `UserRoot` components."
-		}
-	}
+    "name": "WorldOrbDynVars",
+    "id": "net.dextraspace.WorldOrbDynVars",
+    "description": "A Resonite mod to attach a DynamicVariableSpace to a child slot of WorldOrb components that relays info for them.",
+    "category": "Technical Tweaks",
+    "sourceLocation": "https://github.com/Cyberboss/WorldOrbDynVars",
+    "versions": {
+        "2.0.1": {
+            "releaseUrl": "https://github.com/Cyberboss/WorldOrbDynVars/releases/tag/v2.0.1",
+            "artifacts": [
+                {
+                    "url": "https://github.com/Cyberboss/WorldOrbDynVars/releases/download/v2.0.1/WorldOrbDynVars.dll",
+                    "sha256": "16c996814bf538839b58348d6d431ba39e97cd468e2e55545f81faed72a6f1b8"
+                }
+            ],
+            "changelog": "Fixed the DynamicVariableSpace also being created next to your `UserRoot` components."
+        },
+        "2.0.0": {
+            "releaseUrl": "https://github.com/Cyberboss/WorldOrbDynVars/releases/tag/v2.0.0",
+            "artifacts": [
+                {
+                    "url": "https://github.com/Cyberboss/WorldOrbDynVars/releases/download/v2.0.0/WorldOrbDynVars.dll",
+                    "sha256": "e7749f36a372dde921c0cb2088899b8b25db9eb5c7ce32f4424eaf8dccf48f29"
+                }
+            ],
+            "changelog": "The DynamicVariableSpace now only allows direct binding."
+        },
+        "1.1.1": {
+            "releaseUrl": "https://github.com/Cyberboss/WorldOrbDynVars/releases/tag/v1.1.1",
+            "artifacts": [
+                {
+                    "url": "https://github.com/Cyberboss/WorldOrbDynVars/releases/download/v1.1.1/WorldOrbDynVars.dll",
+                    "sha256": "f4d9f97695cf8f005b59f0de59b26ce0817398410ae51a5d895f3ac21f306599"
+                }
+            ]
+        },
+        "1.1.0": {
+            "releaseUrl": "https://github.com/Cyberboss/WorldOrbDynVars/releases/tag/v1.1.0",
+            "artifacts": [
+                {
+                    "url": "https://github.com/Cyberboss/WorldOrbDynVars/releases/download/v1.1.0/WorldOrbDynVars.dll",
+                    "sha256": "ea86c1e3ef8e86134c96cdb2dd09c2e53975e95a50751607d53c48f45f1ef818"
+                }
+            ]
+        },
+        "1.0.2": {
+            "releaseUrl": "https://github.com/Cyberboss/WorldOrbDynVars/releases/tag/v1.0.2",
+            "artifacts": [
+                {
+                    "url": "https://github.com/Cyberboss/WorldOrbDynVars/releases/download/v1.0.2/WorldOrbDynVars.dll",
+                    "sha256": "dc38bd8b75ba5772f7da0d0970efe38b182ae1ba8495512cd062103129c24737"
+                }
+            ]
+        }
+    }
 }

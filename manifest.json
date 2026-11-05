@@ -1415,6 +1415,42 @@
                 }
             }
         },
+        "XekriRedmane": {
+            "author": {
+                "Xekri": {
+                    "icon": "https://github.com/XekriRedmane.png",
+                    "url": "https://github.com/XekriRedmane"
+                }
+            },
+            "entries": {
+                "XekriRedmane.AutoResoLink": {
+                    "category": "Technical Tweaks",
+                    "description": "Adds an Enable ResoniteLink checkbox and port field to the New World dialog, with an option to enable ResoniteLink on new worlds automatically. Picks the lowest free port at or above a configurable starting port, and lists running ResoniteLink sessions in a JSON file that external programs can read.",
+                    "name": "AutoResoLink",
+                    "sourceLocation": "https://github.com/XekriRedmane/AutoResoLink",
+                    "versions": {
+                        "1.0.0": {
+                            "artifacts": [
+                                {
+                                    "sha256": "3656014a0e92a0bc4abf10b341bb0da9e5b2ad02a13274a29774fa9cc0b5b111",
+                                    "url": "https://github.com/XekriRedmane/AutoResoLink/releases/download/v1.0.0/AutoResoLink.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/XekriRedmane/AutoResoLink/releases/tag/v1.0.0"
+                        },
+                        "1.0.1": {
+                            "artifacts": [
+                                {
+                                    "sha256": "59d0c79cf5a176e8bf7cb79fb7bf1db546e5d882b02079e74a7fee186b8908b8",
+                                    "url": "https://github.com/XekriRedmane/AutoResoLink/releases/download/v1.0.1/AutoResoLink.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/XekriRedmane/AutoResoLink/releases/tag/v1.0.1"
+                        }
+                    }
+                }
+            }
+        },
         "cat.colin": {
             "author": {
                 "ColinTimBarndt": {
@@ -1430,25 +1466,10 @@
                     "sourceLocation": "https://forge.colintimbarndt.de/Colin/resonite-cherry-types-mod",
                     "tags": [
                         "inspector",
-                        "component",
                         "favorite",
-                        "favourite",
-                        "ProtoFlux"
+                        "protoflux"
                     ],
                     "versions": {
-                        "1.0.0": {
-                            "artifacts": [
-                                {
-                                    "sha256": "0a1db5f9cb31345452d43fb645b4716927de8eca97a6de0a2262f7282bc7176d",
-                                    "url": "https://github.com/ColinTimBarndt/resonite-cherry-types-mod/releases/download/v1.0.0/CherryTypes.dll"
-                                },
-                                {
-                                    "sha256": "583db42423207bab83496c5de1e9092e7799446d818305430a204754ea7e755b",
-                                    "url": "https://github.com/ColinTimBarndt/resonite-cherry-types-mod/releases/download/v1.0.0/CherryTypes.pdb"
-                                }
-                            ],
-                            "releaseUrl": "https://github.com/ColinTimBarndt/resonite-cherry-types-mod/releases/tag/v1.0.0"
-                        },
                         "1.0.1": {
                             "artifacts": [
                                 {
@@ -1466,6 +1487,7 @@
                                     "url": "https://forge.colintimbarndt.de/Colin/resonite-cherry-types-mod/releases/download/v1.0.2/CherryTypes.dll"
                                 }
                             ],
+                            "changelog": "Changed how the mod initializes to fix a potential issue.",
                             "releaseUrl": "https://forge.colintimbarndt.de/Colin/resonite-cherry-types-mod/releases/tag/v1.0.2"
                         },
                         "1.0.5": {
@@ -1486,44 +1508,10 @@
                     "name": "Resdb Tools",
                     "sourceLocation": "https://forge.colintimbarndt.de/Colin/resonite-resdb-tools-mod",
                     "tags": [
-                        "inventory",
                         "resdb",
-                        "database",
                         "cloud"
                     ],
                     "versions": {
-                        "0.1.0": {
-                            "artifacts": [
-                                {
-                                    "sha256": "59e0fd62df32c5258414c2cfbabb7bdb82abd96407015316e7825df062a936a7",
-                                    "url": "https://github.com/ColinTimBarndt/resonite-resdb-tools-mod/releases/download/v0.1.0/Mod.ResdbTools.nupkg"
-                                }
-                            ],
-                            "releaseUrl": "https://github.com/ColinTimBarndt/resonite-resdb-tools-mod/releases/tag/v0.1.0"
-                        },
-                        "0.1.1": {
-                            "artifacts": [
-                                {
-                                    "sha256": "f59836ff54105bbf9af754c7f8a80d68036308421f7260692c22ae5b43fd262b",
-                                    "url": "https://github.com/ColinTimBarndt/resonite-resdb-tools-mod/releases/download/v0.1.1/Mod.ResdbTools.nupkg"
-                                }
-                            ],
-                            "releaseUrl": "https://github.com/ColinTimBarndt/resonite-resdb-tools-mod/releases/tag/v0.1.1"
-                        },
-                        "1.0.0": {
-                            "artifacts": [
-                                {
-                                    "installLocation": "/rml_libs",
-                                    "sha256": "ad03d09314ed8da6892afd37c56954f50a94fc502c48a02c5da74e1a85c75169",
-                                    "url": "https://github.com/ColinTimBarndt/resonite-resdb-tools-mod/releases/download/v1.0.0/ResdbTools.dll"
-                                },
-                                {
-                                    "sha256": "2acadd31c9962cee146c9d1da8db08db16506781e80e6ce5a21bc3fca5316782",
-                                    "url": "https://github.com/ColinTimBarndt/resonite-resdb-tools-mod/releases/download/v1.0.0/ResdbTools.pdb"
-                                }
-                            ],
-                            "releaseUrl": "https://github.com/ColinTimBarndt/resonite-resdb-tools-mod/releases/tag/v1.0.0"
-                        },
                         "1.0.1": {
                             "artifacts": [
                                 {
@@ -1825,9 +1813,7 @@
                     "name": "CustomPlatformColors",
                     "sourceLocation": "https://github.com/DexyThePuppy/CustomPlatformColors",
                     "tags": [
-                        "colour",
-                        "interface",
-                        "color"
+                        "interface"
                     ],
                     "versions": {
                         "1.2.0": {
@@ -2052,13 +2038,6 @@
                         "linux"
                     ],
                     "sourceLocation": "https://github.com/GrandtheUK/ResoniteLinuxClipboard",
-                    "tags": [
-                        "Linux",
-                        "Wayland",
-                        "Clipboard",
-                        "Copy",
-                        "Paste"
-                    ],
                     "versions": {
                         "1.0.0": {
                             "artifacts": [
@@ -3346,8 +3325,8 @@
                     "name": "Numantics",
                     "sourceLocation": "https://github.com/nalathethird/Numantics",
                     "tags": [
-                        "math",
-                        "input"
+                        "formula",
+                        "solve"
                     ],
                     "versions": {
                         "1.0.0": {
@@ -3491,6 +3470,9 @@
                 "com.nekometer.esnya.EsnyaResoniteModTemplate": {
                     "category": "Template",
                     "description": "Esnya's customized template for ResoniteModLoader mods.",
+                    "flags": [
+                        "broken"
+                    ],
                     "name": "EsnyaResoniteModTemplate",
                     "sourceLocation": "https://github.com/esnya/EsnyaResoniteModTemplate",
                     "versions": {
@@ -3508,12 +3490,16 @@
                 "com.nekometer.esnya.EsnyaTweaks": {
                     "category": "Technical Tweaks",
                     "description": "Small tweaks collection for ResoniteModLoader, including While/AsyncWhile timeouts and inspector enhancements.",
+                    "flags": [
+                        "broken"
+                    ],
                     "name": "EsnyaTweaks",
                     "sourceLocation": "https://github.com/esnya/ResoniteEsnyaTweaks",
                     "tags": [
-                        "PhotonDust",
-                        "LOD",
-                        "SystemHelper"
+                        "photondust",
+                        "lod",
+                        "system",
+                        "helper"
                     ],
                     "versions": {
                         "0.0.1": {
@@ -3533,139 +3519,6 @@
                                 }
                             ],
                             "releaseUrl": "https://github.com/esnya/ResoniteEsnyaTweaks/releases/tag/v0.1.0.0"
-                        },
-                        "0.1.1": {
-                            "artifacts": [
-                                {
-                                    "sha256": "a07493477c6138e880c2204401164b053b6deb86f240b7573c6812734fc2f709",
-                                    "url": "https://github.com/esnya/ResoniteEsnyaTweaks/releases/download/v0.1.1/EsnyaTweaks.FluxLoopTweaks.dll"
-                                },
-                                {
-                                    "sha256": "8b7f12e2e85392ddc7b022dd7085caa802e1e2fb8e0033e27f1957fbea49df2a",
-                                    "url": "https://github.com/esnya/ResoniteEsnyaTweaks/releases/download/v0.1.1/EsnyaTweaks.LODGroupTweaks.dll"
-                                },
-                                {
-                                    "sha256": "ff408254c5780fbad3d6bfd7fb41df69edc5a11d37a3de3a4484e7bb856faa28",
-                                    "url": "https://github.com/esnya/ResoniteEsnyaTweaks/releases/download/v0.1.1/EsnyaTweaks.PhotonDustTweaks.dll"
-                                },
-                                {
-                                    "sha256": "05c8e9c9d046973766151b64ef4fffe360b3afa0ebf1ed6479399f1da6847857",
-                                    "url": "https://github.com/esnya/ResoniteEsnyaTweaks/releases/download/v0.1.1/EsnyaTweaks.SystemHelperTweaks.dll"
-                                },
-                                {
-                                    "sha256": "3b4955b4219855bdea4e20741321456b4a67796198576d347ae44fb89bad684e",
-                                    "url": "https://github.com/esnya/ResoniteEsnyaTweaks/releases/download/v0.1.1/EsnyaTweaks.UniLogTweaks.dll"
-                                }
-                            ],
-                            "releaseUrl": "https://github.com/esnya/ResoniteEsnyaTweaks/releases/tag/v0.1.1"
-                        },
-                        "0.2.0": {
-                            "artifacts": [
-                                {
-                                    "sha256": "9089516dab5131f39e7fe19f03f3568822481ecec3ce7989caa151818bee5920",
-                                    "url": "https://github.com/esnya/ResoniteEsnyaTweaks/releases/download/v0.2.0/EsnyaTweaks.FluxLoopTweaks.dll"
-                                },
-                                {
-                                    "sha256": "ad7fcc36292910c7f590864a8b22f6140cee6a81836b462c30853d8af967f0e8",
-                                    "url": "https://github.com/esnya/ResoniteEsnyaTweaks/releases/download/v0.2.0/EsnyaTweaks.LODGroupTweaks.dll"
-                                },
-                                {
-                                    "sha256": "c955bc0829e48ec26b64e9fbec0c4f1920ba9b3038f8f718e95071e37ce5abc6",
-                                    "url": "https://github.com/esnya/ResoniteEsnyaTweaks/releases/download/v0.2.0/EsnyaTweaks.PhotonDustTweaks.dll"
-                                },
-                                {
-                                    "sha256": "83a952d58c476c64b7883426a4e0d2cc67badcb954eafa4a815f517547d5bed9",
-                                    "url": "https://github.com/esnya/ResoniteEsnyaTweaks/releases/download/v0.2.0/EsnyaTweaks.SystemHelperTweaks.dll"
-                                },
-                                {
-                                    "sha256": "8a9a011d4a2ea2186ecbbed9cc48de1ed3167a8429f6a8012c7e7fb2d3c543ea",
-                                    "url": "https://github.com/esnya/ResoniteEsnyaTweaks/releases/download/v0.2.0/EsnyaTweaks.UniLogTweaks.dll"
-                                }
-                            ],
-                            "releaseUrl": "https://github.com/esnya/ResoniteEsnyaTweaks/releases/tag/v0.2.0"
-                        },
-                        "1.0.0": {
-                            "artifacts": [
-                                {
-                                    "sha256": "c2fd09becc7f49528eb7d0ce1d41c399d301a8fe31c8f93cd5ece34082f43b1d",
-                                    "url": "https://github.com/esnya/ResoniteEsnyaTweaks/releases/download/v1.0.0/EsnyaTweaks.FluxLoopTweaks.dll"
-                                },
-                                {
-                                    "sha256": "ba68157c2744261dcdcfe03f52a03866556de69fb68c2b1fbb257407653b072d",
-                                    "url": "https://github.com/esnya/ResoniteEsnyaTweaks/releases/download/v1.0.0/EsnyaTweaks.LODGroupTweaks.dll"
-                                },
-                                {
-                                    "sha256": "7485eef1357b0bb5a0da85563aa912898032602467b5a9ffe8c1040c0d1a95c7",
-                                    "url": "https://github.com/esnya/ResoniteEsnyaTweaks/releases/download/v1.0.0/EsnyaTweaks.PhotonDustTweaks.dll"
-                                },
-                                {
-                                    "sha256": "418dfa640f4bb1520878a26d801a5e10293488c767dff712d7c288fe43c76bcf",
-                                    "url": "https://github.com/esnya/ResoniteEsnyaTweaks/releases/download/v1.0.0/EsnyaTweaks.UniLogTweaks.dll"
-                                }
-                            ],
-                            "releaseUrl": "https://github.com/esnya/ResoniteEsnyaTweaks/releases/tag/v1.0.0"
-                        },
-                        "2.0.0": {
-                            "artifacts": [
-                                {
-                                    "sha256": "7b004b34e9a423daa85519b22f2b68ab4e8c354b364c5ffb0ac6c072db43606f",
-                                    "url": "https://github.com/esnya/ResoniteEsnyaTweaks/releases/download/v2.0.0/EsnyaTweaks.Common.PureTests.dll"
-                                },
-                                {
-                                    "sha256": "7d157b78ee7d8372418e616aca05a8162b1cdeaac15aaca9ba09f9f1ca21d42c",
-                                    "url": "https://github.com/esnya/ResoniteEsnyaTweaks/releases/download/v2.0.0/EsnyaTweaks.FluxLoopTweaks.dll"
-                                },
-                                {
-                                    "sha256": "f62fb62c43d2fc5d3f32b70dc0bd73db6d666ebcf6f44fb5935a1f235f2e521b",
-                                    "url": "https://github.com/esnya/ResoniteEsnyaTweaks/releases/download/v2.0.0/EsnyaTweaks.InventoryUITweaks.dll"
-                                },
-                                {
-                                    "sha256": "2695e11df271291cf24a26a9e32858d49bcbbd23a0ed5e1196be6ddf244b4700",
-                                    "url": "https://github.com/esnya/ResoniteEsnyaTweaks/releases/download/v2.0.0/EsnyaTweaks.LODGroupTweaks.dll"
-                                },
-                                {
-                                    "sha256": "0aed90101df3b7027aa4cc5005ea27c4b958e173276764b181248d7988f0a26e",
-                                    "url": "https://github.com/esnya/ResoniteEsnyaTweaks/releases/download/v2.0.0/EsnyaTweaks.PhotonDustTweaks.dll"
-                                },
-                                {
-                                    "sha256": "511c9fd48ae883e1bd3f1f50b19d018630252eb17310f68780de5af7b35d539d",
-                                    "url": "https://github.com/esnya/ResoniteEsnyaTweaks/releases/download/v2.0.0/EsnyaTweaks.SceneAuditor.dll"
-                                },
-                                {
-                                    "sha256": "fbb2d1aa6c1a17ae6a7d1ab9782b67c8dcc584efea4a543fb0d110ffc00dd13c",
-                                    "url": "https://github.com/esnya/ResoniteEsnyaTweaks/releases/download/v2.0.0/EsnyaTweaks.UniLogTweaks.dll"
-                                }
-                            ],
-                            "releaseUrl": "https://github.com/esnya/ResoniteEsnyaTweaks/releases/tag/v2.0.0"
-                        },
-                        "2.0.1": {
-                            "artifacts": [
-                                {
-                                    "sha256": "fc0aaa54c02519233448cf5f75d9490b0166b4aecf01c3ed43d0e09427783fb7",
-                                    "url": "https://github.com/esnya/ResoniteEsnyaTweaks/releases/download/v2.0.1/EsnyaTweaks.FluxLoopTweaks.dll"
-                                },
-                                {
-                                    "sha256": "1a20f480b60d7caa553941e62e9d1fe83cde7d9028b82f63e63876632a22df74",
-                                    "url": "https://github.com/esnya/ResoniteEsnyaTweaks/releases/download/v2.0.1/EsnyaTweaks.InventoryUITweaks.dll"
-                                },
-                                {
-                                    "sha256": "a9b017aad32650da3becfa6f04408e10692794ea0d81a290a30af7df9192cb4a",
-                                    "url": "https://github.com/esnya/ResoniteEsnyaTweaks/releases/download/v2.0.1/EsnyaTweaks.LODGroupTweaks.dll"
-                                },
-                                {
-                                    "sha256": "1634ad3f0c8158a0e1bc50e9bb0aae76ab5e96183d47b9f2c585fce38d60b029",
-                                    "url": "https://github.com/esnya/ResoniteEsnyaTweaks/releases/download/v2.0.1/EsnyaTweaks.PhotonDustTweaks.dll"
-                                },
-                                {
-                                    "sha256": "84d125db92eda9058d79a7b938448b161f6aa4f0c1e39b07f086cc19e69e2b5d",
-                                    "url": "https://github.com/esnya/ResoniteEsnyaTweaks/releases/download/v2.0.1/EsnyaTweaks.SceneAuditor.dll"
-                                },
-                                {
-                                    "sha256": "3d983c5bb4f5aadddbc0bd064fed748936e4786ce7599e0888ec28f545464af6",
-                                    "url": "https://github.com/esnya/ResoniteEsnyaTweaks/releases/download/v2.0.1/EsnyaTweaks.UniLogTweaks.dll"
-                                }
-                            ],
-                            "releaseUrl": "https://github.com/esnya/ResoniteEsnyaTweaks/releases/tag/v2.0.1"
                         }
                     }
                 },
@@ -3675,6 +3528,9 @@
                     },
                     "category": "Optimization",
                     "description": "Provides a simple performance metrics counter for Resonite, useful for world optimisation.",
+                    "flags": [
+                        "broken"
+                    ],
                     "name": "Resonite Metrics Counter",
                     "sourceLocation": "https://github.com/esnya/ResoniteMetricsCounter",
                     "tags": [
@@ -3687,7 +3543,7 @@
                         "0.7.0": {
                             "artifacts": [
                                 {
-                                    "sha256": "7d23c78ec7fde579f17505dc488b5bd02143d510e7959ff8eba494f2ad565d90",
+                                    "sha256": "26c5f0aec4bbde207cc4c23b2261eb6a6975fbeae28c939c61648215cb818511",
                                     "url": "https://github.com/esnya/ResoniteMetricsCounter/releases/download/v0.7.0.0/ResoniteMetricsCounter.dll"
                                 }
                             ],
@@ -3696,17 +3552,16 @@
                         "0.8.0": {
                             "artifacts": [
                                 {
-                                    "installLocation": "/rml_libs",
                                     "sha256": "cb0b3c883de4ab417fb8da0e4f5bd09dd32fea201d0405732077e9fa3e2cf381",
                                     "url": "https://github.com/esnya/ResoniteMetricsCounter/releases/download/v0.8.0/ResoniteMetricsCounter.dll"
                                 }
                             ],
+                            "changelog": "Migrated to .NET 9, bug fixes",
                             "releaseUrl": "https://github.com/esnya/ResoniteMetricsCounter/releases/tag/v0.8.0"
                         },
                         "0.8.1": {
                             "artifacts": [
                                 {
-                                    "installLocation": "/rml_libs",
                                     "sha256": "094a0ca8f3c380dc36de7eb3a0f93ccb6d80b63bdfe8d220a551d455a6154e64",
                                     "url": "https://github.com/esnya/ResoniteMetricsCounter/releases/download/v0.8.1/ResoniteMetricsCounter.dll"
                                 }
@@ -3716,7 +3571,6 @@
                         "0.8.2": {
                             "artifacts": [
                                 {
-                                    "installLocation": "/rml_libs",
                                     "sha256": "83963322c532ea7f07316ec4421b427be25b053de852d661d00c9ab448aef7ff",
                                     "url": "https://github.com/esnya/ResoniteMetricsCounter/releases/download/v0.8.2/ResoniteMetricsCounter.dll"
                                 }
@@ -3837,19 +3691,8 @@
                         "4.1.0": {
                             "artifacts": [
                                 {
-                                    "installLocation": "/rml_libs",
-                                    "sha256": "81bb9e42e053309c3f000e9cd22895081f155e43e1e4074fcae681832afb5ede",
-                                    "url": "https://github.com/resonite-modding-group/ResoniteModLoader/releases/download/4.1.0/0Harmony.dll"
-                                },
-                                {
-                                    "filename": "ResoniteModLoader.dll",
                                     "sha256": "e57c1f844cfb784399b46567fc55bc4b9cab01d257b2b5beda105cd064b7e988",
                                     "url": "https://github.com/resonite-modding-group/ResoniteModLoader/releases/download/4.1.0/ResoniteModLoader.dll"
-                                },
-                                {
-                                    "installLocation": "/rml_config",
-                                    "sha256": "d8eeb330dc3122dbcdd3400f78d3dafe17e6ac0865dde891fe2e687ce4158953",
-                                    "url": "https://github.com/resonite-modding-group/ResoniteModLoader/releases/download/4.1.0/ResoniteModLoader.xml"
                                 }
                             ],
                             "dependencies": {
@@ -3862,19 +3705,8 @@
                         "4.2.0": {
                             "artifacts": [
                                 {
-                                    "installLocation": "/rml_libs",
-                                    "sha256": "fd77b88724f4104440df0cf979a851d35eec75ea3a7e86297d04abe47c71aff6",
-                                    "url": "https://github.com/resonite-modding-group/ResoniteModLoader/releases/download/4.2.0/0Harmony.dll"
-                                },
-                                {
-                                    "filename": "ResoniteModLoader.dll",
                                     "sha256": "f800d70dac23d68962abab347b87d7795d3b92c32c0cce92352020cbda33ba62",
                                     "url": "https://github.com/resonite-modding-group/ResoniteModLoader/releases/download/4.2.0/ResoniteModLoader.dll"
-                                },
-                                {
-                                    "installLocation": "/rml_config",
-                                    "sha256": "bdc6c44c24537c092f2a8947141fc42b84e93096f7f4c0596ec83e0b970befb3",
-                                    "url": "https://github.com/resonite-modding-group/ResoniteModLoader/releases/download/4.2.0/ResoniteModLoader.xml"
                                 }
                             ],
                             "dependencies": {
@@ -3887,61 +3719,43 @@
                         "5.0.0": {
                             "artifacts": [
                                 {
-                                    "installLocation": "/rml_libs",
-                                    "sha256": "fd77b88724f4104440df0cf979a851d35eec75ea3a7e86297d04abe47c71aff6",
-                                    "url": "https://github.com/resonite-modding-group/ResoniteModLoader/releases/download/5.0.0/0Harmony.dll"
-                                },
-                                {
-                                    "filename": "ResoniteModLoader.dll",
                                     "sha256": "fdd3481ffbc1be68baa8f71ce09c5ea16cadfb7812bf310c9bcf755d490c17ba",
                                     "url": "https://github.com/resonite-modding-group/ResoniteModLoader/releases/download/5.0.0/ResoniteModLoader.dll"
-                                },
-                                {
-                                    "installLocation": "/rml_config",
-                                    "sha256": "23acf90178880bbe9485758aa6ab412902ea921671cae048dcc6bb848c22c888",
-                                    "url": "https://github.com/resonite-modding-group/ResoniteModLoader/releases/download/5.0.0/ResoniteModLoader.xml"
                                 }
                             ],
+                            "dependencies": {
+                                "net.pardeike.harmony": {
+                                    "version": "^2.4.2"
+                                }
+                            },
                             "releaseUrl": "https://github.com/resonite-modding-group/ResoniteModLoader/releases/tag/5.0.0"
                         },
                         "5.0.1": {
                             "artifacts": [
                                 {
-                                    "installLocation": "/rml_libs",
-                                    "sha256": "fd77b88724f4104440df0cf979a851d35eec75ea3a7e86297d04abe47c71aff6",
-                                    "url": "https://github.com/resonite-modding-group/ResoniteModLoader/releases/download/5.0.1/0Harmony.dll"
-                                },
-                                {
-                                    "filename": "ResoniteModLoader.dll",
                                     "sha256": "7a3a021d560963fdc5b307fcd7dc6d94f562efa2f034820c340ca5ec2c4bfeb7",
                                     "url": "https://github.com/resonite-modding-group/ResoniteModLoader/releases/download/5.0.1/ResoniteModLoader.dll"
-                                },
-                                {
-                                    "installLocation": "/rml_config",
-                                    "sha256": "23acf90178880bbe9485758aa6ab412902ea921671cae048dcc6bb848c22c888",
-                                    "url": "https://github.com/resonite-modding-group/ResoniteModLoader/releases/download/5.0.1/ResoniteModLoader.xml"
                                 }
                             ],
+                            "dependencies": {
+                                "net.pardeike.harmony": {
+                                    "version": "^2.4.2"
+                                }
+                            },
                             "releaseUrl": "https://github.com/resonite-modding-group/ResoniteModLoader/releases/tag/5.0.1"
                         },
                         "5.0.2": {
                             "artifacts": [
                                 {
-                                    "installLocation": "/rml_libs",
-                                    "sha256": "f7d167b2500808c6c2ad6e38b6efa2741a2b809f79b0e92c36e4a7079c38d9bb",
-                                    "url": "https://github.com/resonite-modding-group/ResoniteModLoader/releases/download/5.0.2/0Harmony.dll"
-                                },
-                                {
-                                    "filename": "ResoniteModLoader.dll",
                                     "sha256": "b463fb781257bd5a0e4ba2946f577aad749a20d72cfe6c40e5d0c621706d388f",
                                     "url": "https://github.com/resonite-modding-group/ResoniteModLoader/releases/download/5.0.2/ResoniteModLoader.dll"
-                                },
-                                {
-                                    "installLocation": "/rml_config",
-                                    "sha256": "6a131034c3495dae36e3a03d7e9483a54b1d340b63e2af529ea31e26ed873026",
-                                    "url": "https://github.com/resonite-modding-group/ResoniteModLoader/releases/download/5.0.2/ResoniteModLoader.xml"
                                 }
                             ],
+                            "dependencies": {
+                                "net.pardeike.harmony": {
+                                    "version": "^2.4.3"
+                                }
+                            },
                             "releaseUrl": "https://github.com/resonite-modding-group/ResoniteModLoader/releases/tag/5.0.2"
                         }
                     }
@@ -3958,12 +3772,12 @@
             "entries": {
                 "com.scicortex.CyberFingerMod": {
                     "category": "Hardware Integration",
-                    "description": "A Resonite Mod that improves the hand-tracking and CyberFinger Controller experience",
+                    "description": "A Resonite Mod that improves the hand tracking and CyberFinger Controller experience",
                     "name": "CyberFingerMod",
                     "sourceLocation": "https://github.com/DrSciCortex/CyberFingerMod",
                     "tags": [
-                        "cyberfinger",
-                        "hand-tracking",
+                        "laser",
+                        "tool",
                         "dash"
                     ],
                     "versions": {
@@ -3984,15 +3798,6 @@
                                 }
                             ],
                             "releaseUrl": "https://github.com/DrSciCortex/CyberFingerMod/releases/tag/v1.0.1"
-                        },
-                        "1.1.0": {
-                            "artifacts": [
-                                {
-                                    "sha256": "75714c48c2ee03b04b6017c43d8f06b0ced143112cb441fb55f3fd040ed23f27",
-                                    "url": "https://github.com/DrSciCortex/CyberFingerMod/releases/download/v1.1.0/CyberFingerMod.dll"
-                                }
-                            ],
-                            "releaseUrl": "https://github.com/DrSciCortex/CyberFingerMod/releases/tag/v1.1.0"
                         },
                         "1.1.1": {
                             "artifacts": [
@@ -4031,7 +3836,6 @@
                     "name": "ResonitePSVR2",
                     "sourceLocation": "https://github.com/tabithamoon/ResonitePSVR2",
                     "tags": [
-                        "psvr2",
                         "eye",
                         "tracking"
                     ],
@@ -4039,6 +3843,7 @@
                         "1.0.0": {
                             "artifacts": [
                                 {
+                                    "filename": "ResonitePSVR2.dll",
                                     "sha256": "a537605592cf43bb969671334965074eee2d7e3fd93a90c4f18f247c3020ce20",
                                     "url": "https://github.com/tabithamoon/ResonitePSVR2/releases/download/v1.0.0/ResonitePSVR2.dll"
                                 }
@@ -4084,15 +3889,19 @@
                         "1.2.0": {
                             "artifacts": [
                                 {
+                                    "filename": "libpsvr2_toolkit_capi_loader.so",
+                                    "installLocation": "/rml_libs",
                                     "sha256": "b4ae2029a1e86996a28b3eb78ee7a6d118b74a8da366338ab06dc0f6765d906f",
                                     "url": "https://github.com/tabithamoon/ResonitePSVR2/releases/download/v1.2.0/libpsvr2_toolkit_capi_loader.so"
                                 },
                                 {
+                                    "filename": "psvr2_toolkit_capi_loader.dll",
                                     "installLocation": "/rml_libs",
                                     "sha256": "e366143796fbb90edcb5cfb61afb05c7baa3e27ebaabe209bd7df16a3adced16",
                                     "url": "https://github.com/tabithamoon/ResonitePSVR2/releases/download/v1.2.0/psvr2_toolkit_capi_loader.dll"
                                 },
                                 {
+                                    "filename": "ResonitePSVR2.dll",
                                     "sha256": "d85674ec19d161870ec7b228af396bc9d1c2ccc88c34fdeabebfbedccbaf4374",
                                     "url": "https://github.com/tabithamoon/ResonitePSVR2/releases/download/v1.2.0/ResonitePSVR2.dll"
                                 }
@@ -4102,15 +3911,19 @@
                         "1.2.1": {
                             "artifacts": [
                                 {
-                                    "sha256": "b4ae2029a1e86996a28b3eb78ee7a6d118b74a8da366338ab06dc0f6765d906f",
-                                    "url": "https://github.com/tabithamoon/ResonitePSVR2/releases/download/v1.2.1/libpsvr2_toolkit_capi_loader.so"
-                                },
-                                {
+                                    "filename": "psvr2_toolkit_capi_loader.dll",
                                     "installLocation": "/rml_libs",
                                     "sha256": "e366143796fbb90edcb5cfb61afb05c7baa3e27ebaabe209bd7df16a3adced16",
                                     "url": "https://github.com/tabithamoon/ResonitePSVR2/releases/download/v1.2.1/psvr2_toolkit_capi_loader.dll"
                                 },
                                 {
+                                    "filename": "libpsvr2_toolkit_capi_loader.so",
+                                    "installLocation": "/rml_libs",
+                                    "sha256": "b4ae2029a1e86996a28b3eb78ee7a6d118b74a8da366338ab06dc0f6765d906f",
+                                    "url": "https://github.com/tabithamoon/ResonitePSVR2/releases/download/v1.2.1/libpsvr2_toolkit_capi_loader.so"
+                                },
+                                {
+                                    "filename": "ResonitePSVR2.dll",
                                     "sha256": "1666606a5c28173de920ae12ade5209672781a01b1e3fbb31636e39e225dcd50",
                                     "url": "https://github.com/tabithamoon/ResonitePSVR2/releases/download/v1.2.1/ResonitePSVR2.dll"
                                 }
@@ -4120,15 +3933,19 @@
                         "1.2.2": {
                             "artifacts": [
                                 {
-                                    "sha256": "b4ae2029a1e86996a28b3eb78ee7a6d118b74a8da366338ab06dc0f6765d906f",
-                                    "url": "https://github.com/tabithamoon/ResonitePSVR2/releases/download/v1.2.2/libpsvr2_toolkit_capi_loader.so"
-                                },
-                                {
+                                    "filename": "psvr2_toolkit_capi_loader.dll",
                                     "installLocation": "/rml_libs",
                                     "sha256": "e366143796fbb90edcb5cfb61afb05c7baa3e27ebaabe209bd7df16a3adced16",
                                     "url": "https://github.com/tabithamoon/ResonitePSVR2/releases/download/v1.2.2/psvr2_toolkit_capi_loader.dll"
                                 },
                                 {
+                                    "filename": "libpsvr2_toolkit_capi_loader.so",
+                                    "installLocation": "/rml_libs",
+                                    "sha256": "b4ae2029a1e86996a28b3eb78ee7a6d118b74a8da366338ab06dc0f6765d906f",
+                                    "url": "https://github.com/tabithamoon/ResonitePSVR2/releases/download/v1.2.2/libpsvr2_toolkit_capi_loader.so"
+                                },
+                                {
+                                    "filename": "ResonitePSVR2.dll",
                                     "sha256": "41740304d8f21bcf8f983d89df332a6b8840f1f1c15e73744e80df9eb6c04065",
                                     "url": "https://github.com/tabithamoon/ResonitePSVR2/releases/download/v1.2.2/ResonitePSVR2.dll"
                                 }
@@ -4261,11 +4078,6 @@
                     "description": "ObjectRoot button that removes MeshColliders And Grabbables of Child slots",
                     "name": "ColliderGrabbableDeleter",
                     "sourceLocation": "https://github.com/zahndy/ColliderGrabbableDeleter",
-                    "tags": [
-                        "MeshColliders",
-                        "Grabbables",
-                        "Grabbable"
-                    ],
                     "versions": {
                         "1.0.0": {
                             "artifacts": [
@@ -4289,13 +4101,13 @@
                 },
                 "com.zahndy.FasterBadges": {
                     "category": "Misc",
-                    "description": "Badges manager with badge presets, custom badges and badge removal",
+                    "description": "Badges manager with badge presets, custom badges and system badge removal",
                     "name": "FasterBadges",
                     "sourceLocation": "https://github.com/zahndy/FasterBadges",
                     "tags": [
-                        "badges",
-                        "badge",
-                        "manager"
+                        "name",
+                        "tag",
+                        "plate"
                     ],
                     "versions": {
                         "1.0.0": {
@@ -4409,9 +4221,7 @@
                     "name": "RainbowLasers",
                     "sourceLocation": "https://github.com/zahndy/RainbowLasers",
                     "tags": [
-                        "rainbow",
-                        "lasers",
-                        "laser",
+                        "color",
                         "rgb"
                     ],
                     "versions": {
@@ -4440,11 +4250,6 @@
                     "description": "Replaces the eyetracking fallback that sometimes causes eyes to cross. Workaround for bug #263",
                     "name": "StopTouchingMyEyeballs",
                     "sourceLocation": "https://github.com/zahndy/StopTouchingMyEyeballs",
-                    "tags": [
-                        "Eyetracking",
-                        "Crosseyed",
-                        "Bug"
-                    ],
                     "versions": {
                         "1.0.0": {
                             "artifacts": [
@@ -4476,16 +4281,10 @@
                     }
                 },
                 "com.zahndy.TrackerVisuals": {
-                    "category": "Misc",
+                    "category": "Visual Tweaks",
                     "description": "Removes or replaces Vive/Tundra Tracker Models.",
                     "name": "TrackerVisuals",
                     "sourceLocation": "https://github.com/zahndy/TrackerVisuals",
-                    "tags": [
-                        "Tracker",
-                        "Trackers",
-                        "Tundra",
-                        "Vive"
-                    ],
                     "versions": {
                         "1.1.0": {
                             "artifacts": [
@@ -4999,9 +4798,8 @@
                     "name": "ResonitePrivacyShield",
                     "sourceLocation": "https://github.com/hazre/ResonitePrivacyShield",
                     "tags": [
-                        "privacy",
-                        "spoofing",
-                        "network"
+                        "network",
+                        "prompt"
                     ],
                     "versions": {
                         "2.0.0": {
@@ -5028,7 +4826,7 @@
                             "artifacts": [
                                 {
                                     "filename": "PrivacyShield.dll",
-                                    "sha256": "1bdbf99bcc08e3699a86bcebe850c60b1598d0b8f39882e2f73cd7f225dc3352",
+                                    "sha256": "1BDBF99BCC08E3699A86BCEBE850C60B1598D0B8F39882E2F73CD7F225DC3352",
                                     "url": "https://github.com/hazre/ResonitePrivacyShield/releases/download/v2.0.2/PrivacyShield.dll"
                                 }
                             ],
@@ -5038,7 +4836,7 @@
                             "artifacts": [
                                 {
                                     "filename": "PrivacyShield.dll",
-                                    "sha256": "13d47822596ab0d6dd2ddd2b7ae6bb005a1ff89a84e1e6345b0912e2bcdceda0",
+                                    "sha256": "13D47822596AB0D6DD2DDD2B7AE6BB005A1FF89A84E1E6345B0912E2BCDCEDA0",
                                     "url": "https://github.com/hazre/ResonitePrivacyShield/releases/download/v2.0.3/PrivacyShield.dll"
                                 }
                             ],
@@ -5052,12 +4850,10 @@
                         "knackrack615": {}
                     },
                     "category": "Hardware Integration",
-                    "description": "A Mod that let's you use VRCFaceTracking Program for Eye and Face Tracking inside Resonite.",
+                    "description": "A mod that let's you use VRCFaceTracking program for eye and face tracking inside Resonite.",
                     "name": "VRCFTReceiver",
                     "sourceLocation": "https://github.com/hazre/VRCFTReceiver",
                     "tags": [
-                        "facetracking",
-                        "eyetracking",
                         "expressions",
                         "avatar"
                     ],
@@ -5121,7 +4917,7 @@
                             "artifacts": [
                                 {
                                     "filename": "VRCFTReceiver.dll",
-                                    "sha256": "8b419a4fb64543d36ce7c02e1bfdcb9fa32039584f5462c3a6fbd067387f384f",
+                                    "sha256": "8B419A4FB64543D36CE7C02E1BFDCB9FA32039584F5462C3A6FBD067387F384F",
                                     "url": "https://github.com/hazre/VRCFTReceiver/releases/download/v1.0.4/VRCFTReceiver.dll"
                                 }
                             ]
@@ -5329,11 +5125,14 @@
                     "name": "RemoveThatKinkFromSteamLinkCS",
                     "sourceLocation": "https://github.com/PointerOffset/RemoveThatKinkFromSteamLinkCS",
                     "tags": [
-                        "Edrakon",
-                        "Quest Pro",
-                        "Eye Tracking",
-                        "Face Tracking",
-                        "WiVRn"
+                        "edrakon",
+                        "eye",
+                        "face",
+                        "osc",
+                        "pro",
+                        "quest",
+                        "tracking",
+                        "wivrn"
                     ],
                     "versions": {
                         "1.0.0": {
@@ -5585,11 +5384,13 @@
                     "name": "UnifiedExpressionMapper",
                     "sourceLocation": "https://github.com/noblereign/ResoniteUnifiedExpressionMapper",
                     "tags": [
-                        "ue",
-                        "sranipal",
                         "arkit",
+                        "blend",
                         "facs",
-                        "blendshapes"
+                        "key",
+                        "shape",
+                        "sranipal",
+                        "ue"
                     ],
                     "versions": {
                         "1.0.0": {
@@ -5735,11 +5536,10 @@
                     ],
                     "sourceLocation": "https://forge.moldy.gift/Baplar/Resonite.JustLetItGo",
                     "tags": [
-                        "experimental",
-                        "stuck",
                         "clear",
                         "gather",
-                        "job"
+                        "job",
+                        "stuck"
                     ],
                     "versions": {
                         "1.4.0": {
@@ -5798,10 +5598,9 @@
                     ],
                     "sourceLocation": "https://github.com/Baplar/ResoniteDiscordRpc",
                     "tags": [
-                        "discord",
-                        "rich",
-                        "presence",
-                        "rpc"
+                        "detail",
+                        "session",
+                        "status"
                     ],
                     "versions": {
                         "1.0.0": {
@@ -5849,29 +5648,31 @@
                         "1.0.3": {
                             "artifacts": [
                                 {
+                                    "sha256": "5e0fb2da45615b752cd76e3090f204bdee10bf7a76bf67887bbc9d529fe9ecf2",
+                                    "url": "https://github.com/Baplar/ResoniteDiscordRpc/releases/download/v1.0.3/ResoniteDiscordRpc.dll"
+                                },
+                                {
                                     "installLocation": "/rml_libs",
                                     "sha256": "849394a31a0bdae0d84df7dff756774839f210693de87b74a0d1800e9c7970e8",
                                     "url": "https://github.com/Baplar/ResoniteDiscordRpc/releases/download/v1.0.3/DiscordRPC.dll"
-                                },
-                                {
-                                    "sha256": "5e0fb2da45615b752cd76e3090f204bdee10bf7a76bf67887bbc9d529fe9ecf2",
-                                    "url": "https://github.com/Baplar/ResoniteDiscordRpc/releases/download/v1.0.3/ResoniteDiscordRpc.dll"
                                 }
                             ],
+                            "changelog": "- Recompiled for .NET 10\n- Fix disposal of existing official Discord RPC connector on Windows\n- Added optional debug logging",
                             "releaseUrl": "https://github.com/Baplar/ResoniteDiscordRpc/releases/tag/v1.0.3"
                         },
                         "1.0.4": {
                             "artifacts": [
                                 {
+                                    "sha256": "a5c23069abd40c6176d4a23434a72f8f8718f00cbd73c9f1d6febdccfb5ca6f1",
+                                    "url": "https://github.com/Baplar/ResoniteDiscordRpc/releases/download/v1.0.4/ResoniteDiscordRpc.dll"
+                                },
+                                {
                                     "installLocation": "/rml_libs",
                                     "sha256": "849394a31a0bdae0d84df7dff756774839f210693de87b74a0d1800e9c7970e8",
                                     "url": "https://github.com/Baplar/ResoniteDiscordRpc/releases/download/v1.0.4/DiscordRPC.dll"
-                                },
-                                {
-                                    "sha256": "a5c23069abd40c6176d4a23434a72f8f8718f00cbd73c9f1d6febdccfb5ca6f1",
-                                    "url": "https://github.com/Baplar/ResoniteDiscordRpc/releases/download/v1.0.4/ResoniteDiscordRpc.dll"
                                 }
                             ],
+                            "changelog": "- Don't start connector if Discord interface is disabled globally\n- Turn RPC client on/off when enabling/disabling rich presence in settings",
                             "releaseUrl": "https://github.com/Baplar/ResoniteDiscordRpc/releases/tag/v1.0.4"
                         }
                     }
@@ -5882,9 +5683,9 @@
                     "name": "SmileForTheCamera",
                     "sourceLocation": "https://forge.moldy.gift/Baplar/Resonite.SmileForTheCamera",
                     "tags": [
-                        "camera",
-                        "nameplate",
-                        "lookatuser"
+                        "name",
+                        "plate",
+                        "tag"
                     ],
                     "versions": {
                         "1.0.0": {
@@ -6136,6 +5937,13 @@
                     "description": "Adds easing function presets to ValueGradientDriver components.",
                     "name": "GradientDriverEasing",
                     "sourceLocation": "https://github.com/djsime1/GradientDriverEasing",
+                    "tags": [
+                        "curve",
+                        "ease",
+                        "linear",
+                        "sine",
+                        "smoothing"
+                    ],
                     "versions": {
                         "1.0.0": {
                             "artifacts": [
@@ -6177,7 +5985,7 @@
                                     "url": "https://github.com/djsime1/GradientDriverEasing/releases/download/1.2.0/GradientDriverEasing.dll"
                                 }
                             ],
-                            "changelog": "Added:\n- An option to enable/disable the mod.\n- Error popup when the mod fails to initialize, such as in the case of CustomUILib not being available.\n\nUpdated:\n- Code style & refactoring.\n\nFixed:\n- Interpolating colors by HSV not underflowing their hue if the difference of hues is over 180\u00b0.\n\nRemoved:Escape Unicode Characters\n- Being able to apply easing functions to non-lerpable types, such as booleans.\n\nNote: CustomUILib is a required dependency, this mod will not work without CustomUILib being installed as well.\nBuilt against Resonite version 2024.7.12.12.",
+                            "changelog": "Added:\n- An option to enable/disable the mod.\n- Error popup when the mod fails to initialize, such as in the case of CustomUILib not being available.\n\nUpdated:\n- Code style & refactoring.\n\nFixed:\n- Interpolating colors by HSV not underflowing their hue if the difference of hues is over 180\u00b0.\n\nRemoved:Escape Unicode Characters\n- Being able to apply easing functions to non-lerpable types, such as booleans.\n\nBuilt against Resonite version 2024.7.12.12.",
                             "dependencies": {
                                 "me.art0007i.CustomUILib": {
                                     "version": "^2.0.0"
@@ -6188,16 +5996,12 @@
                         "1.2.1": {
                             "artifacts": [
                                 {
-                                    "installLocation": "/rml_libs",
-                                    "sha256": "9d88864a95cef6a5d30e3cb854faa8c49c7cd5af038abfbee9e9974fbb422b62",
-                                    "url": "https://github.com/djsime1/GradientDriverEasing/releases/download/1.2.1/CustomUILib.dll"
-                                },
-                                {
                                     "filename": "GradientDriverEasing.dll",
                                     "sha256": "7a4da79505920721a08596db8666dad7507c8249a8330dd33f854624960de89d",
                                     "url": "https://github.com/djsime1/GradientDriverEasing/releases/download/1.2.1/GradientDriverEasing.dll"
                                 }
                             ],
+                            "changelog": "Updated:\n- Migrated project to .NET 9.0\n\nNote: CustomUILib is a required dependency, this mod will not work without CustomUILib being installed as well.\nBuilt against Resonite version 2025.8.22.607.",
                             "dependencies": {
                                 "me.art0007i.CustomUILib": {
                                     "version": "^2.0.0"
@@ -6213,6 +6017,7 @@
                                     "url": "https://github.com/djsime1/GradientDriverEasing/releases/download/1.3.0/GradientDriverEasing.dll"
                                 }
                             ],
+                            "changelog": "Added:\n- Option to collapse mod inspector sections by default\n\nUpdated:\n- Migrated project to .NET 10.0\n\nRemoved:\n- CustomUILib dependency\n\nBuilt against Resonite version 2026.8.27.1094.",
                             "releaseUrl": "https://github.com/djsime1/GradientDriverEasing/releases/tag/1.3.0"
                         }
                     }
@@ -8421,6 +8226,46 @@
                 }
             }
         },
+        "mpmxyz": {
+            "author": {
+                "mpmxyz": {
+                    "url": "https://github.com/mpmxyz"
+                }
+            },
+            "entries": {
+                "mpmxyz.ResoniteModularSearch": {
+                    "category": "Misc",
+                    "description": "adds the ability to search the world hierarchy and do actions like \"replace\", designed to be extensible",
+                    "name": "ResoniteModularSearch",
+                    "sourceLocation": "https://github.com/mpmxyz/ResoniteModularSearch/",
+                    "tags": [
+                        "tool",
+                        "edit",
+                        "filter"
+                    ],
+                    "versions": {
+                        "1.0.0": {
+                            "artifacts": [
+                                {
+                                    "sha256": "b41f22b534f328df2e5f83f19818588b2214945e5065515b936e1ff903aeffa1",
+                                    "url": "https://github.com/mpmxyz/ResoniteModularSearch/releases/download/v1.0.0-2026.9.18.82/ResoniteModularSearch.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/mpmxyz/ResoniteModularSearch/releases/tag/v1.0.0-2026.9.18.82"
+                        },
+                        "1.1.0": {
+                            "artifacts": [
+                                {
+                                    "sha256": "ef5906e56ca042e607fd7ba7ba285bb033f1c5eb5a6cf3e32e395dfae9a3338a",
+                                    "url": "https://github.com/mpmxyz/ResoniteModularSearch/releases/download/v1.1.0-2026.9.18.82/ResoniteModularSearch.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/mpmxyz/ResoniteModularSearch/releases/tag/v1.1.0-2026.9.18.82"
+                        }
+                    }
+                }
+            }
+        },
         "net.Cyro": {
             "author": {
                 "Cyro": {
@@ -9145,9 +8990,9 @@
                     "name": "ComponentRunUpgrade",
                     "sourceLocation": "https://github.com/XDelta/ComponentRunUpgrade",
                     "tags": [
-                        "LegacyRadiantScreenWrapper",
-                        "screen",
-                        "dash"
+                        "dash",
+                        "legacy",
+                        "wrapper"
                     ],
                     "versions": {
                         "1.0.0": {
@@ -9199,6 +9044,11 @@
                     "description": "Stops SRAnipal from initializing. Do note that this will also make the launch argument '-ForceSRAnipal' non-functional.",
                     "name": "DisableSRAnipal",
                     "sourceLocation": "https://github.com/XDelta/DisableSRAnipal",
+                    "tags": [
+                        "eye",
+                        "face",
+                        "tracking"
+                    ],
                     "versions": {
                         "1.0.0": {
                             "artifacts": [
@@ -9769,9 +9619,8 @@
                     "name": "CustomJoinVerifierWhitelist",
                     "sourceLocation": "https://github.com/Cyberboss/CustomJoinVerifierWhitelist",
                     "tags": [
-                        "world",
-                        "skip",
-                        "allowlist"
+                        "bypass",
+                        "world"
                     ],
                     "versions": {
                         "1.0.0": {
@@ -9812,11 +9661,11 @@
                     "name": "GetItemLink",
                     "sourceLocation": "https://github.com/Cyberboss/ResoniteGetItemLink",
                     "tags": [
-                        "url",
-                        "link",
                         "asset",
+                        "cheese",
                         "potato",
-                        "cheese"
+                        "resdb",
+                        "resrec"
                     ],
                     "versions": {
                         "2.0.0": {
@@ -9836,9 +9685,7 @@
                     "name": "LetMeIn",
                     "sourceLocation": "https://github.com/Cyberboss/LetMeIn",
                     "tags": [
-                        "invite",
-                        "contacts",
-                        "sessions"
+                        "contact"
                     ],
                     "versions": {
                         "1.0.1": {
@@ -9867,9 +9714,9 @@
                     "name": "OpenReferenceProxyAtHand",
                     "sourceLocation": "https://github.com/Cyberboss/OpenReferenceProxyAtHand",
                     "tags": [
-                        "move",
                         "align",
-                        "alignment"
+                        "alignment",
+                        "move"
                     ],
                     "versions": {
                         "1.0.0": {
@@ -9888,11 +9735,6 @@
                     "description": "A Resonite mod to attach a DynamicVariableSpace to a child slot of WorldOrb components that relays info for them.",
                     "name": "WorldOrbDynVars",
                     "sourceLocation": "https://github.com/Cyberboss/WorldOrbDynVars",
-                    "tags": [
-                        "dynamic",
-                        "variable",
-                        "dynamicvariablespace"
-                    ],
                     "versions": {
                         "1.0.2": {
                             "artifacts": [
@@ -9928,6 +9770,7 @@
                                     "url": "https://github.com/Cyberboss/WorldOrbDynVars/releases/download/v2.0.0/WorldOrbDynVars.dll"
                                 }
                             ],
+                            "changelog": "The DynamicVariableSpace now only allows direct binding.",
                             "releaseUrl": "https://github.com/Cyberboss/WorldOrbDynVars/releases/tag/v2.0.0"
                         },
                         "2.0.1": {
@@ -9937,6 +9780,7 @@
                                     "url": "https://github.com/Cyberboss/WorldOrbDynVars/releases/download/v2.0.1/WorldOrbDynVars.dll"
                                 }
                             ],
+                            "changelog": "Fixed the DynamicVariableSpace also being created next to your `UserRoot` components.",
                             "releaseUrl": "https://github.com/Cyberboss/WorldOrbDynVars/releases/tag/v2.0.1"
                         }
                     }
@@ -10524,16 +10368,16 @@
                     "category": "Dashboard",
                     "description": "Adds buttons in the inventory to copy an item resdb or resrec to the clipboard.",
                     "flags": [
-                        "broken"
+                        "deprecated"
                     ],
                     "name": "GetItemLink",
                     "sourceLocation": "https://github.com/EIA485/NeosGetItemLink",
                     "tags": [
-                        "url",
-                        "link",
                         "asset",
+                        "cheese",
                         "potato",
-                        "cheese"
+                        "resdb",
+                        "resrec"
                     ],
                     "versions": {
                         "1.4.5": {
@@ -10555,6 +10399,50 @@
                                 }
                             ],
                             "releaseUrl": "https://github.com/EIA485/NeosGetItemLink/releases/tag/1.4.6.0"
+                        }
+                    }
+                }
+            }
+        },
+        "net.eth0fox": {
+            "author": {
+                "eth0fox": {
+                    "icon": "https://eth0fox.net/assets/drox-pfpcrop.png",
+                    "url": "https://github.com/eth0fox",
+                    "website": "https://eth0fox.net"
+                }
+            },
+            "entries": {
+                "net.eth0fox.BabbleLink": {
+                    "category": "Hardware Integration",
+                    "description": "Adds native support for the Babble Frame Runtime BabbleLink protocol. No VRCFT required.",
+                    "name": "BabbleFrameRuntime",
+                    "sourceLocation": "https://github.com/eth0fox/resonite-babblelink",
+                    "tags": [
+                        "eye",
+                        "face",
+                        "steam",
+                        "tracking"
+                    ],
+                    "versions": {
+                        "1.0.0": {
+                            "artifacts": [
+                                {
+                                    "installLocation": "/rml_libs",
+                                    "sha256": "0a5c861627d15e45c336e4e83c85299bb7b8d97b6477c705302535086bb32955",
+                                    "url": "https://github.com/eth0fox/resonite-babblelink/releases/download/1.0.0/BabbleLinkMod.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/eth0fox/resonite-babblelink/releases/tag/1.0.0"
+                        },
+                        "1.1.0": {
+                            "artifacts": [
+                                {
+                                    "sha256": "081652b9e265ddd04a4864313a227dc03af9c2e0c4eec08a9df42765094c5437",
+                                    "url": "https://github.com/eth0fox/resonite-babblelink/releases/download/1.1.0/BabbleLinkMod.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/eth0fox/resonite-babblelink/releases/tag/1.1.0"
                         }
                     }
                 }
@@ -10615,12 +10503,20 @@
                 },
                 "net.hantabaru1014.ResoniteBaballoniaEyeTracking": {
                     "category": "Hardware Integration",
-                    "description": "Allows you to use Eye Tracking devices supported by Baballonia in Resonite, like the Bigscreen Beyond 2e for example.",
+                    "description": "Allows using Baballonia for face and eye tracking in Resonite",
                     "flags": [
                         "deprecated"
                     ],
                     "name": "ResoniteBaballoniaEyeTracking",
                     "sourceLocation": "https://github.com/hantabaru1014/ResoniteBaballoniaEyeTracking",
+                    "tags": [
+                        "babble",
+                        "beyond",
+                        "bigscreen",
+                        "pimax",
+                        "varjo",
+                        "vive"
+                    ],
                     "versions": {
                         "0.1.0": {
                             "artifacts": [
@@ -11026,6 +10922,17 @@
                                 }
                             ],
                             "releaseUrl": "https://github.com/pardeike/Harmony/releases/tag/v2.4.2.0"
+                        },
+                        "2.4.3": {
+                            "artifacts": [
+                                {
+                                    "filename": "0Harmony.dll",
+                                    "installLocation": "/rml_libs",
+                                    "sha256": "f7d167b2500808c6c2ad6e38b6efa2741a2b809f79b0e92c36e4a7079c38d9bb",
+                                    "url": "https://github.com/resonite-modding-group/ResoniteModLoader/releases/download/5.0.2/0Harmony.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/pardeike/Harmony/releases/tag/v2.4.3.0"
                         }
                     },
                     "website": "https://harmony.pardeike.net/"
@@ -12055,13 +11962,6 @@
                     "description": "Makes the Developer Tool's selection radius dependent on scale, fixes issues selecting what you want when scaled down",
                     "name": "FixSelectionRadiusScale",
                     "sourceLocation": "https://github.com/badhaloninja/FixSelectionRadiusScale",
-                    "tags": [
-                        "dev",
-                        "developer",
-                        "tool",
-                        "select",
-                        "scale"
-                    ],
                     "versions": {
                         "1.0.0": {
                             "artifacts": [
@@ -12090,10 +11990,9 @@
                     "name": "FriendlyInventoryAvatars",
                     "sourceLocation": "https://github.com/badhaloninja/FriendlyInventoryAvatars",
                     "tags": [
-                        "bodynode",
-                        "equip",
+                        "body",
                         "multiple",
-                        "avatar"
+                        "node"
                     ],
                     "versions": {
                         "1.0.0": {
@@ -12112,6 +12011,7 @@
                                     "url": "https://github.com/badhaloninja/FriendlyInventoryAvatars/releases/download/v1.1.0/FriendlyInventoryAvatars.dll"
                                 }
                             ],
+                            "changelog": "- Fix for 2025.11.18.1216 as patched method was moved",
                             "releaseUrl": "https://github.com/badhaloninja/FriendlyInventoryAvatars/releases/tag/v1.1.0"
                         }
                     }
@@ -12356,9 +12256,7 @@
                     "sourceLocation": "https://github.com/badhaloninja/OrbCartridgeAutoScoop",
                     "tags": [
                         "material",
-                        "mesh",
-                        "tool",
-                        "orb"
+                        "mesh"
                     ],
                     "versions": {
                         "1.0.0": {
@@ -14022,25 +13920,11 @@
                         "2.1.12": {
                             "artifacts": [
                                 {
-                                    "installLocation": "/rml_libs",
-                                    "sha256": "324f5c0ce7814a66b5fefc7cce75e01c71746fb9a93e51f8c4e8060d6ddefb3d",
-                                    "url": "https://github.com/New-Project-Final-Final-WIP/HeadlessTweaks/releases/download/v2.1.12/Discord.Net.Core.dll"
-                                },
-                                {
-                                    "installLocation": "/rml_libs",
-                                    "sha256": "6ae5ec9ecf6117f24ad93c7bc445a312439892e14a0645c910cfda0860cdc91b",
-                                    "url": "https://github.com/New-Project-Final-Final-WIP/HeadlessTweaks/releases/download/v2.1.12/Discord.Net.Rest.dll"
-                                },
-                                {
-                                    "installLocation": "/rml_libs",
-                                    "sha256": "7afeb588f38cbaf9349dbc707a655cf5561543f13694d6839ae16a0b0eac81ed",
-                                    "url": "https://github.com/New-Project-Final-Final-WIP/HeadlessTweaks/releases/download/v2.1.12/Discord.Net.Webhook.dll"
-                                },
-                                {
                                     "sha256": "7331e3da2fc2501aa54e03ef98a9b18d12a298712dd43a0164b382fa9bf8bc71",
                                     "url": "https://github.com/New-Project-Final-Final-WIP/HeadlessTweaks/releases/download/v2.1.12/HeadlessTweaks.dll"
                                 }
                             ],
+                            "changelog": "Rebuild for 2025.11.19.6\n- FrooxEngine.Headless.GenericCommand constructor signature was changed",
                             "releaseUrl": "https://github.com/New-Project-Final-Final-WIP/HeadlessTweaks/releases/tag/v2.1.12"
                         },
                         "2.1.2": {
@@ -14134,55 +14018,27 @@
                                     "url": "https://github.com/New-Project-Final-Final-WIP/HeadlessTweaks/releases/download/v2.1.9/HeadlessTweaks.dll"
                                 }
                             ],
-                            "changelog": "- Added the option to automatically accept invite requests sent using the Ask to Join button (`AutoHandleInviteRequests`)\n  - This will send an invite for whatever session the headless is currently focused on\n  - This is only done if it is sent directly to the headless by the person requesting, this does not apply to forwarded requests\n  - The permission check is handled the same as the `/reqInvite` command\n  - If the user does not have permission to join then the request will be forwarded to the session admins\n\n- Discord changes\n  - Added `WorldCrashed` event\n  - Added option to add go.resonite.com link to session start message (`DiscordLinkToSession`)\n  \n- Command changes\n  - Added ability for `reqInvite` to do partial match\n  - Stop `reqInvite` command from reporting full world name if you do not have permission to join\n  - Fixed starting worlds with a world orb\n  - Fixed start world commands not always reporting a name\n\n- Misc changes\n  - Exposed RegisterCommands as a public method\n  - Updated project files\n",
+                            "changelog": "- Added `AutoHandleInviteRequests` to automatically accept direct invite requests sent using the Ask to Join button (not forwarded requests)\n  - This will send an invite for whatever session the headless is currently focused on\n  - The permission check is handled the same as the `/reqInvite` command and will be forwarded to session admin otherwise\n\n- Discord changes\n  - Added `WorldCrashed` event\n  - Added `DiscordLinkToSession` to add a go.resonite.com link to session start message\n  \n- Command changes\n  - Added ability for `reqInvite` to do partial match\n  - Stop `reqInvite` command from reporting full world name if you do not have permission to join\n  - Fixed starting worlds with a world orb\n  - Fixed start world commands not always reporting a name\n\n- Misc changes\n  - Exposed RegisterCommands as a public method\n",
                             "releaseUrl": "https://github.com/New-Project-Final-Final-WIP/HeadlessTweaks/releases/tag/v2.1.9"
                         },
                         "2.2.0": {
                             "artifacts": [
                                 {
-                                    "installLocation": "/rml_libs",
-                                    "sha256": "324f5c0ce7814a66b5fefc7cce75e01c71746fb9a93e51f8c4e8060d6ddefb3d",
-                                    "url": "https://github.com/New-Project-Final-Final-WIP/HeadlessTweaks/releases/download/v2.2.0/Discord.Net.Core.dll"
-                                },
-                                {
-                                    "installLocation": "/rml_libs",
-                                    "sha256": "6ae5ec9ecf6117f24ad93c7bc445a312439892e14a0645c910cfda0860cdc91b",
-                                    "url": "https://github.com/New-Project-Final-Final-WIP/HeadlessTweaks/releases/download/v2.2.0/Discord.Net.Rest.dll"
-                                },
-                                {
-                                    "installLocation": "/rml_libs",
-                                    "sha256": "7afeb588f38cbaf9349dbc707a655cf5561543f13694d6839ae16a0b0eac81ed",
-                                    "url": "https://github.com/New-Project-Final-Final-WIP/HeadlessTweaks/releases/download/v2.2.0/Discord.Net.Webhook.dll"
-                                },
-                                {
                                     "sha256": "4c3af5a3e143a3179cbfc6ed3fa41873d1fb297102f324a66bd2447e0c27a65a",
                                     "url": "https://github.com/New-Project-Final-Final-WIP/HeadlessTweaks/releases/download/v2.2.0/HeadlessTweaks.dll"
                                 }
                             ],
+                            "changelog": "- Fix smart autosave\n- Update to dotnet 10",
                             "releaseUrl": "https://github.com/New-Project-Final-Final-WIP/HeadlessTweaks/releases/tag/v2.2.0"
                         },
                         "2.2.1": {
                             "artifacts": [
                                 {
-                                    "installLocation": "/rml_libs",
-                                    "sha256": "324f5c0ce7814a66b5fefc7cce75e01c71746fb9a93e51f8c4e8060d6ddefb3d",
-                                    "url": "https://github.com/New-Project-Final-Final-WIP/HeadlessTweaks/releases/download/v2.2.1-b/Discord.Net.Core.dll"
-                                },
-                                {
-                                    "installLocation": "/rml_libs",
-                                    "sha256": "6ae5ec9ecf6117f24ad93c7bc445a312439892e14a0645c910cfda0860cdc91b",
-                                    "url": "https://github.com/New-Project-Final-Final-WIP/HeadlessTweaks/releases/download/v2.2.1-b/Discord.Net.Rest.dll"
-                                },
-                                {
-                                    "installLocation": "/rml_libs",
-                                    "sha256": "7afeb588f38cbaf9349dbc707a655cf5561543f13694d6839ae16a0b0eac81ed",
-                                    "url": "https://github.com/New-Project-Final-Final-WIP/HeadlessTweaks/releases/download/v2.2.1-b/Discord.Net.Webhook.dll"
-                                },
-                                {
                                     "sha256": "de719b753845ff9a4d9503bee13fe38a3bc32ad3c65222f33bfa91c881b4c824",
                                     "url": "https://github.com/New-Project-Final-Final-WIP/HeadlessTweaks/releases/download/v2.2.1-b/HeadlessTweaks.dll"
                                 }
                             ],
+                            "changelog": "Rebuild for Resonite 2026.7.7.829",
                             "releaseUrl": "https://github.com/New-Project-Final-Final-WIP/HeadlessTweaks/releases/tag/v2.2.1-b"
                         }
                     },
@@ -14356,5 +14212,5 @@
             }
         }
     },
-    "schemaVersion": "1.1.0"
+    "schemaVersion": "1.1.1"
 }

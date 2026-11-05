@@ -1,85 +1,125 @@
 {
-	"name": "ResonitePSVR2",
-	"id": "com.tabbynet.ResonitePSVR2",
-	"description": "Enables support for special hardware features on the PlayStation VR2",
-	"category": "Hardware Integration",
-	"sourceLocation": "https://github.com/tabithamoon/ResonitePSVR2",
-	"tags": [
-		"eye",
-		"tracking"
-	],
-	"versions": {
-		"1.2.2": {
-			"releaseUrl": "https://github.com/tabithamoon/ResonitePSVR2/releases/tag/v1.2.2",
-			"artifacts": [
-				{
-					"filename": "psvr2_toolkit_capi_loader.dll",
-					"installLocation": "/rml_libs",
-					"url": "https://github.com/tabithamoon/ResonitePSVR2/releases/download/v1.2.2/psvr2_toolkit_capi_loader.dll",
-					"sha256": "e366143796fbb90edcb5cfb61afb05c7baa3e27ebaabe209bd7df16a3adced16"
-				},
-				{
-					"filename": "libpsvr2_toolkit_capi_loader.so",
-					"installLocation": "/rml_libs",
-					"url": "https://github.com/tabithamoon/ResonitePSVR2/releases/download/v1.2.2/libpsvr2_toolkit_capi_loader.so",
-					"sha256": "b4ae2029a1e86996a28b3eb78ee7a6d118b74a8da366338ab06dc0f6765d906f"
-				},
-				{
-					"filename": "ResonitePSVR2.dll",
-					"url": "https://github.com/tabithamoon/ResonitePSVR2/releases/download/v1.2.2/ResonitePSVR2.dll",
-					"sha256": "41740304d8f21bcf8f983d89df332a6b8840f1f1c15e73744e80df9eb6c04065"
-				}
-			]
-		},
-		"1.2.1": {
-			"releaseUrl": "https://github.com/tabithamoon/ResonitePSVR2/releases/tag/v1.2.1",
-			"artifacts": [
-				{
-					"filename": "psvr2_toolkit_capi_loader.dll",
-					"installLocation": "/rml_libs",
-					"url": "https://github.com/tabithamoon/ResonitePSVR2/releases/download/v1.2.1/psvr2_toolkit_capi_loader.dll",
-					"sha256": "e366143796fbb90edcb5cfb61afb05c7baa3e27ebaabe209bd7df16a3adced16"
-				},
-				{
-					"filename": "libpsvr2_toolkit_capi_loader.so",
-					"installLocation": "/rml_libs",
-					"url": "https://github.com/tabithamoon/ResonitePSVR2/releases/download/v1.2.1/libpsvr2_toolkit_capi_loader.so",
-					"sha256": "b4ae2029a1e86996a28b3eb78ee7a6d118b74a8da366338ab06dc0f6765d906f"
-				},
-				{
-					"filename": "ResonitePSVR2.dll",
-					"url": "https://github.com/tabithamoon/ResonitePSVR2/releases/download/v1.2.1/ResonitePSVR2.dll",
-					"sha256": "1666606a5c28173de920ae12ade5209672781a01b1e3fbb31636e39e225dcd50"
-				}
-			]
-		},
-		"1.1.2": {
-			"releaseUrl": "https://github.com/tabithamoon/ResonitePSVR2/releases/tag/v1.1.2",
-			"artifacts": [{
-				"url": "https://github.com/tabithamoon/ResonitePSVR2/releases/download/v1.1.2/ResonitePSVR2.dll",
-				"sha256": "aae71b5a153f9103585d1e5adc5120dc8d70ffd3ba3da79d1705147489c06957"
-			}]
-		},
-		"1.1.1": {
-			"releaseUrl": "https://github.com/tabithamoon/ResonitePSVR2/releases/tag/v1.1.1",
-			"artifacts": [{
-				"url": "https://github.com/tabithamoon/ResonitePSVR2/releases/download/v1.1.1/ResonitePSVR2.dll",
-				"sha256": "9881598f9ed913bbb9c45c1d148ecd4ee2168071a9db4c3d7c374ede538f4795"
-			}]
-		},
-		"1.1.0": {
-			"releaseUrl": "https://github.com/tabithamoon/ResonitePSVR2/releases/tag/v1.1.0",
-			"artifacts": [{
-				"url": "https://github.com/tabithamoon/ResonitePSVR2/releases/download/v1.1.0/ResonitePSVR2.dll",
-				"sha256": "a783f2c74fb7a75ae28d87fb3833ba9509fa4c2a303af1f8940fa2d6fae4cd92"
-			}]
-		},
-		"1.0.1": {
-			"releaseUrl": "https://github.com/tabithamoon/ResonitePSVR2/releases/tag/v1.0.1",
-			"artifacts": [{
-				"url": "https://github.com/tabithamoon/ResonitePSVR2/releases/download/v1.0.1/ResonitePSVR2.dll",
-				"sha256": "58510374a69c30902c0351b07fcbec3d1c4d889906fc5098628fa48499625c7b"
-			}]
-		}
-	}
+    "name": "ResonitePSVR2",
+    "id": "com.tabbynet.ResonitePSVR2",
+    "description": "Enables support for special hardware features on the PlayStation VR2",
+    "category": "Hardware Integration",
+    "sourceLocation": "https://github.com/tabithamoon/ResonitePSVR2",
+    "tags": [
+        "eye",
+        "tracking"
+    ],
+    "versions": {
+        "1.2.2": {
+            "releaseUrl": "https://github.com/tabithamoon/ResonitePSVR2/releases/tag/v1.2.2",
+            "artifacts": [
+                {
+                    "filename": "psvr2_toolkit_capi_loader.dll",
+                    "installLocation": "/rml_libs",
+                    "url": "https://github.com/tabithamoon/ResonitePSVR2/releases/download/v1.2.2/psvr2_toolkit_capi_loader.dll",
+                    "sha256": "e366143796fbb90edcb5cfb61afb05c7baa3e27ebaabe209bd7df16a3adced16"
+                },
+                {
+                    "filename": "libpsvr2_toolkit_capi_loader.so",
+                    "installLocation": "/rml_libs",
+                    "url": "https://github.com/tabithamoon/ResonitePSVR2/releases/download/v1.2.2/libpsvr2_toolkit_capi_loader.so",
+                    "sha256": "b4ae2029a1e86996a28b3eb78ee7a6d118b74a8da366338ab06dc0f6765d906f"
+                },
+                {
+                    "filename": "ResonitePSVR2.dll",
+                    "url": "https://github.com/tabithamoon/ResonitePSVR2/releases/download/v1.2.2/ResonitePSVR2.dll",
+                    "sha256": "41740304d8f21bcf8f983d89df332a6b8840f1f1c15e73744e80df9eb6c04065"
+                }
+            ]
+        },
+        "1.2.1": {
+            "releaseUrl": "https://github.com/tabithamoon/ResonitePSVR2/releases/tag/v1.2.1",
+            "artifacts": [
+                {
+                    "filename": "psvr2_toolkit_capi_loader.dll",
+                    "installLocation": "/rml_libs",
+                    "url": "https://github.com/tabithamoon/ResonitePSVR2/releases/download/v1.2.1/psvr2_toolkit_capi_loader.dll",
+                    "sha256": "e366143796fbb90edcb5cfb61afb05c7baa3e27ebaabe209bd7df16a3adced16"
+                },
+                {
+                    "filename": "libpsvr2_toolkit_capi_loader.so",
+                    "installLocation": "/rml_libs",
+                    "url": "https://github.com/tabithamoon/ResonitePSVR2/releases/download/v1.2.1/libpsvr2_toolkit_capi_loader.so",
+                    "sha256": "b4ae2029a1e86996a28b3eb78ee7a6d118b74a8da366338ab06dc0f6765d906f"
+                },
+                {
+                    "filename": "ResonitePSVR2.dll",
+                    "url": "https://github.com/tabithamoon/ResonitePSVR2/releases/download/v1.2.1/ResonitePSVR2.dll",
+                    "sha256": "1666606a5c28173de920ae12ade5209672781a01b1e3fbb31636e39e225dcd50"
+                }
+            ]
+        },
+        "1.2.0": {
+            "releaseUrl": "https://github.com/tabithamoon/ResonitePSVR2/releases/tag/v1.2.0",
+            "artifacts": [
+                {
+                    "url": "https://github.com/tabithamoon/ResonitePSVR2/releases/download/v1.2.0/libpsvr2_toolkit_capi_loader.so",
+                    "sha256": "b4ae2029a1e86996a28b3eb78ee7a6d118b74a8da366338ab06dc0f6765d906f",
+                    "filename": "libpsvr2_toolkit_capi_loader.so",
+                    "installLocation": "/rml_libs"
+                },
+                {
+                    "url": "https://github.com/tabithamoon/ResonitePSVR2/releases/download/v1.2.0/psvr2_toolkit_capi_loader.dll",
+                    "sha256": "e366143796fbb90edcb5cfb61afb05c7baa3e27ebaabe209bd7df16a3adced16",
+                    "filename": "psvr2_toolkit_capi_loader.dll",
+                    "installLocation": "/rml_libs"
+                },
+                {
+                    "url": "https://github.com/tabithamoon/ResonitePSVR2/releases/download/v1.2.0/ResonitePSVR2.dll",
+                    "sha256": "d85674ec19d161870ec7b228af396bc9d1c2ccc88c34fdeabebfbedccbaf4374",
+                    "filename": "ResonitePSVR2.dll"
+                }
+            ]
+        },
+        "1.1.2": {
+            "releaseUrl": "https://github.com/tabithamoon/ResonitePSVR2/releases/tag/v1.1.2",
+            "artifacts": [
+                {
+                    "url": "https://github.com/tabithamoon/ResonitePSVR2/releases/download/v1.1.2/ResonitePSVR2.dll",
+                    "sha256": "aae71b5a153f9103585d1e5adc5120dc8d70ffd3ba3da79d1705147489c06957"
+                }
+            ]
+        },
+        "1.1.1": {
+            "releaseUrl": "https://github.com/tabithamoon/ResonitePSVR2/releases/tag/v1.1.1",
+            "artifacts": [
+                {
+                    "url": "https://github.com/tabithamoon/ResonitePSVR2/releases/download/v1.1.1/ResonitePSVR2.dll",
+                    "sha256": "9881598f9ed913bbb9c45c1d148ecd4ee2168071a9db4c3d7c374ede538f4795"
+                }
+            ]
+        },
+        "1.1.0": {
+            "releaseUrl": "https://github.com/tabithamoon/ResonitePSVR2/releases/tag/v1.1.0",
+            "artifacts": [
+                {
+                    "url": "https://github.com/tabithamoon/ResonitePSVR2/releases/download/v1.1.0/ResonitePSVR2.dll",
+                    "sha256": "a783f2c74fb7a75ae28d87fb3833ba9509fa4c2a303af1f8940fa2d6fae4cd92"
+                }
+            ]
+        },
+        "1.0.1": {
+            "releaseUrl": "https://github.com/tabithamoon/ResonitePSVR2/releases/tag/v1.0.1",
+            "artifacts": [
+                {
+                    "url": "https://github.com/tabithamoon/ResonitePSVR2/releases/download/v1.0.1/ResonitePSVR2.dll",
+                    "sha256": "58510374a69c30902c0351b07fcbec3d1c4d889906fc5098628fa48499625c7b"
+                }
+            ]
+        },
+        "1.0.0": {
+            "releaseUrl": "https://github.com/tabithamoon/ResonitePSVR2/releases/tag/v1.0.0",
+            "artifacts": [
+                {
+                    "url": "https://github.com/tabithamoon/ResonitePSVR2/releases/download/v1.0.0/ResonitePSVR2.dll",
+                    "sha256": "a537605592cf43bb969671334965074eee2d7e3fd93a90c4f18f247c3020ce20",
+                    "filename": "ResonitePSVR2.dll"
+                }
+            ]
+        }
+    }
 }

@@ -1,8 +1,8 @@
 {
-	"name": "FasterBadges",
-	"id": "com.zahndy.FasterBadges",
-	"description": "Badges manager with badge presets, custom badges and system badge removal",
-	"tags": [
+    "name": "FasterBadges",
+    "id": "com.zahndy.FasterBadges",
+    "description": "Badges manager with badge presets, custom badges and system badge removal",
+    "tags": [
         "name",
         "tag",
         "plate"

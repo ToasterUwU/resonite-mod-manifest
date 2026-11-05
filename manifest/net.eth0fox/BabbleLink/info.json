@@ -1,24 +1,34 @@
 {
-	"name": "BabbleFrameRuntime",
-	"id": "net.eth0fox.BabbleLink",
-	"description": "Adds native support for the Babble Frame Runtime BabbleLink protocol. No VRCFT required.",
-	"category": "Hardware Integration",
-	"sourceLocation": "https://github.com/eth0fox/resonite-babblelink",
-	"tags": [
-		"eye",
-		"face",
-		"steam",
-		"tracking"
-	],
-	"versions": {
-		"1.1.0": {
-			"releaseUrl": "https://github.com/eth0fox/resonite-babblelink/releases/tag/1.1.0",
-			"artifacts": [ 
-				{
-					"url": "https://github.com/eth0fox/resonite-babblelink/releases/download/1.1.0/BabbleLinkMod.dll",
-					"sha256": "081652b9e265ddd04a4864313a227dc03af9c2e0c4eec08a9df42765094c5437" 
-				}
-			]
-		}
-	}
+    "name": "BabbleFrameRuntime",
+    "id": "net.eth0fox.BabbleLink",
+    "description": "Adds native support for the Babble Frame Runtime BabbleLink protocol. No VRCFT required.",
+    "category": "Hardware Integration",
+    "sourceLocation": "https://github.com/eth0fox/resonite-babblelink",
+    "tags": [
+        "eye",
+        "face",
+        "steam",
+        "tracking"
+    ],
+    "versions": {
+        "1.1.0": {
+            "releaseUrl": "https://github.com/eth0fox/resonite-babblelink/releases/tag/1.1.0",
+            "artifacts": [
+                {
+                    "url": "https://github.com/eth0fox/resonite-babblelink/releases/download/1.1.0/BabbleLinkMod.dll",
+                    "sha256": "081652b9e265ddd04a4864313a227dc03af9c2e0c4eec08a9df42765094c5437"
+                }
+            ]
+        },
+        "1.0.0": {
+            "releaseUrl": "https://github.com/eth0fox/resonite-babblelink/releases/tag/1.0.0",
+            "artifacts": [
+                {
+                    "url": "https://github.com/eth0fox/resonite-babblelink/releases/download/1.0.0/BabbleLinkMod.dll",
+                    "sha256": "0a5c861627d15e45c336e4e83c85299bb7b8d97b6477c705302535086bb32955",
+                    "installLocation": "/rml_libs"
+                }
+            ]
+        }
+    }
 }
