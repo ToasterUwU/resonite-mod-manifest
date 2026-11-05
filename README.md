@@ -36,8 +36,7 @@ This fork is bleeding edge unstable stuff. I dont check the mod updates, i dont 
 
 ## Mods we are currently missing (will always be fixed ASAP)
 
-- [DynamicSavedSlotNames](https://github.com/Cyberboss/DynamicSavedSlotNames) (by Dominion)
-
+We currently have everything.
 
 ## Mods we have an older version of (will also be fixed ASAP)
 
