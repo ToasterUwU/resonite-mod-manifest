@@ -10159,6 +10159,9 @@
                 "net.dfgHiatus.UnityPackageImporter": {
                     "category": "Asset Importing",
                     "description": "Allows importing Unity package files.",
+                    "flags": [
+                        "broken"
+                    ],
                     "name": "UnityPackageImporter",
                     "sourceLocation": "https://github.com/dfgHiatus/ResoniteUnityPackagesImporter",
                     "versions": {
