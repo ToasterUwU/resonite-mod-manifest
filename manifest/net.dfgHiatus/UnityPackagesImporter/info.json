@@ -4,6 +4,9 @@
     "description": "Allows importing Unity package files.",
     "category": "Asset Importing",
     "sourceLocation": "https://github.com/dfgHiatus/ResoniteUnityPackagesImporter",
+    "flags": [
+        "broken"
+    ],
     "versions": {
         "2.3.0": {
             "releaseUrl": "https://github.com/dfgHiatus/ResoniteUnityPackagesImporter/releases/tag/v2.3.0",
