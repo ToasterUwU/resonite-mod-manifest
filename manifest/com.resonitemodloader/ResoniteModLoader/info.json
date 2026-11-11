@@ -8,6 +8,25 @@
         "plugin"
     ],
     "versions": {
+        "5.0.3": {
+            "releaseUrl": "https://github.com/resonite-modding-group/ResoniteModLoader/releases/tag/5.0.3",
+            "artifacts": [
+                {
+                    "url": "https://github.com/resonite-modding-group/ResoniteModLoader/releases/download/5.0.3/0Harmony.dll",
+                    "sha256": "f7d167b2500808c6c2ad6e38b6efa2741a2b809f79b0e92c36e4a7079c38d9bb",
+                    "installLocation": "/rml_libs"
+                },
+                {
+                    "url": "https://github.com/resonite-modding-group/ResoniteModLoader/releases/download/5.0.3/ResoniteModLoader.dll",
+                    "sha256": "ab6cfd603f675464c8e8d70c680f9189bc3da68ff645074b0ff4f2e10d55bf7a"
+                },
+                {
+                    "url": "https://github.com/resonite-modding-group/ResoniteModLoader/releases/download/5.0.3/ResoniteModLoader.xml",
+                    "sha256": "6a131034c3495dae36e3a03d7e9483a54b1d340b63e2af529ea31e26ed873026",
+                    "installLocation": "/rml_config"
+                }
+            ]
+        },
         "5.0.2": {
             "releaseUrl": "https://github.com/resonite-modding-group/ResoniteModLoader/releases/tag/5.0.2",
             "dependencies": {
