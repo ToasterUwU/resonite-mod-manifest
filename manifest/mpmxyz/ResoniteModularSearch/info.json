@@ -10,6 +10,15 @@
         "filter"
     ],
     "versions": {
+        "1.2.0": {
+            "releaseUrl": "https://github.com/mpmxyz/ResoniteModularSearch/releases/tag/v1.2.0-2026.11.11.21",
+            "artifacts": [
+                {
+                    "url": "https://github.com/mpmxyz/ResoniteModularSearch/releases/download/v1.2.0-2026.11.11.21/ResoniteModularSearch.dll",
+                    "sha256": "6cfa98435d55ad08d6d9c1e6b62c26439c7ae2b4121fd9e379230d6839938428"
+                }
+            ]
+        },
         "1.1.1": {
             "releaseUrl": "https://github.com/mpmxyz/ResoniteModularSearch/releases/tag/v1.1.1-2026.11.10.1262",
             "artifacts": [
