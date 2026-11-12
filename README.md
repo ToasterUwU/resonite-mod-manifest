@@ -31,16 +31,17 @@ This fork is bleeding edge unstable stuff. I dont check the mod updates, i dont 
 - [SessionCaptureBlocker](https://github.com/nalathethird/SessionCaptureBlocker) (by nalathethird)  - 1.1.0 vs 1.0.3
 - [bHapticsLib](https://github.com/nalathethird/bHapticsLib) (by nalathethird)  - 1.0.9 vs 1.0.8
 - [VRCFTReceiver](https://github.com/hazre/VRCFTReceiver) (by hazre)  - 2.0.0 vs 1.0.4
-- [ResoniteModularSearch](https://github.com/mpmxyz/ResoniteModularSearch/) (by mpmxyz)  - 1.2.0 vs 1.1.0
 - [SessionTabOverhaul](https://github.com/NepuShiro/ResoniteSessionTabOverhaul) (by NepuShiro)  - 2.2.0 vs 2.1.1
 
 
 ## Mods we are currently missing (will always be fixed ASAP)
 
-We currently have everything.
+- [HandsUpFingerPhoto](https://github.com/noblereign/ResoniteHandsUpFingerPhoto) (by Noble)
+
 
 ## Mods we have an older version of (will also be fixed ASAP)
 
+- [picture3dFix](https://github.com/tobs2007/picture3dFix) (by tobs)  - 1.1.3
 - [EmpoweredImageEncoding](https://git.unix.dog/yosh/ResoniteEmpoweredImageEncoding) (by yosh)  - 2.0.2
 
 
