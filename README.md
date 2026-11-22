@@ -11,13 +11,13 @@ This fork is bleeding edge unstable stuff. I dont check the mod updates, i dont 
 
 ## Mods we have, but the official Mod-Manifest does not
 
+- [UnityPackageImporter](https://github.com/Artbyo3/ResoniteUnityPackagesImporter) (by Artbyo3)
 - [ProtoFluxContextualActions](https://github.com/IHaveAName2653/ProtoFluxContextualActions) (by IHaveAName2653)
 - [Gif Importer](https://github.com/LeCloutPanda/GifImporter) (by LeCloutPanda)
 - [NoSRanipal](https://github.com/zahndy/NoSRanipal) (by zahndy)
 - [ProxyVisuals](https://github.com/LeCloutPanda/ProxyVisuals) (by LeCloutPanda)
 - [VideoProxy](https://github.com/LeCloutPanda/VideoProxy) (by LeCloutPanda)
 - [OperatorLikeNeos](https://github.com/ginjake/ResoniteOperatorLikeNeos) (by ginjake)
-- [UnityPackageImporter](https://github.com/dfgHiatus/ResoniteUnityPackagesImporter) (by dfgHiatus)
 - [InventoryHelper](https://github.com/noblereign/InventoryHelper) (by noblereign)
 
 
@@ -31,17 +31,19 @@ This fork is bleeding edge unstable stuff. I dont check the mod updates, i dont 
 - [SessionCaptureBlocker](https://github.com/nalathethird/SessionCaptureBlocker) (by nalathethird)  - 1.1.0 vs 1.0.3
 - [bHapticsLib](https://github.com/nalathethird/bHapticsLib) (by nalathethird)  - 1.0.9 vs 1.0.8
 - [VRCFTReceiver](https://github.com/hazre/VRCFTReceiver) (by hazre)  - 2.0.0 vs 1.0.4
-- [SessionTabOverhaul](https://github.com/NepuShiro/ResoniteSessionTabOverhaul) (by NepuShiro)  - 2.2.0 vs 2.1.1
 
 
 ## Mods we are currently missing (will always be fixed ASAP)
 
 - [HandsUpFingerPhoto](https://github.com/noblereign/ResoniteHandsUpFingerPhoto) (by Noble)
+- [LinuxNativeDesktop](https://github.com/Nytra/ResoniteLinuxNativeDesktop) (by Nytra)
+- [ResoniteLinkSyncArrayFix](https://github.com/Nytra/ResoniteLinkSyncArrayFix) (by Nytra)
 
 
 ## Mods we have an older version of (will also be fixed ASAP)
 
 - [picture3dFix](https://github.com/tobs2007/picture3dFix) (by tobs)  - 1.1.3
+- [SmileForTheCamera](https://forge.moldy.gift/Baplar/Resonite.SmileForTheCamera) (by Baplar)  - 1.2.0
 - [EmpoweredImageEncoding](https://git.unix.dog/yosh/ResoniteEmpoweredImageEncoding) (by yosh)  - 2.0.2
 
 

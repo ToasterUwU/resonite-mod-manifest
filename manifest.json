@@ -1,5 +1,91 @@
 {
     "objects": {
+        "Artbyo3": {
+            "author": {
+                "Artbyo3": {
+                    "icon": "https://github.com/Artbyo3.png",
+                    "url": "https://github.com/Artbyo3"
+                }
+            },
+            "entries": {
+                "Artbyo3.UnityPackageImporter": {
+                    "additionalAuthors": {
+                        "989onan": {},
+                        "Frozenreflex": {},
+                        "benaclejames": {},
+                        "delta": {},
+                        "dfgHiatus": {},
+                        "eia485": {}
+                    },
+                    "category": "Asset Importing",
+                    "description": "Experimental importer for Unity packages: reconstructs supported prefabs, scenes, avatars and materials in Resonite.",
+                    "name": "UnityPackageImporter",
+                    "platforms": [
+                        "windows"
+                    ],
+                    "sourceLocation": "https://github.com/Artbyo3/ResoniteUnityPackagesImporter",
+                    "tags": [
+                        "unitypackage",
+                        "prefab",
+                        "avatar"
+                    ],
+                    "versions": {
+                        "0.0.5": {
+                            "artifacts": [
+                                {
+                                    "filename": "UnityPackageImporter.dll",
+                                    "installLocation": "/rml_mods",
+                                    "sha256": "6dd985169f01e7a6d2b6975b22c4ec763cf9f6300f1d656feb06ddcac28fd3a0",
+                                    "url": "https://github.com/Artbyo3/ResoniteUnityPackagesImporter/releases/download/v0.0.5/UnityPackageImporter.dll"
+                                },
+                                {
+                                    "filename": "YamlDotNet.dll",
+                                    "installLocation": "/rml_libs",
+                                    "sha256": "86f873f682c619a0c24e263dcdd15fe027104666641c92f503516671d61edda6",
+                                    "url": "https://github.com/Artbyo3/ResoniteUnityPackagesImporter/releases/download/v0.0.5/YamlDotNet.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/Artbyo3/ResoniteUnityPackagesImporter/releases/tag/v0.0.5"
+                        },
+                        "0.0.6": {
+                            "artifacts": [
+                                {
+                                    "filename": "UnityPackageImporter.dll",
+                                    "installLocation": "/rml_mods",
+                                    "sha256": "44b63ec41b318f5a00c05ac033e9316b50d38d536f0ba32ce97f7bb924f5ca1f",
+                                    "url": "https://github.com/Artbyo3/ResoniteUnityPackagesImporter/releases/download/v0.0.6/UnityPackageImporter.dll"
+                                },
+                                {
+                                    "filename": "YamlDotNet.dll",
+                                    "installLocation": "/rml_libs",
+                                    "sha256": "86f873f682c619a0c24e263dcdd15fe027104666641c92f503516671d61edda6",
+                                    "url": "https://github.com/Artbyo3/ResoniteUnityPackagesImporter/releases/download/v0.0.6/YamlDotNet.dll"
+                                },
+                                {
+                                    "filename": "UnityPackageImporter.LICENSE",
+                                    "installLocation": "/",
+                                    "sha256": "ca7d981c404cc540d88d13f814aefd5767dce2e414d1e36f157ea470d15ac066",
+                                    "url": "https://github.com/Artbyo3/ResoniteUnityPackagesImporter/releases/download/v0.0.6/LICENSE"
+                                },
+                                {
+                                    "filename": "UnityPackageImporter.THIRD_PARTY_NOTICES.md",
+                                    "installLocation": "/",
+                                    "sha256": "6796918d239fc9d2ca1130ced4fd9a2d6d7e3e1ebfe29013e28a7eb407611b57",
+                                    "url": "https://github.com/Artbyo3/ResoniteUnityPackagesImporter/releases/download/v0.0.6/THIRD_PARTY_NOTICES.md"
+                                }
+                            ],
+                            "conflicts": {
+                                "net.dfgHiatus.UnityPackageImporter": {
+                                    "version": "*"
+                                }
+                            },
+                            "releaseUrl": "https://github.com/Artbyo3/ResoniteUnityPackagesImporter/releases/tag/v0.0.6"
+                        }
+                    },
+                    "website": "https://artbyo3.github.io/ResoniteUnityPackagesImporter/"
+                }
+            }
+        },
         "Banane9": {
             "author": {
                 "Banane9": {
@@ -10199,128 +10285,6 @@
                                 }
                             ],
                             "releaseUrl": "https://github.com/dfgHiatus/TarGZImporter/releases/tag/v2.0.0"
-                        }
-                    }
-                },
-                "net.dfgHiatus.UnityPackageImporter": {
-                    "category": "Asset Importing",
-                    "description": "Allows importing Unity package files.",
-                    "flags": [
-                        "broken"
-                    ],
-                    "name": "UnityPackageImporter",
-                    "sourceLocation": "https://github.com/dfgHiatus/ResoniteUnityPackagesImporter",
-                    "versions": {
-                        "1.1.1": {
-                            "artifacts": [
-                                {
-                                    "sha256": "0499d7301b8d8587c1bbec782305c8f115b77aee1a7b5c9c52a2148e157a6218",
-                                    "url": "https://github.com/dfgHiatus/ResoniteUnityPackagesImporter/releases/download/v1.1.1/UnityPackageImporter.dll"
-                                }
-                            ],
-                            "releaseUrl": "https://github.com/dfgHiatus/ResoniteUnityPackagesImporter/releases/tag/v1.1.1"
-                        },
-                        "1.3.0": {
-                            "artifacts": [
-                                {
-                                    "sha256": "1d9684779ab33557b181ca4dbe2888367ed27fe73664a5d1061189d4e5dfd14e",
-                                    "url": "https://github.com/dfgHiatus/ResoniteUnityPackagesImporter/releases/download/v1.3.0/UnityPackageImporter.dll"
-                                }
-                            ],
-                            "releaseUrl": "https://github.com/dfgHiatus/ResoniteUnityPackagesImporter/releases/tag/v1.3.0"
-                        },
-                        "1.3.1": {
-                            "artifacts": [
-                                {
-                                    "sha256": "b7d4adab546e3e8cc55741b409de06dac106dc96cb97b04053ce0cdd82112b34",
-                                    "url": "https://github.com/dfgHiatus/ResoniteUnityPackagesImporter/releases/download/v1.3.1/UnityPackageImporter.dll"
-                                }
-                            ],
-                            "releaseUrl": "https://github.com/dfgHiatus/ResoniteUnityPackagesImporter/releases/tag/v1.3.1"
-                        },
-                        "1.4.0": {
-                            "artifacts": [
-                                {
-                                    "installLocation": "/rml_libs",
-                                    "sha256": "f2478cfcd05e63335efabb6ccfa8b57c356688fc52e785438b3f5b84e151f8a4",
-                                    "url": "https://github.com/dfgHiatus/ResoniteUnityPackagesImporter/releases/download/v1.4.0/TarGZImporter.dll"
-                                },
-                                {
-                                    "sha256": "b7d4adab546e3e8cc55741b409de06dac106dc96cb97b04053ce0cdd82112b34",
-                                    "url": "https://github.com/dfgHiatus/ResoniteUnityPackagesImporter/releases/download/v1.4.0/UnityPackageImporter.dll"
-                                }
-                            ],
-                            "releaseUrl": "https://github.com/dfgHiatus/ResoniteUnityPackagesImporter/releases/tag/v1.4.0"
-                        },
-                        "1.5.0": {
-                            "artifacts": [
-                                {
-                                    "installLocation": "/rml_libs",
-                                    "sha256": "cc7c734ba904f2152ba50f0cb852b5ed3b5983e97d28d029e52f3f4f4e316b3c",
-                                    "url": "https://github.com/dfgHiatus/ResoniteUnityPackagesImporter/releases/download/v1.5.0/TarGZImporter.dll"
-                                },
-                                {
-                                    "installLocation": "/rml_libs",
-                                    "sha256": "c1021c105107658ae7f574309e6e5b9010299de48b5a917d64f49909d336786a",
-                                    "url": "https://github.com/dfgHiatus/ResoniteUnityPackagesImporter/releases/download/v1.5.0/TarImporter.dll"
-                                },
-                                {
-                                    "sha256": "63d4eb4a3b3e9076a6034a8f8f193ba48a663e618d6e445189e66d9ec3b4fb3e",
-                                    "url": "https://github.com/dfgHiatus/ResoniteUnityPackagesImporter/releases/download/v1.5.0/UnityPackageImporter.dll"
-                                }
-                            ],
-                            "releaseUrl": "https://github.com/dfgHiatus/ResoniteUnityPackagesImporter/releases/tag/v1.5.0"
-                        },
-                        "2.0.0": {
-                            "artifacts": [
-                                {
-                                    "sha256": "c14c2308299c2f5b5318631fe6c9116a39945c2e10324a1f063e44c47b3eb2d0",
-                                    "url": "https://github.com/dfgHiatus/ResoniteUnityPackagesImporter/releases/download/v2.0.0/UnityPackageImporter.dll"
-                                }
-                            ],
-                            "releaseUrl": "https://github.com/dfgHiatus/ResoniteUnityPackagesImporter/releases/tag/v2.0.0"
-                        },
-                        "2.1.0": {
-                            "artifacts": [
-                                {
-                                    "sha256": "3a6f1b9842f919d9190731e6c617d807c7519388a167b1fbff5335523b308a2c",
-                                    "url": "https://github.com/dfgHiatus/ResoniteUnityPackagesImporter/releases/download/v2.1.0/UnityPackageImporter.dll"
-                                },
-                                {
-                                    "installLocation": "/rml_libs",
-                                    "sha256": "7be584ba51349e5bf0bd4239e254ce44896a4cc079303fa043280db0f386f5d2",
-                                    "url": "https://github.com/dfgHiatus/ResoniteUnityPackagesImporter/releases/download/v2.1.0/YamlDotNet.dll"
-                                }
-                            ],
-                            "releaseUrl": "https://github.com/dfgHiatus/ResoniteUnityPackagesImporter/releases/tag/v2.1.0"
-                        },
-                        "2.2.0": {
-                            "artifacts": [
-                                {
-                                    "sha256": "8f6ff7e3e8f4d7bb1b224c2bb10203e06d76cd2f62c8eebfc6b0dc2058262a1d",
-                                    "url": "https://github.com/dfgHiatus/ResoniteUnityPackagesImporter/releases/download/v2.2.0/UnityPackageImporter.dll"
-                                },
-                                {
-                                    "installLocation": "/rml_libs",
-                                    "sha256": "7be584ba51349e5bf0bd4239e254ce44896a4cc079303fa043280db0f386f5d2",
-                                    "url": "https://github.com/dfgHiatus/ResoniteUnityPackagesImporter/releases/download/v2.2.0/YamlDotNet.dll"
-                                }
-                            ],
-                            "releaseUrl": "https://github.com/dfgHiatus/ResoniteUnityPackagesImporter/releases/tag/v2.2.0"
-                        },
-                        "2.3.0": {
-                            "artifacts": [
-                                {
-                                    "sha256": "c07f760d13951d6c4ffc94436b5fc39634f8a8bfd8e33a8bc32f8509a5c3cbea",
-                                    "url": "https://github.com/dfgHiatus/ResoniteUnityPackagesImporter/releases/download/v2.3.0/UnityPackageImporter.dll"
-                                },
-                                {
-                                    "installLocation": "/rml_libs",
-                                    "sha256": "9172f0758ed76963e0ede3b5ca9a1fb5b82f64c7e7a92cb3a6de39efa933a668",
-                                    "url": "https://github.com/dfgHiatus/ResoniteUnityPackagesImporter/releases/download/v2.3.0/YamlDotNet.dll"
-                                }
-                            ],
-                            "releaseUrl": "https://github.com/dfgHiatus/ResoniteUnityPackagesImporter/releases/tag/v2.3.0"
                         }
                     }
                 },
