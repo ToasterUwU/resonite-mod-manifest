@@ -35,17 +35,11 @@ This fork is bleeding edge unstable stuff. I dont check the mod updates, i dont 
 
 ## Mods we are currently missing (will always be fixed ASAP)
 
-- [HandsUpFingerPhoto](https://github.com/noblereign/ResoniteHandsUpFingerPhoto) (by Noble)
-- [LinuxNativeDesktop](https://github.com/Nytra/ResoniteLinuxNativeDesktop) (by Nytra)
-- [ResoniteLinkSyncArrayFix](https://github.com/Nytra/ResoniteLinkSyncArrayFix) (by Nytra)
-
+We currently have everything.
 
 ## Mods we have an older version of (will also be fixed ASAP)
 
-- [picture3dFix](https://github.com/tobs2007/picture3dFix) (by tobs)  - 1.1.3
-- [SmileForTheCamera](https://forge.moldy.gift/Baplar/Resonite.SmileForTheCamera) (by Baplar)  - 1.2.0
-- [EmpoweredImageEncoding](https://git.unix.dog/yosh/ResoniteEmpoweredImageEncoding) (by yosh)  - 2.0.2
-
+We are currently up to date.
 
 ## What is this?
 

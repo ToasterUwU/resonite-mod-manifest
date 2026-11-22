@@ -1,22 +1,42 @@
 {
-	"name": "HandsUpFingerPhoto",
-	"id": "dog.glacier.HandsUpFingerPhoto",
-	"description": "Replaces the Finger Photo gesture with an easier one: bring both of your hands up close to your head, facing vertically and parallel to each other.",
+    "name": "HandsUpFingerPhoto",
+    "id": "dog.glacier.HandsUpFingerPhoto",
+    "description": "Replaces the Finger Photo gesture with an easier one: bring both of your hands up close to your head, facing vertically and parallel to each other.",
     "tags": [
         "quick",
         "capture",
         "picture"
     ],
-	"category": "Controls",
-	"sourceLocation": "https://github.com/noblereign/ResoniteHandsUpFingerPhoto",
-	"versions": {
-		"1.2.0": {
-			"releaseUrl": "https://github.com/noblereign/ResoniteHandsUpFingerPhoto/releases/tag/v1.2.0",
-			"artifacts": [{
-				"url": "https://github.com/noblereign/ResoniteHandsUpFingerPhoto/releases/download/v1.2.0/HandsUpFingerPhoto.dll",
-				"sha256": "2a9101a06b06a7e373bd3de04c1c667c40e29c3729135b536009ba58d621ad67"
-			}],
-			"changelog": "Now supports the video recording function introduced in Resonite 2026.11.10.1262"
-		}
-	}
+    "category": "Controls",
+    "sourceLocation": "https://github.com/noblereign/ResoniteHandsUpFingerPhoto",
+    "versions": {
+        "1.2.0": {
+            "releaseUrl": "https://github.com/noblereign/ResoniteHandsUpFingerPhoto/releases/tag/v1.2.0",
+            "artifacts": [
+                {
+                    "url": "https://github.com/noblereign/ResoniteHandsUpFingerPhoto/releases/download/v1.2.0/HandsUpFingerPhoto.dll",
+                    "sha256": "2a9101a06b06a7e373bd3de04c1c667c40e29c3729135b536009ba58d621ad67"
+                }
+            ],
+            "changelog": "Now supports the video recording function introduced in Resonite 2026.11.10.1262"
+        },
+        "1.1.1": {
+            "releaseUrl": "https://github.com/noblereign/ResoniteHandsUpFingerPhoto/releases/tag/v1.1.1",
+            "artifacts": [
+                {
+                    "url": "https://github.com/noblereign/ResoniteHandsUpFingerPhoto/releases/download/v1.1.1/HandsUpFingerPhoto.dll",
+                    "sha256": "faa375aa914c25250d0cfb78b82673a0e9d220c621cb86221942881b2b7e36df"
+                }
+            ]
+        },
+        "1.0.0": {
+            "releaseUrl": "https://github.com/noblereign/ResoniteHandsUpFingerPhoto/releases/tag/v1.0.0",
+            "artifacts": [
+                {
+                    "url": "https://github.com/noblereign/ResoniteHandsUpFingerPhoto/releases/download/v1.0.0/HandsUpFingerPhoto.dll",
+                    "sha256": "4167341626af63df3fea3b7a0bb8cbbfa8408fd3fd89201d57afd3c6df318c46"
+                }
+            ]
+        }
+    }
 }

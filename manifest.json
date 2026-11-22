@@ -4106,19 +4106,28 @@
                             "artifacts": [
                                 {
                                     "sha256": "69861dcc04bbdc9562c5e2a2645fcfa2ec4b16b7681df8219ccaec89c41a8480",
-                                    "url": "https://github.com/Tobs2007/picture3dFix/releases/download/1.1.2/picture3dFix.dll"
+                                    "url": "https://github.com/tobs2007/picture3dFix/releases/download/1.1.2/picture3dFix.dll"
                                 }
                             ],
-                            "releaseUrl": "https://github.com/Tobs2007/picture3dFix/releases/tag/1.1.2"
+                            "releaseUrl": "https://github.com/tobs2007/picture3dFix/releases/tag/1.1.2"
                         },
                         "1.1.3": {
                             "artifacts": [
                                 {
                                     "sha256": "4d76355ef8c65a19dc73e5ad19e0e08a6ddc4f002e633f23b0673232d9f94ff7",
-                                    "url": "https://github.com/Tobs2007/picture3dFix/releases/download/1.1.3/picture3dFix.dll"
+                                    "url": "https://github.com/tobs2007/picture3dFix/releases/download/1.1.3/picture3dFix.dll"
                                 }
                             ],
-                            "releaseUrl": "https://github.com/Tobs2007/picture3dFix/releases/tag/1.1.3"
+                            "releaseUrl": "https://github.com/tobs2007/picture3dFix/releases/tag/1.1.3"
+                        },
+                        "1.1.4": {
+                            "artifacts": [
+                                {
+                                    "sha256": "bd967a574ca1e102e474f6f2a2455001814c80ce5eaadfbe02a22f1ea7eff0b4",
+                                    "url": "https://git.tobsstuff.com/-/project/5/uploads/7ed971cca57e4fa4a7bf266bcc7be6e5/picture3dFix.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://git.tobsstuff.com/tobs/picture3dFix/-/releases/1.1.4"
                         }
                     }
                 }
@@ -5492,6 +5501,47 @@
                         }
                     }
                 },
+                "dog.glacier.HandsUpFingerPhoto": {
+                    "category": "Controls",
+                    "description": "Replaces the Finger Photo gesture with an easier one: bring both of your hands up close to your head, facing vertically and parallel to each other.",
+                    "name": "HandsUpFingerPhoto",
+                    "sourceLocation": "https://github.com/noblereign/ResoniteHandsUpFingerPhoto",
+                    "tags": [
+                        "quick",
+                        "capture",
+                        "picture"
+                    ],
+                    "versions": {
+                        "1.0.0": {
+                            "artifacts": [
+                                {
+                                    "sha256": "4167341626af63df3fea3b7a0bb8cbbfa8408fd3fd89201d57afd3c6df318c46",
+                                    "url": "https://github.com/noblereign/ResoniteHandsUpFingerPhoto/releases/download/v1.0.0/HandsUpFingerPhoto.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/noblereign/ResoniteHandsUpFingerPhoto/releases/tag/v1.0.0"
+                        },
+                        "1.1.1": {
+                            "artifacts": [
+                                {
+                                    "sha256": "faa375aa914c25250d0cfb78b82673a0e9d220c621cb86221942881b2b7e36df",
+                                    "url": "https://github.com/noblereign/ResoniteHandsUpFingerPhoto/releases/download/v1.1.1/HandsUpFingerPhoto.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/noblereign/ResoniteHandsUpFingerPhoto/releases/tag/v1.1.1"
+                        },
+                        "1.2.0": {
+                            "artifacts": [
+                                {
+                                    "sha256": "2a9101a06b06a7e373bd3de04c1c667c40e29c3729135b536009ba58d621ad67",
+                                    "url": "https://github.com/noblereign/ResoniteHandsUpFingerPhoto/releases/download/v1.2.0/HandsUpFingerPhoto.dll"
+                                }
+                            ],
+                            "changelog": "Now supports the video recording function introduced in Resonite 2026.11.10.1262",
+                            "releaseUrl": "https://github.com/noblereign/ResoniteHandsUpFingerPhoto/releases/tag/v1.2.0"
+                        }
+                    }
+                },
                 "dog.glacier.UnifiedExpressionMapper": {
                     "category": "Asset Importing",
                     "description": "Adds automatic support for more face tracking standards, most notably Unified Expressions.",
@@ -5828,6 +5878,15 @@
                                 }
                             ],
                             "releaseUrl": "https://forge.moldy.gift/Baplar/Resonite.SmileForTheCamera/releases/tag/1.2.0"
+                        },
+                        "1.3.0": {
+                            "artifacts": [
+                                {
+                                    "sha256": "6e82c26506eb3c5f8bef745a5f977d709acc7031c4c0ea325b1874f9cdc3390b",
+                                    "url": "https://forge.moldy.gift/Baplar/Resonite.SmileForTheCamera/releases/download/1.3.0/SmileForTheCamera.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://forge.moldy.gift/Baplar/Resonite.SmileForTheCamera/releases/tag/1.3.0"
                         }
                     }
                 }
@@ -12692,6 +12751,15 @@
                                 }
                             ],
                             "releaseUrl": "https://git.unix.dog/yosh/ResoniteEmpoweredImageEncoding/releases/tag/v2.0.2"
+                        },
+                        "2.0.3": {
+                            "artifacts": [
+                                {
+                                    "sha256": "0b7fc36a89f0fd7812c455f64a89c5941d8d7dd953d78c9b38a85626e033978e",
+                                    "url": "https://git.unix.dog/yosh/ResoniteEmpoweredImageEncoding/releases/download/v2.0.3/EmpoweredImageEncoding.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://git.unix.dog/yosh/ResoniteEmpoweredImageEncoding/releases/tag/v2.0.3"
                         }
                     }
                 },
@@ -13552,6 +13620,44 @@
                         }
                     }
                 },
+                "owo.Nytra.LinuxNativeDesktop": {
+                    "category": "Dashboard",
+                    "description": "Makes the desktop tab in the dash work on Linux",
+                    "name": "LinuxNativeDesktop",
+                    "platforms": [
+                        "linux"
+                    ],
+                    "sourceLocation": "https://github.com/Nytra/ResoniteLinuxNativeDesktop",
+                    "versions": {
+                        "1.0.0": {
+                            "artifacts": [
+                                {
+                                    "sha256": "f5d5365f6092f9440fb7c4b2b07fa6b1cd9e5aeff7f0184def402d2c8e641b6e",
+                                    "url": "https://github.com/Nytra/ResoniteLinuxNativeDesktop/releases/download/v1.0.0/LinuxNativeDesktop.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/Nytra/ResoniteLinuxNativeDesktop/releases/tag/v1.0.0"
+                        },
+                        "1.1.0": {
+                            "artifacts": [
+                                {
+                                    "sha256": "0dab8fd4d4c405609081ac3152fd2d8d122b80b63fd57d147291e48d30f0d2f5",
+                                    "url": "https://github.com/Nytra/ResoniteLinuxNativeDesktop/releases/download/v1.1.0/LinuxNativeDesktop.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/Nytra/ResoniteLinuxNativeDesktop/releases/tag/v1.1.0"
+                        },
+                        "1.1.1": {
+                            "artifacts": [
+                                {
+                                    "sha256": "cc61f41892b6327afbbbe5b7fd49852ca03ae12be556aba74dc50ea2fd5ef062",
+                                    "url": "https://github.com/Nytra/ResoniteLinuxNativeDesktop/releases/download/v1.1.1/LinuxNativeDesktop.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/Nytra/ResoniteLinuxNativeDesktop/releases/tag/v1.1.1"
+                        }
+                    }
+                },
                 "owo.Nytra.LogFlush": {
                     "category": "Technical Tweaks",
                     "description": "A mod primarily for developers that flushes the log stream when you press the F1 key, causing all buffered messages to be written to the log file.",
@@ -13747,6 +13853,23 @@
                                 }
                             ],
                             "releaseUrl": "https://github.com/Nytra/ResoniteReferenceFinderWizard/releases/tag/v1.2.1"
+                        }
+                    }
+                },
+                "owo.Nytra.ResoniteLinkSyncArrayFix": {
+                    "category": "Bug Workaround",
+                    "description": "Fixes SyncArray writes through ResoniteLink",
+                    "name": "ResoniteLinkSyncArrayFix",
+                    "sourceLocation": "https://github.com/Nytra/ResoniteLinkSyncArrayFix",
+                    "versions": {
+                        "1.0.0": {
+                            "artifacts": [
+                                {
+                                    "sha256": "9964d711e9df2a8fc4ae35384f4cfc73a2fcd203c41621189700f0d224cbee8e",
+                                    "url": "https://github.com/Nytra/ResoniteLinkSyncArrayFix/releases/download/v1.0.0/ResoniteLinkSyncArrayFix.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/Nytra/ResoniteLinkSyncArrayFix/releases/tag/v1.0.0"
                         }
                     }
                 },
