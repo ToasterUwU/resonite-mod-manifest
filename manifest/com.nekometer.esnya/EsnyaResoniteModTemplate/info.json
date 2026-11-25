@@ -4,7 +4,7 @@
     "description": "Esnya's customized template for ResoniteModLoader mods.",
     "category": "Template",
     "flags": [
-        "broken"
+        "deprecated"
     ],
     "sourceLocation": "https://github.com/esnya/EsnyaResoniteModTemplate",
     "versions": {
