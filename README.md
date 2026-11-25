@@ -31,6 +31,7 @@ This fork is bleeding edge unstable stuff. I dont check the mod updates, i dont 
 - [SessionCaptureBlocker](https://github.com/nalathethird/SessionCaptureBlocker) (by nalathethird)  - 1.1.0 vs 1.0.3
 - [bHapticsLib](https://github.com/nalathethird/bHapticsLib) (by nalathethird)  - 1.0.9 vs 1.0.8
 - [VRCFTReceiver](https://github.com/hazre/VRCFTReceiver) (by hazre)  - 2.0.0 vs 1.0.4
+- [ReArmature](https://github.com/CatSharkShin/ReArmature) (by CatSharkShin)  - 2.1.6 vs 2.1.5
 
 
 ## Mods we are currently missing (will always be fixed ASAP)
@@ -39,7 +40,8 @@ We currently have everything.
 
 ## Mods we have an older version of (will also be fixed ASAP)
 
-We are currently up to date.
+- [SmileForTheCamera](https://forge.moldy.gift/Baplar/Resonite.SmileForTheCamera) (by Baplar)  - 1.3.0
+
 
 ## What is this?
 
