@@ -3557,7 +3557,7 @@
                     "category": "Template",
                     "description": "Esnya's customized template for ResoniteModLoader mods.",
                     "flags": [
-                        "broken"
+                        "deprecated"
                     ],
                     "name": "EsnyaResoniteModTemplate",
                     "sourceLocation": "https://github.com/esnya/EsnyaResoniteModTemplate",
@@ -3577,7 +3577,7 @@
                     "category": "Technical Tweaks",
                     "description": "Small tweaks collection for ResoniteModLoader, including While/AsyncWhile timeouts and inspector enhancements.",
                     "flags": [
-                        "broken"
+                        "deprecated"
                     ],
                     "name": "EsnyaTweaks",
                     "sourceLocation": "https://github.com/esnya/ResoniteEsnyaTweaks",
@@ -3615,7 +3615,7 @@
                     "category": "Optimization",
                     "description": "Provides a simple performance metrics counter for Resonite, useful for world optimisation.",
                     "flags": [
-                        "broken"
+                        "deprecated"
                     ],
                     "name": "Resonite Metrics Counter",
                     "sourceLocation": "https://github.com/esnya/ResoniteMetricsCounter",
@@ -4088,7 +4088,7 @@
                     "category": "Misc",
                     "description": "fix the backside of stereo pictures",
                     "name": "picture3dFix",
-                    "sourceLocation": "https://github.com/tobs2007/picture3dFix",
+                    "sourceLocation": "https://git.tobsstuff.com/tobs/picture3dFix",
                     "versions": {
                         "1.0.0": {
                             "artifacts": [
@@ -6081,9 +6081,15 @@
                 },
                 "je.dj.CopyHyperlink": {
                     "category": "Misc",
-                    "description": "Adds a \"Copy Link\" button to the hyperlink popup.",
+                    "description": "Adds a 'Copy Link' button to the hyperlink popup. Also allows skipping the delay before being able to click open.",
                     "name": "CopyHyperlink",
                     "sourceLocation": "https://github.com/djsime1/CopyHyperlink",
+                    "tags": [
+                        "dialog",
+                        "open",
+                        "url",
+                        "countdown"
+                    ],
                     "versions": {
                         "1.0.0": {
                             "artifacts": [
@@ -10322,6 +10328,9 @@
                 "net.dfgHiatus.SpeedyURLs": {
                     "category": "Misc",
                     "description": "Skips the countdown in the hyperlink open dialog",
+                    "flags": [
+                        "deprecated"
+                    ],
                     "name": "SpeedyURLs",
                     "sourceLocation": "https://github.com/dfgHiatus/SpeedyURLs",
                     "versions": {
