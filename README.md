@@ -40,8 +40,7 @@ We currently have everything.
 
 ## Mods we have an older version of (will also be fixed ASAP)
 
-- [SmileForTheCamera](https://forge.moldy.gift/Baplar/Resonite.SmileForTheCamera) (by Baplar)  - 1.3.0
-
+We are currently up to date.
 
 ## What is this?
 
